@@ -854,6 +854,8 @@ Les amendements présentés en commission et les modifications proposées par la
 
 L'auteur d'une proposition ou d'un amendement peut, s'il en fait la demande au président de la commission, être convoqué aux séances de la commission consacrées à l'examen de son texte; il se retire au moment du vote.
 
+Les rapports faits sur un projet ou une proposition de loi portant sur les domaines couverts par l'activité des Communautés européennes comportent en annexe des éléments d'information sur le droit européen applicable et de la législation en vigueur dans les principaux pays de la Communauté.
+
 ## Article 87
 
 Toute commission permanente qui s'estime compétente pour donner un avis sur un projet, une proposition, un article de loi ou un crédit budgétaire, renvoyé à une autre commission permanente informe le Président de l'Assemblée qu'elle désire donner son avis. Cette demande est soumise à la décision de l'Assemblée.
