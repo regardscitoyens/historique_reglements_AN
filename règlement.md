@@ -198,7 +198,7 @@ Lorsque le texte constitutif impose la nomination à la représentation proporti
 
 A l'expiration de ce délai, les candidatures transmises au Président de l'Assemblée sont affichées et publiées au Journal officiel. La nomination prend immédiatement effet dès cette dernière publication.
 
-Lorsqu'il y a lieu, pour quelque cause que ce soit, en session ou hors session, à remplacement de représentants de l'Assemblée au sein d'un organisme visé au précédent article, les noms des remplaçants sont affichés et publiés au Journal officiel. Le remplacement prend immédiatement effet dès cette dernière publication.
+Lorsqu'il y a lieu, pour quelque cause que ce soit, en session ou hors session, à remplacement de membres de l'Assemblée siégeant au sein d'un organisme visé au précédent article, les noms des remplaçants sont affichés et publiés au Journal officiel. Le remplacement prend immédiatement effet dès cette dernière publication.
 
 ## Article 26
 
@@ -226,7 +226,7 @@ Les noms des députés désignés sont portés à la connaissance de l'autorité
 
 ## Article 28
 
-Les représentants de l'Assemblée nationale au sein des organismes visés à l'article 24 présentent, au moins une fois par an, à la commission compétente, un rapport écrit sur leur activité. Ce rapport d'information est imprimé et distribué.
+Les membres de l'Assemblée nationale siégeant au sein des organismes visés à l'article 24 présentent, au moins une fois par an, à la commission compétente, un rapport écrit sur leur activité. Ce rapport d'information est imprimé et distribué.
 
 # CHAPITRE VII NOMINATIONS PERSONNELLES : MODALITES SPECIALES AUX ASSEMBLÉES INTERNATIONALES OU EUROPÉENNES
 
@@ -1206,6 +1206,16 @@ La discussion des crédits inscrits dnas la deuxième partie de la loi de financ
 
 Les articles additionnels et amendements contraires aux dispositions de l'article 42 de la loi organique n°59-2 du 2 janvier 1959 relative aux lois de finances, sont déclarés irrecevables dans les conditions prévues aux articles 92 et 98.
 
+# CHAPITRE IX BIS DISCUSSION DES LOIS DE FINANCEMENT DE LA SECURITE SOCIALE
+
+## Article 121-1
+
+La discussion des lois de financement de la sécurité sociale s'effectue selon la procédure législative prévue par le présent Règlement, par les dispositions particulières de la Constitution et par les dispositions de caractère organique prises pour leur application.
+
+## Article 121-2
+
+Les amendements contraires aux dispositions du III de l'article L. O. 111-3 du code de la sécurité sociale sont déclarés irrecevables dans les conditions prévues aux articles 92 et 98.
+
 # TROISIEME PARTIE : PROCEDURES LEGISLATIVES SPECIALES
 
 # CHAPITRE X PROPOSITIONS DE REFERENDUM
@@ -1378,7 +1388,7 @@ La demande de constitution de l'Assemblée en comité secret à l'effet de déci
 
 ## Article 144
 
-Le Président de l'Assemblée déclare irrecevable toute proposition de résolution ayant pour effet la reconstitution d'une commission d'enquête avec le même objet qu'une commission antérieure, avant l'expiration d'un délai de douze mois à compter de la fin de la mission de celle-ci.
+Le Président de l'Assemblée déclare irrecevable toute proposition de résolution tendant à la constitution d'une commission d'enquête ayant le même objet qu'une commission d'enquête antérieure, avant l'expiration d'un délai de douze mois à compter du terme des travaux de l'une ou de l'autre.
 
 S'il y a doute, le Président statue après avis du Bureau de l'Assemblée.
 
@@ -1391,6 +1401,38 @@ Sans préjudice des dispositions les concernant contenues au Titre II, les commi
 A cette fin, elles peuvent confier à un ou plusieurs de leurs membres une mission d'information temporaire portant, notamment, sur les conditions d'application d'une législation. Ces missions d'information peuvent être communes à plusieurs commissions.
 
 Aucune publicité ne peut être donnée à un rapport d'information établi en application des dispositions qui précèdent avant que n'ait été décidé sa publication.
+
+## Article 145-1
+
+La demande présentée par une commission permanente ou spéciale en application de l'article 5 ter de l'ordonnance n°58-1100 du 17 novembre 1958 précitée est adressée par son président au Président de l'Assemblée.
+
+Elle doit déterminer avec précision l'objet de la mission pour l'exercice de laquelle le bénéfice des prérogatives attribuées aux commissions d'enquête est demandé.
+
+## Article 145-2
+
+Cette demande est aussitôt notifiée par le Président de l'Assemblée au Garde des Sceaux, ministre de la justice.
+
+Si le Garde des sceaux fait connaître que des poursuites judiciaires sont en cours sur des faits ayant motivé la présentation de la demande, le Président de l'Assemblée en informe le président de la commission qui l'a présentée.
+
+## Article 145-3
+
+La demande est affichée et notifiée au Gouvernement et aux présidents des groupes et des commissions.
+
+Elle est considérée comme adoptée si, avant la deuxième séance qui suit cet affichage, le Président de l'Assemblée n'a été saisi d'aucune opposition par le Gouvernement, le président d'une commission ou le président d'un groupe.
+
+Si une opposition a été formulée dans les conditions prévues au précédent alinéa, un débat sur la demande est inscrit d'office à la fin de la première séance tenue en application de l'article 50, alinéa 1, suivant l'annonce faite à l'Assemblée de l'opposition.Au cours de ce débat peuvent seuls prendre la parole le Gouvernement et, pour une durée n'excédant pas cinq minutes, l'auteur de l'opposition et le président de la commission qui a présenté la demande.
+
+## Article 145-4
+
+Lorsque le Garde des Sceaux fait connaître après l'adoption d'une demande qu'une information judiciaire est ouverte sur des faits l'ayant motivée, le Président de l'Assemblée en informe le président de la commission concernée. Celle-ci met immédiatement fin à sa mission si elle ne porte que sur les faits ayant entraîné l'ouverture de l'information.
+
+## Article 145-5
+
+Les disposition des articles 142, 142-1 et 143 sont applicables aux travaux des commissions lorsqu'elles exercent les prérogatives attribuées aux commissions d'enquête.
+
+## Article 145-6
+
+Les dispositions de l'article 144 sont applicables aux missions effectuées dans les conditions prévues à l'article 145-1.
 
 # CHAPITRE VI CONTROLE BUDGÉTAIRE
 
