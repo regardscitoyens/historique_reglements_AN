@@ -122,7 +122,7 @@ Le Président et les questeurs habitent le Palais-Bourbon.
 
 ## Article 14
 
-Les dépenses de l'Assemblée sont réglées par exercice budgétaire. A l'ouverture de chaque session ordinaire d'octobre, l'Assemblée nomme, à la représentation proportionnelle des groupes selon la procédure prévue par l'article 25, une commission spéciale de quinze membres chargée de vérifier et d'apurer les comptes. Cette commission donne quitus aux questeurs de leur gestion ou rend compte à l'Assemblée.
+Les dépenses de l'Assemblée sont réglées par exercice budgétaire. Au début de la législature et, chaque année, à la deuxième séance de la session ordinaire d'avril, l'Assemblée nomme, à la représentation proportionnelle des groupes selon la procédure prévue par l'article 25, une commission spéciale de quinze membres chargée de vérifier et d'apurer les comptes. Cette commission donne quitus aux questeurs de leur gestion ou rend compte à l'Assemblée.
 
 Les membres du Bureau de l'Assemblée ne peuvent faire partie de cette commission.
 
@@ -188,23 +188,9 @@ Lorsqu'en vertu de dispositions constitutionnelles, légales ou réglementaires,
 
 ## Article 25
 
-Lorsque le texte constitutif impose la représentation proportionnelle des groupes ou la présentation des candidats par des commissions de l'Assemblée, le Président de l'Assemblée invite les présidents de groupes ou des commissions intéressées à lui faire connaître, dans un délai qu'il fixe, les noms des candidats proposés par ceux-ci.
+Lorsque le texte constitutif impose la nomination à la représentation proportionnelle des groupes, le Président de l'Assemblée fixe le délai dans lequel les présidents de groupes doivent lui faire connaître les noms des candidats qu'ils proposent.
 
-A l'expiration du délai, les candidatures transmises au Président de l'Assemblée sont publiées au Journal officiel et affichées.
-
-Au cours de la séance à l'ordre du jour de laquelle figure la nomination, le Président donne avis de cet affichage à l'Assemblée.
-
-Pendant un délai d'une heure après cet avis, il peut être fait opposition à une liste de candidats ; cette opposition doit être motivée, rédifée et signée par 30 députés au moins, dont la liste ne varietur est publiée au Journal officiel à la suite du compte rendu intégral ; elle ne peut porter sur l'inobservation des règles fixés par le texte constitutif ou de la règle de la proportionnalité.
-
-Si, à l'expiration du délai d'une heure, aucune opposition n'a été formulée, les listes de candidates sont considérées comme ratifiées par l'Assemblée.
-
-Si une opposition est formulée, le Président consulte l'Assemblée sur sa prise en considération; l'Assemblée statue après un débat au cours duquel peuvent seuls être entendus l'un des signataires de l'opposition et un orateur d'opinion contraire, chaque intervention ne devant pas dépasser cinq minutes.
-
-Si l'Assemblée ne prend pas l'opposition en considération, les listes de candidats présentées sont ratifiées.
-
-Si l'Assemblée prend l'opposition en considération, la liste de candidats frappée d'opposition est annulée et une nouvelle liste doit être établie dans les conditions prévues au premier alinéa du présent article.
-
-La nouvelle liste est remise au Président qui informe sans délai l'Assemblée de son dépôt et la fait immédiatement afficher. Il est alors procédé dans les conditions du présent article.
+A l'expiration de ce délai, les candidatures transmises au Président de l'Assemblée sont affichées et publiées au Journal officiel. La nomination prend immédiatement effet dès cette dernière publication ; elle est communiquée à l'Assemblée au cours de sa plus prochaine séance.
 
 ## Article 26
 
@@ -896,7 +882,7 @@ Il ne peut ensuite être mis en discussion et aux voix qu'une seule exception d'
 
 La parole est ensuite donnée aux orateurs qui se sont fait inscrire dans la discussion générale. L'auteur ou le premier signataire d'une proposition a priorité.
 
-Après la clôture de la discussion générale, il ne peut être mis en discussion et aux voix qu'une seule motion tendant au renvoi à la commission saisie au fond de l'ensemble du texte en discussion, et dont l'effet, en cas d'adoption est de suspendre le débat jusqu'à présentation par la commission d'un nouveau rapport. La discussion de cette motion a lieu dans les conditi prévues à l'alinéa 3.
+Après la clôture de la discussion générale, il ne peut être mis en discussion et aux voix qu'une seule motion tendant au renvoi à la commission saisie au fond de l'ensemble du texte en discussion, et dont l'effet, en cas d'adoption est de suspendre le débat jusqu'à présentation par la commission d'un nouveau rapport. La discussion de cette motion a lieu dans les conditions prévues à l'alinéa 3.
 
 Si la motion de renvoi est adoptée, le Gouvernement, lorsqu'il s'agit d'un texte prioritaire aux termes de l'article 48, alinéa 1, de la Constitution, l'Assemblée, lorsqu'il s'agit d'un texte non prioritaire, fixe la date et l'heure auxquelles la commission devra présenter son nouveau rapport. Le Gouvernement peut demander que ce texte conserve sa priorité sur les autres affaires inscrites à l'ordre du jour.
 
