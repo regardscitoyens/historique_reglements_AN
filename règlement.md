@@ -260,7 +260,7 @@ Sauf lorsqu'il s'agit d'un projet de loi de finances, d'un projet portant approb
 
 ## Article 33
 
-Les commissions spéciales se composent de 31 membres désignés à la représentation proportionnelle des groupes suivant la procédure prévue à l'article 34. Elles ne peuvent comprendre plus de 15 membres appartenant, lors de leur constitution, à une même commission permanente.
+Les commissions spéciales se composent de 57 membres désignés à la représentation proportionnelle des groupes suivant la procédure prévue à l'article 34. Elles ne peuvent comprendre plus de 28 membres appartenant, lors de leur constitution, à une même commission permanente.
 
 Les commissions spéciales peuvent s'adjoindre au plus deux membres choisis parmi les députés n'appartenant à aucun groupe.
 
