@@ -306,13 +306,13 @@ Recettes et dépenses de l'Etat; exécution du budget; monnaie et crédit; activ
 
 Lois constitutionnelles, organiques et électorales; règlement; organisation judiciaire; législation civile, administrative et pénale; pétitions; administration générale des territoires de la République et des collectivités locales;
 
-6° commission de la production et des échanges 
+6° commission des affaires économiques, de l'environnement et du territoire :
 
-Agriculture et pèches, énergies et industrie; recherche technique; consommation ;commerce intérieur et extérieur, douanes ; moyens de communication et tourisme ; aménagement du territoire et urbanisme, équipement et travaux publics, logement et construction.
+Agriculture et pèches, énergies et industrie; recherche technique; consommation ;commerce intérieur et extérieur, douanes ; moyens de communication et tourisme ; aménagement du territoire et urbanisme, équipement et travaux publics, logement et construction; environnement.
 
 L'effectif maximum des commissions est égal :
 
-1° Pour la commission des affaires culturelles, familiales et sociales et la commission de la production et des échanges, à respectivement deux huitièmes de l'effectif des membres composant l'Assemblée ;
+1° Pour la commission des affaires culturelles, familiales et sociales et la commission des affaires économiques, de l'environnement et du territoire, à respectivement deux huitièmes de l'effectif des membres composant l'Assemblée ;
 
 2° Pour la commission des affaires étrangères, la commission de la défense nationale et des forces armées, la commission des finances, de l'économie générale et du plan et la commission des lois constitutionnelles, de la législation et de l'administration générale de la République, à respectivement un huitième de l'effectif des membres composant l'Assemblée.
 
