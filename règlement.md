@@ -1442,6 +1442,8 @@ S'il y a doute, le Président statue après avis du Bureau de l'Assemblée.
 
 Sans préjudice des dispositions les concernant contenues au Titre II, les commissions permanentes assurent l'information de l'Assemblée pour lui permettre d'exercer son contrôle sur la politique du Gouvernement.
 
+A cette fin, elles peuvent confier à un ou plusieurs de leurs membres une mission d'information temporaire portant, notamment, sur les conditions d'application d'une législation. Ces missions d'information peuvent être communes à plusieurs commissions.
+
 # CHAPITRE VI CONTROLE BUDGÉTAIRE
 
 ## Article 146
