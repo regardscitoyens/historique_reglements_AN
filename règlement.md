@@ -158,7 +158,7 @@ Les députations de l'Assemblée sont composées de députés tirés au sort par
 
 ## Article 19
 
-Les députés peuvent se grouper par affinités politiques; aucun groupe ne peut comprendre moins de 30 membres, non compris les députés apparentés dans les conditions prévues à l'alinéa 4 ci-dessous.
+Les députés peuvent se grouper par affinités politiques; aucun groupe ne peut comprendre moins de 20 membres, non compris les députés apparentés dans les conditions prévues à l'alinéa 4 ci-dessous.
 
 Les groupes se constituent en remettant à la présidence une déclaration politique signée de leurs membres, accompagnée de la liste de ces membres et des députés apparentés et du nom du président du groupe. Ces documents sont publiés au Journal Officiel.
 
