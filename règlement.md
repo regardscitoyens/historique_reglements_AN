@@ -78,6 +78,8 @@ Les bureaux formés conformément à l'art. 3, se renouvellent chaque mois par l
 
 Ils élisent au scrutin, conformément à l'art. 2. leurs présidents et leurs secrétaires.
 
+Un tirage spécial des Bureaux aura lieu chaque année pour la nomination des membres de la commission du budget. Le tirage au sort de ces Bureaux ne précèdera que de deux heures leur réunion.
+
 ## Article 13
 
 Ils doivent se conformer pour leurs travaux aux ordres du jour arrêtés par la Chambre. Il est tenu procès-verbal de leurs délibérations.
