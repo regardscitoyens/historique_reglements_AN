@@ -1186,6 +1186,10 @@ La discussion des lois de finances s'effectue selon la procédure législative p
 
 Pour les amendements à la loi de finances de l'année, le délai prévu à l'article 99 (alinéa 1) s'apprécie à compter de la distribution du rapport général pour les articles de la première partie de la loi de finances et les articles de la seconde partie dont la discussion n'est pas rattachée à un fascicule budgétaire, et à compter de la distribution de chaque rapport spécial pour les crédits d'un fascicule budgétaire et les articles qui lui sont rattachés.
 
+A l'issue de l'examen des articles de la première partie de la loi de finances, et avant de passer à l'examen de la seconde partie, il peut être procédé, dans les conditions prévues à l'article 101, à une seconde délibération de tout ou partie de la première partie.
+
+Si, conformément à l'article 101, il est procédé avant le commencement des explications de vote sur l'ensemble à une seconde délibération de tout ou partie du projet de loi de finances, il ne peut être apporté d'autres modifications aux dispositions de la première partie que celles nécessitées, pour coordination, par les votes intervenus sur les articles de la seconde partie.
+
 ## Article 119
 
 Tout article ou amendement contenant des dispositions autres que celles prévues par la loi organique relative aux lois de finances, doit être retiré de la loi de finances et faire l'objet d'un débat distinct, si la commission permanente qui aurait été compétente pour en connaître au fond au cas où cette disposition aurait fait l'objet d'un projet ou d'une proposition de loi, le demande, et si le président ou le rapporteur général ou un membre du bureau spécialement désigné à cet effet, de la commission des finances, de l'économie générale et du plan l'accepte.
