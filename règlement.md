@@ -432,7 +432,7 @@ L'ordre du jour de l'Assemblée comprend :
 
 ## Article 48
 
-Les vice-présidents de l'Assemblée, les présidents des commissions permanentes, le rapporteur général de la commission des finances, de l'économie générale et du plan et les présidents des groupes sont convoqués chaque semaine s'il y a lieu par le Président au jour et à l'heure fixés par lui, en vue d'examiner l'ordre des travaux de l'Assemblée et de faire toutes propositions concernant le règlement de l'ordre du jour, en complément des discussions fixées par priorité par le Gouvernement.
+Les vice-présidents de l'Assemblée, les présidents des commissions permanentes, le rapporteur général de la commission des finances, de l'économie générale et du plan, le président de la délégation de l'Assemblée nationale pour les Communautés européennes et les présidents des groupes sont convoqués chaque semaine s'il y a lieu par le Président au jour et à l'heure fixés par lui, en vue d'examiner l'ordre des travaux de l'Assemblée et de faire toutes propositions concernant le règlement de l'ordre du jour, en complément des discussions fixées par priorité par le Gouvernement.
 
 Les présidents des commissions spéciales peuvent être convoqués à la Conférence des Présidents sur leur demande.
 
@@ -1448,7 +1448,7 @@ Les documents et les renseignements destinés à permettre l'exercice du contrô
 
 Le rapporteur spécial peut demander à la commission des finances, de l'économie générale et du plan de lui adjoindre un de ses membres pour l'exercice de ce contrôle. Il communique les documents dont il est saisi aux rapporteurs pour avis du même budget désignés par les autres commissions permanentes.
 
-Les travaux des rapporteurspeuvent être utilisés pour les rapports faits par les commissions sur la loi de finances et la loi de règlement. Ils peuvent, en outre, faire l'objet de rapports d'information établis par les rapporteurs spéciaux de la commission des finances, de l'économie générale et du plan.
+Les travaux des rapporteurs peuvent être utilisés pour les rapports faits par les commissions sur la loi de finances et la loi de règlement. Ils peuvent, en outre, faire l'objet de rapports d'information établis par les rapporteurs spéciaux de la commission des finances, de l'économie générale et du plan.
 
 # CHAPITRE VII PÉTITIONS
 
@@ -1499,6 +1499,18 @@ Au vu de la liste des orateurs inscrits dans la discussion, le Président fixe l
 Le Gouvernement a la parole quand il la demande.
 
 Après l'audition du dernier orateur, le Président passe à la suite de l'ordre du jour.
+
+# CHAPITRE VII bis RESOLUTIONS PORTANT SUR DES PROPOSITIONS D'ACTES COMMUNAUTAIRES
+
+## Article 151-1
+
+La transmission des propositions d'actes communautaires soumises par le Gouvernement à l'Assemblée, en application de l'article 88-4 de la Constitution, est annoncée au compte rendu des débats. Dans l'intervalle des sessions, elle fait l'objet d'une insertion au Journal officiel.
+
+Les propositions d'actes communautaires sont imprimées et distribuées. Elles sont instruites par la délégation de l'Assemblée nationale pour les Communautés européennes qui peut soit transmettre aux commissions ses analyses assorties ou non de conclusions, soit déposer un rapport d'information concluant éventuellement au dépôt d'une proposition de résolution.
+
+Les propositions de résolution formulées dans le cadre de l'article 88-4 de la Constitution sont présentées, examinées et discutées suivant la procédure applicable aux autres propositions de résolution, sous réserve des dispositions du présent chapitre.
+
+Ces propositions de résolution contiennent le visa des propositions d'actes communautaires soumises à l'Assemblée sur lesquelles elles s'appuient.
 
 # DEUXIEME PARTIE. - MISE EN JEU DE LA RESPONSABILITÉ GOUVERNEMENTALE
 
