@@ -302,7 +302,7 @@ Organisation générale de la défense ; politique de coopération et d'assistan
 
 Recettes et dépenses de l'Etat; exécution du budget; monnaie et crédit; activités financières intérieures et extérieures; contrôle financier des entreprises nationales; domaine de l'Etat;
 
-5° commission des lois constitutionnelles, de la législation et de V'administration générale de la République :
+5° commission des lois constitutionnelles, de la législation et de l'administration générale de la République :
 
 Lois constitutionnelles, organiques et électorales; règlement; organisation judiciaire; législation civile, administrative et pénale; pétitions; administration générale des territoires de la République et des collectivités locales;
 
@@ -906,7 +906,7 @@ Si le rapport ou l'avis a été distribué au moins la veille de l'ouverture du 
 
 Un membre du Conseil économique et social peut également être entendu dans les conditions fixées à l'article 97.
 
-Il ne peut ensuite être mis en discussion et aux voix qu'une seule exception d'irrecevabilité dont l'objet est de faire reconnaître que le texte proposé est contraire à une ou plusieurs dispositions constitutionnelles et une seule question préalable, dont l'objet est de faire décider qu'il n'y a pas lieu à délibérer. L'adoption de l'une ou l'autre de ces propositions entraîne le rejet du texte à l'encontre duquel elle a été soulevée. Dans la discussion de chacune d'elles, peuvent seuls intervenir l'auteur, un orateur d'opinion contraire, le Gouvernement et le président ou le rapporteur de la commission saisie au fond.
+Il ne peut ensuite être mis en discussion et aux voix qu'une seule exception d'irrecevabilité dont l'objet est de faire reconnaître que le texte proposé est contraire à une ou plusieurs dispositions constitutionnelles et une seule question préalable, dont l'objet est de faire décider qu'il n'y a pas lieu à délibérer. L'adoption de l'une ou l'autre de ces propositions entraîne le rejet du texte à l'encontre duquel elle a été soulevée. Dans la discussion de chacune d'elles, peuvent seuls intervenir l'un des signataire pour une durée qui ne peut excéder une heure trente sauf décision contraire de la Conférence des Présidents, le Gouvernement et le président ou le rapporteur de la commission saisie au fond. Avant le vote, la parole est accordée pour cinq minutes, à un orateur de chaque groupe.
 
 La parole est ensuite donnée aux orateurs qui se sont fait inscrire dans la discussion générale. L'auteur ou le premier signataire d'une proposition a priorité.
 
@@ -1093,6 +1093,8 @@ Lorsque l'Assemblée est saisie, dans les conditions prévues au présent chapit
 ## Article 108
 
 Au cours des deuxièmes lectures et des lectures ultérieures par l'Assemblée nationale des projets et des propositions de loi, la discussion a lieu conformément aux dispositions des chapitre IV ou V du présent titre, sous les réserves suivantes.
+
+La durée de l'intervention prononcée à l'appui de chacune des motions mentionnées à l'article 91 ne peut excéder trente minutes en deuxième lecture et quinze minutes pour les lectures ultérieures, sauf décision contraire de la conférence des Présidents.
 
 La discussion des articles est limitée à ceux pour lesquels les deux Assemblées du Parlement n'ont pu parvenir à un texte identique.
 
@@ -1328,7 +1330,7 @@ Les conditions dans lesquelles sont déposées, notifiées et publiées les ques
 
 ## Article 134
 
-Les séances de squestions orales sont organisées par la Conférence des Présidents.
+Les séances de questions orales sont organisées par la Conférence des Présidents.
 
 # CHAPITRE III QUESTIONS ÉCRITES
 
@@ -1340,7 +1342,7 @@ Les questions écrites doivent être sommairement rédigées et doivent se limit
 
 Tout député qui désire poser une question écrite en remet le texte au Président de l'Assemblée qui le notifie au Gouvernement.
 
-Les quesions écrites sont publiés durant les sessions et hors session, au Journal officiel.
+Les questions écrites sont publiés durant les sessions et hors session, au Journal officiel.
 
 Les réponses des ministres doivent être publiées dans le mois suivant la publication des questions. Ce délai ne comporte aucune interruption.
 
