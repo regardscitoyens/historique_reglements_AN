@@ -416,7 +416,7 @@ Il est dressé un procès-verbal des séances des commissions. Les procès-verba
 
 A l'issue de chaque réunion de commission, un communiqué à la presse est publié, rendant compte des travaux et des votes de la commission.
 
-Sous réserve de l'accord des personnalités entendues, le bureau d'une commission peut décider la publication, soit au Journal officiel, soit par tout autre moyen approprié, du compte rendu de tout ou partie des auditions auxquelles elle a procédé.
+Sous réserve de l'accord des personnalités entendues, le bureau d'une commission peut décider la publication, soit au Journal officiel, soit par tout autre moyen approprié, du compte rendu de tout ou partie des auditions auxquelles elle a procédé. Après consultation de la commission, il peut, dans les mêmes conditions, organiser la publicité, par les moyens de son choix, de tout ou partie de ces auditions.
 
 Il est publié chaque semaine un Bulletin des commissions dans lequel sont insérés les résultats des votes intervenus dans la semaine au sein des commissions, les noms des votants, ainsi que tous autres renseignements relatifs aux travaux des commissions et dont le détail est fixé par le bureau de chacune d'elles.
 
@@ -1022,7 +1022,7 @@ Les amendements présentés par le Gouvernement ou par la commission saisie au f
 
 Lorsque plusieurs amendements, exclusifs l'un de l'autre, sont en concurrence, le Président peut les soumettre à une discussion commune dans laquelle les auteurs obtiennent successivement la parole avant la mise aux voix, également successive, de leurs amendements.
 
-Hormis le cas des amendements visés à l'article 95 (alinéa 2), ne peuvent être entendus, sur chaque amendement, outre l'un des auteurs, que le Gouvernement, le président ou le rapporteur de la commission saisie au fond, le président ou le rapporteur de la commission saisie pour avis et un orateur d'opinion contraire. Sous réserve des dispositions de l'article 54 (alinéa 5), les interventions sur les amendements, autres que celles du Gouvernement, ne peuvent excéder cinq minutes.
+Hormis le cas des amendements visés à l'article 95 (alinéa 2), ne peuvent être entendus, sur chaque amendement, outre l'un des auteurs, que le Gouvernement, le président ou le rapporteur de la commission saisie au fond, le président ou le rapporteur de la Commission saisie pour avis et un orateur d'opinion contraire. Sous réserve des dispositions de l'article 54 (alinéa 5), les interventions sur les amendements, autres que celles du Gouvernement, ne peuvent excéder cinq minutes.
 
 L'Assemblée ne se prononce que sur le fond des amendements à l'exclusion de toute prise en considération.
 
