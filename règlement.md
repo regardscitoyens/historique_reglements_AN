@@ -266,7 +266,7 @@ Les commissions spéciales peuvent s'adjoindre au plus deux membres choisis parm
 
 ## Article 34
 
-Lorsqu'aux termes des articles 3o à 32, il y a lieu de constituer une commission spéciale, le Président de l'Assemblée fait afficher et notifier aux présidents des groupes la demande du Gouvernement ou la décision de l'Assemblée tendant à la constitution de cette commission, en indiquant avec précision le projet ou la proposition de loi dont elle est saisie. ???
+Lorsqu'aux termes des articles 3o à 32, il y a lieu de constituer une commission spéciale, le Président de l'Assemblée fait afficher et notifier aux présidents des groupes la demande du Gouvernement ou la décision de l'Assemblée tendant à la constitution de cette commission, en indiquant avec précision le projet ou la pronom de loi dont elle est saisie. ???
 
 II fixe aux présidents des groupes le délai dans lequel ils doivent faire connaître les noms des candidats proposés par eux. Ce délai ne peut être supérieur à deux jours francs en session, à cinq jours francs en dehors des sessions.
 
@@ -346,7 +346,7 @@ Dès leur nomination, toutes les commissions sont convoquées par le Président 
 
 Le bureau des commissions permanentes comprend, outre le président, un vice-président et un secrétaire, par fraction de 30 membres de l'effectif maximum. La commission des finances, de l'économie générale et du plan nomme un rapporteur général. Toutefois, le nombre des vice-présidents et des secrétaires ne peut être inférieur à trois.
 
-Le bureau des autres commissions comprend : 1 président, 1 vice-président et 1 secrétaire.
+Le bureau des autres commissions comprend : 1 président, 2 vice-présidents et 2 secrétaires.
 
 Les bureaux des commissions sont élus au scrutin secret par catégorie de fonction.
 
@@ -808,7 +808,7 @@ En cas de rejet d'une demande de suspension de la détention ou de la poursuite 
 
 ## Article 81
 
-Les projets de loi, les propositions de loi transmises par le Sénat et les propositions de loi présentées par les députés sont enregistrés à la Présidence.
+Les projets de loi, les propositions de loi transmises par le Sénat et les proposition de loi présentées par les députés sont enregistrés à la Présidence.
 
 Le dépôt des projets de loi et des propositions transmises par le Sénat est toujours annoncé en séance publique.
 
@@ -860,11 +860,11 @@ Toute commission permanente qui s'estime compétente pour donner un avis sur un 
 
 Lorsqu'un projet ou une proposition a été l'objet d'un renvoi pour avis, la commission saisie désigne un rapporteur qui a le droit de participer, avec voix consultative, aux travaux de la commission saisie au fond. Réciproquement le rapporteur de la commission saisie au fond a le droit de participer, avec voix consultative, aux travaux de la commission saisie pour avis.
 
-Les rapporteurs des commissions saisies pour avis peuvent défendre devant la commission saisie au fond les amendements adoptés par leurs commissions.
-
-Sous réserve des dispositions de l'article 91 (alinéa 1), le dépôt de ces amendements et leur défense en séance publique par le rapporteur de la commission saisie pour avis constituent l'avis de la commission.
+Les rapporteurs des commissions saisies pour avis peuvent défendre devant la commission saisie au fond les amendements adoptés par leur commission.
 
 Seuls les avis portant sur les projets de loi de finances ou de programme, sur le 1e plan de développement économique et social ou sur les projets visés à l'article 128 sont imprimés et distribués. Ils peuvent, en outre, être publiés en annexe au compte rendu intégral de la séance au cours de laquelle ils sont discutés sur décision du Bureau de l'Assemblée nationale.
+
+Dans le cas où, en application des dispositions de l'alinéa précédent, un avis ne peut être imprimé ni distribué, le rapport de la commission saisie au fond doit consigner en annexe les observations formulées par la ou les commissions saisies pour avis et les amendements adoptés par celles-ci.
 
 Le défaut de dépôt ou de distribution d'un avis ne peut faire obstacle à la discussion d'une affaire, la commission qui a demandé à donner son avis pouvant toujours le donner verbalement au jour fixé pour la discussion du fond.
 
@@ -898,7 +898,7 @@ Hormis les cas expressément prévus par le présent Règlement, et notamment le
 
 ## Article 91
 
-La discussion des projets et propositions s'engage par l'audition éventuelle du Gouvernement, par la présentation du rapport de la commission saisie au fond et, s'il y a lieu, du rapport de la ou des commissions saisies pour avis des textes énumérés à l'article 87 (alinéa 5).
+La discussion des projets et propositions s'engage par l'audition éventuelle du Gouvernement, par la présentation du rapport de la commission saisie au fond et, s'il y a lieu, par l'audition du rapporteur de la ou des commissions saisies pour avis.
 
 Si le rapport ou l'avis a été distribué au moins la veille de l'ouverture du débat, le rapporteur peut renoncer à le présenter oralement sous la condition qu'il soit publié au compte rendu intégral de la séance en cours ; dans le cas contraire, son auteur doit se borner à le commenter sans en donner lecture.
 
@@ -908,11 +908,13 @@ Il ne peut ensuite être mis en discussion et aux voix qu'une seule exception d'
 
 La parole est ensuite donnée aux orateurs qui se sont fait inscrire dans la discussion générale. L'auteur ou le premier signataire d'une proposition a priorité.
 
-Après la clôture de la discussion générale, il ne peut être mis en discussion et aux voix qu'une seule motion tendant au renvoi à la commission saisie au fond de l'ensemble du texte en discussion, et dont l'effet, en cas d'adoption est de suspendre le débat jusqu'à présentation par la commission d'un nouveau rapport. La discussion de cette motion a lieu dans les conditi prévues à l'alinéa 3.
+Après la clôture de la discussion générale, il ne peut être mis en discussion et aux voix qu'une seule motion tendant au renvoi à la commission saisie au fond de l'ensemble du texte en discussion, et dont l'effet, en cas d'adoption est de suspendre le débat jusqu'à présentation par la commission d'un nouveau rapport. La discussion de cette motion a lieu dans les conditions prévues à l'alinéa 3.
 
 Si la motion de renvoi est adoptée, le Gouvernement, lorsqu'il s'agit d'un texte prioritaire aux termes de l'article 48, alinéa 1, de la Constitution, l'Assemblée, lorsqu'il s'agit d'un texte non prioritaire, fixe la date et l'heure auxquelles la commission devra présenter son nouveau rapport. Le Gouvernement peut demander que ce texte conserve sa priorité sur les autres affaires inscrites à l'ordre du jour.
 
 Si la motion est rejetée ou s'il n'en est pas présenté, le passage à la discussion des articles du projet ou, s'il s'agit d'une proposition, du texte de la commission, est de droit.
+
+Avant l'ouverture de la discussion des articles, le débat est suspendu, s'il y a lieu, et sauf avis contraire formulé conjointement par son président et son rapporteur, pour l'examen immédiat, par la commission, des amendements déposés depuis la réunion qu'elle a tenue en application de l'article 88 (alinéa 1). Le débat est ensuite repris sans délai.
 
 ## Article 92
 
@@ -1020,7 +1022,7 @@ Les amendements présentés par le Gouvernement ou par la commission saisie au f
 
 Lorsque plusieurs amendements, exclusifs l'un de l'autre, sont en concurrence, le Président peut les soumettre à une discussion commune dans laquelle les auteurs obtiennent successivement la parole avant la mise aux voix, également successive, de leurs amendements.
 
-Hormis le cas des amendements visés à l'article 95 (alinéa 2), ne peuvent être entendus, sur chaque amendement, outre l'un des auteurs, que le Gouvernement, le président ou le rapporteur de la commission saisie au fond, le président ou le rapporteur de la Commission saisie pour avis et un orateur d'opinion contraire. Sous réserve des dispositions de l'article 54 (alinéa 5), les interventions sur les amendements, autres que celles du Gouvernement, ne peuvent excéder cinq minutes.
+Hormis le cas des amendements visés à l'article 95 (alinéa 2), ne peuvent être entendus, sur chaque amendement, outre l'un des auteurs, que le Gouvernement, le président ou le rapporteur de la commission saisie au fond, le président ou le rapporteur de la commission saisie pour avis et un orateur d'opinion contraire. Sous réserve des dispositions de l'article 54 (alinéa 5), les interventions sur les amendements, autres que celles du Gouvernement, ne peuvent excéder cinq minutes.
 
 L'Assemblée ne se prononce que sur le fond des amendements à l'exclusion de toute prise en considération.
 
