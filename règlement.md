@@ -1044,23 +1044,23 @@ Le rejet par l'Assemblée des des amendements présentés en seconde délibérat
 
 Le Gouvernement peut déclarer l'urgence, en vertu de l'article 45 de la Constitution, jusqu'à la clôture de la discussion générale, par une communication adressée au Président. Celui-ci en donne immédiatement connaissance à l'Assemblée.
 
-# CHAPITRE V PROCEDURE D'ADOPTION SIMPLIFIEE
+# CHAPITRE V PROCEDURE D'EXAMEN SIMPLIFIE
 
 ## Article 103
 
-Le Président de l'Assemblée, le Gouvernement le président de la commission saisie au fond ou le président d'un groupe peuvent, en Conférence des Présidents, demander qu'un projet ou une proposition de loi soit examiné selon la procédure d'adoption simplifiée.
+Le Président de l'Assemblée, le Gouvernement le président de la commission saisie au fond ou le président d'un groupe peuvent, en Conférence des Présidents, demander qu'un projet ou une proposition de loi soit examiné selon la procédure d'examen simplifiée.
 
-La demande n'est recevable que si elle concerne un texte dont la discussion intervient après un délai d'un jour franc.
+La demande n'est recevable que si elle concerne un texte qui n'a pas encore été examiné en commission ou si elle est présentée par le président de la commission saisie au fond après que celle-ci a été consultée. Dans ce dernier cas, dont la discussion intervient après un délai d'un jour franc.
 
-La procédure d'adoption simplifiée est engagée si aucune opposition ne s'est manifestée en Conférence des Présidents.
+La procédure d'examen simplifiée est engagée si aucune opposition ne s'est manifestée en Conférence des Présidents.
 
 ## Article 104
 
-La demande d'examen du texte selon la procédure d'adoption simplifiée est affichée, annoncée à l'Assemblée et notifiée au Gouvernement.
+La demande d'examen du texte selon la procédure d'examen simplifiée est affichée, annoncée à l'Assemblée et notifiée au Gouvernement.
 
-Les projets et propositions pour lesquels la procédure d'adoption simplifiée est demandée ne peuvent faire l'objet des initiatives visées à l'article 91, alinéas 4 et 6, et à l'article 128, alinéa 2.
+Les projets et propositions pour lesquels la procédure d'examen simplifiée est demandée ne peuvent faire l'objet des initiatives visées à l'article 91, alinéas 4 et 6, et à l'article 128, alinéa 2.
 
-Au plus tard la veille de la discussion à 18 heures, le Gouvernement ou le président de la commission saisie au fond ou le président d'un groupe peuvent faire opposition à la procédure d'adoption simplifiée.
+Au plus tard la veille de la discussion à 18 heures, le Gouvernement, le président de la commission saisie au fond ou le président d'un groupe peuvent faire opposition à la procédure d'examen simplifiée.
 
 L'opposition est adressée au Président de l'Assemblée qui la notifie au Gouvernement, à la commission saisie au fond ainsi qu'aux présidents des groupes, la fait afficher et l'annonce à l'Assemblée.
 
@@ -1076,15 +1076,17 @@ Il peut être inscrit, au plus tôt, à l'ordre du jour de la séance suivante. 
 
 ## Article 106
 
-Le Président met aux voix l'ensemble du texte soumis à la procédure d'adoption simplifiée lorsqu'il n'a fait l'objet d'aucun amendement.
+L'examen du texte soumis à la procédure d'examen simplifiée débute par une intervention du rapporteur de la commission saisie au fond, pour une durée qui ne peut excéder dix minute, suivie, le cas échéant par une intervention du rapporteur de la ou des commissions saisies pour avis, pour une durée qui ne peut excéder cinq minutes chacune. Une discussion générale s'engage alors au cours de laquelle un représentant de chaque groupe peut s'exprimer, chacun pour une durée de cinq minutes au plus.
 
-## Article 107
+Lorsqu'un texte soumis à la procédure d'examen simplifiée ne fait l'objet d'aucun amendement, le Président met aux voix l'ensemble du texte après la discussion générale.
 
-Lorsqu'un texte soumis à la procédure d'adoption simplifiée fait l'objet d'amendements dans les conditions visées à l'article 105, alinéa 1, le Président appelle uniquement les articles qui font l'objet d'amendements. Sur chaque amendement peuvent seuls intervenir l'auteur de l'amendement ou un membre de son groupe, le Gouvernement, le président et le rapporteur de la commission saisie au fond et un orateur contre.
+Lorsqu'un texte soumis à la procédure d'examen simplifiée fait l'objet d'amendements, le Président appelle uniquement les articles auxquels ces amendements se rapportent. Sur chaque amendement, outre le Gouvernement, peuvent seuls intervenir l'un des auteurs, le président et le rapporteur de la commission saisie au fond et un orateur contre. Il ne peut être fait application des articles 56, alinéa 3, et 95, alinéa 2.
 
 Sous réserve des dispositions de l'article 44, alinéa 3, de la Constitution, le Président ne met aux voix que les amendements, les articles auxquels ils se rapportent et l'ensemble du projet ou de la proposition de loi.
 
-Avant le vote sur l'ensemble, la parole peut être accordée, pour cinq minutes, à un représentant de chaque groupe.
+## Article 107
+
+Lorsque l'Assemblée est saisie, dans les conditions prévues au présent chapitre, d'un projet de loi autorisant la ratification d'un traité ou l'approbation d'un accord international non soumis à ratification, le Président, par dérogation à l'article 106, alinéa 1, met directement aux voix l'ensemble du texte, sauf décision contraire de la Conférence des Présidents.
 
 # CHAPITRE VI RAPPORTS DE L'ASSEMBLÉE NATIONALE AVEC LE SÉNAT
 
@@ -1258,11 +1260,9 @@ Lorsque le Président de la République, sur proposition du Gouvernement, décid
 
 ## Article 126
 
-Les projets et propositions de loi portant révision de la Constitution sont examinés, discutés et votés selon la procédure législative ordinaire, sous réserve des dispositions de l'alinéa 2 de l'article 89 de la Constitution. Toutefois, ils ne peuvent faire l'objet de la procédure d'adoption simplifiée prévue au chapitre V du présent titre.
+Les projets et propositions de loi portant révision de la Constitution sont examinés, discutés et votés selon la procédure législative ordinaire, sous réserve des dispositions de l'alinéa 2 de l'article 89 de la Constitution. Toutefois, ils ne peuvent faire l'objet de la procédure d'examen simplifiée prévue au chapitre V du présent titre.
 
 Lorsque l'Assemblée nationale a adopté en des termes identiques le texte voté par le Sénat, celui-ci est transmis au Président de la République.
-
-S'il s'agit d'un projet ou d'une proposition de révision des dispositions du Titre XII de la Constitution concernant le fonctionnement des institutions communes, le texte définitivement adopté par l'Assemblée nationale selon la procédure législative ordinaire est transmis au Président de la République, Président de la Communauté.
 
 # CHAPITRE XII PROCEDURE DE DISCUSSION DES LOIS ORGANIQUES
 
@@ -1276,7 +1276,7 @@ Il ne peut être présenté aucun amendement ou article additionnel tendant à i
 
 Aucune disposition législative de caractère organique ne peut être introduite dans un projet ou une proposition de loi qui n'a pas été présenté sous la forme prévue à l'alinéa 1 ci-dessus.
 
-Les projets et propositions de lois organiques sont examinés, discutés et votés selon la procédure législative ordinaire, sous réserve des dispositions des alinéas 3 et 4 de l'article 46 de la Constitution. Ils ne peuvent toutefois faire l'objet de la procédure d'adoption simplifiée prévue au chapitre V du présent titre.
+Les projets et propositions de lois organiques sont examinés, discutés et votés selon la procédure législative ordinaire, sous réserve des dispositions des alinéas 3 et 4 de l'article 46 de la Constitution. Ils ne peuvent toutefois faire l'objet de la procédure d'examen simplifiée prévue au chapitre V du présent titre.
 
 # CHAPITRE XIII TRAITÉS ET ACCORDS INTERNATIONAUX
 
@@ -1328,7 +1328,7 @@ Les conditions dans lesquelles sont déposées, notifiées et publiées les ques
 
 ## Article 134
 
-Les séances de questions orales sont organisées par la Conférence des Présidents.
+Les séances de squestions orales sont organisées par la Conférence des Présidents.
 
 # CHAPITRE III QUESTIONS ÉCRITES
 
@@ -1340,7 +1340,7 @@ Les questions écrites doivent être sommairement rédigées et doivent se limit
 
 Tout député qui désire poser une question écrite en remet le texte au Président de l'Assemblée qui le notifie au Gouvernement.
 
-Les questions écrites sont publiés durant les sessions et hors session, au Journal officiel.
+Les quesions écrites sont publiés durant les sessions et hors session, au Journal officiel.
 
 Les réponses des ministres doivent être publiées dans le mois suivant la publication des questions. Ce délai ne comporte aucune interruption.
 
