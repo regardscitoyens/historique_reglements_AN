@@ -386,13 +386,11 @@ Lorsqu'un commissaire a été absent à plus du tiers des séances de la commiss
 
 ## Article 43
 
-Dans l'intervalle des sessions, le quorum, c'est-à-dire la présence de la majorité des membres en exercice, est nécessaire pour la tenue des réunions des commissions permanentes, sauf dans le cas où celles-ci sont tenues à la demande du Gouvernement.
-
-## Article 44
-
 Dans tous les cas, le quorum est nécessaire à la validité des votes si le tiers des membres présents le demande.
 
 Lorsqu'un vote ne peut avoir lieu faute de quorum, il a lieu valablement, quel que soit le nombre des membres présents, dans la séance suivante, laquelle ne peut être tenue moins de trois heures après.
+
+## Article 44
 
 Les votes en commission ont lieu à main levée ou par scrutin.
 
@@ -814,6 +812,8 @@ Le dépôt des projets de loi et des propositions transmises par le Sénat est t
 
 Les propositions de loi présentées par les députés sont transmises au Bureau de l'Assemblée ou à certains de ses membres délégués par lui à cet effet lorsque leur irrecevabilité au sens de l'article 40 de la Constitution est évidente, le dépôt en est refusé. Dans les autres cas, le dépôt est annoncé en séance publique.
 
+Dans l'intervalle des sessions, le dépôt fait l'objet d'une annonce au Journal officiel.
+
 ## Article 82
 
 Hormis les cas prévus expressément par les textes constitutionnels ou organiques, les propositions de résolution ne sont recevables que si elles formulent des mesures et décisions d'ordre intérieur qui, ayant trait au fonctionnement et à la discipline de l'Assemblée, relèvent de sa compétence exclusive.
@@ -823,8 +823,6 @@ Elles sont déposées, examinées et discutées suivant la procédure applicable
 ## Article 83
 
 Tout texte déposé est imprimé, distribué et renvoyé à l'examen d'une commission spéciale de l'Assemblée ou, à défaut, à l'examen de la commission permanente compétente.
-
-Dans l'intervalle des sessions, les projets de loi peuvent être, à la demande du Gouvernement, renvoyés à l'examen d'une commission permanente ou spéciale.
 
 ## Article 84
 
@@ -908,7 +906,7 @@ Si le rapport ou l'avis a été distribué au moins la veille de l'ouverture du 
 
 Un membre du Conseil économique et social peut également être entendu dans les conditions fixées à l'article 97.
 
-Il ne peut ensuite être mis en discussion et aux voix qu'une seule exception d'irrecevabilité dont l'objet est de faire reconnaître que le texte proposé est contraire à une ou plusieurs dispositions constitutionnelles et une seule question préalable, dont l'objet est de faire décider qu'il n'y a pas lieu à délibérer. L'adoption de l'une ou l'autre de ces propositions entraîne le rejet du texte à l'encontre duquel elle a été soulevée. Dans la discussion de chacune d'elles, peuvent seuls intervenir l'auteur, un orateur d'opinion contraire, le Gouvernement et le président ou le rapporteur de la commission saisie au fond.
+Il ne peut ensuite être mis en discussion et aux voix qu'une seule exception d'irrecevabilité dont l'objet est de faire reconnaître que le texte proposé est contraire à une ou plusieurs dispositions constitutionnelles et une seule question préalable, dont l'objet est de faire décider qu'il n'y a pas lieu à délibérer. L'adoption de l'une ou l'autre de ces propositions entraîne le rejet du texte à l'encontre duquel elle a été soulevée. Dans la discussion de chacune d'elles, peuvent seuls intervenir l'un des signataires, le Gouvernement et le président ou le rapporteur de la commission saisie au fond. Avec le vote, la parole est accordée, pour cinq minutes, à un orateur de chaque groupe.
 
 La parole est ensuite donnée aux orateurs qui se sont fait inscrire dans la discussion générale. L'auteur ou le premier signataire d'une proposition a priorité.
 
@@ -1044,49 +1042,45 @@ Le rejet par l'Assemblée des nouvelles propositions de la commission ou du Gouv
 
 Le Gouvernement peut déclarer l'urgence, en vertu de l'article 45 de la Constitution, jusqu'à la clôture de la discussion générale, par une communication adressée au Président. Celui-ci en donne immédiatement connaissance à l'Assemblée.
 
-# CHAPITRE V PROCÉDURES ABRÉGÉES : VOTE SANS DÉBAT ET DÉBAT RESTREINT
+# CHAPITRE V PROCEDURE D'ADOPTION SIMPLIFIEE
 
 ## Article 103
 
-Le Gouvernement ou la commission saisie au fond peuvent demander le vote sans débat soit d'un projet en première lecture ou d'un texte transmis par le Sénat, dans leur rédaction initiale ou modifiée par les amendements de la commission saisie au fond, soit d'une proposition dans le texte du rapport de la commission.
+Le Président de l'Assemblée, le Gouvernement le président de la commission saisie au fond ou le président d'un groupe peuvent, en Conférence des Présidents, demander qu'un projet ou une proposition de loi soit examiné selon la procédure d'adoption simplifiée.
 
-Le Président de la commission saisie au fond, immédiatement après le vote par celle-ci de l'ensemble d'un projet ou d'une proposition, l'appelle à décider si elle en demande le vote sans débat.
+La demande n'est recevable que si elle concerne un texte dont la discussion intervient après un délai d'un jour franc.
+
+La procédure d'adoption simplifiée est engagée si aucune opposition ne s'est manifestée en Conférence des Présidents.
 
 ## Article 104
 
-Les demandes de vote sans débat sont adressées au Président de l'Assemblée qui les notifie, selon le cas, au Gouvernement ou à la commission saisie au fond ainsi qu'aux présidents des groupes, les fait afficher, les annonce à l'Assemblée et les communique à la Conférence des Présidents au cours de sa première réunion suivant la distribution du rapport de la commission.
+La demande d'examen du texte selon la procédure d'adoption simplifiée est affichée, annoncée à l'Assemblée et notifiée au Gouvernement.
 
-Les projets et propositions pour lesquels le vote sans débat est demandé ne peuvent faire l'objet des initiatives visées à l'article 91 (alinéas 4 et 6) et les amendements des députés et des commissions intéressées ne sont recevables que jusqu'à la prochaine réunion hebdomadaire de la Conférence des Présidents.
+Les projets et propositions pour lesquels la procédure d'adoption simplifiée est demandée ne peuvent faire l'objet des initiatives visées à l'article 91 (alinéas 4 et 6) et à l'article 128, alinéa 2.
 
-Au plus tard au cours de cette réunion, le Gouvernement ou la commission saisie au fond, selon le cas, ou le président d'un groupe peuvent faire opposition au vote sans débat. Les oppositions sont affichées et annoncées à l'Assemblée.
+Au plus tard la veille de la discussion à 18 heures, le Gouvernement ou le président de la commission saisie au fond ou le président d'un groupe peuvent faire opposition à la procédure d'adoption simplifiée.
 
-Si une opposition est formulée, le vote sans débat n'est pas inscrit à l'ordre du jour.
+L'opposition est adressée au Président de l'Assemblée qui la notifie au Gouvernement, à la commission saisie au fond ainsi qu'aux présidents des groupes, la fait afficher et l'annonce à l'Assemblée.
 
-S'il a été présenté des amendements, l'affaire est inscrite à l'ordre du jour avec débat restreint à une date fixée par le Gouvernement ou par la Conférence des Présidents.
-
-En l'absence d'opposition et d'amendement, le vote sans débat est inscrit à l'ordre du jour à la date fixée comme prévu à l'alinéa précédent.
-
-Si, après cette inscription et avant le vote sans débat, le Gouvernement dépose un amendement, le vote sans débat est retiré de l'ordre du jour.
+En cas d'opposition, le texte est examiné conformément aux dispositions du chapitre IV du présent livre.
 
 ## Article 105
 
-Lorsqu'il y a lieu à vote sans débat, le Président met aux voix l'ensemble du texte pour lequel il a été demandé.
+Les amendements des députés et des commissions intéressées sont recevables jusqu'à l'expiration du délai d'opposition.
 
-A la demande du président de la commission saisie au fond, le Président ordonne l'insertion au Journal officiel, après le procès-verbal de la séance, du rapport présenté au nom de la commission.
+Si, postérieurement à l'expiration du délai d'opposition, le Gouvernement dépose un amendement, le texte est retiré de l'ordre du jour.
+
+Il peut être inscrit, au plus tôt, à l'ordre du jour de la séance suivante. La discussion a alors lieu conformément aux dispositions du chapitre IV du présent titre.
 
 ## Article 106
 
-Le Gouvernement ou la commission saisie au fond peuvent demander la discussion d'une affaire avec débat restreint.
-
-Lorsque, après le vote de l'ensemble d'un projet ou d'une proposition, la commission a décidé de ne pas demander le vote sans débat, elle est immédiatement appelée à statuer sur une demande de débat restreint.
-
-Les dispositions de l'article 104 (alinéas 1 à 6) sont applicables aux demandes de débat restreint.
+Le Président met aux voix l'ensemble du texte soumis à la procédure d'adoption simplifiée lorsqu'il n'a fait l'objet d'aucun amendement.
 
 ## Article 107
 
-Lorsqu'il y a lieu à débat restreint, peuvent seuls intervenir le Gouvernement, le président et le rapporteur de la commission saisie au fond et les auteurs d'amendements.
+Lorsqu'un texte soumis à la procédure d'adoption simplifiée fait l'objet d'amendements dans les conditions visées à l'article 105, alinéa 1, le Président appelle uniquement les articles qui font l'objet d'amendements. Sur chaque amendement peuvent seuls intervenir l'auteur de l'amendement ou un membre de son groupe, le Gouvernement, le président et le rapporteur de la commission saisie au fond et un orateur contre.
 
-Sous réserve des dispositions de l'article 44 (alinéa 3) de la Constitution, le Président ne met aux voix que les amendements, les articles et l'ensemble du projet ou de la proposition.
+Sous réserve des dispositions de l'article 44, alinéa 3, de la Constitution, le Président ne met aux voix que les amendements, les articles auxquels ils se rapportent et l'ensemble du projet ou de la proposition de loi.
 
 Avant le vote sur l'ensemble, la parole peut être accordée, pour cinq minutes, à un représentant de chaque groupe.
 
@@ -1094,7 +1088,7 @@ Avant le vote sur l'ensemble, la parole peut être accordée, pour cinq minutes,
 
 ## Article 108
 
-Au cours des deuxièmes lectures et des lectures ultérieures par l'Assemblée nationale des projets et des propositions de loi, la discussion a lieu conformément au chapitre IV du présent titre, sous les réserves suivantes.
+Au cours des deuxièmes lectures et des lectures ultérieures par l'Assemblée nationale des projets et des propositions de loi, la discussion a lieu conformément aux dispositions des chapitre IV ou V du présent titre, sous les réserves suivantes.
 
 La discussion des articles est limitée à ceux pour lesquels les deux Assemblées du Parlement n'ont pu parvenir à un texte identique.
 
@@ -1250,7 +1244,7 @@ Lorsque le Président de la République, sur proposition du Gouvernement, décid
 
 ## Article 126
 
-Les projets et propositions de loi portant révision de la Constitution sont examinés, discutés et votés selon la procédure législative ordinaire, sous réserve des dispositions de l'alinéa 2 de l'article 89 de la Constitution. Toutefois, ils ne peuvent faire l'objet d'une procédure abrégée de discussion.
+Les projets et propositions de loi portant révision de la Constitution sont examinés, discutés et votés selon la procédure législative ordinaire, sous réserve des dispositions de l'alinéa 2 de l'article 89 de la Constitution. Toutefois, ils ne peuvent faire l'objet de la procédure d'adoption simplifiée prévue au chapitre V du présent titre.
 
 Lorsque l'Assemblée nationale a adopté en des termes identiques le texte voté par le Sénat, celui-ci est transmis au Président de la République.
 
@@ -1268,7 +1262,7 @@ Il ne peut être présenté aucun amendement ou article additionnel tendant à i
 
 Aucune disposition législative de caractère organique ne peut être introduite dans un projet ou une proposition de loi qui n'a pas été présenté sous la forme prévue à l'alinéa 1 ci-dessus.
 
-Les projets et propositions de lois organiques sont examinés, discutés et votés selon la procédure législative ordinaire, sous réserve des dispositions des alinéas 3 et 4 de l'article 46 de la Constitution. Ils ne peuvent toutefois faire l'objet d'une procédure abrégée de discussion.
+Les projets et propositions de lois organiques sont examinés, discutés et votés selon la procédure législative ordinaire, sous réserve des dispositions des alinéas 3 et 4 de l'article 46 de la Constitution. Ils ne peuvent toutefois faire l'objet de la procédure d'adoption simplifiée prévue au chapitre V du présent titre.
 
 # CHAPITRE XIII TRAITÉS ET ACCORDS INTERNATIONAUX
 
@@ -1450,11 +1444,11 @@ A cette fin, elles peuvent confier à un ou plusieurs de leurs membres une missi
 
 ## Article 146
 
-Les documents et les renseignements destinés à permettre l'exercice du contrôle du budget des départements ministériels ou la vérification des I comptes des entreprises nationales et des sociétés d'économie mixte sont communiqués par les autorités compétentes au rapporteur spécial de la commission des finances, de l'économie générale et du plan, chargé du budget du département ministériel dont il s'agit ou auquel se rattachent les entreprises nationales et les sociétés d'économie mixte intéressées.
+Les documents et les renseignements destinés à permettre l'exercice du contrôle du budget des départements ministériels ou la vérification des comptes des entreprises nationales et des sociétés d'économie mixte sont communiqués par les autorités compétentes au rapporteur spécial de la commission des finances, de l'économie générale et du plan, chargé du budget du département ministériel dont il s'agit ou auquel se rattachent les entreprises nationales et les sociétés d'économie mixte intéressées.
 
 Le rapporteur spécial peut demander à la commission des finances, de l'économie générale et du plan de lui adjoindre un de ses membres pour l'exercice de ce contrôle. Il communique les documents dont il est saisi aux rapporteurs pour avis du même budget désignés par les autres commissions permanentes.
 
-Les travaux des rapporteurs ne peuvent faire l'objet de rapports d'information. Ils ne peuvent être utilisés que pour les rapports faits par les commissions sur la loi de finances et la loi de règlement.
+Les travaux des rapporteurspeuvent être utilisés pour les rapports faits par les commissions sur la loi de finances et la loi de règlement. Ils peuvent, en outre, faire l'objet de rapports d'information établis par les rapporteurs spéciaux de la commission des finances, de l'économie générale et du plan.
 
 # CHAPITRE VII PÉTITIONS
 
