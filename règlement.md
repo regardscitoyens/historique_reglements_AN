@@ -1414,15 +1414,19 @@ Lorsqu'une information judiciaire est ouverte après la création de la commissi
 
 ## Article 142
 
-A l'expiration du délai de quatre mois prévu par l'article 6, alinéa 5, de l'ordonnance n°58-1100 du 17 novembre 1958 relative au fonctionnement des Assemblées parlementaires, et si la commission n'a pas déposé son rapport, le président de la commission remet au Président de l'Assemblée nationale les documents en sa possession. Ceux-ci ne peuvent donner lieu à aucune publication ni à aucun débat.
+Lorsque le rapporteur d'une commission d'enquête ou de contrôle décide de proposer à la commission de citer dans son rapport tout ou partie du compte rendu d'une audition, l'intéressé est admis à prendre connaissance du texte de son audition.
+
+Cette communication a lieu sur place en présence d'un membre du bureau de la commission. Aucune correction ne peut être apportée au compte rendu. Toutefois, l'intéressé peut faire part de ses observations par écrit.
+
+Ces observations sont soumises à la commission, qui peut décider de les annexer au rapport.
 
 ## Article 143
 
-Le rapport établi par une commission d'enquête ou de contrôle est remis au Président de l'Assemblée.
+A l'expiration du délai de six mois prévu par l'article 6, alinéa 5, de l'ordonnance n° 58-1100 du 17 novembre 1958 relative au fonctionnement des Assemblées parlementaires, et si la commission n'a pas déposé son rapport, son président remet au Président de l'Assemblée nationale les documents en sa possession. Ceux-ci ne peuvent donner lieu à aucune publication ni à aucun débat.
 
-La publication de tout ou partie du rapport peut être décidée par l'Assemblée sur proposition de son Président ou de la commission ; l'Assemblée se prononce sans débat à la suite d'un exposé succint du rapporteur indiquant les arguments pour ou contre la publication.
+Le rapport établi par une commission d'enquête ou de contrôle est remis au Président de l'Assemblée. Le dépôt de ce rapport est publié au Journal officiel et annoncé à l'ouverture de la plus prochaine séance. Sauf décision contraire de l'Assemblée constituée en comité secret dans les conditions prévues à l'article 51, le rapport est imprimé et distribué.
 
-L'Assemblée ne peut ouvrir un débat sur la publication du rapport que si elle s'est auparavant constituée en comité secret dans les conditions prévues à l'article 51 du Règlement.
+La demande de constitution de l'Assemblée en comité secret à l'effet de décider, par un vote spécial, de ne pas autoriser la publication de tout ou partie du rapport, doit être présentée dans un délai de cinq jours francs à compter de la publication du dépôt au Journal officiel.
 
 ## Article 144
 
