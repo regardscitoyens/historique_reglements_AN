@@ -256,11 +256,7 @@ Si une opposition à la demande de constitution d'une commission spéciale a ét
 
 ## Article 32
 
-Sauf lorsqu'il s'agit d'un projet de loi de finances, d'un projet portant approbation des options du Plan ou du Plan lui-même, d'un traité ou accord visé à l'article 128, ou si l'Assemblée a déjà refusé la constitution d'une commission spéciale, cette constitution, à l'initiative de l'Assemblée, est de droit :
-
-1° lorsqu'elle est demandée, dans les délais prévus à l'article 31 (alinéa 1), par un ou plusieurs présidents de groupes dont l'effectif global représente la majorité absolue des membres composant l'Assemblée ;
-
-2° lorsque deux commissions permanentes ont demandé, conformément à l'article 87 (alinéa 1), à se saisir pour avis d'un projet ou d'une proposition renvoyé à une autre commission permanente qui n'a pas encore statué sur l'ensemble. Dans ce cas, la commission spéciale doit comprendre au moins trois membres de la commission permanente compétente et de chacune des commissions qui ont demandé à être saisies pour avis.
+Sauf lorsqu'il s'agit d'un projet de loi de finances, d'un projet portant approbation des options du Plan ou du Plan lui-même, d'un traité ou accord visé à l'article 128, ou si l'Assemblée a déjà refusé la constitution d'une commission spéciale, cette constitution, à l'initiative de l'Assemblée, est de droit lorsqu'elle est demandée, dans les délais prévus à l'article 31 (alinéa 1), par un ou plusieurs présidents de groupes dont l'effectif global représente la majorité absolue des membres composant l'Assemblée.
 
 ## Article 33
 
@@ -860,7 +856,7 @@ L'auteur d'une proposition ou d'un amendement peut, s'il en fait la demande au p
 
 ## Article 87
 
-Toute commission permanente qui s'estime compétente pour donner son avis sur tout ou partie d'un projet ou une proposition renvoyé à une autre commission permanente doit informer le Président de l'Assemblée de sa demande d'avis dans le délai de quinze jours francs de session à compter de la distribution du projet ou de la proposition. Aucune demande d'avis n'est plus recevable après l'expiration de ce délai. La demande d'avis est communiquée à l'Assemblée pour décision, sous réserve des dispositions de l'article 32.
+Toute commission permanente qui s'estime compétente pour donner un avis sur un projet, une proposition, un article de loi ou un crédit budgétaire, renvoyé à une autre commission permanente informe le Président de l'Assemblée qu'elle désire donner son avis. Cette demande est soumise à la décision de l'Assemblée.
 
 Lorsqu'un projet ou une proposition a été l'objet d'un renvoi pour avis, la commission saisie désigne un rapporteur qui a le droit de participer, avec voix consultative, aux travaux de la commission saisie au fond. Réciproquement le rapporteur de la commission saisie au fond a le droit de participer, avec voix consultative, aux travaux de la commission saisie pour avis.
 
@@ -912,7 +908,7 @@ Il ne peut ensuite être mis en discussion et aux voix qu'une seule exception d'
 
 La parole est ensuite donnée aux orateurs qui se sont fait inscrire dans la discussion générale. L'auteur ou le premier signataire d'une proposition a priorité.
 
-Après la clôture de la discussion générale, il ne peut être mis en discussion et aux voix qu'une seule motion tendant au renvoi à la commission saisie au fond de l'ensemble du texte en discussion, et dont l'effet, en cas d'adoption est de suspendre le débat jusqu'à présentation par la commission d'un nouveau rapport. La discussion de cette motion a lieu dans les conditions prévues à l'alinéa 3.
+Après la clôture de la discussion générale, il ne peut être mis en discussion et aux voix qu'une seule motion tendant au renvoi à la commission saisie au fond de l'ensemble du texte en discussion, et dont l'effet, en cas d'adoption est de suspendre le débat jusqu'à présentation par la commission d'un nouveau rapport. La discussion de cette motion a lieu dans les conditi prévues à l'alinéa 3.
 
 Si la motion de renvoi est adoptée, le Gouvernement, lorsqu'il s'agit d'un texte prioritaire aux termes de l'article 48, alinéa 1, de la Constitution, l'Assemblée, lorsqu'il s'agit d'un texte non prioritaire, fixe la date et l'heure auxquelles la commission devra présenter son nouveau rapport. Le Gouvernement peut demander que ce texte conserve sa priorité sur les autres affaires inscrites à l'ordre du jour.
 
@@ -1334,7 +1330,7 @@ Dans le cas où une question écrite est transformée en question orale, en appl
 
 La séance réservée par priorité aux questions des membres du Parlement et aux réponses du Gouvernement est fixée, par décisions de la Conférence des Présidents, soit au mercredi après-midi, soit au vendredi après-midi.
 
-Sous réserve des dispositions de l'article 138, l'inscription des questions orales à l'ordre du jour de cette séance est décidée par la Conférence des Présidents au vu des deux rôles de ces questions arrêtés la veille de sa réunion. Les questions orales sans débat provenant de la transformation de questions écrites prévue par l'article 139 (alinéas 4 et 5) bénéficient d'une priorité d'inscription.
+Sous réserve des dispositions de l'article 138, l'inscription des questions orales à l'ordre du jour de cette séance est décidée par la Conférence des Présidents au vu des deux rôles de ces questions arrêtés la veille de sa réunion. Les questions orales sans débat provenant de la transformation de questions écrites prévue par l'article 139 (alinéas 4) bénéficient d'une priorité d'inscription.
 
 La Conférence des Présidents peut inscrire une question orale quel que sot le rang d'inscription à l'un des deux rôles. Elle peut décider la jonction des questions orales sur des sujets identiques ou connexes.
 
@@ -1364,15 +1360,13 @@ Seuls peuvent répondre aux questions le Premier Ministre et les ministres comp�
 
 ## Article 138
 
-Les questions d'actualité sont déposées à la Présidence de l'Assemblée au plus tard deux heures avant l'heure fixée pour la Conférence des Présidents. Elles sont libellées très sommairement.
+Les questions sont rédigées, notifiées et publiées dans les conditions fixées par l'article 133. En outre, elles ne doivent contenir aucune imputation d'ordre personnel à l'égard de tiers nommément désignés.
 
-Elles sont posées au Premier Ministre qui y répond ou peut y faire répondre par un membre du Gouvernement de son choix.
+Les réponses des ministres doivent être publiées dans le mois suivant la publication des questions. Ce délai ne comporte aucune interruption.
 
-La Conférence des Présidents décide de leur inscription, en fonction de leurs caractères d'actualité et d'intérêt général, à l'ordre du jour de la plus prochaine séance réservée aux questions orales. La première heure de séance leur est consacrée par priorité.
+Dans ce délai, les ministres ont toutefois la faculté, soit de déclarer par écrit que l'intérêt public ne leur permet pas de répondre, soit, à titre exceptionnel, de demander, pour rassembler les éléments de leur réponse, un délai supplémentaire qui ne peut excéder un mois.
 
-La question est appelée par le Président. Après la réponse du ministre, 1'auteur de la question dispose de la parole pendant deux au plus. S'il est absent, la question n'est pas appelée.
-
-II n'est pas tenu de rôle des questions d'actualité. Les questions non retenues par la Conférence des Présidents sont inscrites, si leur auteur le demande, au rôle des questions orales sans débat.
+Toute question écrite à laquelle il n'a pas été répondu dans les délais prévus ci-dessus est convertie en question orale si son auteur le demande. Elle prend rang au rôle des questions orales dans les conditions prévues au dernier alinéa de l'article 133.
 
 # CHAPITRE III QUESTIONS ÉCRITES
 
