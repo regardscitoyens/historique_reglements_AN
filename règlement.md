@@ -130,6 +130,8 @@ Les communications de l'Assemblée nationale sont faites par le Président.
 
 Le Bureau a tous pouvoirs pour régler les délibérations de l'Assemblée et pour organiser et diriger tous les services dans les conditions déterminées par le présent Règlement.
 
+Le Bureau détermine les conditions dans lesquelles des personnalités peuvent être admises à s'adresser à l'Assemblée dans le cadre de ses séances.
+
 L'Assemblée jouit de l'autonomie financière en application de l'article 7 de l'ordonnance n° 58-110 du 17 novembre 1958 relative au fonctionnement des assemblées parlementaires.
 
 ## Article 15
@@ -290,25 +292,25 @@ Leur dénomination et leur compétence sont fixées comme suit :
 
 Enseignement et recherche ; formation professionnelle, promotion sociale ; jeunesse et sports ; activités culturelles ; information ; travail et emploi ; santé publique, famille, population ; sécurité sociale et aide sociale ; pensions civiles, militaires, de retraite et d'invalidité ;
 
-2° commission des affaires étrangères ;
+2° commission des affaires économiques, de l'environnement et du territoire :
+
+Agriculture et pèches, énergies et industrie; recherche technique; consommation ;commerce intérieur et extérieur, douanes ; moyens de communication et tourisme ; aménagement du territoire et urbanisme, équipement et travaux publics, logement et construction; environnement.
+
+3° commission des affaires étrangères ;
 
 Relations internationales : politique extérieure, coopération, traités et accords internationaux ;
 
-3° commission de la défense nationale et des forces armées ;
+4° commission de la défense nationale et des forces armées ;
 
 Organisation générale de la défense ; politique de coopération et d'assistance dans le domaine militaire ; plans à long terme des armées ; industries aéronautiques, spatiale et d'armement; établissements militaires et arsenaux; domaine militaire; service national et lois sur le recrutement; personnels civils et militaires des armées; gendarmerie et justice militaire;
 
-4° commission des finances, de l'économie générale et du plan :
+5° commission des finances, de l'économie générale et du plan :
 
 Recettes et dépenses de l'Etat; exécution du budget; monnaie et crédit; activités financières intérieures et extérieures; contrôle financier des entreprises nationales; domaine de l'Etat;
 
-5° commission des lois constitutionnelles, de la législation et de l'administration générale de la République :
+6° commission des lois constitutionnelles, de la législation et de l'administration générale de la République :
 
 Lois constitutionnelles, organiques et électorales; règlement; organisation judiciaire; législation civile, administrative et pénale; pétitions; administration générale des territoires de la République et des collectivités locales;
-
-6° commission des affaires économiques, de l'environnement et du territoire :
-
-Agriculture et pèches, énergies et industrie; recherche technique; consommation ;commerce intérieur et extérieur, douanes ; moyens de communication et tourisme ; aménagement du territoire et urbanisme, équipement et travaux publics, logement et construction; environnement.
 
 L'effectif maximum des commissions est égal :
 
@@ -474,7 +476,9 @@ L'Assemblée se réunit chaque semaine en séance publique le matin, l'après-mi
 
 Sur proposition de la Conférence des Présidents, l'Assemblée peut décider de tenir d'autres séances dans les limites prévues par le dernier alinéa de l'article 28 de la Constitution. Dans les mêmes limites, la tenue de ces séances est de droit à la demande du Gouvernement formulée en Conférence des Présidents.
 
-L'Assemblée se réunit l'après-midi de 15 heures à 19 h 30 et en soirée de 21 heures à 1 heure le lendemain. Lorsque l'Assemblée tient séance le matin, elle se réunit de 9 heures à 13 heures.
+La matinée du mercredi est réservée aux travaux des commissions. Sous réserve des dispositions de l'article 48, alinéa 1, de la Constitution, au cours de cette matinée, aucune séance ne peut être tenue en application de l'alinéa précédent.
+
+L'Assemblée se réunit l'après-midi de 15 heures à 20 heures et en soirée de 21 h 30 à 1 heure le lendemain. Lorsque l'Assemblée tient séance le matin, elle se réunit de 9 h 30 à 13 heures.
 
 L'Assemblée peut toutefois décider de prolonger ses séances soit sur proposition de la Conférence des Présidents pour un ordre du jour déterminé, soit sur proposition de la commission saisie au fond ou du Gouvernement pour continuer le débat en cours ; dans ce dernier cas, elle est consultée sans débat par le président de séance.
 
@@ -628,7 +632,7 @@ Le vote par scrutin public est de droit :
 
 3° Lorsque la Constitution exige une majorité qualifiée ou lorsque la responsabilité du Gouvernement est engagée.
 
-Il est procédé au scrutin public en la forme ordinaire lorsqu'il a lieu en application des paragraphes 1° et 2° ou à la tribune, lorsqu'il a lieu en application du paragraphe 3° ci-dessus.
+Il est procédé au scrutin public en la forme ordinaire lorsqu'il a lieu en application des 1° et 2° ci-dessus et de l'article 65-1. Il est procédé au scrutin public à la tribune ou dans les salles voisines de la salle des séances, sur décision de la Conférence des Présidents, lorsqu'il a lieu en application du paragraphe 3° ci-dessus.
 
 ## Article 65-1
 
@@ -652,9 +656,11 @@ Le scrutin reste ouvert pendant une heure. Le résultat est constaté par les se
 
 Le scrutin reste ouvert pendant une heure, cette durée étant ramenée à quarante-cinq minutes pour les votes sur les motions de censure. Le résultat est constaté par les secrétaires et proclame par le Président.
 
-III. - Conformément à l'article 52, en cas de scrutin public, la présence de deux secrétaires du Bureau est nécessaire. A leur défaut, le Président peut demander à deux députés présents de faire office de secrétaires.
+III. - La Conférence des Présidents fixe la durée du scrutin public lorsqu'il y a lieu dans les salles voisines de la salle des séances.
 
-IV. — Les modalités du vote électronique et de l'exercice des délégations de vote sont réglées par une instruction du Bureau.
+IV. - Conformément à l'article 52, en cas de scrutin public, la présence de deux secrétaires du Bureau est nécessaire. A leur défaut, le Président peut demander à deux députés présents de faire office de secrétaires.
+
+V. — Les modalités du vote électronique et de l'exercice des délégations de vote sont réglées par une instruction du Bureau.
 
 ## Article 67
 
@@ -908,9 +914,11 @@ Un membre du Conseil économique et social peut également être entendu dans le
 
 Il ne peut ensuite être mis en discussion et aux voix qu'une seule exception d'irrecevabilité dont l'objet est de faire reconnaître que le texte proposé est contraire à une ou plusieurs dispositions constitutionnelles et une seule question préalable, dont l'objet est de faire décider qu'il n'y a pas lieu à délibérer. L'adoption de l'une ou l'autre de ces propositions entraîne le rejet du texte à l'encontre duquel elle a été soulevée. Dans la discussion de chacune d'elles, peuvent seuls intervenir l'un des signataire pour une durée qui ne peut excéder une heure trente sauf décision contraire de la Conférence des Présidents, le Gouvernement et le président ou le rapporteur de la commission saisie au fond. Avant le vote, la parole est accordée pour cinq minutes, à un orateur de chaque groupe.
 
+L'encontre d'un texte discuté dans le cadre d'une séance tenue en application de l'article 48, alinéa 3, de la Constitution, il ne peut être mis en discussion et aux voix qu'une seule exception d'irrecevabilité. L'adoption de cette proposition entraîne le rejet du texte à l'encontre duquel elle a été soulevée. Dans la discussion, peuvent seuls intervenir l'un des signataires pour une durée qui ne peut excéder quinze minutes sauf décision contraire de la Conférence des Présidents, le Gouvernement et le président ou le rapporteur de la commission saisie au fond. Avant le vote, la parole est accordée, pour cinq minutes, à un orateur de chaque groupe.
+
 La parole est ensuite donnée aux orateurs qui se sont fait inscrire dans la discussion générale. L'auteur ou le premier signataire d'une proposition a priorité.
 
-Après la clôture de la discussion générale, il ne peut être mis en discussion et aux voix qu'une seule motion tendant au renvoi à la commission saisie au fond de l'ensemble du texte en discussion, et dont l'effet, en cas d'adoption est de suspendre le débat jusqu'à présentation par la commission d'un nouveau rapport. La discussion de cette motion a lieu dans les conditions prévues à l'alinéa 3.
+Après la clôture de la discussion générale, il ne peut être mis en discussion et aux voix qu'une seule motion tendant au renvoi à la commission saisie au fond de l'ensemble du texte en discussion, et dont l'effet, en cas d'adoption, est de suspendre le débat jusqu'à présentation par la commission d'un nouveau rapport. La discussion de cette motion a lieu dans les conditions prévues à l'alinéa 4 ou à l'alinéa 5.
 
 Si la motion de renvoi est adoptée, le Gouvernement, lorsqu'il s'agit d'un texte prioritaire aux termes de l'article 48, alinéa 1, de la Constitution, l'Assemblée, lorsqu'il s'agit d'un texte non prioritaire, fixe la date et l'heure auxquelles la commission devra présenter son nouveau rapport. Le Gouvernement peut demander que ce texte conserve sa priorité sur les autres affaires inscrites à l'ordre du jour.
 
@@ -1058,7 +1066,7 @@ La procédure d'examen simplifiée est engagée si aucune opposition ne s'est ma
 
 La demande d'examen du texte selon la procédure d'examen simplifiée est affichée, annoncée à l'Assemblée et notifiée au Gouvernement.
 
-Les projets et propositions pour lesquels la procédure d'examen simplifiée est demandée ne peuvent faire l'objet des initiatives visées à l'article 91, alinéas 4 et 6, et à l'article 128, alinéa 2.
+Les projets et propositions pour lesquels la procédure d'examen simplifiée est demandée ne peuvent faire l'objet des initiatives visées à l'article 91, alinéas 4 et 7, et à l'article 128, alinéa 2.
 
 Au plus tard la veille de la discussion à 18 heures, le Gouvernement, le président de la commission saisie au fond ou le président d'un groupe peuvent faire opposition à la procédure d'examen simplifiée.
 
@@ -1192,7 +1200,9 @@ Pour les amendements à la loi de finances de l'année, le délai prévu à l'ar
 
 A l'issue de l'examen des articles de la première partie du projet de loi de finances, et avant de passer à l'examen de la seconde partie, il peut être procédé dans les conditions prévues à l'article 101, à une seconde délibération de tout ou partie de la première partie.
 
-Il est procédé à un vote sur l'ensemble de la première partie du projet de loi de finances dans les mêmes conditions que sur l'ensemble d'un projet de loi. Lorsque l'Assemblée n'adopte pas la première partie du projet de loi de finances, l'ensemble du projet de loi est considéré comme rejeté.
+Il est procédé à un vote sur l'ensemble de la première partie du projet de loi de finances dans les mêmes conditions que sur l'ensemble d'un projet de loi. Lorsque l'Assemblée n'adopte pas la première partie du projet de loi de finances, l'ensemble du projet de loi est considéré comme
+
+rejeté.
 
 Si, conformément à l'article 101, il est procédé avant le commencement des explications de vote sur l'ensemble à une seconde délibération de tout ou partie du projet de loi de finances, il ne peut être apporté d'autres modifications aux dispositions de la première partie que celles nécessitées, pour coordination, par les votes intervenus sur les articles de la seconde partie.
 
@@ -1284,9 +1294,9 @@ Les projets et propositions de lois organiques sont examinés, discutés et vot�
 
 ## Article 128
 
-Lorsque l'Assemblée est saisie d'un projet de loi autorisant la ratification d'un traité ou l'approbation d'un accord international non soumis à ratification, il n'est pas voté sur les articles contenus dans ces actes et il ne peut être présenté d'amendement.
+Lorsque l'Assemblée est saisie d'un projet de loi autorisant la ratification d'un traité ou l'approbation d'un accord international non soumis à ratification, il n'est pas voté sur les articles contenus dans ces actes.
 
-L'Assemblée conclut à l'adoption, au rejet ou à l'ajournement. Les dispositions de l'article 91, alinéa 4, sont applicables. La motion d'ajournement, qui peut être motivée, est appelée après la clôture de la discussion générale; son adoption, qui est notifiée au Premier Ministre, entraîne les effets prévus à l'article 91, alinéa 7.
+L'Assemblée conclut à l'adoption, au rejet ou à l'ajournement. Les dispositions de l'article 91, alinéa 4 ou 5, sont applicables. La motion d'ajournement, qui peut être motivée, est appelée après la clôture de la discussion générale; son adoption, qui est notifiée au Premier ministre, entraîne les effets prévus à l'article 91, alinéa 8.
 
 ## Article 129
 
@@ -1360,6 +1370,14 @@ Les commissions d'enquête ne peuvent comprendre plus de trente députés. Les d
 
 Ne peuvent être désignés comme membres d'une commission d'enquête les députés ayant été l'objet d'une sanction pénale ou disciplinaire pour manquement à l'obligation du secret à l'occasion des travaux d'une commission constituée au cours de la même législature.
 
+## Article 140-1
+
+Le bureau des commissions d'enquête comprend un président, deux vice-présidents et deux secrétaires.
+
+La fonction de président ou celle de rapporteur revient de plein droit à un membre du groupe auquel appartient le premier signataire de la proposition de résolution du vote de laquelle résulte la création de la commission d'enquête ou, en cas de pluralité de propositions, de la première déposée, sauf si ce groupe fait connaître au Président de l'Assemblée sa décision de ne revendiquer aucune des deux fonctions.
+
+Les membres du bureau et, le cas échéant, le rapporteur sont désignés dans les conditions prévues à l'article 39.
+
 ## Article 141
 
 Le dépôt d'une proposition de résolution tendant à la création d'une commission d'enquête est notifié par le Président de l'Assemblée au Garde des Sceaux, ministre de la justice.
@@ -1402,7 +1420,11 @@ Sans préjudice des dispositions les concernant contenues au Titre II, les commi
 
 A cette fin, elles peuvent confier à un ou plusieurs de leurs membres une mission d'information temporaire portant, notamment, sur les conditions d'application d'une législation. Ces missions d'information peuvent être communes à plusieurs commissions.
 
+Des missions d'information peuvent également être créées par la Conférence des Présidents sur proposition du Président de l'Assemblée.
+
 Aucune publicité ne peut être donnée à un rapport d'information établi en application des dispositions qui précèdent avant que n'ait été décidé sa publication.
+
+Les rapports des missions d'information créées par la Conférence des Présidents peuvent donner lieu à un débat sans vote en séance publique.
 
 ## Article 145-1
 
