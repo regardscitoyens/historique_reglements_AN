@@ -866,6 +866,8 @@ Les rapports faits sur un projet ou une proposition de loi portant sur les domai
 
 Les rapports faits sur un projet ou une proposition de loi dont l'application est susceptible d'avoir un impact sur la nature comportent en annexe un bilan écologique, constitué d'éléments d'information quant aux incidences de la législation proposée, notamment sur l'environnement, les ressources naturelles et les consommations d'énergie.
 
+Sans préjudice de la faculté ouverte par le deuxième alinéa de l'article 145, à l'issue d'un délai de six mois suivant l'entrée en vigueur d'une loi dont la mise en oeuvre nécessite la publication de textes de nature réglementaire, le député qui en a été rapporteur ou, à défaut, un député désigné à cet effet par la commission compétente, présente à celle-ci un rapport sur la mise en application de cette loi. Ce rapport fait étét des textes réglementaires publiés et des circulaires édictées pour la mise en oeuvre de ladite loi, ainsi que de ses dispositions qui n'auraient pas fait l'objet des textes d'application nécessaires. Dans ce cas, la commission entend son rapporteur à l'issue d'un nouveau délai de six mois.
+
 ## Article 87
 
 Toute commission permanente qui s'estime compétente pour donner un avis sur un projet, une proposition, un article de loi ou un crédit budgétaire, renvoyé à une autre commission permanente informe le Président de l'Assemblée qu'elle désire donner son avis. Cette demande est soumise à la décision de l'Assemblée.
@@ -1200,9 +1202,7 @@ Pour les amendements à la loi de finances de l'année, le délai prévu à l'ar
 
 A l'issue de l'examen des articles de la première partie du projet de loi de finances, et avant de passer à l'examen de la seconde partie, il peut être procédé dans les conditions prévues à l'article 101, à une seconde délibération de tout ou partie de la première partie.
 
-Il est procédé à un vote sur l'ensemble de la première partie du projet de loi de finances dans les mêmes conditions que sur l'ensemble d'un projet de loi. Lorsque l'Assemblée n'adopte pas la première partie du projet de loi de finances, l'ensemble du projet de loi est considéré comme
-
-rejeté.
+Il est procédé à un vote sur l'ensemble de la première partie du projet de loi de finances dans les mêmes conditions que sur l'ensemble d'un projet de loi. Lorsque l'Assemblée n'adopte pas la première partie du projet de loi de finances, l'ensemble du projet de loi est considéré comme rejeté.
 
 Si, conformément à l'article 101, il est procédé avant le commencement des explications de vote sur l'ensemble à une seconde délibération de tout ou partie du projet de loi de finances, il ne peut être apporté d'autres modifications aux dispositions de la première partie que celles nécessitées, pour coordination, par les votes intervenus sur les articles de la seconde partie.
 
@@ -1405,6 +1405,8 @@ A l'expiration du délai de six mois prévu par le dernier alinéa du paragraphe
 Le rapport établi par une commission d'enquête est remis au Président de l'Assemblée. Le dépôt de ce rapport est publié au Journal officiel et annoncé à l'ouverture de la plus prochaine séance. Sauf décision contraire de l'Assemblée constituée en comité secret dans les conditions prévues à l'article 51, le rapport est imprimé et distribué. Il peut donner lieu à un débat sans vote en séance publique.
 
 La demande de constitution de l'Assemblée en comité secret à l'effet de décider, par un vote spécial, de ne pas autoriser la publication de tout ou partie du rapport, doit être présentée dans un délai de cinq jours francs à compter de la publication du dépôt au Journal officiel.
+
+A l'issue d'un délai de six mois suivant la publication d'un rapport d'une commission d'enquête, le membre de la commission permanente désigné par celle-ci à cet effet lui présente un rapport sur la mise en oeuvre des recommandations de ladite commission d'enquête.
 
 ## Article 144
 
