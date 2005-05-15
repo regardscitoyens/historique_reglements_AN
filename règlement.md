@@ -366,6 +366,8 @@ Ces projets sont imprimés avec l'exposé des motifs, et distribués.
 
 Ils sont transmis dans les bureaux par le Président, pour être discutés suivant la forme réglée au chapitre III.
 
+Les projets de lois portant demande de crédits supplémentaires ou extraordinaires et renfermant les énonciations prescrites à l'art. 3 de la loi du 16 mai 1851, sont déposés par le ministre des finances.
+
 ## Article 62
 
 - Les rapports des commissions sont déposés sur le bureau de l'Assemblée, après lecture, s'il y a lieu. Le Président propose, et l'Assemblée fixe le jour de la discussion.
