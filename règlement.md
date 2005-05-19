@@ -412,7 +412,7 @@ Néanmoins, celles qui sont relatives à une proposition actuellement soumise à
 
 Ce renvoi peut également être ordonné par la commission des pétitions.
 
-Tout membre de la Chambre pourra prendre communication des pétition en s'adressant au Prsident de la commission chargée de leur examen.
+Tout membre de la Chambre pourra prendre communication des pétition en s'adressant au Président de la commission chargée de leur examen.
 
 ## Article 64
 
@@ -506,7 +506,7 @@ Si la Chambre s'est prononcée contre l'urgence, la proposition ou le projet est
 
 Le caractère d'urgence reconnu à une proposition ou à un projet de loi pourra être retiré, sur la demande d'un membre de la Chambre, après le dépôt du rapport de la commission chargée de son examen.
 
-Ce retrait ne pourra plus être demandé après l'ouverture de la discussion sur les articles.
+Ce retrait ne pourra plus être demandé après l'ouverture de la discussion sur les article, mais il pourra l'être après la discussion des articles et avant le vote sur l'ensemble de la loi.
 
 ## Article 77
 
