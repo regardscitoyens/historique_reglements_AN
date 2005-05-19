@@ -150,7 +150,7 @@ Est interdite la constitution, au sein de l'Assemblée, de groupes dits « de d�
 
 ## Article 14
 
-Au début de chaque législature, l'Assemblée nomme, en séance publique, 19 Cmnmissions générales, de 44 membres chacune, qui prennent les dénominations suivantes :
+Au début de chaque législature, l'Assemblée nomme, en séance publique, 19 Commissions générales, de 44 membres chacune, qui prennent les dénominations suivantes :
 
 1° commission des affaires économiques (douanes et conventions commerciales) ;
 
@@ -158,37 +158,39 @@ Au début de chaque législature, l'Assemblée nomme, en séance publique, 19 Cm
 
 3° commission de l'agriculture ;
 
-4° commission de la défense nationale ;
+4° commission des boissons ;
 
-5° commission de l'éducation nationale (beaux-arts, jeunesse, sports et loisirs) ;
+5° commission de la défense nationale ;
 
-6° commission de la famille, de la population et de la santé publique ;
+6° commission de l'éducation nationale (beaux-arts, jeunesse, sports et loisirs) ;
 
-7° commission des finances ;
+7° commission de la famille, de la population et de la santé publique ;
 
-8° commission de l'intérieur (Algérie, administration générale, départementale et communale) ;
+8° commission des finances ;
 
-9° commission de la justice et de législation ;
+9° commission de l'intérieur (Algérie, administration générale, départementale et communale) ;
 
-10° commission de la marine marchande et des pêches ;
+10° commission de la justice et de législation ;
 
-11° commission des moyens de communication et du tourisme (chemins de fer, lignes aériennes, postes, télégraphes et téléphones) ;
+11° commission de la marine marchande et des pêches ;
 
-12° commission des pensions (pensions civiles et militaires et victimes de la guerre et de l'oppression) ;
+12° commission des moyens de communication et du tourisme (chemins de fer, lignes aériennes, postes, télégraphes et téléphones) ;
 
-13° commission de la presse (radio et cinéma et télévision) ;
+13° commission des pensions (pensions civiles et militaires et victimes de la guerre et de l'oppression) ;
 
-14° commission de la production industrielle ;
+14° commission de la presse (radio et cinéma et télévision) ;
 
-15° commission du ravitaillement ;
+15° commission de la production industrielle ;
 
-16° commission de la reconstruction et des dommages de guerre ;
+16° commission du ravitaillement ;
 
-17° commission du suffrage universel, du règlement et des pétitions ;
+17° commission de la reconstruction et des dommages de guerre ;
 
-18° commission des territoires d'outre-mer ;
+18° commission du suffrage universel, du règlement et des pétitions ;
 
-19° commission du travail et de la sécurité sociale.
+19° commission des territoires d'outre-mer ;
+
+20° commission du travail et de la sécurité sociale.
 
 Les commissions générales nommées au début d'une législature demeurent en fonctions jusqu'à l'ouverture de chaque session annuelle suivante. Elles sont, par la suite, nommées pour un an et renouvelées à l'ouverture de chaque session annuelle.
 
