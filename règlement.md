@@ -340,7 +340,19 @@ Les propositions repoussées par l'Assemblée ne peuvent être reproduites avant
 
 ## Article 24
 
-L'Assemblée consacre en principe la journée du mercredi et les matinées des autres jours aux travaux des commissions.
+L'Assemblée siégeant dans les conditions fixées par l'article 40, les matinées des mercredi, jeudi et vendredi de chaque semaine sont réservées aux travaux des commissions.
+
+Quand l'Assemblée tient séance, les commissions ne peuvent siéger, en dehors de ces trois demi-journées, qu'à titre exceptionnel dans les cas suivants :
+
+- application de la procédure d'urgence ;
+
+- examen des textes budgétaires ;
+
+- examen des textes renvoyés en commission pour examen immédiat ;
+
+- examen des textes à partir d'une deuxième lecture ;
+
+- examen en temps utile des textes inscrits à l'ordre du jour de l'Assemblée avec autorisation de la Conférence des Présidents.
 
 ## Article 25
 
@@ -436,17 +448,21 @@ Les dispositions du présent article sont applicables aux rapports déposés par
 
 ## Article 34
 
-Les Vice-Présidents de l'Assemblée, les Présidents des commissions et les Présidents des groupes d'au moins 14 membres sont convoqués, chaque semaine, par le Président de l'Assemblée, en vue d'examiner l'ordre de ses travaux et de faire toutes propositions concernant le règlement de l'ordre du jour, compte tenu des articles 35 et 55 subordonnant l'inscription à l'ordre du jour à la distribution préalable du rapport.
+Les Vice-Présidents de l'Assemblée, les Présidents des commissions, le Rapporteur général de la commission des finances et les Présidents des groupes d'au moins 14 membres sont convoqués en principe en fin de matinée du vendredi de chaque semaine par le Président de l'Assemblée, en vue d'examiner l'ordre de ses travaux et de faire toutes propositions concernant le règlement de l'ordre du jour.
 
 Le Gouvernement est avisé par le Président du jour et de l'heure de la Conférence ; il peut y déléguer un représentant.
 
-Sous réserve des dispositions spéciales de l'article 63 relatives à l'inscription des discussions d'urgence à l'ordre du jour, la Conférence des Présidents, dans sa première réunion suivant l'ouverture ou la reprise de la session annuelle, propose l'ordre du jour de l'Assemblée pour la durée de trois semaines. Dans sa réunion suivante, elle le propose pour la quatrième semaine et procède de même dans chacune de ses réunions hebdomadaires ultérieures.
+Dans les votes émis à la Conférence des Présidents, il est attribué aux présidents des groupes un nombre de voix égal au nombre des membres de leur groupe, après défalcation des Vice-Présidents de l'Assemblée, des Présidents de commission et du Rapporteur général de la commission des finances qui votent individuellement ainsi que des membres du Gouvernement. Le représentant du Gouvernement dispose d'un nombre de voix égal au nombre des Députés membres du Gouvernement.
 
-A la fin de la séance suivant la réunion de la Conférence, le Président soumet les propositions de la Conférence à l'approbation de l'Assemblée. La parole peut être accordée à un représentant de chaque groupe pour une durée maximum de cinq minutes.
+A l'ouverture ou à la reprise de la session ou après la formation d'un Gouvernement, la Conférence des Présidents propose Tordre du jour de l'Assemblée pour la durée de deux semaines. Dans sa réunion suivante, elle le propose pour la troisième semaine et procède de même dans chacune de ses réunions hebdomadaires ultérieures.
 
-Aucune proposition tendant soit à fixer directement ou indirectement la date de discussion d'une interpellation, soit à inscrire à l'ordre du jour une affaire sur laquelle le rapport n'est pas distribué, soit à inscrire à l'ordre du jour un arbitrage ou une discussion d'urgence, ne peut être présentée sous forme d'amendement aux propositions de la Conférence des Présidents.
+Les propositions de la Conférence des Présidents sont immédiatement affichées et notifiées aux Présidents des groupes.
 
-L'ordre du jour réglé par l'Assemblée sur proposition de la Conférence ne peut plus être modifié.
+Au début de la séance suivant la réunion de la Conférence des Présidents et, s'il y a lieu, après les questions orales, les propositions de la Conférence sont soumises à l'Assemblée. Aucun amendement ne peut être présenté. L'Assemblée ne se prononce que sur l'ensemble. Seuls peuvent intervenir, pour une explication de vote de cinq minutes, le Gouvernement, les Présidents des commissions ou leur délégué ayant assisté à la Conférence et un orateur par groupe.
+
+L'ordre du jour réglé par l'Assemblée pour deux semaines ne peut plus être modifié ; il ne peut être aménagé qu'exceptionnellement et sur proposition de la Conférence des Présidents.
+
+Toutefois, lorsque dans l'intervalle de deux Conférences des Présidents, l'Assemblée nationale reçoit du Conseil de la République des projets et propositions de 1oi sur lesquels elle doit se prononcer en troisième lecture ou dans une lecture ultérieure, la discussion de ces affaires peut avoir lieu dans les conditions prévues aux alinéas 5 et 6 de l'article 66 bis ci-après.
 
 ## Article 35
 
@@ -464,21 +480,25 @@ Sauf demande expresse du Gouvernement, lesdits projets, propositions ou amendeme
 
 Le Gouvernement ou la commission saisie du fond peut demander le vote sans débat d'un projet ou d'une proposition ; cette demande doit être adressée au Président de l'Assemblée qui en saisit la Conférence des Présidents.
 
-Lorsque le rapport et, s'il y a lieu, le ou les avis, ont été distribués, le vote sans débat de l'affaire est inscrit, sur décision de la Conférence dont le Président donne communication à l'Assemblée, en tête de l'ordre du jour du troisième jour de séance suivant cette communication.
+Lorsque le rapport et, s'il y a lieu, le ou les avis, ont été distribués, le vote sans débat de l'affaire est inscrit, sur décision de la Conférence dont le Président donne communication à l'Assemblée, en tête de l'ordre du jour du troisième jour de séance suivant cette communication. La décision d'inscription à l'ordre du jour sans débat est affichée et notifiée aux présidents des groupes.
 
-Lorsque le rapport ou l'avis n'est pas distribué, le vote sans débat est inscrit en tête de l'ordre du jour du troisième jour de séance suivant sa distribution
+Lorsque le rapport ou l'avis n'est pas distribué, le vote sans débat est inscrit en tête de l'ordre du jour du troisième jour de séance suivant sa distribution. Si l'avis n'est pas distribué dans le mois qui suit la distribution du rapport, le vote sans débat est inscrit en tête de l'ordre du jour du troisième jour de séance suivant l'expiration de ce délai.
+
+Toutefois, les votes sans débat ne peuvent être inscrits à l'ordre du jour des séances tenues au cours des sessions extraordinaires du Parlement réuni, pour un ordre du jour limité, en application de l'article 12 (alinéa 3) de la Constitution.
 
 ## Article 37
 
-Le Gouvernement peut s'opposer à l'inscription à l'ordre du jour du vote sans débat d'une affaire.
+Le Gouvernement ou tout Député peut faire opposition à un vote sans débat inscrit à l'ordre du jour.
 
-Lorsque l'inscription a eu lieu, le Gouvernement peut en demander le retrait.
+L'opposition doit être formulée par écrit et contenir les motifs de l'opposition. L'auteur de l'opposition devra en outre, s'il y a lieu, faire connaître dans les huit jours à la commission le texte des amendements qu'il propose.
 
-Tout Député peut faire opposition à un vote sans débat inscrit à l'ordre du jour, s'il désire présenter des observations ou un amendement ; son opposition est, après qu'elle a joué, publiée au Journal officiel.
+Le texte de l'opposition est annexé au compte rendu in extenso de la séance au cours de laquelle elle a joué.
 
-Le projet ou la proposition est, dans ce cas, retiré de l'ordre du jour et la commission saisie du fond doit entendre le Gouvernement ou les auteurs de l'opposition.
+Le projet ou la proposition est alors retiré de l'ordre du jour.
 
-La commission saisit l'Assemblée d'un rapport supplémentaire, qui doit mentionner toutes les objections formulées.
+Une nouvelle inscription sans débat ne peut avoir lieu qu'après audition par la commission de l'auteur de l'opposition et distribution d'un rapport supplémentaire qui doit mentionner toutes les objections formulées.
+
+Si l'auteur de l'opposition ne répond pas à deux convocations, la commission en prend acte dans son rapport supplémentaire dont la distribution rend possible une réinscription sans débat.
 
 ## Article 38
 
@@ -487,6 +507,20 @@ Lorsque l'opposition au vote sans débat est retirée, au cours de la séance o�
 Lorsqu'à la suite d'une opposition et après distribution du rapport supplémentaire, le vote sans débat d'une affaire est à nouveau inscrit à l'ordre du jour, il ne peut être retiré que sur la demande du Gouvernement ou sur une demande signée par 50 Députés. À la suite de ce deuxième retrait, le vote sans débat ne peut plus être inscrit à l'ordre du jour.
 
 Lorsque personne ne s'oppose à un vote sans débat, le Président met successivement aux voix les différents articles, puis l'ensemble du projet ou de la proposition.
+
+## Article 38 bis
+
+Lorsqu'une affaire a été retirée pour la deuxième fois de l'ordre du jour sans débat, dans les conditions prévues à l'article 38, la commission peut décider qu'il y a lieu, sur cette affaire, de demander un débat restreint.
+
+Lorsqu'une commission a adopté un rapport à la majorité absolue des membres la composant et que la mention de cette majorité a été distinctement inscriteen tête du rapport, la commission peut décider qu'il y a lieu de demander un débat restreint sur cette affaire dès le retrait de l'ordre du jour sans débat sur la première opposition.
+
+Lorsque la décision de demander un débat restreint a été prise, la commission procède à une nouvelle délibération au cours de laquelle elle entend, s'ils le demandent, le Gouvernement, les rapporteurs pour avis et les auteurs d'observations ou d'amendements.
+
+Elle saisit l'Assemblée d'un rapport supplémentaire qui doit mentionner les observations, les amendements, les votes sur les amendements. Elle fait part en même temps au Président de l'Assemblée de la décision visée au premier alinéa. Le Président en avise l'Assemblée au début du prochain jour de séance qui suit cette communication et en saisit la Conférence des Présidents.
+
+Si la commission estime qu'il n'y a pas lieu à débat restreint, il est procédé dans les conditions prévues aux articles 34 et 35.
+
+Les inscriptions de parole, y compris les explications de vote, ne sont reçues que dans la limite de la répartition des temps de parole attribués.
 
 ## Article 39
 
@@ -500,11 +534,13 @@ Aucune inscription de parole n'est reçue en cours de débat ; les interventions
 
 ## Article 40
 
-Les séances de l'Assemblée sont publiques.
+L'Assemblée se réunit chaque semaine en séance publique dans la matinée du mardi et dans l'après-midi des mardi mercredi, jeudi et vendredi, sur proposition de la Conférence des Présidents.
 
-L'Assemblée se réunit en séance publique dans l'après-midi des mardi, jeudi et vendredi de chaque semaine.
+Si l'examen de l'ordre du jour qu'elle établit l'exige, la Conférence des Présidents peut proposer à l'Assemblée de tenir d'autres séances.
 
-En outre, elle peut décider de tenir d'autres séances à la demande du Président de l'Assemblée, du Gouvernement, de la commission intéressée, de la Conférence des Présidents, ou de cinquante membres dont la présence doit être constatée par appel nominal; elle peut également le décider sur l'initiative d'un seul membre, mais seulement lorsque la proposition en est faite lors de l'adoption des propositions de la Conférence des Présidents prévue par l'article 34.
+En dehors des séances dédiées par l'Assemblée, sur proposition de la Conférence des Présidents, il ne peut être proposé de tenir d'autres séance que par le Président du Conseil ou, pour continuer le débat en cours, par le président de séance ou le Président de la commission saisie au fond. L'Assemblée se prononce dans les conditions fixées par le sixième alinéa de l'article 46.
+
+Seuls, les débats d'investiture ou sur la question de confiance ou une motion de censure peuvent être inscrits à l'ordre du jour d'une séance fixée un mercredi, jeudi ou vendredi matin, par dérogation exceptionnelle à l'article 24.
 
 L'Assemblée peut décider de se réunir en comité secret par un vote exprès et sans débat, émis à la demande du Gouvernement ou de la Conférence des Présidents, ou de vingt-cinq membres dont la présence est constatée par appel nominal.
 
