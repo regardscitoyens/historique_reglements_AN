@@ -162,7 +162,7 @@ Au début de chaque législature, l'Assemblée nomme, en séance publique, 19 Co
 
 5° commission de la défense nationale ;
 
-6° commission de l'éducation nationale (beaux-arts, jeunesse, sports et loisirs) ;
+6° commission de l'éduction nationale (beaux-arts, jeunesse, sports et loisirs) ;
 
 7° commission de la famille, de la population et de la santé publique ;
 
@@ -1034,13 +1034,15 @@ Les interpellations de Député à Député sont interdites.
 
 ## Article 90
 
-La fixation de la date de discussion des interpellations a lieu dans la séance du mardi après-midi, soit sur proposition de la Conférence des Présidents, soit après notification au Président de Assemblée de l'accord intervenu pour ledit jour entre le Gouvernement et l'interpellateur.
+La fixation de la date de discussion des interpellations a lieu, soit sur proposition de la Conférence des Présidents, soit après notification au Président de Assemblée de l'accord intervenu entre le Gouvernement et l'interpellateur.
 
-Toutefois, sur demande écrite de l'interpellateur, remise en même temps que son interpellation et revêtue de la signature de 50 membres, dont la présence doit être constatée par appel nominal, l'Assemblée, informée sans délai de l'interpellation par le Président, peut décider par assis et levé, sans débat, qu'il sera procédé à la fixation de la date de discussion immédiatement après la notification de l'interpellation au Gouvernement.
+Toutefois, le mardi après-midi, sur demande écrite de l'interpellateur, remise en même temps que son interpellation et revêtue de la signature de 50 membres, dont la présence doit être constatée par appel nominal, l'Assemblée, informée sans délai de l'interpellation par le Président, peut décider par scrutin public, sans débat, qu'il sera procédé à la fixation de la date de discussion immédiatement après la notification de l'interpellation au Gouvernement.
 
 L'Assemblée procède aux fixations de date sans débat sur le fond, après avoir entendu le Gouvernement.
 
-Pour toute fixation de date, les intervenions ne peuvent excéder cinq minutes. Seuls peuvent intervenir l'auteur de l'interpellation, les Présidents des groupes ou leurs délégués, et le Gouvernement. Sauf décision contraire de l'Assemblée, son ordre du jour, précédemment réglé sur les propositions de la Conférence des Présidents, conserve la priorité sur la discussion des interpellations.
+Pour toute fixation de date, les intervenions ne peuvent excéder cinq minutes. Seuls peuvent intervenir l'auteur de l'interpellation, les Présidents des groupes ou leurs délégués, et le Gouvernement.
+
+Les dispositions du deuxième alinéa du présent article ne sont pas applicables au cours des sessions extraordinaires du Parlement, réuni pour un ordre du jour limité, en application de l'article 12 (alinéa 3) de la Constitution.
 
 ## Article 91
 
@@ -1058,25 +1060,25 @@ Le droit de prendre la parole comme interpellateur est personnel. Toutefois le P
 
 Un interpellateur ne peut céder son rang de parole qu'à un autre interpellateur.
 
-Après que l'interpellateur a développé son interpellation, il est ouvert une discussion générale, dans laquelle tout Député peut s'inscrire et dont la clôture peut être prononcée, conformément à l'article 46.
+Après que l'interpellateur a développé son interpellation, la discussion générale, conformément aux articles 39 et 39 bis, est ouverte.
 
-Il est ensuite donné lecture des ordres du jour ; s'il n'en est pas déposé, le Président met aux voix, d'office, l'ordre du jour pur et simple.
+Il est ensuite donné lecture des ordres du jour ; s'il n'en est pas déposé, le Président constate que l'incident est clos.
 
-Seuls peuvent prendre la parole sur les ordres du jour, en dehors de l'un des signataires, les Présidents des groupes ou leurs délégués; le Gouvernement et, éventuellement, la commission intéressée.
+Après lecture des ordres du jour, la parole est donnée, s'il la demande, à l'un des signataires de chaque ordre du jour.
 
-Tout Député peut expliquer son vote sur les ordres du jour ; il ne dispose à cet effet que de cinq minutes.
+Tout Député peut ensuite expliquer son vote sur les ordres du jour ; il ne dispose à cet effet que de cinq minutes.
 
 ## Article 93
 
 Les ordres du jour motivés doivent être remis au Président, qui en donne lecture.
 
-Une modification ou addition de signature ou de texte à un ordre du jour n'est recevable que si elle a été déposée avant que le Président ait donné lecture de l'ordre du jour à l'Assemblée.
+Toute modification ou addition de signature ou de texte à un ordre du jour doit être communiquée par le Président à l'Assemblée avant le vote de cet ordre du jour.
 
 L'ordre du jour pur et simple, s'il est proposé, a toujours la priorité.
 
 La priorité est ensuite de droit pour les demandes de commission d'enquête.
 
-Le Président soumet les ordres du jour au vote de l'Assemblée, qui statue, s'il y a lieu, sur les questions de priorité.
+Le Président soumet les ordres du jour au vote de l'Assemblée, qui statue, s'il y a lieu, sur les questions de priorité. En cas de dépôt d'amendement à un ordre du jour assorti de la formule « et repoussant toute addition », l'Assemblée vote sur le maintien de cette restriction par priorité.
 
 # CHAPITRE XVI QUESTIONS ORALES OU ÉCRITES
 
@@ -1202,11 +1204,13 @@ Les peines disciplinaires applicables aux membres de l'Assemblée sont :
 
 Le Président seul rappelle à l'ordre.
 
-Est rappelé à l'ordre tout orateur qui s'en écarte et tout membre qui trouble l'ordre, soit par une des infractions au Règlement prévues à l'article 52, soit de toute autre manière.
+Est rappelé à l'ordre tout orateur qui trouble cet ordre.
 
 Tout Député qui, n'étant pas autorisé à parler, s'est fait rappeler à l'ordre, n'obtient la parole pour se justifier qu'à la fin de la séance, à moins que le Président n'en décide autrement.
 
 Est rappelé à l'ordre avec inscription au procès-verbal tout Député qui, dans la même séance, a encouru un premier rappel à l'ordre.
+
+Est également rappelé à l'ordre avec inscription au procès-verbal, tout Député qui a adressé à un ou plusieurs de ses collègues des injures, provocations ou menaces. Le rappel à l'ordre avec inscription au procès-verbal comporte de droit la privation, pendant un mois, du quart de l'indemnité parlementaire allouée au Député.
 
 ## Article 106
 
@@ -1234,6 +1238,12 @@ La censure avec exclusion temporaire entraine l'interdiction de prendre part aux
 
 En cas de refus du Député de se conformer à l'injonction qui lui est faite par le Président de sortir de l'Assemblée, la séance est suspendue. Dans ce cas et aussi dans le cas où la censure avec exclusion temporaire est appliquée pour la deuxième fois à un Député, l'exclusion s'étend à trente jours de séance.
 
+## Article 107 bis
+
+En cas de voie de fait d'un membre de l'Assemblée à l'égard d'un de ses collègues, le Président peut proposer au Bureau la peine de la censure avec exclusion temporaire. A défaut du Président, elle peut être demandée par écrit au Bureau par un Député.
+
+Lorsque la censure avec exclusion temporaire est, dans ces conditions, proposée contre un Député, le Président convoque le Bureau qui entend ce Député. Le Bureau peut appliquer une des peines prévues à l'article 104. Le Président communique au Député la décision du Bureau. Si le Bureau conclut à la censure avec exclusion temporaire, le Député est reconduit jusqu'à la porte du Palais par le chef des huissiers.
+
 ## Article 108
 
 La censure simple et la censure avec exclusion temporaire sont prononcées par l'Assemblée, par assis et levé, et sans débat, sur la proposition du Président.
@@ -1245,6 +1255,14 @@ Le Député, contre qui l'une ou l'autre de ces peines disciplinaires est demand
 La censure simple emporte, de droit, la privation, pendant un mois, de la moitié de l'indemnité allouée au Député.
 
 La censure avec exclusion temporaire emporte, de droit, la privation de la moitié de l'indemnité pendant deux mois.
+
+## Article 109 bis
+
+Lorsqu'un Député entreprend de paralyser la liberté des délibérations et des votes de l'Assemblée, et après s'être livré à des agressions contre un ou plusieurs de ses collègues refuse d'obtempérer aux rappels à l'ordre du Président, celui-ci lève la séance et convoque le Bureau.
+
+Le Bureau peut proposer à l'Assemblée de prononcer la peine de la censure avec exclusion temporaire, la privation de la moitié de l'indemnité parlementaire prévue par l'article 109 s'étendant dans ce cas à six mois.
+
+Si, au cours des séances qui ont motivé cette sanction, des voies de fait graves ont été commises, le Président saisit sur l'heure le Procureur Général.
 
 ## Article 110
 
