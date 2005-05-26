@@ -126,19 +126,21 @@ Elles sont composées chacune de 44 membres.
 
 Cinq jours avant la date fixée pour la nomination de ces commissions, les Bureaux des groupes remettront au Président de la Chambre, pour être publiée à la suite du compte rendu in extenso, la liste électorale de leurs membres.
 
-Les Députés qui n'appartiennent à aucun groupe en aviseront le Président de la Chambre qui les convoquera en un bureau spécial à l'effet de choisir leurs candidats.
-
 Nul ne pourra figurer à la fois sur la liste de deux groupes.
 
 Trois jours avant la date fixée pour la nomination, les bureaux des groupes, après s'être concertés, remettront au Président de la Chambre la liste de candidats qu'ils auront établie conformément à une règle de proportionnalité.
 
 Cette liste sera immédiatement insérée à la suite du compte rendu in extenso.
 
-Toute liste de candidats ainsi déposée sera considérée comme ayant reçu la ratification de la Chambre si, avant le jour fixé pour la nomination, 50 Députés ne s'y sont pas opposés par une déclaration écrite remise au Président de la Chambre.
+Toute liste de candidats ainsi déposée sera considérée comme ayant reçu la ratification de la Chambre si, avant le jour fixé pour la nomination, 50 Députés dont les noms seront insérés à la suite du compte rendu in extenso, ne s'y sont pas opposés par une déclaration écrite remise au Président de la Chambre.
 
 Dans le cas d'opposition, la Chambre procédera à un vote par scrutin de liste.
 
-Lorsque, sans congé officiel, un membre d'une commission n'aura pas assisté à cinq séances successives, la vacance sera prononcée, dès le lendemain de la cinquième absence, par le Bureau de la Chambre. Il sera pourvu à la vacance suivant les règles qui ont présidé à la formation primitive de la commission. Le député dont l'absence aura provoqué la vacance ne sera pas immédiatement rééligible.
+Lorsque des vacances viendront à se produire dans l'année, par décès, démission au autrement, chaque groupe désignera les candidats appelés à remplacer ses membres sortants et en remettra la liste au Président de la Chambre.
+
+Cette liste sera insérée à la suite du compte rendu in extenso et elle sera considérée comme ratifiée si, dans les trois jours qui suivent son insertion, aucune opposition n'a été remise par écrit au Président de la Chambre.
+
+Dans le cas d'opposition, il sera pourvu aux vacances par la même procédure que celle employée pour la nomination annuelle, les bureaux des groupes devant toujours observer, pour la présentation des candidatures, la règle de proportionnalité visée au paragraphe 6 du présent article.
 
 ## Article 13
 
@@ -146,21 +148,17 @@ Aucun député ne peut faire partie simultanément de plus de deux grandes commi
 
 ## Article 14
 
-Les grandes commissions permanentes nomment, conformément aux règles déterminées par l'article 8 : un Président, quatre Vice-Présidents et six secrétaires.
-
-Sauf décision spéciale de la Chambre, les commissions sont saisies de tous les projets ou propositions de loi rentrant dans leur compétence.
-
-Dans le mois qui suit le renvoi de ces projets ou propositions, elles désignent pour chacun d'eux un Rapporteur provisoire chargé de suivre la question et d'en préparer l'examen par la commission.
-
-Ces différentes nominations sont publiées au Journal officiel.
+Les grandes commissions permanentes visées à l'article 11 nomment, conformément aux règles déterminées par l'article 8 : un président, quatre vice-présidents et six secrétaires.
 
 ## Article 15
 
-En plus des grandes commissions permanentes, la Chambre peut toujours décider la constitution de commissions permanentes ou spéciales nommées soit suivant la procédure prévue à l'article 12, soit par scrutin de liste en assemblée générale, conformément aux règles déterminées à l'article 8, soit dans des Bureaux tirés au sort en vertu de l'article 17 ci-après.
+En plus des grandes commissions permanentes, la Chambre peut toujours décider la constitution de commissions permanentes ou spéciales nommées soit suivant la procédure prévue à l'article 12, soit par scrutin de liste en assemblée générale, conformément aux règles déterminées à l'article 8, soit dans des Bureaux tirés au sort en vertu de l'article 17 ci-après, soit conformément aux dispositions du paragraphe 5 de l'article 31.
 
 ## Article 16
 
-Toute commission nouvellement nommée est convoquée sans retard par le Président de la Chambre
+Toute commission nouvellement nommée est convoquée sans retard par le Président de la Chambre.
+
+Les grandes commission visées à l'article 11 sont pourvues d'un personnel et d'un local spécialisés et permanents, ainsi que des instruments de travail nécessaires.
 
 # CHAPITRE IV BUREAUX
 
@@ -222,11 +220,7 @@ Les propositions de loi et les propositions de résolution sont imprimées avec 
 
 ## Article 24
 
-Si le Gouvernement ou l'auteur de la proposition réclame la discussion immédiate, la commission saisie doit, soit aussitôt après le dépôt, soit dans le délai maximum de trois jours après la distribution, présenter un rapport sommaire concluant soit à la discussion immédiate, soit à l'ajournement.
-
-Lorsque la commission n'a pas déposé son rapport sommaire dans le délai prescrit, la discussion immédiate peut être demandée.
-
-Le débat engagé sur la demande de discussion immédiate, soit après rapport sommaire de la commission, soit en vertu du paragraphe précédent, ne peut porter sur le fond. L'auteur de la proposition, le rapporteur ou le président de la commission et un membre du Gouvernement ont seuls le droit d'être entendus.
+Les propositions de loi et les propositions de résolution sont imprimés avec l'exposé des motifs et distribuées.
 
 ## Article 25
 
@@ -240,7 +234,9 @@ La Chambre consacre un jour au moins par semaine aux travaux des commissions.
 
 ## Article 27
 
-Les commissions sont saisies par les soins de la Présidence de toutes les pièces et documents relatifs aux projets et propositions qu'elles ont à examiner.
+Sauf décision spéciale de la Chambre, les commissions sont saisies de tous les projets ou propositions de loi ou de résolution rentrant dans leur compétence.
+
+Elles sont également saisies par les soins de la Présidence de toutes les pièces et documents relatifs à ces projets ou propositions.
 
 Les membres de la Chambre peuvent prendre communication des pièces et documents remis aux commissions. Cette communication doit avoir lieu sans déplacement et sans que les travaux des commissions puissent être entravés.
 
@@ -256,17 +252,25 @@ Chacune des grandes commissions a le droit de désigner l'un de ses membres à l
 
 Les rapporteurs spéciaux de la commission des finances participent de droit, avec voix consultative, aux travaux des commissions dont la compétence correspond au budget particulier dont ils ont le rapport.
 
+Dans les quinze jours qui suivent le renvoi d'un projet ou d'une proposition de loi ou de résolution, la commission saisie désigne un rapporteur provisoire chargé de suivre la question et d'en préparer l'examen par la commission.
+
+Lorsqu'un projet ou une proposition de loi a été l'objet d'un renvoi pour avis, la commission saisie désigne un rapporteur appelé à intervenir en son nom dans la disucussion. L'avis doit être donné dans le délai de dix jours après que la commission saisie pour avis a eu connaissance des conclusions de la commission saisie du fond. Le rapporteur de l'avis a le droit de participer, avec voix consultative, aux travaux de la commission saisie du fond, et, réciproquement, le rapporteur de la commission saisie du fond a le droit de participer, avec voix consultative, aux travaux de la commission saisie pour avis.
+
+Les noms des titulaires des mandats conférés en vertu des quatre paragraphes ci-dessus seront notifiés au Président de la Chambre et publiés en annexe au procès-verbal de la Conférence des Présidents.
+
 ## Article 29
 
-Tout projet ou proposition de loi renvoyé à une commission doit être rapporté dans le délai maximum de six mois à dater du jour du renvoi à la commission, faute de quoi son auteur a le droit de demander directement sa mise à l'ordre du jour.
+Tout projet ou proposition de loi ou de résolution renvoyé à une commission doit être rapporté dans le délai maximum de quatre mois, non compris les intersessions, à dater du jour du renvoi à la commission.
 
 ## Article 30
 
-Dans toute commission, la présence du quart des membres est nécessaire pour la validité' des votes.
+Dans toute commission, la présence du quart des membres est nécessaire pour la validité des votes.
 
 Au cas d'impossibilité d'un vote par le défaut du quorum fixé au paragraphe précédent, le scrutin explicitement porté à l'ordre du jour de la séance suivante est valable à cette séance, quel que soit le nombre des membres présents.
 
 Le lendemain de chaque séance des grandes commissions permanentes, les noms des membres présents, excusés et absents sont insérés au Journal officiel.
+
+Lorsque, sans congé officiel, un membre d'une commission n'aura pas assisté à cinq séances successives, la vacance sera prononcée, dès le lendemain de la cinquième absence, par le Bureau de la Chambre. Il sera pourvu à la vacance suivant les règles qui ont présidé à la formation primitive de la commission. Le député dont l'absence aura provoqué la vacance ne sera pas immédiatement rééligible.
 
 ## Article 31
 
@@ -280,11 +284,7 @@ Lorsque les deux commissions intéressées sont d'accord, les renvois pour rappo
 
 En cas de conflit de compétence entre deux commissions, le Président soumet la question à la Chambre, qui décide après débat.
 
-La commission saisie pour avis d'une question désigne un rapporteur appelé à intervenir en son nom dans la discussion L'avis déposé sur le Bureau de la Chambre est imprimé et distribué.
-
-Lorsque la commission saisie pour avis ne s'est pas prononcée dans le délai de dix jours ou en cas de discussion urgente, la Chambre peut décider la mise à l'ordre du jour du rapport sans attendre cet avis.
-
-Les avis ne peuvent être accompagnes d'annexes.
+Celle-ci peut ordonner que le projet ou la proposition sera examiné par ces commissions délibérant exceptionnellement en commun, ou par une commission spéciale composée de membres nommés par ces commissions dans la proportion décidée par la Chambre.
 
 ## Article 32
 
@@ -294,15 +294,13 @@ Si les conclusions sont favorables au projet, elle est tenue de les communiquer 
 
 Cet avis motivé est imprimé et annexé au rapport principal.
 
-Lorsque la commission du budget n'a pas donné son avis dans le délai ci-dessus fixé, ou en cas de discussion urgente, la Chambre peut décider la mise à l'ordre du jour d'un rapport sans plus attendre. L'avis de la commission du budget peut être apporté oralement au cours du débat par un membre de la commission spécialement désigné à cet effet.
-
 ## Article 33
 
 Le rapport de la commission sur un projet de loi ou sur une proposition est déposé en séance publique ; il peut en être donné immédiatement lecture si la Chambre le décide. La Chambre peut également décider que ces rapports seront insérés à la suite du compte rendu in extenso.
 
 Au cours des intersessions ou durant les intervalles des séances, les rapports des commissions peuvent, en cas d'urgence, être immédiatement imprimés et distribués lorsque la demande écrite en est faite au Président de la Chambre par le président et le rapporteur de la commission. Ils sont en ce cas rattachés au procès-verbal de la dernière séance.
 
-A moins de décision contraire de la Chambre, motivée par des circonstances exceptionnelles, la discussion d'un rapport ne peut s'ouvrir que trois jours au moins après sa distribution, sauf pour les rapports du budget qui ne peuvent être discutés que huit jours au moins après leur distribution.
+L'avis d'une commission sur un projet de loi ou sur une proposition est déposé sur le Bureau de la Chambre ; il est imprimé et distribué. Il ne peut être accompagné d'annexes.
 
 ## Article 34
 
@@ -442,7 +440,7 @@ Si le motif qui a donné lieu au comité secret a cessé, le Président consulte
 
 ## Article 55
 
-Lorsque la Chambre est saisie d'une proposition tendant à l'affichage d'un discours, elle ne statue sur cette proposition, si la demande en est faite, qu'après l'insertion du discours au compte rendu in extenso.
+Toute proposition tendant à l'affichage d'un discours doit être déposée par écrit sur le bureau de la Chambre et seulement au début de la séance qui suit l'insertion du discours au compte rendu in extenso. Il est statué séance tenant et sans débat.
 
 # CHAPITRE VIII DE LA DISCIPLINE
 
@@ -532,7 +530,7 @@ La censure avec exclusion temporaire emporte de droit la privation de moitié de
 
 L'une et l'autre mesure entraînent, en outre, l'impression et l'affichage à deux cents exemplaires, aux frais du Député, de l'extrait du procès-verbal mentionnant la censure.
 
-Les affiches seront apposées dans toutes les communes de la circonscription par laquelle le Député a été élu.
+Les affiches sont apposées dans la circonscription par laquelle le Député a été élu.
 
 ## Article 67
 
@@ -646,11 +644,9 @@ Dans ce cas, les textes votés en première lecture sont renvoyés à la commiss
 
 ## Article 83
 
-Sauf dans le cas prévu par l'article 24, la demande de mise à l'ordre du jour d'un projet ou d'une proposition ne peut se produire qu'après le dépôt et la distribution du rapport de la commission.
-
-## Article 84
-
 La première discussion porte d'abord sur l'ensemble du projet ou de la proposition de loi.
+
+Quand cette discussion générale est close, le Président consulte la Chambre pour savoir si elle entend passer à la discussion des articles.
 
 Si la Chambre décide qu'elle ne veut point passer à la discussion des articles, le Président déclare que le projet de loi n'est pas adopté.
 
@@ -658,11 +654,25 @@ Dans le cas contraire, la discussion continue ; elle porte successivement sur ch
 
 Après le vote de tous les articles, il est procédé à un vote sur l'ensemble.
 
-## Article 85
+## Article 84
 
 Les amendements provenant de l'initiative d'un ou plusieurs membres, indiquent l'article de loi ou le chapitre du Budget auquel ils se rapportent.
 
 Ces amendements sont rédigés par écrit et sommairement motivés sont déposés entre les mains du Président. Ils sont imprimés, distribués et transmis à la commission compétente.
+
+Toute la procédure relative aux amendements s'applique aux contre-projets et aux articles additionnels.
+
+## Article 85
+
+Tous les amendements concernant un même projet et présentés avant le dépôt du rapport de la commission sont publiés en annexe de ce rapport avec l'exposé des motifs de leurs auteurs.
+
+La commission doit indiquer dans son rapport la suite qu'elle leur a donnée et les raisons de sa décision.
+
+Les amendements présentés après le dépôt et avant la mise à l'ordre du jour du rapport doivent faire l'objet d'un rapport supplémentaire.
+
+Tout auteur d'amendement a le droit d'être entendu par la commission chargée de l'examiner.
+
+La Chambre ne délibère sur aucun amendement, si, après avoir été régulièrement déposé, il n'est appuyé lors de la discussion.
 
 ## Article 86
 
@@ -722,21 +732,41 @@ L'ajournement est motivé en ces termes :
 
 « La Chambre, appelant de nouveau l'attention du Gouvernement sur telle ou telle clause du traité (relater en entier les clauses sur lesquelles se fonde l'ajournement) sursoit à donner l'autorisation de ratifier. »
 
-# CHAPITRE XI REGLEMENT DE L'ORDRE DU JOUR. PROCEDURE DES AFFAIRES INSCRITES SOUS RESERVE QU'IL N'Y AURA PAS DEBAT.
+# CHAPITRE XI INSCRIPTION A L'ORDRE DU JOUR DES PROJETS ET PROPOSITIONS
 
 ## Article 94
 
-Les présidents des commissions constituées en vertu de l'article 11, les présidents de gropes ou, à leur défaut, un membre désigné par le bureau de la commission ou du groupe, sont convoqués par le Président de la Chambre, chaque semaine s'il y a lieu, pour examiner l'état des travaux de l'Assemblée. Leur conférence donne lieu à une proposition motivée concernant l'ordre des travaux de la Chambre et le règlement de l'ordre du jour. Le Gouvernement, spécialement avisé par le Président de la Chambre du jour et de l'heure de la conférence, peut être entendu. La proposition présentée par la conférence est lue en séance par le Président, qui la soumet à l'approbation de la Chambre.
+Les présidents des grandes commissions, les présidents de groupes ou, à leur défaut, un membre désigné par le bureau de la commission ou du groupe, les Vice-Présidents de la Chambre sont convoqués par le Président de la Chambre, chaque semaine s'il y a lieu, pour examiner l'état des travaux de l'Assemblée. Leur conférence donne lieu à une proposition motivée concernant l'ordre des travaux de la Chambre et le règlement de l'ordre du jour. Le Gouvernement, spécialement avisé par le Président de la Chambre du jour et de l'heure de la conférence, peut être entendu. La proposition présentée par la conférence est lue en séance par le Président, qui la soumet à l'approbation de la Chambre.
 
 L'ordre du jour réglé par est affiché dans l'enceinte du Palais et publié au Journal officiel. Il ne peut être modifié que par un vote émis soit sur l'initiative du Gouvernement, soit sur une demande signée par cinquante membres dont la présence devra être constatée par un appel nominal.
 
 ## Article 95
 
-Lorsque l'examen d'un projet ou proposition de loi est commencé, la suite du débat est inscrite de droit en tête de l'ordre du jour de la séance suivante, sur la demande écrite faite par la commission compétente d'accord avec le Gouvernement.
+Sauf dans les cas prévus aux articles 96 et 96 bis, ou à moins de décision contraire de la Chambre, motivée par des circonstances exceptionnelles, la demande de mise à l'ordre du jour d'un projet ou d'une proposition de loi ne peut se produire qu'après le dépôt et la distribution du rapport et, s'il y a lieu, de l'avis. La discussion de ce rapport ne peut s'ouvrir que six jours au moins après sa distribution, sauf pour les rapports du budget qui ne peuvent être discutés que dix jours au moins après leur distribution. Lorsque la commission saisie pour avis ne s'est pas prononcée dans le délai de dix jours après qu'elle a eu connaissance des conclusions de la commission saisie du fond, ou en cas de discussion urgente, la Chambre peut décider la mise à l'ordre du jour sans plus attendre. L'avis peut être donné oralement au cours du débat par un membre de la commission spécialement désigné à cet effet. Lorsque l'examen d'un projet ou proposition de loi est commencé, la suite du débat est inscrite de droit en tête de l'ordre du jour de la séance suivante, sur la demande écrite faite par la commission compétente d'accord avec le Gouvernement.
+
+## Article 95 bis
+
+Les projets ou propositions de loi déjà adoptés par la Chambre et modifiés par le Sénat doivent être inscrits en tête de l'ordre du jour immédiatement après le débat en cours, sauf décision contraire de la Chambre.
 
 ## Article 96
 
-Les projets ou propositions de loi déjà adoptés par la Chambre et modifiés par le Sénat doivent être inscrits en tête de l'ordre du jour immédiatement après le débat en cours, sauf décision contraire de la Chambre.
+Lorsque le Gouvernement ou l'auteur d'une proposition de loi ou de résolution réclame la discussion immédiate, la commission compétente peut déposer son rapport sur le fond immédiatement après le dépôt et la lecture du projet ou de la proposition.
+
+La Chambre peut décider que ce rapport sera lu et discuté immédiatement ou qu'il sera inséré à la suite du compte rendu in extenso et que sa discussion sera portée en tête de l'ordre du jour de la plus prochaine séance.
+
+Si la commission saisie ne conclut pas à la discussion immédiate, elle doit, soit aussitôt après le dépôt de la proposition, soit dans le délai maximum de cinq jours après sa distribution, présenter un rapport sommaire concluant à l'ajournement.
+
+Dans les cinq jours qui suivent le dépôt de ce rapport sommaire ou le dernier délai dans lequel il aurait dû être déposé, la discussion immédiate peut être ordonnée par un vote émis sur une demande signée par cinquante membres dont la présence devra être constatée par un appel nominal.
+
+Le débat engagé sur cette demande de discussion immédiate ne peut porter sur le fond. L'auteur de la proposition, le rapporteur ou le président de la commission et un membre du Gouvernement ont seuls le droit d'être entendus.
+
+Le débat sur la demande de discussion immédiate ne peut venir qu'en fin de séance. Si la discussion immédiate est ordonnée, elle peut avoir lieu séance tenante ou être reportée en tête de l'ordre du jour de la plus prochaine séance.
+
+## Article 96 bis
+
+Lorsqu'un projet, une proposition de loi ou de résolution ou un amendement disjoint n'a pas été rapporté dans les quatre mois conformément aux dispositions de l'article 29, l'auteur a le droit de demander à la Chambre d'en ordonner l'inscription immédiate l'ordre du jour. Toutefois, lorsqu'il s'agit d'une proposition de loi ou de résolution, ou d'un amendement disjoint, ayant pour conséquence l'augmentation des dépenses ou la réduction des recettes de l'Etat, des départements ou des communes, la demande de mise à l'ordre du jour devra être signée par cinquante membres dont la présence devra être constatée par un appel nominal.
+
+Le débat ne pourra s'engager sur la demande visée au présent article que huit jours après qu'elle aura été remise au Président de la Chambre, afin que la commission des finances puisse être consultée s'il y a lieu. Ce débat sera soumis à la procédure des deux derniers paragraphes de l'article 96.
 
 ## Article 97
 
@@ -760,15 +790,15 @@ Si aucune demande régulière de retrait de l'ordre du jour n'est déposée, si 
 
 ## Article 100
 
-La commission du budget, prévue à l'article 11, est chargée de l'examen des lois des recettes et des dépenses. Sont renvoyés à l'examen de cette commission tous projets de loi portant demande de crédits supplémentaires ou extraordinaires afférents aux exercices courants, clos ou périmés. Elle ne peut être saisie des autres projets ou propositions de loi que pour avis.
+La commission du budget, prévue à l'article 11, est chargée de l'examen des lois des recettes et des dépenses. Sont renvoyés à l'examen de cette commission tous projets de loi portant demande de crédits supplémentaires ou extraordinaires afférents aux exercices courants, clos ou périmés.
 
 ## Article 101
 
-En ce qui touche le loi du budget, aucun amendement ou article additionnel tendant à augmenter les dépenses ne peut être déposé après les trois séances qui suivent la distribution du rapport dans lequel figure le chapitre visé. Aucune augmentation ou diminution de crédit ne peut être proposée à titre d'indication pure et simple. Lorsqu'un amendement ou article additionnel à la loi de finances rentre dans la compétence de l'une des grandes commissions permanentes et porte mois de cinquante signatures, il est renvoyé de droit à cette commission si le renvoi en est demandé par elle, par la commission du budget ou par le Gouvernement. Dans ce cas, le renvoi a lieu sans débat.
+En ce qui touche la loi de finances, la loi relative aux contributions directes, les lois portant ouverture de crédits, aucun amendement ou article additionnel tendant à augmenter les dépenses ou à réduire des recettes ne peut être déposé après les dix jours qui suivent la distribution du rapport dans lequel figure le chapitre visé. Aucune augmentation ou diminution de crédit ne peut être proposée à titre d'indication pure et simple.
 
 ## Article 102
 
-Aucune proposition tendant, soit à des augmentation de traitements, d'indemnités ou de pensions, soit à des créations de services, d'emplois, de pensions, ou à leur extension en dehors des limites prévues par les lois en vigueur, ne peut être faite sous forme d'amendement ou d'article additionnel au budget. Aucun projet de résolution, aucune motion, aucun ordre du jour motivé ne peuvent être déposés au cours de la discussion du budget.
+Aucune proposition tendant, soit à des augmentation de traitements, d'indemnités ou de pensions, soit à des créations de services, d'emplois, de pensions, ou à leur extension en dehors des limites prévues par les lois en vigueur, ne peut être faite sous forme d'amendement ou d'article additionnel à la loi de finances, à la loi relative aux contributions directes et aux lois portant ouverture ou annulation de crédit. Il ne peut être introduit dans ces projets de loi aucune disposition ne visant pas directement les recettes ou les dépenses. Aucun article additionnel ne peut être présenté à ces projets et les amendements ne sont recevables que s'ils se rapportent directement au texte des articles proposés. Cette disposition n'est pas applicable aux amendements tendant à assurer le contrôle des dépenses publiques ou de nature à réduire les dépenses. Aucun projet de résolution, aucune motion, aucun ordre du jour motivé ne peuvent être déposés au cours de la discussion de ces projets. Aucune interpellation ne peut leur être jointe.
 
 ## Article 103
 
