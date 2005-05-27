@@ -308,7 +308,7 @@ A moins de décision contraire de la Chambre, motivée par des circonstances exc
 
 Lorsque la Chambre est saisie d'un rapport par une commission, tout Député peut demander des précisions ou formuler des objections aux conclusions de ce rapport par une note écrite remise au Président de la Chambre et insérée à la suite du compte rendu in extenso.
 
-La commission peut répondre soit par un rapport supplémentaire, soit par une note remise au Président et insérée à la suite du compte rendu in extenso.
+La commission répondra à cette note soit par la même voie, soit par un rapport supplémentaire.
 
 Tout Député a le droit de faire parvenir directement à une commission des observations écrites sur les projets ou propositions dont elle est saisie.
 
