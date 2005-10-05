@@ -240,7 +240,7 @@ Les représentants de l'Assemblée nationale se concertent chaque année pour pr
 
 ## Article 30
 
-Les commissions spéciales sont constituées, en application de l'article 43 de la Constitution à l'initiative soit du Gouvernement, soit de 1'Assemblée, pour l'examen des projets et propositions.
+Les commissions spéciales sont constituées, en application de l'article 43 de la Constitution et sous la réserve de la loi organique relative aux lois de finances, à l'initiative soit du Gouvernement, soit de 1'Assemblée, pour l'examen des projets et propositions.
 
 La constitution d'une commission spéciale est de droit lorsqu'elle est demandée par le Gouvernement. Cette demande doit être formulée pour les projets de loi au moment de leur transmission à l'Assemblée nationale et pour les propositions dans le délai de deux jours francs suivant leur distribution.
 
@@ -256,7 +256,7 @@ Si une opposition à la demande de constitution d'une commission spéciale a ét
 
 ## Article 32
 
-Sauf lorsqu'il s'agit d'un projet de loi de finances, d'un projet portant approbation des options du Plan ou du Plan lui-même, d'un traité ou accord visé à l'article 128, ou si l'Assemblée a déjà refusé la constitution d'une commission spéciale, cette constitution, à l'initiative de l'Assemblée, est de droit lorsqu'elle est demandée, dans les délais prévus à l'article 31 (alinéa 1), par un ou plusieurs présidents de groupes dont l'effectif global représente la majorité absolue des membres composant l'Assemblée.
+Sauf lorsqu'il s'agit d'un projet portant approbation des options du plan ou du plan lui-même, d'un traité ou accord visé à l'article 128, ou si l'Assemblée a déjà refusé la constitution d'une commission spéciale, cette constitution, à l'initiative de l'Assemblée, est de droit lorsqu'elle est demandée, dans les délais prévus à l'article 31, alinéa 1, par un ou plusieurs présidents de groupes dont l'effectif global représente la majorité absolue des membres composant l'Assemblée.
 
 ## Article 33
 
@@ -870,7 +870,7 @@ Sans préjudice de la faculté ouverte par le deuxième alinéa de l'article 145
 
 ## Article 87
 
-Toute commission permanente qui s'estime compétente pour donner un avis sur un projet, une proposition, un article de loi ou un crédit budgétaire, renvoyé à une autre commission permanente informe le Président de l'Assemblée qu'elle désire donner son avis. Cette demande est soumise à la décision de l'Assemblée.
+Toute commission permanente qui décide de se saisir pour avis de tout ou partie d'un projet ou d'une proposition renvoyé à une autre commission permanente informe le Président de l'Assemblée. Cette décision est publiée au Journal officiel et annoncée à l'ouverture de la plus prochaine séance.
 
 Lorsqu'un projet ou une proposition a été l'objet d'un renvoi pour avis, la commission saisie désigne un rapporteur qui a le droit de participer, avec voix consultative, aux travaux de la commission saisie au fond. Réciproquement le rapporteur de la commission saisie au fond a le droit de participer, avec voix consultative, aux travaux de la commission saisie pour avis.
 
@@ -1182,53 +1182,53 @@ La commission compétente doit statuer dans le délai imparti par l'Assemblée q
 
 DEUXIÈME PARTIE : PROCÉDURE DE DISCUSSION DES DE FINANCES
 
-# CHAPITRE VIII DISCUSSION DES LOIS DE FINANCES EN COMMISSION
-
-## Article 117
-
-Sous réserve des dispositions de l'article 43 alinéa 1, de la Constitution, la commission des finances, de l'économie générale et du plan procède à l'examen des lois de finances dans les conditions prévues au chapitre II du présent titre.
-
-Toute commission peut désigner un ou plusieurs de ses membres à l'effet de participer, avec voix consultative, aux travaux de la commission des finances pendant l'examen des articles de loi ou des crédits ressortissant à sa compétence.
-
-Avant l'examen de chaque budget particulier, le rapporteur spécial de la commission des finances peut être convoqué devant la commission dont la compétence correspond à ce budget, afin d'y présenter un exposé de ses dispositions. Il doit mentionner dans son rapport les observations présentées par les membres de cette dernière commission. Il peut, en outre, suivre avec voix consultative l'ensemble des travaux de cette commission, aux séances de laquelle il doit être convoqué.
-
 # CHAPITRE IX DISCUSSION DES LOIS DE FINANCES EN SEANCE
 
 ## Article 118
 
-La discussion des lois de finances s'effectue selon la procédure législative prévue par le présent Règlement et les dispositions particulières de la Constitution, de la loi organique relative aux lois de finances et des articles 119 et 120.
+La discussion des projets de loi de finances s'effectue selon la procédure législative prévue par le présent Règlement et les dispositions particulières de la Constitution, de la loi organique relative aux lois de finances et des articles suivant du présent chapitre.
 
-Pour les amendements à la loi de finances de l'année, le délai prévu à l'article 99, alinéa 1, s'apprécie à compter de la distribution du rapport général pour les articles de la première partie de la loi de finances et les articles de la seconde partie dont la discussion n'est pas rattachée à un fascicule budgétaire, et à compter de la distribution de chaque rapport spécial pour les crédits d'un fascicule budgétaire et les articles qui lui sont rattachés. Le délai prévu à l'article 99, alinéa 3, s'entend respectivement de l'ouverture de la discussion générale du projet de loi de finances, de l'ouverture de la discussion des articles non rattachés et de l'ouverture de la discussion de chaque fascicule budgétaire.
+Pour les amendements à la première partie du projet de loi de finances de l'année, le délai prévu au premier alinéa de l'article 99 s'apprécie à compter de la distribution du rapport général. Le délai prévu au troisième alinéa de l'article 99 s'entend de l'ouverture de la discussion générale du projet de loi de finances.
 
-A l'issue de l'examen des articles de la première partie du projet de loi de finances, et avant de passer à l'examen de la seconde partie, il peut être procédé dans les conditions prévues à l'article 101, à une seconde délibération de tout ou partie de la première partie.
+Les amendements des députés aux missions de la seconde partie et aux articles qui leur sont rattachés du projet de loi de finances de l'année peuvent, sauf décision de la Conférence des Présidents, être présentés au plus tard l'avant-veille de la discussion de cette mission à 17 heures.
 
-Il est procédé à un vote sur l'ensemble de la première partie du projet de loi de finances dans les mêmes conditions que sur l'ensemble d'un projet de loi. Lorsque l'Assemblée n'adopte pas la première partie du projet de loi de finances, l'ensemble du projet de loi est considéré comme rejeté.
+Les amendements des députés aux articles de la seconde partie du projet de loi de finances de l'année non rattachés à une mission peuvent, sauf décision de la Conférence des Présidents, être présentés au plus tard la veille de la discussion de ces articles à 17 heures.
 
-Si, conformément à l'article 101, il est procédé avant le commencement des explications de vote sur l'ensemble à une seconde délibération de tout ou partie du projet de loi de finances, il ne peut être apporté d'autres modifications aux dispositions de la première partie que celles nécessitées, pour coordination, par les votes intervenus sur les articles de la seconde partie.
+A l'issue de l'examen des articles de la première partie du projet de loi de finances de l'année et des projets de loi de finances rectificatives, et avant de passer à l'examen de la seconde partie, il peut être procédé dans les conditions prévues à l'article 101, à une seconde délibération de tout ou partie de la première partie.
+
+Il est procédé à un vote sur l'ensemble de la première partie du projet de loi de finances de l'année ou d'un projet de loi de finances rectificative dans les mêmes conditions que sur l'ensemble d'un projet de loi. Lorsque l'Assemblée n'adopte pas la première partie du projet de loi de finances de l'année ou d'un projet de loi de finances rectificative, l'ensemble du projet de loi est considéré comme rejeté.
+
+Si, conformément à l'article 101, il est procédé avant le commencement des explications de vote sur l'ensemble à une seconde délibération de tout ou partie du projet de loi de finances de l'année ou d'un projet de loi de finances rectificative, il ne peut être apporté d'autres modifications aux dispositions de la première partie que celles nécessitées, pour coordination, par les votes intervenus sur les articles de la seconde partie.
 
 ## Article 119
 
-Tout article ou amendement contenant des dispositions autres que celles prévues par la loi organique relative aux lois de finances, doit être retiré de la loi de finances et faire l'objet d'un débat distinct, si la commission permanente qui aurait été compétente pour en connaître au fond au cas où cette disposition aurait fait l'objet d'un projet ou d'une proposition de loi, le demande, et si le président ou le rapporteur général ou un membre du bureau spécialement désigné à cet effet, de la commission des finances, de l'économie générale et du plan l'accepte.
+Tout article ou amendement contenant des dispositions autres que celles prévues par la loi organique relative aux lois de finances, doit être retiré d'un projet de loi de finances et faire l'objet d'un débat distinct, si la commission permanente qui aurait été compétente pour en connaître au fond au cas où cette disposition aurait fait l'objet d'un projet ou d'une proposition de loi, le demande, et si le président ou le rapporteur général ou un membre du bureau spécialement désigné à cet effet, de la commission des finances, de l'économie générale et du plan l'accepte.
 
 Ce débat est inscrit d'office à l'ordre du jour de l'Assemblée à la suite de la discussion de la loi de finances s'il s'agit d'un article du projet de loi de finances.
 
 ## Article 120
 
-La discussion des crédits inscrits dnas la deuxième partie de la loi de finances est organisée, outre les dispositions prévues par l'ordonnance n° 59-2 du 2 janvier 1959 précitée, par décision de la Conférence des Présidents, qui fixe, à cet effet, les temps de parole attribués aux groupes et aux commissions et les modalités de leur répartition entre les discussions des différents fascicules ministériels.
+Outre celles prévues par la loi organique relatives aux lois de finances les modalités de la discussion de la seconde partie du projet de loi de finances de l'année sont arrêtées par la Conférence des Présidents. Celle-ci fixe notamment la répartition des temps de parole attribués aux groupes et aux députés n'appartenant à aucun groupe ainsi que ceux attribués aux commissions et leur répartition entre les discussions.
 
 ## Article 121
 
-Les articles additionnels et amendements contraires aux dispositions de l'article 42 de la loi organique n°59-2 du 2 janvier 1959 relative aux lois de finances, sont déclarés irrecevables dans les conditions prévues aux articles 92 et 98.
+Les articles additionnels et amendements contraires aux dispositions de la loi organique relative aux lois de finances, sont déclarés irrecevables dans les conditions prévues aux articles 92 et 98.
 
 # CHAPITRE IX BIS DISCUSSION DES LOIS DE FINANCEMENT DE LA SECURITE SOCIALE
 
 ## Article 121-1
 
-La discussion des lois de financement de la sécurité sociale s'effectue selon la procédure législative prévue par le présent Règlement, par les dispositions particulières de la Constitution et par les dispositions de caractère organique prises pour leur application.
+La discussion des projets de loi de financement de la sécurité sociale s'effectue selon la procédure législative prévue par le présent Règlement, par les dispositions particulières de la Constitution et par les dispositions de caractère organique prises pour leur application.
 
 ## Article 121-2
 
-Les amendements contraires aux dispositions du III de l'article L. O. 111-3 du code de la sécurité sociale sont déclarés irrecevables dans les conditions prévues aux articles 92 et 98.
+Les amendements contraires aux dispositions du chapitre Iere bis du titre Ier du livre Ier du code de la sécurité sociale sont déclarés irrecevables dans les conditions prévues aux articles 92 et 98.
+
+## Article 121-3
+
+A l'issue de l'examen des articles d'une partie du projet de loi de financement de la sécurité sociale, et avant de passer à l'examen de la suivante, il peut être procédé, dans les conditions prévues à l'article 101. à une seconde délibération.
+
+Si, conformément à l'article 101, il est procédé avant le commencement des explications de vote sur l'ensemble à une seconde délibération de tout ou partie du projet de loi de financement de la sécurité sociale, il ne peut être apporté d'autres modifications aux dispositions de la troisième partie que celles nécessitées, pour coordination, par les votes intervenus sur quatrième partie.
 
 # TROISIEME PARTIE : PROCEDURES LEGISLATIVES SPECIALES
 
