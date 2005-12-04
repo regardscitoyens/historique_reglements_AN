@@ -536,7 +536,7 @@ Le vote au scrutin public est de droit :
 
 1° Après deux épreuves douteuses ;
 
-2° Sur tous les projets de loi portant ouverture de crédits autres que ceux d'intérêt local.
+2° Sur tous les projets de loi portant ouverture de crédits autres que ceux d'intérêt local et sur les projets de loi établissant ou modifiant les impôts et contributions publics.
 
 ## Article 82
 
@@ -612,13 +612,13 @@ La délibération est toujours terminée par un vote sur l'ensemble.
 
 ## Article 95
 
-La présence de 267 députés, majorité absolue de leur nombre légal, est nécessaire pour la validité des votes.
+La présence de 267 députés (aujourd'hui 291), majorité absolue de leur nombre légal, est nécessaire pour la validité des votes.
 
 Le Bureau constate le nombre des membres présents.
 
 Si le Bureau n'est pas unanime, il est procédé au scrutin public à la tribune.
 
-Au cas d'impossibilité d'un vote par le défaut de présence de la majorité absolue du nombre légal des députés, un second tour de scrutin sur le même objet est porté à l'ordre du jour de la séance suivante et, à ce second tour, le vote est valable, à la majorité relative, quel que soit le nombre des votants.
+Au cas d'impossibilité d'un vote par le défaut de présence de la majorité absolue du nombre légal des députés, un second tour de scrutin sur le même objet est porté à l'ordre du jour de la séance suivante et, à ce second tour, le vote est valable, à la majorité relative, quel que soit le nombre des votants. Toutefois, pour les élections en assemblée générale, prévues aux articles 2 et 89, cette dernière disposition n'est applicable qu'au troisième tour de scrutin.
 
 ## Article 96
 
