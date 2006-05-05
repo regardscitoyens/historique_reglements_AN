@@ -416,6 +416,10 @@ Les amendements nouveaux présentés après la clôture de la seconde délibéra
 
 - Les prescriptions relatives aux trois délibérations ne s'appliquent pas au budget des recettes et des dépenses, aux lois des comptes, aux lois portant demandes de crédits spéciaux, aux lois d'intérêt local. Pour le vote de ces lois, une seule délibération suffit ; elle a lieu suivant les formes déterminées par les art. 85, 86, 87 et 88 pour les cas où l'urgence a été déclarée.
 
+Néanmoins, s'il est présenté dans le cours de la délibération des amendements ou articles additionnels, ils sont soumis aux formalités prescrites par l'art. 69.
+
+S'ils sont pris en considération, ils doivent être imprimés et distribués. Ils ne peuvent être votés le jour même où ils ont été présentés.
+
 ## Article 72
 
 - Le résultat des délibérations de l'Assemblée est proclamé par le Président en ces termes : l'Assemblée nationale a adopté, ou l'Assemblée nationale n'a pas adopté.
