@@ -862,9 +862,9 @@ Les amendements présentés en commission et les modifications proposées par la
 
 L'auteur d'une proposition ou d'un amendement peut participer aux débats de la commision. La participation du Gouvernement est de droit.
 
-Les rapports faits sur un projet ou une proposition de loi portant sur les domaines couverts par l'activité des Communautés européennes comportent en annexe des éléments d'information sur le droit européen applicable et de la législation en vigueur dans les principaux pays de la Communauté.
+Les rapports faits sur un projet ou une proposition de loi portant sur les domaines couverts par l'activité de l'Union européenne comportent en annexe des éléments d'information sur le droit européen applicable ou en cours d'élaboration ainsi que les positions prises par l'Assemblée par voie de résolution.
 
-Les rapports faits sur un projet ou une proposition de loi dont l'application est susceptible d'avoir un impact sur la nature comportent en annexe un bilan écologique, constitué d'éléments d'information quant aux incidences de la législation proposée, notamment sur l'environnement, les ressources naturelles et les consommations d'énergie.
+Les rapports faits sur un projet ou une proposition de loi comportent en annexe une liste des textes susceptibles d'être abrogés ou modifiés à l'occasion de l'examen de ce projet ou de cette proposition.
 
 Sans préjudice de la faculté ouverte par le deuxième alinéa de l'article 145, à l'issue d'un délai de six mois suivant l'entrée en vigueur d'une loi dont la mise en oeuvre nécessite la publication de textes de nature réglementaire, le député qui en a été rapporteur ou, à défaut, un député désigné à cet effet par la commission compétente, présente à celle-ci un rapport sur la mise en application de cette loi. Ce rapport fait étét des textes réglementaires publiés et des circulaires édictées pour la mise en oeuvre de ladite loi, ainsi que de ses dispositions qui n'auraient pas fait l'objet des textes d'application nécessaires. Dans ce cas, la commission entend son rapporteur à l'issue d'un nouveau délai de six mois.
 
@@ -885,8 +885,6 @@ La veille éventuellement et, en tout état de cause, le jour de la séance à l
 La commission délibère au fond sur les amendements déposés avant l'expiration des délais prévus à l'article 99 et les repousse ou les accepte sans les incorporer à ses propositions, ni présenter de rapport supplémentaire.
 
 Elle examine les amendements postérieurs pour déterminer si elle en acceptera la discussion en séance. Dans l'affirmative, elle délibère sur le fond conformément à l'alinéa précédent.
-
-Sous réserve des dispositions de l'article 44, alinéa 2, de la Constitution, le président et le rapporteur de la commission ont qualité pour accepter ou refuser la discussion en séance des amendements qui n'ont pas été antérieurement soumis à la commission. En cas de désaccord, ils consultent la commission. S'ils acceptent la discussion de l'amendement, ils peuvent donner, au nom de la commission, leur avis sur celui-ci.
 
 # CHAPITRE III INSCRIPTION A L'ORDRE DU JOUR DE L'ASSEMBLÉE
 
@@ -914,7 +912,7 @@ Si le rapport ou l'avis a été distribué au moins la veille de l'ouverture du 
 
 Un membre du Conseil économique et social peut également être entendu dans les conditions fixées à l'article 97.
 
-Il ne peut ensuite être mis en discussion et aux voix qu'une seule exception d'irrecevabilité dont l'objet est de faire reconnaître que le texte proposé est contraire à une ou plusieurs dispositions constitutionnelles et une seule question préalable, dont l'objet est de faire décider qu'il n'y a pas lieu à délibérer. L'adoption de l'une ou l'autre de ces propositions entraîne le rejet du texte à l'encontre duquel elle a été soulevée. Dans la discussion de chacune d'elles, peuvent seuls intervenir l'un des signataire pour une durée qui ne peut excéder une heure trente sauf décision contraire de la Conférence des Présidents, le Gouvernement et le président ou le rapporteur de la commission saisie au fond. Avant le vote, la parole est accordée pour cinq minutes, à un orateur de chaque groupe.
+Il ne peut ensuite être mis en discussion et aux voix qu'une seule exception d'irrecevabilité dont l'objet est de faire reconnaître que le texte proposé est contraire à une ou plusieurs dispositions constitutionnelles et une seule question préalable, dont l'objet est de faire décider qu'il n'y a pas lieu à délibérer. L'adoption de l'une ou l'autre de ces propositions entraîne le rejet du texte à l'encontre duquel elle a été soulevée. Dans la discussion de chacune d'elles, peuvent seuls intervenir l'un des signataire pour une durée qui ne peut excéder trente minutes sauf décision contraire de la Conférence des Présidents, le Gouvernement et le président ou le rapporteur de la commission saisie au fond. Avant le vote, la parole est accordée pour cinq minutes, à un orateur de chaque groupe.
 
 L'encontre d'un texte discuté dans le cadre d'une séance tenue en application de l'article 48, alinéa 3, de la Constitution, il ne peut être mis en discussion et aux voix qu'une seule exception d'irrecevabilité. L'adoption de cette proposition entraîne le rejet du texte à l'encontre duquel elle a été soulevée. Dans la discussion, peuvent seuls intervenir l'un des signataires pour une durée qui ne peut excéder quinze minutes sauf décision contraire de la Conférence des Présidents, le Gouvernement et le président ou le rapporteur de la commission saisie au fond. Avant le vote, la parole est accordée, pour cinq minutes, à un orateur de chaque groupe.
 
@@ -1002,15 +1000,11 @@ S'il apparaît évident que l'adoption d'un amendement aurait les conséquences 
 
 ## Article 99
 
-Des amendements peuvent être présentés par les députés aux textes servant de base à la discussion dans un délai de trois jours ouvrables suivant la distribution du rapport.
-
-Toutefois, lorsque la discussion d'un texte est inscrite à l'ordre du jour de l'Assemblée au cours d'une session autre que celle durant laquelle le rapport a été distribué, il est ouvert un nouveau délai de deux jours ouvrables à compter de cette inscription à l'ordre du jour.
-
-Les amendements des députés cessent d'être recevables dès le début de la discussion générale, si celui-ci intervient avant l'expiration des délais susvisés.
+Les amendements des députés aux textes servant de base à la discussion dans un délai peuvent, sauf décision contraire de la Conférence des Présidents, être présentés au plus tard la veille de la discussion de ces textes à 17 heures. A défaut de la mise à disposition du rapport par voie électronique quarante-huit heures avant le début de la discussion du texte, les amendements des députés sont recevables jusqu'au début de la discussion générale.
 
 Après l'expiration de ce délai, seuls sont recevables :
 
-1° Les amendements déposés par le Gouvernement ou la commission saisie au fond, ou ceux dont l'un ou l'autre accepte la discussion ;
+1° Les amendements déposés par le Gouvernement ou la commission saisie au fond ;
 
 2° Les amendements déposés au nom d'une commission saisie pour avis ;
 
@@ -1070,7 +1064,7 @@ La demande d'examen du texte selon la procédure d'examen simplifiée est affich
 
 Les projets et propositions pour lesquels la procédure d'examen simplifiée est demandée ne peuvent faire l'objet des initiatives visées à l'article 91, alinéas 4 et 7, et à l'article 128, alinéa 2.
 
-Au plus tard la veille de la discussion à 18 heures, le Gouvernement, le président de la commission saisie au fond ou le président d'un groupe peuvent faire opposition à la procédure d'examen simplifiée.
+Au plus tard la veille de la discussion à 17 heures, le Gouvernement, le président de la commission saisie au fond ou le président d'un groupe peuvent faire opposition à la procédure d'examen simplifiée.
 
 L'opposition est adressée au Président de l'Assemblée qui la notifie au Gouvernement, à la commission saisie au fond ainsi qu'aux présidents des groupes, la fait afficher et l'annonce à l'Assemblée.
 
@@ -1182,13 +1176,21 @@ La commission compétente doit statuer dans le délai imparti par l'Assemblée q
 
 DEUXIÈME PARTIE : PROCÉDURE DE DISCUSSION DES DE FINANCES
 
+# CHAPITRE VIII DISCUSSION DES PROJETS DE LOI DE FINANCE EN COMMISSION 
+
+## Article 117
+
+La discussion des projets de loi de finance à lieu dans les conditions prévues au chapitre II du présent titre, sous réserve des dispositions qui suivent.
+
+La Conférence des Présidents peut décider que l'examen de certaines missions de la seconde partie du projet de loi de finances de l'année aura lieu, à titre principal et à l'exclusion des votes, au cours d'une réunion commune de la commission des finances, de l'économie générale et du plan et de la ou des commissions saisies pour avis. La réunion est coprésidée par les présidents des commissions concernées et son compte rendu est publié au Journal officiel à la suite du compte rendu intégral de la séance au cours de laquelle la mission est discutée.
+
+L'article 41 est applicable à ces commissions élargies dont la Conférence des Présidents arrête la liste et fixe les dates.
+
 # CHAPITRE IX DISCUSSION DES LOIS DE FINANCES EN SEANCE
 
 ## Article 118
 
 La discussion des projets de loi de finances s'effectue selon la procédure législative prévue par le présent Règlement et les dispositions particulières de la Constitution, de la loi organique relative aux lois de finances et des articles suivant du présent chapitre.
-
-Pour les amendements à la première partie du projet de loi de finances de l'année, le délai prévu au premier alinéa de l'article 99 s'apprécie à compter de la distribution du rapport général. Le délai prévu au troisième alinéa de l'article 99 s'entend de l'ouverture de la discussion générale du projet de loi de finances.
 
 Les amendements des députés aux missions de la seconde partie et aux articles qui leur sont rattachés du projet de loi de finances de l'année peuvent, sauf décision de la Conférence des Présidents, être présentés au plus tard l'avant-veille de la discussion de cette mission à 17 heures.
 
@@ -1242,7 +1244,7 @@ Ladite motion doit être signée par un dixième au moins des membres de l'Assem
 
 Cette motion est discutée immédiatement avant la discussion générale du projet ou, si la discussion générale est commencée, dès son dépôt. Elle n'est appelée que si la présence effective en séance des signataires est constatée au moment de l'appel. Elle a priorité, le cas échéant, sur la question préalable.
 
-La clôture de la discussion peut être prononcée dans les conditions prévues par l'article 37. Après la clôture de la discussion, la parole peut être accordée pour des explications de vote. Le Président met ensuite aux voix la motion.
+Dans la discussion, peuvent seuls intervenir l'un des signataires pour une durée qui ne peut excéder trente minutes, le Gouvernement et le président ou le rapporteur de la commission saisie au fond. Avant le vote, la parole est accordée, pour cinq minutes, à un orateur de chaque groupe.
 
 ## Article 123
 
