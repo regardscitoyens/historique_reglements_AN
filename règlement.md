@@ -154,7 +154,11 @@ Dans le cas où, la nomination est renvoyée aux bureaux, les scrutins sont ouve
 
 La Chambre peut renvoyer à une commission déjà formée l'examen des propositions et des projets de loi qui lui sont présentés.
 
-Dans ce cas, la nouvelle proposition sera soumise aux mêmes conditions d'examen auxquelles est assujettie la proposition dont la commission est déjà saisie.
+Après le renouvellement intégral de la Chambre, les rapports sur le fond déposés par les commissions de la précédente législature peuvent être repris et renvoyés aux commissions nouvelles, soit sur l'initiative des commissions elles-mêmes,soit sur l'initiative de 20 membres.
+
+Les demandes de renvoi sont déposées entre les mains du Président, qui les communique à la Chambre. Lorsque la demande émane d'une commission, le renvoi est de droit; dans le cas contraire la Chambre statue, par assis et levé, sans débat.
+
+Toute commission saisie d'un rapport émanant de la précédente législature peut décider qu'elle en accepte les conclusions sans amendement; elle charge alors l'un de ses membres d'en soutenir la discussion devant la Chambre, et l'inscription à l'ordre du jour a lieu dans les formes ordinaires sans autre procédure. Si la commission estime qu'il y a lieu de modifier un ou plusieurs articles, elle soumet à la Chambre un rapport se limitant aux articles amendés.
 
 ## Article 19
 
@@ -210,11 +214,13 @@ Ces dispositions ne sont pas applicables au cas d'urgence.
 
 ## Article 25
 
-Les commissions, convoquées sans retard nomment un président et un secrétaire conformément à l'art. 2.
+Les commissions, convoquées sans retard nomment un président et un secrétaire conformément à l'article 2.
 
-Elles élisent outre, dans les mêmes formes un rapporteur chargé de rendre compte à la Chambre du résultat de leurs travaux.
+Elles élisent outre, dans les mêmes formes, les rapporteurs chargés de rendre compte à la Chambre du résultat de leurs travaux.
 
-Le rapport est soumis à la Chambre dans un délai qui ne peut dépasser trois mois à dater du jour de la nomination du rapporteur.
+Chaque commission permanente doit déposer, au début de chaque session, sur le Bureau de la Chambre, un résumé sommaire de l'état de ses travaux qui sera inséré au Journal officiel.
+
+Tout projet ou proposition de loi renvoyé à une commission doit être rapporté dans le délai maximum de six mois à dater du jour du renvoi à la commission, faute de quoi son auteur a le droit de demander directement sa mise à l'ordre du jour.
 
 Le procès-verbal de chaque séance d'une commission mentionne le nom des membres présents.
 
