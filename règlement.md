@@ -1,835 +1,991 @@
 
 
-# CHAPITRE PREMIER Du bureau provisoire de l'Assemblée, et de la vérification des pouvoirs.
+# CHAPITRE PREMIER PRESIDENCE D'AGE. - BUREAU PROVISOIRE. - VERIFICATION DES POUVOIRS
 
-## Article 1
+## Article 1er
 
-A la séance d'ouverture de l'Assemblée nationale, le doyen d'âge occupe le fauteuil.
-
-Les six plus jeunes représentants remplissent les fonctions de secrétaires.
+A l'ouverture de la première séance de chaque session ordinaire, le plus âgé des membres présents occupe le fauteuil ; il est assisté des six plus jeunes membres présents, lesquels remplissent les fonctions de secrétaires jusqu'à l'élection du Bureau définitif.
 
 ## Article 2
 
-Il est procédé immédiatement, en séance publique, par scrutin séparé et à la majorité absolue, à la nomination d'un président et d'un vice-président provisoires.
+A la première séance d'une nouvelle législature, et après l'installation du Président d'âge, il est procédé immédiatement, en séance publique, par scrutin séparé, et à la majorité absolue, à la nomination d'un Président et de deux Vice-Présidents provisoires.
 
-Après deux tours de scrutin, et en cas de ballotage, la majorité relative suffit.
+Après deux tours de scrutin, et en cas de ballottage, la majorité relative suffit.
 
-En cas d'égalité de suffrages, le plus âgé nommé.
+S'il y a égalité de suffrages, le plus âgé est nommé.
+
+Des scrutateurs tirés au sort dépouillent le scrutin, et le doyen d'âge en proclame le résultat.
 
 ## Article 3
 
-- Les procès-verbaux d'élection sont, avec les pièces justificatives, répartis entre les bureaux, par ordre alphabétique de départements, et examinés par des commissions de cinq membres, formés dans chaque bureau par la voie du sort.
+Le Président provisoire est installé.
+
+Il procède par la voie du sort à la division de la Chambre en onze bureaux.
 
 ## Article 4
 
-- L'Assemblée prononce sur la validité des élections, et le Président proclame représentants ceux dont les pouvoirs ont été déclarés valides.
+Les bureaux procèdent, sans délai, à l'examen des procès-verbaux d'élection. Ces procès-verbaux sont répartis par ordre alphabétique de départements, et, autant que possible, proportionnellement au nombre total des élections. Ils sont examinés par des commissions de conq membres au moins, formées dans chaque bureau par voie du sort.
 
-# CHAPITRE II. Du bureau définitif de l'Assemblée.
+Les députés chargés de faire le rapport sont nommés par les bureaux.
 
 ## Article 5
 
-- Après la vérification des pouvoirs, nonobstant soit l'ajournement de plusieurs élections, soit des retards dans l'arrivée des procès-verbaux ou dans le dépôt des rapports, l'Assemblée forme son bureau définitif.
+La Chambre prononce sur la validité des élections, et le Président proclame le nom des députés dont les pouvoirs ont été déclarés valides.
 
-II se compose d'un président, de quatre vice-présidents, de six secrétaires et de trois questeurs.
+Si le bureau conclut à l'invalidation, la discussion ne peut avoir lieu le jour même de la lecture du rapport à la tribune.
 
 ## Article 6
 
-Le Président, les vice-présidents et les secrétaires sont élus pour trois mois. Les questeurs sont élus pour un an. Les membres du bureau sont toujours rééligibles.
+Les députés dont les pouvoirs n'ont pas encore été validés peuvent prendre part aux délibérations et aux votes.
+
+Toutefois le droit de voter est suspendu pour tout député dont l'admission a été ajournée par décision de la Chambre.
+
+Les députés non validés ne votent sur leur admission ni dans les bureaux ni en assemblée générale. Ils ne peuvent déposer aucune proposition de loi.
+
+# CHAPITRE II BUREAU DEFINITIF
 
 ## Article 7
 
-L'élection a lieu dans les formes déterminées par l'art. 2.
+Quand les pouvoirs de la moitié plus un des membres de la Chambre ont été vérifiés, il peut être procédé à l'élection du Bureau définitif.
 
-Les vice-présidents, secrétaires et questeurs sont nommés au scrutin de liste.
+Si les pouvoirs ont été vérifiés dans une session précédente, cette élection a lieu à la première séance de la session nouvellement ouverte.
 
 ## Article 8
 
-Le droit de prendre part aux votes de l'Assemblée est suspendu pour tout représentant dont l'admission a été ajournée par décision de l'Assemblée.
-
-# CHAPITRE III. Des bureaux et commissions.
+Le Bureau se compose d'un président, de quatre vice-présidents, de huit secrétaires, dont quatre au moins doivent siéger à tour de rôle pendant les séances publiques, et de trois questeurs. L'élection a lieu dans les formes déterminées par l'art. 2.
 
 ## Article 9
 
-L'Assemblée se partage en quinze bureaux, renouvelés chaque mois par la voie du sort.
+Les vice-présidents, secrétaires et questeurs sont nommés au scrutin de liste.
 
-Chaque bureau nomme, à la majorité absolue des votants, son président et son secrétaire.
+Le scrutin a lieu séparément pour chacune de ces fonctions.
 
 ## Article 10
 
-- Les bureaux sont tenus de se conformer, pour l'ordre de leurs travaux, aux ordres du jour arrêtés par l'Assemblée.
+Les membres du Bureau définitif sont élus au commencement de chaque session ordinaire.
+
+Ils restent en fonctions jusqu'à l'ouverture de la session ordinaire suivante.
 
 ## Article 11
 
-- Chacun d'eux discute séparément les questions renvoyées à leur examen.
+Après l'élection du Bureau définitif, le Président fait connaître au Sénat et au Président de la République que la Chambre des Députés est constituée.
 
-Sauf urgence déclarée, la discussion ne peut s'ouvrir dans les bureaux que vingt-quatre heures au plus tôt après la distribution des projets de lois et propositions.
+# CHAPITRE III BUREAUX. - COMMISSION. - RAPPORTS. DOCUMENTS
 
 ## Article 12
 
-Lorsque la discussion est terminée, chaque bureau nomme un commissaire, à la majorité absolue des votants.
+Les bureaux formés conformément à l'art. 3, se renouvellent chaque mois par la voie du sort. Ils ne peuvent procéder à aucun vote que si le tiers au moins des membres est présent.
+
+Ils élisent au scrutin, conformément à l'art. 2. leurs présidents et leurs secrétaires.
 
 ## Article 13
 
-Aucun membre de l'Assemblée- nationale faisant partie de deux commissions, autres que la commission de comptabilité et celle des congés, ne peut être appelé à faire partie d'une troisième, jusqu'à ce que l'une des deux premières ait déposé son rapport, à moins que cette troisième commission ne soit chargée de l'examen d'un projet de loi dont l'urgence a été déclarée.
+Ils doivent se conformer pour leurs travaux aux ordres du jour arrêtés par la Chambre. Il est tenu procès-verbal de leurs délibérations.
 
-Tout membre élu commissaire est tenu de déclarer devant le bureau s'il est libre, aux termes du règlement, d'accepter cette mission.
-
-Dans le cas de la négative, il est immédiatement procédé à son remplacement.
+Le procès-verbal de chaque séance mentionne le nom des membres présents.
 
 ## Article 14
 
-Lors du renvoi d'un projet de loi ou d'une proposition à l'examen des bureaux, l'Assemblée peut, sur la demande d'un de ses membres, décider que la nomination sera faite par scrutin de liste, et à la majorité relative, soit en assemblée générale, soit dans les bureaux.
-
-Cette décision est prise par assis et levé, sans débats.
-
-Dans le cas où la nomination est renvoyée aux bureaux, les scrutins sont ouverts et dépouillés dans chaque bureau. Le recensement général est opéré par le 1 bureau, et transmis au Président de l'Assemblée qui proclame le résultat.
+La discussion dans les bureaux ne peut s'ouvrir, sauf le cas d'urgence déclarée, que vingt-quatre heures après la distribution des projets de loi et propositions.
 
 ## Article 15
 
-L'Assemblée peut aussi, si elle le juge convenable, renvoyer à une commission déjà formée l'examen des projets ou propositions qui lui sont soumis.
-
-Dans ce cas, la nouvelle proposition sera soumise •aux mêmes conditions d'examen, auxquelles est assujettie la proposition dont la commission est déjà saisie.
+Lorsque la discussion est terminée, chaque bureau nomme un commissaire, conformément aux règles déterminées par l'art. 2.
 
 ## Article 16
 
-Les commissions, convoquées sans retard nomment, à la majorité absolue des votants, un président et un secrétaire.
-
-Elles choisissent en outre, dans les mêmes formes, un rapporteur chargé de rendre compte à l'Assemblée du résultat de leurs travaux.
+Suivant la nature des projets qui sont à examiner la Chambre peut décider que les commissions seront de vingt-deux membres ou de trente-trois au lieu de onze.
 
 ## Article 17
 
-- L'auteur d'une proposition a droit d'assister, avec voix consultative, aux séances de la commission chargée d'en faire l'examen.
+Lors du renvoi d'un projet de loi ou d'une proposition à l'examen des bureaux, la Chambre peut décider, sur la demande d'un de ses membres, que la nomination des commissaires sera faite par scrutin de liste, soit en assemblée générale, soit dans les bureaux conformément aux règles déterminées par l'article 2.
 
-S'il y a plusieurs auteurs d'une même proposition, ils doivent désigner un d'entre eux qui les représentera an près de la commission.
+Dans le cas où, la nomination est renvoyée aux bureaux, les scrutins sont ouverts et dépouillés dans chaque bureau. Le recensement général est opéré par le premier bureau et transmis au Président de la Chambre qui proclame le résultat.
 
 ## Article 18
 
-- Le Président envoie aux bureaux et commissions toutes les pièces relatives aux objets qui doivent y être discutés.
+La Chambre peut renvoyer à une commission déjà formée l'examen des propositions et des projets de loi qui lui sont présentés.
 
-Ces pièces sont déposées aux archives par les rapporteurs après le vote de l'Assemblée.
+Dans ce cas, la nouvelle proposition sera soumise aux mêmes conditions d'examen auxquelles est assujettie la proposition dont la commission est déjà saisie.
 
 ## Article 19
 
-- Les commissions communiquent directement avec les ministres par leur président, ou par ceux de leurs membres qu'elles auront désignés.
+Les bureaux, au commencement de chaque session-ordinaire, nomment pour l'année entière une commission de onze membres, chargée de la comptabilité des fonds alloués pour les dépenses de la Chambre.
 
 ## Article 20
 
-- Une commission de quinze membres, renouvelée chaque mois dans les bureaux, est chargée de l'examen des projets de lois relatifs à des intérêts communaux et départementaux.
+A chaque renouvellement des bureaux, il est nommé quatre commissions mensuelles :
 
-## Article 20 bis
+Une commission de vingt-deux membres chargée d'examiner les projets émanant de l'initiative parlementaire et de donner un avis sur la prise en considération ;
 
-- Une commission de quinze membres, renouvelée chaque année dans les bureaux, est chargée de l'examen des projets de loi affectant des immeubles nationaux aux services publics.
+Une commission de onze membres, chargée de l'examen des projets de loi relatifs aux intérêt communaux et départementaux ;
+
+Une commission de onze membres, chargée de l'examen des pétitions;
+
+Une commission de onze membres, chargée de donner son avis sur toute demande de congé.
 
 ## Article 21
 
-- Une commission de quinze membres, renouvelée chaque mois dans les bureaux, est chargée de l'examen des pétitions.
+Une commission de trente-trois membres, nommée par les bureaux, est chargée de l'examen de la loi des recettes et des dépenses.
 
 ## Article 22
 
-Une commission de trente membres, renouvelée chaque mois dans les bureaux, est chargée d'examiner les propositions émanant de l'initiative parlementaire, et de donner son avis sur la prise en considération.
+Sont renvoyés à l'examen de cette commission :
+
+1° Tous projets de loi portant demande de crédits supplémentaires ou extraordinaires afférents aux exercices courants, clos ou périmés ;
+
+2° Tous projets de loi ou propositions qui peuvent avoir pour effet de modifier les recettes ou dépenses de l'État.
+
+Lors de la présentation des projets de loi de crédits supplémentaires ou extraordinaires, ces projets sont dévolus à la commission sur le rapport de laquelle la dernière loi des recettes et des dépenses a été votée.
 
 ## Article 23
 
-Une commission de trente membres, nommée par les bureaux, est chargée de l'examen de la loi des recettes et des dépenses.
+La Chambre peut toujours renvoyer à une commission spéciale l'examen des projets de loi et propositions énoncés en l'article précédent.
 
 ## Article 24
 
-Sont renvoyés à l'examen de cette commission :
+Toute commission spéciale chargée de l'examen d'un projet de loi ou d'une proposition affecte tant les recettes ou les dépenses de l'Etat, fait son rapport sur l'ensemble du projet, sans pouvoir proposer d'imputation de crédits.
 
-1° Tous projets de lois portant demande de crédits supplémentaires ou extraordinaires afférents aux exercices courants, clos ou périmés;
-
-2° Tous projets de lois ou propositions qui peuvent avoir pour effet de modifier les recettes ou les dépenses de l'Etat.
-
-Lors de la présentation des projets de lois de crédits supplémentaires ou extraordinaires, ces projets sont dévolus à la commission sur le rapport de laquelle la dernière loi des recettes et des dépenses a été votée.
-
-## Article 25
-
-L'Assemblée peut toujours renvoyer à une commission spéciale l'examen des projets de lois et propositions énoncés en l'article précédent.
-
-## Article 26
-
-Toute commission spéciale chargée de l'examen d'un projet de loi ou d'une proposition affectant les recettes on les dépenses de l'Etat, fait un rapport sur l'ensemble du projet, sans pouvoir proposer d'imputation de crédits.
-
-Si les conclusions sont favorables au projet, elle est tenue de les communiquer à la commission du budget.
-
-Celle-ci, dans les dix jours, donne son avis sur l'imputation des crédits.
+Si les conclusions sont favorables au projet elle est tenue de les communiquer à la commission du Budget. Celle-ci, dans les dix jours, donne son avis sur l'imputation des crédits.
 
 Cet avis motivé est imprimé et annexé au rapport principal.
 
 Ces dispositions ne sont pas applicables au cas d'urgence.
 
-# CHAPITRE IV De la tenue des séances.
+## Article 25
+
+Les commissions, convoquées sans retard nomment un président et un secrétaire conformément à l'art. 2.
+
+Elles élisent outre, dans les mêmes formes un rapporteur chargé de rendre compte à la Chambre du résultat de leurs travaux.
+
+Le procès-verbal de chaque séance d'une commission mentionne le nom des membres présents.
+
+## Article 26
+
+Le rapport de la commission sur un projet de loi ou sur une proposition est déposé en séance publique ; il en est donné lecture si la Chambre le décide.
+
+Ce rapport est imprimé et distribué vingt-quatre heures au moins avant la discussion, sauf le cas d'urgence déclarée par la Chambre.
 
 ## Article 27
 
-- Le Président ouvre la séance.
+Aucun membre de la Chambre faisant partie deux commissions autres que la commission chargée d'examiner les projets de loi d'intérêt local, la commission de comptabilité ou celle des congés, ne peut être appelé à faire partie d'une troisième commission jusqu'à ce que l'une des deux premières ait nommé son rapporteur.
 
-Il dirige les délibérations, fait observer le règlement, et maintient l'ordre.
+Les membres de la commission du Budget ne peuvent faire partie d'aucune autre commission tant que les rapporteurs sur les recettes et les dépenses des divers ministères n'ont pas été nommés.
+
+Tout membre élu commissaire est tenu de déclarer devant le bureau s'il est libre aux termes du règlement d'accepter cette mission.
+
+Dans le cas de la négative, il est immédiatement procédé à son remplacement.
 
 ## Article 28
 
-- Les secrétaires surveillent la rédaction du procès-verbal.
+Le Président envoie aux bureaux et commissions toutes les pièces relatives aux objets qui doivent y être discutés.
 
-Un d'eux en donne lecture à l'ouverture de chaque séance.
+Les membres de la Chambre peuvent prendre communication des documents remis aux commissions ou aux bureaux pour l'étude des projets à examiner.
 
-Le procès-verbal adopté par l'Assemblée est signé par le président ou le vice-président qui a tenu la séance, et par deux secrétaires au moins.
+Cette communication doit avoir lieu sans déplacement et sans que les travaux des commissions puissent être entravés.
+
+Ces documents et les procès-verbaux des bureaux et des commissions restent déposés aux Archives de la Chambre, après le vote des projets.
 
 ## Article 29
 
-Avant de passer à l'ordre du jour, le Président donne connaissance à l'Assemblée des communications qui la concernent.
+La Chambre consacre un jour par semaine aux travaux des commissions. Toutefois une résolution contraire peut toujours être prise si l'urgence de certaine délibération le commande.
+
+# CHAPITRE IV PROJETS DE LOI PRESENTES PAR LE GOUVERNEMENT
 
 ## Article 30
 
-Les pièces communiquées à l'Assemblée sont déposées sur le bureau ou adressées au Président. L'Assemblée peut en ordonner l'impression, si elle le juge utile.
+Les projets de loi présentés au nom du Gouvernement sont déposés par un des Ministres sur
+
+le bureau de la Chambre, après lecture s'il y a lieu.
 
 ## Article 31
 
-Aucun membre de l'Assemblée ne peut parler qu'après avoir demandé la parole au Président et l'avoir obtenue.
+Ces projets sont imprimés avec l'exposé des motifs et distribués.
+
+Ils sont transmis aux bureaux par le Président ou renvoyés, comme il est dit à l'art. 18, à une commission déjà existante.
 
 ## Article 32
 
-Les secrétaires inscrivent pour la parole les représentants, suivant l'ordre de leur demande.
+Lorsque la Chambre est saisie d'un projet de loi par lequel le Gouvernement, conformément à l'art. 8 de la loi du 16 juillet 1875, lui demande l'approbation d'un traité conclu avec une puissance étrangère, il n'est pas voté sur les articles du traité, et il ne peut être présenté d'amendement à son texte.
 
-## Article 33
+Si, dans le cours des deux délibérations, il y a opposition à quelques-unes des clauses du traité elle se produit sous forme de demande de renvoi à la commission, imprimée et distribuée au moins vingt-quatre heures à l'avance.
 
-Dans les discussions, les orateurs parlent alternativement pour et contre.
+Si, après débat, la Chambre prend en considération, elle prononce le renvoi.
 
-## Article 34
-
-L'orateur ne parle qu'à la tribune, à moins que le Président ne l'autorise à parler de sa place.
-
-## Article 35
-
-L'orateur doit se renfermer dans la question ; s'il s'en écarte, le Président l'y rappelle.
-
-Aucun membre de l'Assemblée ne peut obtenir la parole sur le rappel à la question.
-
-## Article 36
-
-Lorsqu'un orateur a été rappelé deux fois à la question dans le même discours, l'Assemblée peut, sur la proposition du Président, lui interdire la parole sur la même question pour le reste de la séance.
-
-L'Assemblée prononce par assis et levé, sans débats.
-
-## Article 37
-
-- Nul ne parle plus de deux fois sur la même question, à moins que l'Assemblée n'en décide autrement.
-
-## Article 38
-
-- Toute interruption, toute personnalité, tout applaudissements et signes d'improbation sont interdits.
-
-## Article 39
-
-- La question préalable, c'est-à-dire la déclaration qu'il n'y a lieu à délibérer, peut toujours être proposée.
-
-# CHAPITRE V Des Votations.
-
-## Article 40
-
-- Les réclamations d'ordre du jour, de priorité et de rappel au règlement ont la préférence sur la question principale ; elles en suspendent la discussion sans que l'orateur puisse être interrompu.
-
-## Article 41
-
-- Les amendements sont mis aux voix avant la question principale.
-
-## Article 42
-
-- Les projets de lois et propositions sont votés par articles. La délibération est toujours terminée par un vote sur l'ensemble.
-
-## Article 43
-
-- Dans les question complexes, la division a lieu de droit, lorsqu'elle est demandée.
-
-## Article 44
-
-- La parole est accordée à tout membre qui la demande pour un fait personnel.
-
-## Article 45
-
-Avant de prononcer la clôture de la discussion, le Président consulte l'Assemblée.
-
-Si la parole est demandée contre la clôture, elle ne peut être accordée qu'à un seul orateur.
-
-S'il y a doute sur le vote de l'assemblée, après une seconde épreuve, la discussion continue.
-
-La clôture prononcée, la parole n'est plus accordée que sur la position de la question.
-
-## Article 46
-
-Le Président, avant de prononcer la clôture de la séance, règle, après avoir consulté l'Assemblée, l'ordre du jour de la séance suivante.
-
-L'ordre du jour ainsi réglé est affiché dans la salle des séances, et publié dans le Moniteur.
-
-## Article 47
-
-L'Assemblée vote sur les questions soumises à ses délibérations, par assis et levé, an scrutin public, au scrutin secret.
-
-## Article 48
-
-Le vote par assis et levé est de droit sur toutes les questions sauf les exceptions prévues par les art. 50, 51 et 55 du présent règlement.
-
-## Article 49
-
-- Le Vote par assis et levé est constaté par le Président et les secrétaires. S'ils décident qu'il y a doute l'épreuve est renouvelée.
-
-Nul ne peut obtenir la parole entre les deux épreuves, entre la deuxième épreuve et le vote au scrutin.
-
-## Article 50
-
-- Le vote au scrutin public est de droit :
-
-1° Après deux épreuves douteuses ;
-
-2° Sur tous projets de lois portant ouverture de crédits, autres que ceux, d'intérêt local.
-
-## Article 51
-
-- Le vote au scrutin public peut être demandé en toute matière.
-
-Sont exceptées les questions de fixation d'ordre du jour, de rappel au règlement, de priorité, d'ajournement de renvoi, de clôture de la discussion, et la prise en considération de la proposition d'urgence.
-
-Ait. 52. — Le scrutin public peut être demandé, soit avant toute épreuve par assis et levé, soit après une première épreuve douteuse.
-
-Il peut aussi être demandé, même après le vote par assis et levé, s'il s'agit de statuer sur l'ensemble d'un projet de loi ou d'une proposition.
-
-## Article 53
-
-- La demande du scrutin public doit être faite par écrit, signée de 20 membres au moins, et déposée entre les mains du Président.
-
-Les noms des signataires et ceux des votants sont insérés au Moniteur.
-
-## Article 54
-
-- Il est procédé au scrutin public dans les formes suivantes :
-
-Le Président invite les représentants à prendre leurs places. Chaque représentant a deux bulletins de vote sur lesquels son nom est imprimé. Les bulletins blancs expriment l'adoption, les bulletins bleus la non-adoption. Les huissiers présentent à chaque membre de l'Assemblée une urne dans laquelle il dépose son bulletin. Lorsque les votes sont recueillis, le Président prononce la clôture du scrutin. Les urnes sont immédiatement apportées sur la tribune. Les Secrétaires en font le dépouillement, et le Président proclame le résultat du vote.
-
-Si vingt membres demandent que le scrutin ait lieu à la tribune, l'Assemblée prononce par assis et levé, sans débats.
-
-## Article 55
-
-Dans tous les cas où le scrutin public peut ou doit être admis, si quarante membres réclament le scrutin secret, il doit y être procédé.
-
-Les formes prescrites pour la demande du scrutin public sont observées pour celle du scrutin secret.
-
-Les noms des signataires de la demande sont insérés au Moniteur.
-
-## Article 56
-
-En cas de scrutin secret, si l'appel nominal est réclamé, l'Assemblée prononce par assis et levé, sans débats.
-
-L'appel nominal est fait par un des secrétaires; il est immédiatement suivi d'un réappel pour les représentants qui n'ont pas encore voté.
-
-## Article 57
-
-- Il est procédé au scrutin dans les formes suivantes :
-
-Chaque représentant reçoit une boule blanche et une boule noire ; il dépose dans l'urne placée sur la tribune la boule qui exprime son vote ; il met dans une autre urne, placée sur le bureau des secrétaires, la boule dont il n'a pas fait l'usage. La boule blanche exprime l'adoption, la noire la non-adoption.
-
-Les secrétaires versent les boules dans une corbeille. Ils en font ostensiblement le compte, et séparent les boules blanches des noires.
-
-Le résultat de ce compte est arrêté par deux secrétaires au moins, et proclamé par le Président.
-
-Après avoir voté, chaque membre de l'Assemblée reprend sa place.
-
-## Article 58
-
-- Les nominations en assemblée générale, dans les bureaux et commissions, se font au scrutin secret.
-
-En assemblée générale, le contrôle des votes se fait par le compte des boules que chaque votant dépose dans l'urne placée sur le bureau des secrétaires.
-
-Le dépouillement des scrutins de nomination a lieu par des scrutateurs désignés par le sort, au nombre de cinq pour chaque table de dépouillement.
-
-## Article 59
-
-- La présence de trois-cent soixante-dix membres, majorité absolue du nombre légal des représentants nécessaires pour la validité des votes de l'Assemblée.
-
-Le bureau constate le nombre des membres présents.
-
-Si le bureau n'est pas unanime, il est procédé au scrutin public.
-
-## Article 60
-
-Sur la demande de cinq membres l'Assemblée, par assis et levé, sans débats, décide si elle se formera en Comité secret.
-
-# CHAPITRE VI. Des projets de lois présentés à l'Assemblée.
-
-## Article 61
-
-Les projets de lois présentés an nom du Gouvernement sont déposés par un des ministres sur le bureau de l'Assemblée, après lecture, s'il y a lieu.
-
-Ces projets sont imprimés avec l'exposé des motifs, et distribués.
-
-Ils sont transmis dans les bureaux par le Président, pour être discutés suivant la forme réglée au chapitre III.
-
-Les projets de lois portant demande de crédits supplémentaires ou extraordinaires et renfermant les énonciations prescrites à l'art. 3 de la loi du 16 mai 1851, sont déposés par le ministre des finances.
-
-## Article 62
-
-- Les rapports des commissions sont déposés sur le bureau de l'Assemblée, après lecture, s'il y a lieu. Le Président propose, et l'Assemblée fixe le jour de la discussion.
-
-## Article 63
-
-- Les rapports, sauf les cas d'urgence, sont imprimés et distribués. La discussion ne peut s'ouvrir en assemblée générale, que vingt-quatre heures au moins après la distribution.
-
-## Article 64
-
-Aucun projet de loi, sauf les cas d'urgence n'est voté définitivement qu'après trois délibérations, à des intervalles qui ne peuvent pas être moindres de cinq jours.
-
-La première délibération porte spécialement sur l'ensemble du projet. L'Assemblée est consultée pour savoir si elle veut passer à la deuxième délibération.
-
-A la deuxième délibération, il est procédé au vote de chaque article, et des amendements qui s'y rapportent. L'Assemblée décide si elle doit passer à la troisième délibération.
-
-A la suite de la troisième délibération, qui comprend l'ensemble et les dispositions particulières du projet, il est procédé au vote définitif.
-
-## Article 65
-
-Les amendements sont rédigés par écrit, et remis au Président.
-
-L'Assemblée ne délibère sur aucun amendement, si, après avoir été développé, il n'est appuyé.
-
-## Article 66
-
-Tout amendement présenté, et non soumis au vote dans le cours de la séance, est imprimé et distribué avant la séance suivante.
-
-## Article 67
-
-Tout amendement proposé pendant la deuxième délibération est renvoyé de droit à l'examen de la commission, si le rapporteur le demande.
-
-## Article 68
-
-Les amendements nouveaux présentés après la clôture de la seconde délibération doivent être communiqués à la commission, imprimés, distribués un jour au moins avant l'ouverture de la troisième.
-
-## Article 69
-
-- S'il en est présenté dans le cours même de cette délibération, ils sont motivés sommairement à la tribune. L'Assemblée, consultée, décide, par assis et levé, sans débats, si elle les prend en considération ; dans ce cas, ils sont renvoyés à l'examen de la commission.
-
-## Article 70
-
-- Si, après une des trois délibérations, le projet est repoussé, il ne peut être reproduit avant le délai de trois mois.
-
-## Article 71
-
-- Les prescriptions relatives aux trois délibérations ne s'appliquent pas au budget des recettes et des dépenses, aux lois des comptes, aux lois portant demandes de crédits spéciaux, aux lois d'intérêt local. Pour le vote de ces lois, une seule délibération suffit ; elle a lieu suivant les formes déterminées par les art. 85, 86, 87 et 88 pour les cas où l'urgence a été déclarée.
-
-Néanmoins, s'il est présenté dans le cours de la délibération des amendements ou articles additionnels, ils sont soumis aux formalités prescrites par l'art. 69.
-
-S'ils sont pris en considération, ils doivent être imprimés et distribués. Ils ne peuvent être votés le jour même où ils ont été présentés.
-
-## Article 72
-
-- Le résultat des délibérations de l'Assemblée est proclamé par le Président en ces termes : l'Assemblée nationale a adopté, ou l'Assemblée nationale n'a pas adopté.
-
-## Article 72 bis
-
-- Lorsque l'Assemblée est saisie d'un projet de loi par lequel le Gouvernement, conformément à l'art. 83 de la Constitution, lui demande l'approbation d'un traité conclu avec une puissance étrangère, il n'est pas voté sur les articles du traité, et il ne peut être présenté d'amendements à son texte.
-
-Si, dans le cours des deux premières délibérations, il y a opposition à quelques-unes des clauses du traité, elle se produit sous forme de demande de renvoi à la commission, imprimée et distribuée au moins vingt-quatre heures à l'avance.
-
-Si, après débat, l'Assemblée prend en considération, elle prononce le renvoi.
-
-Lors de la troisième délibération, la commission fait un rapport d'ensemble, qui doit être imprimé et distribué sur les différentes clauses contestées et renvoyées à son examen. Elle conclut à l'adoption au rejet ou à l'ajournement du projet de loi.
+Lors de la seconde délibération, la commission fait un rapport d'ensemble, qui doit être imprimé et distribué, sur les différentes clauses contestées et renvoyées à son examen. Elle conclut à l'adoption, an rejet ou à l'ajournement du projet de loi.
 
 L'ajournement est motivé en ces termes :
 
-« L'Assemblée, appelant de nouveau l'attention du Gouvernement sur telle ou telle clause du traité (relater en entier les clauses sur lesquelles se fonde l'ajournement) sursoit à donner l'autorisation de ratifier. »
+« La Chambre, appelant de nouveau l'attentif du Gouvernement sur telle ou telle clause du traité (relater en entier les clauses sur lesquelles se fonde l'ajournement) sursoit à donner l'autorisation de ratifier. »
 
-Lorsque l'urgence a été déclarée, la commission présente son rapport sur les clauses renvoyées à son examen, après la clôture de la discussion sur les articles non contestés.
+Lorsque l'urgence a été déclarée, la commission présente son rapport sur les clauses renvoyées à son examen, après clôture de la discussion sur les articles non contestés.
 
-Les dispositions de l'art. 70 ne sont pas applicables aux traités.
+Les dispositions de l'art. 38 ne sont pas applicables aux traités.
 
-## Article 73
+## Article 33
 
-- Lorsque: en vertu de l'art. 58 de la constitution, le Président de la République demande une nouvelle délibération de l'Assemblée, le message motivé est imprimé et distribué.
+Lorsque, en vertu de l'art. 7 de la loi constitutionnelle sur les rapports des pouvoirs publics du 16 juillet 1875, le Président de la République demande une nouvelle délibération de la Chambre, le message motivé est imprimé et distribué.
 
-L'Assemblée se réunit dans ses bureaux, et nomme une commission, sur le rapport de laquelle il est procédé à la nouvelle délibération.
+La Chambre se réunit dans ses bureaux et nomme une commission, sur le rapport de laquelle il est procédé à la nouvelle délibération.
 
-# CHAPITRE VII. Des propositions et des demandes d'interpellations.
+# CHAPITRE V PROPOSITIONS DE LOI PROVENANT DE L'INITIATIVE PARLEMENTAIRE.
 
-## Article 74
+## Article 34
 
-- Toute proposition faite par un représentant est formulée par écrit. Elle est remise au Président qui, après en avoir donné connaissance à l'Assemblée, la renvoie à l'examen de la commission spéciale pour les propositions, sauf l'exception portée en l'article 15.
+Toute proposition faite par un député doit être formulée par écrit en articles de loi et précédée d'un exposé des motifs.
 
-## Article 75
+Elle est remise au Président qui, après en avoir donné connaissance à la Chambre, la renvoie à l'examen de la commission d'initiative sauf l'exception portée en l'art. 18.
 
-- Dans les dix jours, cette commission présente un rapport sommaire de chacune des propositions renvoyées à son examen. Ce rapport conclut au rejet pur et simple ou à la prise en considération de la proposition.
+## Article 35
 
-Néanmoins, lorsqu'elle aura reconnu qu'une proposition rentre dans les travaux d'une commission déjà chargée de l'examen d'une autre proposition ou d'un projet de loi, elle pourra, sur rapport verbal à l'Assemblée, en demander purement et simplement le renvoi à cette commission.
+L'auteur ou les auteurs d'une proposition ont le droit d'être entendus dans la commission chargée d'examiner leur proposition.
 
-## Article 76
+## Article 36
 
-Au jour fixé pour la discussion, l'Assemblée délibère sur la prise en considération.
+Dans la quinzaine, la commission d'initiative présente un rapport sommaire sur chacune des propositions qui ont été renvoyées à son examen.
 
-Si la prise en considération est prononcée, il est donné suite à la proposition, selon les formes déterminées au chapitre VI à l'égard des projets de lois.
+Le rapport conclut à la prise en considération, ou au rejet pur et simple, ou à la question préalable.
 
-## Article 77
+La commission peut également conclure à la déclaration d'urgence.
 
-L'auteur d'une proposition, même quand la discussion est ouverte, peut toujours la retirer. Mais si un autre membre la reprend, la discussion continue.
+Si la proposition est prise en considération par la Chambre, elle est renvoyée à l'examen des bureaux.
 
-## Article 78
+Si la commission reconnaît qu'une proposition rentre dans les travaux d'une autre commission déjà nommée, elle peut demander le renvoi à cette autre commission.
 
-- Les propositions rejetées par l'Assemblée ne peuvent être représentées avant un délai de trois mois, si elles ont été prises en considération ; avant un délai de six mois, si elles ont été repoussées au 1 vote.
+## Article 37
 
-## Article 79
+L'auteur d'une proposition peut la retirer, même quand la discussion est ouverte.
 
-- Tout représentant qui veut faire des interpellations en remet la demande écrite au Président.
+Si un autre membre la reprend, la discussion continue.
 
-Cette demande explique sommairement l'objet des interpellations: le Président en donne lecture à l'Assemblée.
+## Article 38
 
-Les interpellations de représentant à représentant sont interdites.
+Les propositions rejetées par la Chambre ne peuvent être représentées avant un délai de trois mois, si elles ont été prises en considération ; avant un délai de six mois, si elles ont été repoussées au premier vote.
 
-## Article 80
+# CHAPITRE VI DES INTERPELLATIONS ET DES QUESTIONS
 
-- L'Assemblée après avoir entendu un des membres du Gouvernement fixe, par assis et levé, sans débats, le jour où les interpellations seront faites.
+## Article 39
 
-Après les interpellations et la clôture de la discussion l'Assemblée reprend son ordre du jour.
+Tout député qui veut faire des interpellations en remet la demande écrite au Président.
 
-## Article 81
+Cette demande explique sommairement l'objet des interpellations ; le Président en donne lecture à la Chambre.
 
-- Aucun ordre du jour motivé ne peut être présenté, s'il n'est rédigé par écrit et déposé sur le bureau du Président, qui en donne lecture.
+Les interpellations de député à député sont interdites.
 
-L'ordre du jour pur et simple, s'il est réclamé, a toujours la priorité.
+## Article 40
 
-## Article 82
+La Chambre, après avoir entendu un des membres du Gouvernement, fixe, sans débats sur le fond, le jour où l'interpellation sera faite.
 
-- Si l'ordre du jour pur et simple est écarté, l'Assemblée décide, par assis et levé, sans débats, si elle renverra dans les bureaux l'examen de l'ordre du jour motivé.
+Les interpellations sur la politique intérieure ne peuvent être renvoyées à plus d'un mois.
 
-En cas de renvoi dans les bureaux, l'Assemblée, sur le rapport d'une commission, statue comme en matière d'urgence.
+## Article 41
 
-# CHAPITRE VIII. De la déclaration d'urgence.
+Aucun ordre du jour motivé sur les interpellations ne peut être présenté s'il est rédigé par écrit et déposé sur le bureau du Président.
 
-## Article 83
+## Article 42
 
-- Lors de la présentation d'un projet de loi ou d'une proposition, l'urgence peut être demandée.
+L'ordre du jour pur et simple, s'il est demandé, a toujours la priorité.
 
-Elle peut l'être par le Gouvernement, par l'auteur de la proposition, par tout membre de l'Assemblée.
+## Article 43
 
-## Article 84
+Si l'ordre du jour pur et simple n'est pas adopté et si le renvoi aux bureaux n'est pas ordonné, conformément aux articles ci-après, le Président soumet les ordres du jour motivés au vote, de la Chambre.
 
-La demande ayant pour objet de faire déclarer l'urgence est précédée d'un exposé des motifs. L'Assemblée, consultée, décide s'il y a lieu de donner suite à la demande d'urgence.
+Il est statué par la Chambre sur les questions de priorité.
 
-## Article 85
+## Article 44
 
-Si l'urgence est déclarée, l'Assemblée prononce le renvoi, soit à une commission déjà formée, soit aux bureaux.
+Si l'ordre du jour pur et simple est écarté, la Chambre peut, sur la demande d'un de ses membres, décider qu'elle renverra dans les bureaux l'examen des ordres du jour motivés.
 
-## Article 86
+En cas de renvoi dans les bureaux, la Chambre, sur le rapport d'une commission, statue comme en matière d'urgence.
 
-La délibération porte d'abord sur l'ensemble du projet ou de la proposition.
+## Article 45
 
-Le Président consulte l'Assemblée pour savoir si elle entend passer à la discussion des articles.
+Si la résolution de la commission est rejetée, il est statué sur les ordres du jour motivés suivant le rang fixé par la Chambre.
 
-## Article 87
+## Article 46
 
-- Si l'Assemblée refuse de passer à la discussion des articles, le projet ou la proposition sont rejetés.
+Les demandes d'interpellation retirées par ceux qui les ont faites peuvent être reprises par d'autres députés.
 
-Dans le cas contraire, la discussion continue, et porte exclusivement sur chacun des articles et sur les amendements qui s'y rapportent.
+## Article 47
 
-## Article 87 bis
+Des questions peuvent être adressées par les députés aux membres du gouvernement, au commencement ou à la fin de chaque séance.
 
-- Tout amendement, tout article additionnel proposé dans le cours de la discussion, est motivé sommairement à la tribune. Il est envoyé de droit à l'examen de la commission si un ministre ou le rapporteur le demande.
+## Article 48
 
-Si ce renvoi n'est pas demandé, l'Assemblée, consulte par assis et levé, sans débats, si elle les prend en considération ; dans ce cas, ils sont renvoyés à l'examen de la commission.
+L'avis est donné de ces questions aux ministres compétents.
 
-## Article 88
+## Article 49
 
-Après le vote des articles, il est procédé au vote sur l'ensemble de la proposition.
+Le député qui a posé la question a seul le droit de répliquer sommairement.
 
-Toutefois, l'Assemblée, avant ce dernier vote, peut renvoyer le projet à la commission, afin qu'il soit révisé et coordonné. Ce renvoi est de droit, si la commission le demande.
+# CHAPITRE VII DISCUSSION DES PROJETS DE LOI. - AMENDEMENTS.
 
-La commission présente sans délai son travail. Lecture en est donnée, et la discussion qui s'ouvre porte exclusivement sur la rédaction.
+## Article 50
 
-## Article 89
+Aucun projet de loi, sauf les cas d'urgence, n'est voté définitivement qu'après deux délibérations, à des intervalles qui ne peuvent être moindres de cinq jours.
 
-Si l'Assemblée s'est prononcée contre l'urgence, le projet ou la proposition est examiné et voté dans les formes ordinaires.
+## Article 51
 
-Le caractère d'urgence reconnu à une proposition ou projet de loi pourra être retiré, sur la demande d'un membre de l'Assemblée, après le dépôt du rapport de la commission chargée de son examen.
+Les amendements provenant de l'initiative d'un ou plusieurs membres, indiquent l'article de loi ou le chapitre du Budget auquel ils se rapportent.
 
-Ce retrait ne pourra plus être demandé après l'ouverture de la discussion sur les articles.
+Ces amendements sont rédigés par écrit et déposés entre les mains du Président qui les transmet à la commission.
 
-# CHAPITRE IX Des pétitions.
+La Chambre ne délibère sur aucun amendement, si, après avoir été développé, il n'est appuyé.
 
-## Article 90
+## Article 52
 
-Toute pétition doit être rédigée par écrit et signée; elle doit, en outre, indiquer la demeure du pétitionnaire ou de l'un d'eux si elle est revêtue de plusieurs signatures.
+Tout amendement présenté et non soumis au vote dans le cours de la séance, est imprimé et distribué avant la séance suivante.
+
+## Article 53
+
+Les amendements nouveaux présentés après la clôture de la première délibération, doivent être communiqués à la commission, imprimés, distribués un jour au moins avant l'ouverture de la seconde.
+
+## Article 54
+
+Tout amendement proposé dans le cours des délibérations est renvoyé de droit à l'examen de la commission, si le rapporteur le demande.
+
+## Article 55
+
+Si le renvoi n'est pas demandé, les amendements présentés dans le cours de la seconde délibération sont motivés sommairement à la tribune. Les membres de la commission peuvent seuls répondre à l'auteur de l'amendement. La Chambre, consultée, décide si elle les prend en considération. Dans le cas de l'affirmative, ils sont renvoyés à l'examen de la commission.
+
+Ils ne peuvent être votés le jour même où ils ont été présentés.
+
+## Article 56
+
+Les auteurs des amendements ont le droit d'être entendus dans la commission, s'ils en font la demande.
+
+## Article 57
+
+Dans le cas de renvoi d'un article à la commission, le droit d'amendement peut s'exercer conformément aux règles précédentes.
+
+## Article 58
+
+Après le dépôt et la distribution du rapport, la Chambre fixe le jour de la discussion. La première délibération porte d'abord sur l'ensemble du projet de loi.
+
+## Article 59
+
+Quand la discussion générale est close sur l'ensemble du projet de loi, le Président consulte la Chambre pour savoir si elle entend passer à la discussion des articles.
+
+Si la Chambre décide qu'elle ne veut point passer à la discussion des articles, le Président déclare que le projet de loi n'est pas adopté.
+
+Dans le cas contraire, la discussion continue et elle porte successivement sur chaque article et sur les amendements qui s'y rattachent.
+
+La Chambre décide si elle entend passer à la seconde délibération.
+
+A la seconde délibération, il est procédé au vote de chaque article et des amendements qui s'y rapportent.
+
+Avant le vote définitif du projet, tout Député a le droit de présenter des considérations générales sur l'adoption ou sur le rejet.
+
+## Article 60
+
+Les prescriptions relatives aux deux délibérations ne s'appliquent pas au budget des recettes et des dépenses, aux lois des comptes, aux lois portant demande de crédits spéciaux, aux lois l'intérêt local. Pour le vote de ces lois, une seule délibération suffit, et elle a lieu, tant pour la discussion des projets de loi que pour celle des amendements suivant les formes déterminées au chapitre IX du présent Règlement, pour le cas où l'urgence a été déclarée.
+
+Néanmoins, les amendements ou articles additionnels présentés dans le cours de la délibération, sont soumis aux formalités prescrites par l'article 55.
+
+# CHAPITRE VIII DES PETITIONS
+
+## Article 61
+
+Toute pétition doit être rédigée par écrit et signée; elle doit en outre indiquer la demeure du pétitionnaire on de l'un d'eux, si elle est revêtue de plusieurs signatures.
 
 Les signatures des pétitionnaires doivent être légalisées.
 
-Si la légalisation était refusée, le pétitionnaire ferait mention de ce refus à la suite de la pétition.
+Si la légalisation était refusée, le pétitionnaire ferait mention de ce refus à la suite de sa pétition.
 
-Les pétitions doivent être adressées au Président de l'Assemblée.
+Les pétitions doivent être adressées au Président de la Chambre.
 
-Elles peuvent également être déposées par un représentant, qui fait, en marge, mention du dépôt, et signe cette mention.
+Elles peuvent également être déposées par un Député qui fait, en marge, mention du dépôt et signe cette mention.
 
-Une pétition apportée ou transmise par un rassemblement formé sur la voie publique, ne pourra être reçue par le Président, ni déposée sur le bureau.
+Une pétition apportée ou transmise par un rassemblement formé sur la voie publique ne pourra être reçue par le Président ni déposée sur le Bureau.
 
-## Article 91
+## Article 62
 
-- Les pétitions, dans l'ordre de leur arrivée, sont inscrites sur un rôle général contenant le numéro d'ordre de la pétition, le nom et la demeure du pétitionnaire, ainsi que l'indication sommaire de l'objet de sa demande, et, lorsqu'elle n'aura pas été adressée directement au Président, le nom du représentant qui l'aura déposée.
+Les pétitions, dans l'ordre de leur arrivée, sont inscrites sur un rôle général contenant le numéro d'ordre de la pétition, le nom et la demeure du pétitionnaire, ainsi que l'indication sommaire de l'objet de sa demande, et, lorsqu'elle n'aura pas été adressée directement au Président, le nom du député qui l'aura déposée.
 
-Ce rôle est imprimé et distribué à l'Assemblée.
+Ce rôle est imprimé et distribué à la Chambre.
 
-## Article 92
+## Article 63
 
 Les pétitions inscrites sur le rôle sont renvoyées à la commission des pétitions.
 
-Néanmoins, celles relatives à une proposition actuellement soumise à l'examen d'une commission spéciale sont directement renvoyées à cette commission par le président de l'Assemblée.
+Néanmoins, celles qui sont relatives à une proposition actuellement soumise à l'examen d'une commission spéciale, sont directement renvoyées à cette commission par le Président de la Chambre.
 
-Ce renvoi peut être également ordonné par la commission des pétitions.
+Ce renvoi peut également être ordonné par la commission des pétitions.
 
-Tout membre de l'Assemblée pourra prendre communication des pétitions en s'adressant au Président de la commission chargée de leur examen.
+Tout membre de la Chambre pourra prendre communication des pétition en s'adressant au Prsident de la commission chargée de leur examen.
+
+## Article 64
+
+La commission, après examen de chaque pétition, les classe dans l'ordre suivant :
+
+Celles qu'elle juge à propos de renvoyer à un Ministre ;
+
+Celles qu'elle juge devoir être, indépendamment de ce renvoi, soumises à l'examen de la Chambre ;
+
+Celles qu'elle ne juge pas devoir être utilement soumises à cet examen.
+
+Avis est donné au pétitionnaire de la résolution adoptée à l'égard de sa pétition, et du numéro d'ordre qui lui est donné.
+
+## Article 65
+
+Un feuilleton, distribué chaque semaine, s'il y a lieu, aux membres de la Chambre, mentionne le nom et le domicile du pétitionnaire, l'indication sommaire de l'objet de la pétition, le nom du rapporteur, enfin la résolution adoptée par la commission, avec le résumé succinct de ses motifs.
+
+Toutefois, la commission, si, à l'unanimité de ses membres présents, elle l'a décidé, peut ne faire figurer la pétition au feuilleton que par son numéro d'ordre et par le nom de son auteure avec indication de la résolution adoptée.
+
+## Article 66
+
+Tout député, dans le mois de la distribution du feuilleton, peut demander le rapport en séance publique d'une pétition, quel que soit le classement que la commission lui ait assigné.
+
+Sur sa demande, le rapport sera fait de plein droit.
+
+Après l'expiration du délai ci-dessus indiqué, les résolutions de la commission deviennent définitives à l'égard des pétitions qui ne doivent pas être l'objet d'un rapport public, et elles sont mentionnées au Journal officiel.
+
+## Article 67
+
+La commission rapporte les pétitions en séance publique. La priorité ou l'urgence peut être demandée pour l'examen d'une pétition.
+
+Sur cette demande sommairement motivée, la Chambre décide. Le rapporteur ou un membre du Gouvernement peut toujours être entendu.
+
+## Article 68
+
+Les commissions spéciales auxquelles des pétitions auront été renvoyées devront les mentionner dans leurs rapports.
+
+Dans un délai de six mois, les Ministres feront connaître, par une mention portée au feuilleton distribué aux membres de la Chambre, la suite qu'ils ont donnée aux pétitions qui leur ont été respectivement renvoyées.
+
+# CHAPITRE IX DE LA DECLARATION D'URGENCE
+
+## Article 69
+
+Lors de la présentation d'un projet de loi ou d'une proposition, l'urgence peut être demandée.
+
+Elle peut l'être par le Gouvernement, par l'auteur de la proposition, par tout membre de la Chambre.
+
+## Article 70
+
+La demande ayant pour objet de faire déclarer l'urgence est précédée d'un exposé des motifs.
+
+La Chambre, consultée, décide s'il y a lieu de donner suite à la demande d'urgence.
+
+## Article 71
+
+Si l'urgence est déclarée, la Chambre prononce le renvoi, soit à une commission déjà formée, soit aux Bureaux. Elle peut même, par décision spéciale, statuer immédiatement.
+
+## Article 72
+
+Les propositions et les projets de loi en faveur desquels la déclaration d'urgence a été prononcée ne sont soumis qu'à une seule lecture.
+
+La délibération porte d'abord sur l'ensemble du projet ou de la proposition.
+
+Le Président consulte la Chambre pour savoir si elle entend passer à la discussion des articles.
+
+## Article 73
+
+Si la Chambre refuse de passer à la discussion des articles, la proposition ou le projet est rejeté.
+
+Dans le cas contraire, la discussion continue et porte exclusivement sur chacun des articles et sur les amendements qui s'y rapportent.
+
+## Article 74
+
+Tout amendement, tout article additionnel proposé dans le cours de la discussion, est motivé sommairement à la tribune. Il est envoyé de droit à l'examen de la commission si un ministre ou le rapporteur le demande.
+
+Si ce renvoi n'est pas demandé, la Chambre, consultée, décide, après avoir entendu le rapporteur, si elle les prend en considération ; dans ce cas, ils sont renvoyés à l'examen de la commission.
+
+## Article 75
+
+Après le vote des articles, il est procédé au vote sur l'ensemble de la proposition. Avant ce
+
+dernier vote, tout député peut présenter des considérations générales pour l'adoption ou pour le rejet.
+
+La Chambre peut aussi, avant le vote sur l'ensemble, renvoyer le projet à la commission, afin qu'il soit révisé et coordonné. Ce renvoi est de droit, si la commission le demande.
+
+La commission présente sans délai son travail. Lecture en est donnée, et la discussion qui s'ouvre porte exclusivement sur la rédaction.
+
+## Article 76
+
+Si la Chambre s'est prononcée contre l'urgence, la proposition ou le projet est examiné et voté dans les formes ordinaires.
+
+Le caractère d'urgence reconnu à une proposition ou à un projet de loi pourra être retiré, sur la demande d'un membre de la Chambre, après le dépôt du rapport de la commission chargée de son examen.
+
+Ce retrait ne pourra plus être demandé après l'ouverture de la discussion sur les articles.
+
+## Article 77
+
+Après le vote d'une loi, la Chambre, sur la proposition d'un député, est consultée par le Président sur le point de savoir si la loi votée sera promulguée d'urgence dans les trois jours, aux termes de l'art. 7 de la loi constitutionnelle du 16 juillet 1875.
+
+# CHAPITRE X DES VOTATIONS
+
+## Article 78
+
+La Chambre vote sur les questions soumises à ses délibérations par assis et levé, au scrutin public, au scrutin secret.
+
+## Article 79
+
+Le vote par assis et levé est de droit sur toutes les questions, sauf les exceptions prévues par les articles 81, 82 et 86 du présent règlement.
+
+## Article 80
+
+Le vote par assis et levé est constaté par le Président et les Secrétaires. S'ils décident qu'il y a doute, l'épreuve est renouvelée.
+
+Nul ne peut obtenir la parole entre les deux épreuves par assis et levé, ni entre la deuxième épreuve et le vote au scrutin.
+
+## Article 81
+
+Le vote au scrutin public est de droit :
+
+1° Après deux épreuves douteuses ;
+
+2° Sur tous les projets de loi portant ouverture de crédits autres que ceux d'intérêt local.
+
+## Article 82
+
+Le vote par scrutin public peut être demandé en toute matière excepté dans les questions de rappel au règlement et dans les cas prévus par les articles 106, 120 et 124.
+
+Le scrutin public peut être demandé, soit avant l'épreuve commencée, soit après une première épreuve douteuse.
+
+## Article 83
+
+La demande du scrutin public doit être faite par écrit, signée de vingt membres au moins, et déposée entre les mains du Président.
+
+Elle peut être faite oralement par un seul membre après une épreuve douteuse.
+
+Les noms des membres qui ont demandé le scrutin et ceux des votants sont insérés au Journal officiel.
+
+## Article 84
+
+Il est procédé au scrutin public dans les formes suivantes :
+
+Le Président invite les députés à prendre leurs places. Chaque député a deux bulletins de vote sur lesquels son nom est imprimé. Les bulletins blancs expriment l'adoption, les bulletins bleus la non-adoption. Les huissiers présentent à chaque membre de la Chambre une urne dans laquelle il dépose son bulletin. Lorsque les votes sont recueillis, le Président prononce la clôture du scrutin. Les urnes sont immédiatement apportées sur la tribune. Les Secrétaires en font le dépouillement, et le Président proclame le résultat.
+
+## Article 85
+
+Sur la demande de quarante membres, le scrutin public a lieu à la tribune.
+
+Il y est procédé de la manière suivante :
+
+Chaque député, après avoir reçu une boule de contrôle des mains d'un secrétaire, dépose son bulletin dans l'urne du vote placée sur la tribune et la boule de contrôle dans l'urne placé sur le bureau des secrétaires de droite.
+
+Il est procédé au dépouillement du scrutin conformément à l'article précédent.
+
+## Article 86
+
+Dans tous les cas où le scrutin public peut ou doit être admis, si cinquante membre réclament le scrutin secret, il doit y être procédé.
+
+Les noms des signataires de la demande sont insérés au Journal officiel.
+
+## Article 87
+
+Le scrutin secret a lieu dans les mêmes formes que le scrutin public à la tribune ; seulement le bulletin de vote est remplacé par une boule blanche ou noire. La boule blanche exprime l'adoption, la boule noire la non-adoption.
+
+Les secrétaires versent dans une corbeille les boules ayant servi au vote ; ils font ostensiblement le compte des boules et séparent les boules blanches des noires ; ils procèdent de la même manière au dépouillement de l'urne de contrôle.
+
+Le résultat du compte est arrêté par quatre secrétaires au moins et proclamé par le Président.
+
+## Article 88
+
+En cas de scrutin public ou de scrutin secret, si l'appel nominal est réclamé, la Chambre prononce sans débat.
+
+L'appel nominal est fait par un des secrétaires, il est immédiatement suivi d'un réappel pour les députés qui n'ont pas encore voté.
+
+## Article 89
+
+Les nominations, soit en assemblée générale, soit dans les bureaux ou dans les commissions, ont lieu au scrutin secret.
+
+Pour les nominations en assemblée générale, deux urnes sont placées, l'une sur la tribune, l'autre sur le bureau des secrétaires. Chaque député dépose dans la première son bulletin de vote sous enveloppe non cachetée, dans la seconde, la boule servant de contre épreuve.
+
+Le dépouillement des scrutins de nomination se fait par les soins de scrutateurs dont les noms sont tirés au sort à raison de trois par chaque table de dépouillement.
+
+## Article 90
+
+La question préalable, tendant à faire déclarer qu'il n'y a pas lieu à délibérer, peut toujours être proposée.
+
+Elle ne peut être demandée sur les propositions pour lesquelles l'urgence n'est pas réclamée, qu'après le rapport de la commission d'initiative.
+
+La question préalable est mise aux voix avant la question principale.
+
+## Article 91
+
+Les demandes d'ordre du jour, de priorité et de rappel au règlement, ont toujours la préférence sur la question principale ; elles en suspendent la discussion.
+
+Toutefois, elles ne peuvent se produire tant que l'auteur n'a pas achevé son discours.
+
+## Article 92
+
+Les amendements sont mis aux voix avant la question principale.
 
 ## Article 93
 
-- Chaque pétition est, dans la commission, l'objet d'un rapport et d'une résolution.
-
-Avis est donné au pétitionnaire de la résolution adoptée ou du renvoi prononcé, avec l'indication du numéro d'ordre de sa pétition.
-
-La commission rapporte, en séance publique, les pétitions sur lesquelles elles conclut au renvoi à un Ministre et celles qu'elle juge utile de soumettre à l'examen de l'Assemblée.
-
-La priorité ou l'urgence peut être demandée pour l'examen d'une pétition ; l'Assemblée décide, dans ce cas, par assis et levé, sans débats.
+Dans les questions complexes la division est de droit, lorsqu'elle est demandée.
 
 ## Article 94
 
-Un feuilleton, distribué chaque semaine, aux membres de l'Assemblée, mentionne le nom et le domicile du pétitionnaire, l'indication sommaire de l'objet de la pétition, le nom du rapporteur, enfin la résolution adoptée par la commission avec le résumé succinct de ses motifs.
+Les propositions et les projets de loi sont votés par articles.
 
-Toutefois, la commission peut, lorsqu'à l'unanimité des membres présents elle l'a jugé convenable, ne faire figurer la pétition au feuilleton que par son numéro d'ordre, et le nom de son auteur avec indication de la résolution adoptée.
-
-Si, dans le mois de la distribution du feuilleton, un représentant demande le rapport d'une pétition en séance publique, ce rapport sera fait de plein droit.
-
-Cette demande devra être adressée par écrit au Président de l'Assemblée.
+La délibération est toujours terminée par un vote sur l'ensemble.
 
 ## Article 95
 
-- Après l'expiration du délai ci-dessus indiqué, les résolutions de la commission deviennent définitives à l'égard des pétitions qui ne doivent pas être l'objet d'un rapport public et sont mentionnées au Journal officiel.
+La présence de 267 députés, majorité absolue de leur nombre légal, est nécessaire pour la validité des votes.
 
-Les commissions spéciales auxquelles des pétitions auront été renvoyées devront en faire mention dans leurs rapports.
+Le Bureau constate le nombre des membres présents.
 
-Dans un délai de six mois, les ministres feront connaître, par une mention portée au feuilleton distribué aux membres de l'Assemblée, la suite qu'ils ont donnée aux, pétitions qui leur ont été respectivement renvoyées.
+Si le Bureau n'est pas unanime, il est procédé au scrutin public à la tribune.
 
-# CHAPITRE X Des congés.
+Au cas d'impossibilité d'un vote par le défaut de présence de la majorité absolue du nombre légal des députés, un second tour de scrutin sur le même objet est porté à l'ordre du jour de la séance suivante et, à ce second tour, le vote est valable, à la majorité relative, quel que soit le nombre des votants.
 
 ## Article 96
 
--Nul représentant ne peut s'absenter sans un congé de l'Assemblée.
+Le résultat des délibérations de la Chambre est proclamé par le Président en ces termes :
+
+« La Chambre a adopté » ou « la Chambre n'a pas adopté. »
+
+# CHAPITRE XI TENUE DES SEANCES
 
 ## Article 97
 
-- Le Président peut néanmoins, en cas d'urgence, accorder un congé ; il en rend compte à l'Assemblée.
+Le Président ouvre la séance.
+
+Il dirige les délibérations ; il fait observer le règlement, et il maintient l'ordre.
 
 ## Article 98
 
-Les demandes de congés sont renvoyées à l'examen d'une commission, qui donne son avis sur chaque demande.
+Les secrétaires surveillent la rédaction du procès-verbal.
+
+Un d'eux en donne lecture à l'ouverture de chaque séance.
+
+Le procès-verbal est adopté par la Chambre, et signé par le président ou le vice-président qui tient la séance et trois secrétaires au moins.
 
 ## Article 99
 
-Cette commission, composée de quinze membres, est renouvelée chaque mois dans les bureaux.
+Avant de passer à l'ordre du jour, le Président donne connaissance à la Chambre des communications qui la concernent.
 
 ## Article 100
 
--En soumettant les demandes de congés à l'Assemblée, le président fera connaître l'avis de la commission sur chaque demande.
+Les pièces communiquées à la Chambre peuvent être adressées au Président ou déposées sur le bureau.
+
+La Chambre en ordonne l'impression, si elle le sujet utile.
 
 ## Article 101
 
-L'indemnité cesse de droit pour tout représentant absent sans congé, ou qui prolonge son absence au-delà du terme du congé qui lui a été accordé.
+Aucun membre de la Chambre ne peut parler qu'après avoir demandé la parole au Président et l'avoir obtenue.
+
+Il parle à la tribune, à moins que le Président ne l'autorise à parler de sa place.
 
 ## Article 102
 
-Est réputé absent sans congé le représentant qui, pendant trois séances consécutives, n'aura point répondu aux appels nominaux, ou n'aura pris part ni aux scrutins publics ni aux discussions de tribune.
+Les secrétaires inscrivent les députés qui demandent la parole, suivant l'ordre de leur demande.
 
-L'absence est constatée à la questure par le relevé des appels nominaux et des votes publiés au Moniteur.
-
-A défaut de motifs valables qui justifient son abstention, le représentant est inscrit nominativement au Moniteur comme absent sans congé.
-
-Les réclamations sont portées au bureau de l'Assemblée, qui prononce après avoir pris l'avis de la commission des congés.
-
-# CHAPITRE XI De la comptabilité.
+S'il s'agit d'un projet de loi, aucune inscription ne peut être reçue qu'après le dépôt du rapport.
 
 ## Article 103
 
-Une commission est chargée de l'examen de la comptabilité des fonds alloués pour les dépenses administratives de l'Assemblée.
+Dans les discussions, les orateurs parlent alternativement pour et contre.
 
-Cette commission, composée de quinze membres, nommée par les bureaux pour la durée d'un exercice.
+Les Ministres, les Commissaires du Gouvernement et les Rapporteurs chargés de soutenir la discussion des projets de loi, ne sont point assujettis au tour d'inscription et obtiennent la parole quand ils la réclament.
+
+Un député peut toujours obtenir la parole après un orateur du Gouvernement.
 
 ## Article 104
 
-Elle vérifie et apure les comptes, même les comptes antérieurs non réglés.
-
-Elle fait un recolement général du mobilier appartenant à l'Assemblée.
-
-Elle dresse le budget de l'Assemblée, et le soumet à son approbation.
-
-Les dépenses de l'Assemblée sont réglées par exercice comme le budget de l'Etat.
+La parole est accordée à tout député qui la demande pour un fait personnel.
 
 ## Article 105
 
-- A la fin de chaque exercice, la commission de comptabilité rend compte à l'Assemblée de l'exécution du mandat qui lui a été confié.
+L'orateur doit se renfermer dans la question ; s'il s'en écarte, le Président l'y rappelle.
+
+La parole ne peut être accordée sur le rapport à la question.
 
 ## Article 106
 
-- Un des questeurs de l'Assemblée est spécialement chargé de la comptabilité de ses dépenses.
+Si l'orateur, rappelé deux fois à la question dans le même discours, continue à s'en écarter, le Président consulte la Chambre pour savoir si la parole ne sera pas interdite à l'orateur pendant le reste de la séance, sur le même sujet.
 
-Pour qu'ils soient valablement payables par le trésorier de l'Assemblée, les mandats délivrés pour l'acquittement des dépenses doivent être imputables sur un crédit ouvert au budget, accompagnés des pièces exigées par le règlement de comptabilité, et revêtus de la signature du questeur délégué.
-
-# CHAPITRE XII. De la police intérieure et extérieure de l'Assemblée nationale. — Des droits du Président.
+La décision a lieu, sans débats, par assis et levé ; en cas de doute, la parole n'est pas interdite à l'orateur.
 
 ## Article 107
 
-La police de l'Assemblée est exercée en son nom par le Président. Il habite dans l'intérieur du palais législatif.
+Toute interruption, toute personnalité, toutes manifestations troublant l'ordre sont interdites.
 
 ## Article 108
 
-Nul étranger ne peut, sous aucun prétexte, s'introduire dans l'enceinte où siègent les membres de l'Assemblée.
+Avant de prononcer la clôture de la discussion le Président consulte la Chambre.
+
+Si la parole est demandée contre la clôture, elle ne peut être accordée qu'à un seul orateur.
+
+S'il y a doute sur le vote de la Chambre, après une seconde épreuve, la discussion continue.
+
+La clôture prononcée, la parole n'est plus accordée que sur la position de la question.
 
 ## Article 109
 
-Pendant tout le cours de la séance, les personnes placées dans les tribunes se tiennent assises, découvertes, et en silence.
+Si la Chambre devient tumultueuse, et si le Président ne peut la calmer, il se couvre. Si le trouble continue, il annonce qu'il va suspendre la séance.
+
+Si le calme ne se rétablit pas, il suspend la séance pour une heure, et les députés se retirent dans leurs bureaux respectifs.
+
+L'heure étant expirée, la séance est reprise ; mais, si le tumulte renait, le Président lève la séance et la renvoie au lendemain.
 
 ## Article 110
 
-Toute personne qui donne des marques d'approbation ou d'improbation est sur-le-champ exclue des tribunes par les huissiers chargés d'y maintenir l'ordre.
+La Chambre peut décider qu'elle se formera en comité secret conformément à l'article 5 de la loi constitutionnelle du 16 juillet 1875.
+
+Les demandes de comité secret, signées de 20 membres, sont remises au Président. La décision est prise sans débats.
+
+Les noms des signataires de la demande sont insérés au procès-verbal.
+
+Si le motif qui a donné lieu au comité secret a cessé, le Président consulte la Chambre sur la reprise de la séance publique.
 
 ## Article 111
 
-Tout individu qui trouble les délibérations est traduit sans délai, s'il y a lieu, devant l'autorité compétente.
+Le Président, avant de prononcer la clôture de la séance, consulte la Chambre sur le jour, l'heure et les objets de discussion de sa prochaine séance.
+
+L'ordre du jour ainsi réglé est affiché dans l'enceinte du Palais et publié au Journal officiel
+
+# CHAPITRE XII DES CONGES
 
 ## Article 112
 
-Le Président est chargé de veiller à la sûreté intérieure et extérieure de l'Assemblée nationale.
+Nul député ne peut s'absenter sans un congé de la Chambre.
 
-A cet effet, il exerce, au nom de l'Assemblée, le droit conféré au pouvoir législatif par l'article 32 de la Constitution, de fixer l'importance des forces militaires établies pour sa sûreté, et d'en disposer.
-
-# CHAPITRE XIII De la discipline.
+Le Président peut néanmoins, en cas d'urgence, accorder un congé ; il en rend compte à la Chambre.
 
 ## Article 113
 
-- Les peines disciplinaires applicables aux membres de l'Assemblée sont:
-
-Le rappel à l'ordre,
-
-Le rappel à l'ordre avec inscription au procès-verbal,
-
-La censure,
-
-La censure avec exclusion temporaire du lieu des séances.
+Les demandes de congé sont renvoyées à l'examen d'une commission qui donne son avis sur chaque demande.
 
 ## Article 114
 
-Est rappelé à l'ordre tout orateur qui s'en! écarte, tout membre qui trouble l'ordre par une des infractions au règlement prévues dans l'article 38, ou de toute antre manière.
+En soumettant les demandes de congé à la Chambre, le Président fait connaître l'avis de la commission sur chacune d'elles.
 
 ## Article 115
 
-- Est rappelé à l'ordre, avec inscription au procès-verbal tout représentant qui, dans les trente jours, aura été deux fois rappelé à l'ordre.
+L'indemnité cesse de droit pour tout Député absent sans congé, ou qui prolonge son absence au-delà du terme du congé qui lui a été accordé.
 
 ## Article 116
 
-- Le rappel à l'ordre, avec inscription au procès-verbal, emporte de plein droit la privation pendant quinze jours de moitié de l'indemnité allouée au représentant.
+Est réputé absent sans congé le député qui pendant six séances consécutives, n'aura pas répondu aux appels nominaux ou n'aura pris part ni aux travaux des Bureaux et des commissions, ni, en séance publique, aux discussions de tribune et aux scrutins de vote.
+
+Ces circonstances établissant l'absence, sont relevées et constatées par la Questure.
+
+A défaut des motifs valables qui justifient son absence, le député est inscrit nominalement au Journal officiel comme absent sans congé.
+
+Les réclamations sont portées au bureau de la Chambre qui prononce après avoir pris l'avis de la commission des congés.
+
+# CHAPITRE XIII DE LA DISCIPLINE
 
 ## Article 117
 
-Le Président seul rappelle à l'ordre. La parole est accordée à l'orateur qui rappelé à l'ordre se soumet à l'autorité du Président et demande à se justifier.
+Les peines disciplinaires applicables aux membres de la Chambre des Députés sont :
 
-Tout membre qui, n'étant pas autorisé à parler, s'est fait rappeler à l'ordre, n'obtient la parole pour se justifier qu'à la fin de la séance, à moins que le Président n'en décide autrement.
+Le rappel à l'ordre ;
 
-Si le rappel à l'ordre est maintenu par le Président, il en est tenu note par les secrétaires.
+La censure ;
+
+La censure avec exclusion temporaire du lieu des séances.
 
 ## Article 118
 
-Lorsqu'un orateur a été rappelé deux fois à l'ordre dans la même séance, l'Assemblée peut, sur la proposition du Président, lui interdire la parole pour le reste de la séance.
-
-L'Assemblée prononce par assis et levé, sans débats.
+Est rappelé 0 l'ordre tout député qui s'en écarte, tout membre qui trouble l'ordre par une des infractions au règlement prévues dans l'art.107, ou de toute autre manière.
 
 ## Article 119
 
-La censure est prononcée contre :
+Le Président seul rappelle à l'ordre ; la parole est accordée à l'orateur qui, rappelé à l'ordre, se soumet à l'autorité du Président et demande à se justifier.
 
-1° Tout membre qui, après le rappel à l'ordre avec inscription au procès-verbal, ne sera pas rentré dans le devoir ;
+Tout député qui, n'étant pas autorisé à parler s'est fait rappeler à l'ordre, n'obtient la parole pour se justifier qu'à la fin de la séance, à moins que le Président n'en décide autrement.
 
-2° Tout membre qui, dans l'espace de trente jours, aura encouru trois fois le rappel à l'ordre ;
-
-3° Tout membre qui, dans l'Assemblée, aura donné le signal d'une scène tumultueuse ou d'une abstention collective de prendre part aux travaux législatifs ;
-
-4° Tout représentant' qui aura adressé à un ou plusieurs de ses collègues des injures, provocations ou menaces.
+Si le rappel à l'ordre est maintenu par le Président, il en est tenu note par les Secrétaires.
 
 ## Article 120
 
-- La censure avec exclusion temporaire du lieu des séances est prononcée contre tout membre :
+Lorsqu'un orateur a été rappelé à l'ordre deux fois dans la même séance, si une troisième fois il s'écarte de l'ordre, le Président propose à la Chambre de lui interdire la parole pour le reste de la séance.
 
-1° Qui aura résisté à la censure simple ;
-
-2° Qui aura, en séance publique, fait appel à la violence ou provoque à la guerre civile ;
-
-3° Qui se sera rendu coupable d'outrages envers l'Assemblée ou une partie de l'Assemblée, ou envers le Président.
+La Chambre se prononce par assis et levé, sans débats.
 
 ## Article 121
 
-La censure avec exclusion temporaire impose au membre contre lequel elle a été prononcée l'obligation de sortir immédiatement de l'Assemblée, et de s'abstenir d'y reparaître pendant les trois séances suivantes.
+La censure est prononcée contre :
 
-En cas de désobéissance du représentant à l'injonction qui lui est faite par le Président de sortir de l'Assemblée la séance est levée ; elle peut être reprise.
+Tout député qui, après avoir encouru l'interdiction mentionnée en l'article précédent, ne sera pas rentré dans le devoir ;
+
+Tout député qui pendant l'espace de trente jours, aura, dans trois séances différentes, subi le rappel à l'ordre ;
+
+Tout député qui, dans la Chambre, aura donné le signal d'une scène tumultueuse ou d'une abstention collective de prendre part aux travaux législatifs ;
+
+Tout député qui aura adressé à un ou plusieurs de ses collègues des injures, provocations ou menaces.
 
 ## Article 122
 
-- Si le membre reparaît à l'Assemblée avant l'expiration du délai fixé dans l'article précédent, sa présence est constatée par le bureau. Le Président lève la séance, et, sur son ordre, le représentant est arrêté et conduit dans un local préparé à cet effet par les soins des questeurs, ou il garde les arrêts pendant trois jours.
+La censure avec exclusion temporaire du lieu des séances est prononcée contre tout député :
+
+Qui aura résisté à la censure simple ;
+
+Qui aura, en séance publique, fait appel à la violence, ou provoqué à la guerre civile ;
+
+Qui se sera rendu coupable d'outrages envers la Chambre, ou une partie de cette Assemblée, ou son Président ;
+
+Qui se sera rendu coupable d'outrages envers le Sénat ou envers le Président de la République.
 
 ## Article 123
 
-- La censure simple et la censure avec exclusion temporaire sont prononcées par l'Assemblée, sans débats, et par assis et levé, sur la proposition du Président.
+La censure, avec exclusion temporaire, impose au Député contre lequel elle a été prononcée,l'obligation de sortir immédiatement de la Chambre et de s'abstenir d'y reparaître pendant les trois séances suivantes.
 
-Le représentant contre qui l'une ou l'autre de ces peines disciplinaires est demandée, a toujours le droit d'être entendu, ou de faire entendre, en son nom, un de ses collègues.
-
-La décision de l'Assemblée prononçant soit la censure simple, soit la censure avec exclusion temporaire, est inscrite au procès-verbal.
+En cas de désobéissance du député à l'injonction qui lui est faite par le Président de sortir de la Chambre, la séance est levée. Elle peut être reprise.
 
 ## Article 124
 
-La censure simple et la censure avec exclusion temporaire emportent de droit :
+La censure simple et la censure avec exclusion temporaire sont prononcées par la Chambre sans débats, et par assis et levé, sur la proposition du Président.
 
-1° La privation pendant un mois de moitié de l'indemnité allouée au représentant ;
+Le député contre qui l'une ou l'autre de ces peines disciplinaires est demandée, a toujours le droit d'être entendu, ou de faire entendre, en nom, un de ses collègues.
 
-2° L'impression et l'affiche à mille exemplaires, aux frais du représentant, de l'extrait du procès-verbal mentionnant la censure.
-
-Les affiches seront apposées dans toutes les communes du département par lequel le représentant a été élu.
+La décision de la Chambre prononçant soit la censure simple, soit la censure avec exclusion temporaire, est inscrite au procès-verbal.
 
 ## Article 125
 
-Si l'Assemblée devient tumultueuse, et si le Président ne peut parvenir à y rétablir le calme, il annonce qu'il va suspendre la séance.
+Si un délit est commis par un député dans l'enceinte du Palais législatif, toute délibération est suspendue.
 
-Après un second avertissement demeuré sans effet, il se couvre, et la séance est suspendue pendant une demi-heure.
+Le Président porte, séance tenante, le fait à la connaissance de la Chambre.
 
-Les représentants sont tenus de se retirer dans leurs bureaux respectifs. — La demi-heure expirée, la séance et la discussion sont reprises de droit.
+Sur l'ordre du Président, le député est tenu de se rendre dans le cabinet du Président, où le Bureau réuni entend ses explications.
 
-Si le tumulte se produit de nouveau, le Président, après avoir averti l'Assemblée, peut prononcer la clôture de la discussion.
+Le Bureau dresse un procès-verbal qu'il envoie s'il y a lieu, à l'autorité compétente.
 
-Il est immédiatement procédé au vote, s'il y a lieu.
+# CHAPITRE XIV DE LA COMPTABILITE
 
 ## Article 126
 
-- Si un délit vient à être commis dans l'enceinte du palais législatif par un représentant, toute délibération est suspendue.
+Les services de la Chambre des Députés se divisent en services législatifs et en services administratifs.
 
-Le Président porte le fait à la connaissance de l'Assemblée, séance tenante.
+Les services législatifs sont : le secrétariat général de la présidence, la rédaction du procès-verbal et des comptes-rendus analytiques, la sténographie, et l'expédition des lois et procès-verbaux.
 
-Le représentant est admis à s'expliquer, s'il le demande. Sur l'ordre du Président, il est tenu de quitter la salle des séances et de se rendre dans le local indiqué à l'article 122.
-
-En cas de résistance du représentant, ou de tumulte dans l'Assemblée, le Président lève à l'instant la séance.
-
-Le Bureau informe le Procureur général qu'un délit vient d'être commis dans le palais de l'Assemblée nationale.
-
-# CHAPITRE XIV DISPOSITIONS DIVERSES (Députations. - Insignes. - Apostilles. — Règlement intérieur).
+Les services administratifs sont : le secrétariat général de la questure, les archives, la bibliothèque, la caisse, et les bâtiments.
 
 ## Article 127
 
-- Les députations sont nommées par la voie du sort. Le nombre des membres qui les composent est déterminé par l'Assemblée.
+Le Président a la haute direction et le contrôle de tous les services législatifs ; mais les dépenses qui les concernent ne peuvent être engagées sans l'avis préalable des questeurs.
+
+Les questeurs ont la direction et le contrôle de tous les services administratifs. Ils habitent le Palais de la Chambre des Députés.
 
 ## Article 128
 
-- Un vice-président et deux secrétaires font nécessairement partie des députations.
+La commission de comptabilité vérifie et apure les comptes, même les comptes antérieurs non réglés.
+
+Elle fait un recolement général du mobilier appartenant à la Chambre.
+
+Les questeurs préparent le budget de la Chambre ; la commission de comptabilité l'examine et le soumet à l'approbation de la Chambre en séance publique.
+
+Les dépenses de la Chambre sont réglées par exercice comme le budget de l'Etat.
+
+A la fin de chaque exercice, la commission de comptabilité rend compte à la Chambre de l'exécution du mandat qui lui a été confié.
 
 ## Article 129
 
-- Les insignes des représentants consistent en un ruban rouge, à liseré bleu et blanc, orné des faisceaux de la République surmontés de la main de justice, et en une écharpe tricolore à franges d'or, en sautoir.
+Un des questeurs de la Chambre désigné par ses collègues, est spécialement chargé de la comptabilité des dépenses.
+
+Pour qu'ils soient valablement payables par le trésorier de la Chambre, les mandats délivrés pour l'acquittement des dépenses doivent être imputables sur un crédit ouvert au budget, accompagnés des pièces exigées par le règlement de comptabilité, et revêtus de la signature du questeur délégué.
+
+Les membres du Bureau ne peuvent faire partie de la commission de comptabilité.
+
+# CHAPITRE XV DE LA POLICE INTERIEURE ET EXTERIEURE DE LA CHAMBRE. - DES DROITS DU PRESIDENT.
 
 ## Article 130
 
-- L'Assemblée nationale interdit formellement à ses membres toutes apostilles, recommandations ou sollicitations concernant des intérêts privés.
+Le Président est chargé de veiller à la sûreté intérieure et extérieure de la Chambre. A cet effet, il fixe l'importance des forces militaires qu'il juge nécessaires ; elles sont placées sous ses ordres.
+
+Le Président habite dans l'intérieur du Palais législatif.
 
 ## Article 131
 
-- Un règlement intérieur, arrêté par le bureau de l'Assemblée, déterminera les règles relatives à la tenue des procès-verbaux et au service intérieur, les attributions respectives des divers officiers et agents de l'Assemblée, et le mode de leur nomination. 
+La police de la Chambre est exercée en son nom par le Président.
+
+## Article 132
+
+Nul étranger ne peut sous aucun prétexte s'introduire dans l'enceinte où siègent les membres de la Chambre des Députés.
+
+## Article 133
+
+Pendant tout le cours des séances, les personnes placées dans les tribunes se tiennent assises, découvertes et en silence.
+
+## Article 134
+
+Toute personne qui donne des marques d'approbation ou d'improbation est sur-le-champ exclue des tribunes par les huissiers chargés d'y maintenir l'ordre.
+
+## Article 135
+
+Tout individu qui trouble les délibérations est traduit sans délai, s'il y a lieu, devant l'autorité compétente.
+
+# CHAPITRE XVI DES RAPPORTS DE LA CHAMBRE DES DEPUTES AVEC LE SENAT.
+
+## Article 136
+
+Si les deux Chambres ont été saisies de projets ou de propositions de loi sur le même objet et si la délibération est commencée au Sénat, la Chambre des Députés ne mettre pas les projets ou propositions à son ordre du jour avant le vote définitif du Sénat.
+
+## Article 137
+
+Toute proposition de loi votée par la Chambre des Députés est transmise directement par le Président de la Chambre au Président du Sénat. Le Gouvernement est avisé de cet envoi.
+
+Tout projet de loi voté par la Chambre des Députés est transmis par le Président de la Chambre au ministre qui en a fait la présentation.
+
+Au cas où, dans le délai d'un mois, ce projet n'aurait pas été présenté au Sénat par le ministre compétent, le Président de la Chambre des Députés transmettrait lui-même le projet au Président du Sénat.
+
+Le délai d'un mois est réduit à trois jours si la Chambre, par une décision spéciale, a déclaré que la transmission aurait lieu d'urgence.
+
+## Article 138
+
+Les propositions de loi émanées de l'initiative parlementaire, votées par le Sénat et transmises au Président de la Chambre des Députés, sont examinées conformément aux règles suivies pour les projets présentés par le Gouvernement.
+
+Dans le cas où le Sénat a déclaré l'urgence, la Chambre doit être consultée sur la question d'urgence.
+
+## Article 139
+
+Si la Chambre adopte sans modifications les propositions de loi ou les projets votés par le Sénat, le Président de la Chambre des Députés transmet la loi au Président de la République par l'intermédiaire du ministre compétent.
+
+## Article 140
+
+Lorsqu'un projet de loi voté par la Chambre des Députés a été modifié par le Sénat, la Chambre des Députés peut décider, sur la proposition d'un de ses membres, qu'une commission sera
+
+chargée de se réunir avec une commission du Sénat à l'effet de s'entendre sur un texte commun.
+
+La Chambre décidera si les pouvoirs, à cet effet, seront donnés à la commission qui a fait le rapport sur le projet ou à une nouvelle commission élue dans les bureaux.
+
+## Article 141
+
+Si les deux commissions s'entendent sur un texte, la commission nommée par la Chambre des Députés fait un rapport à cette Assemblée.
+
+La Chambre des Députés délibère sur la nouvelle rédaction.
+
+## Article 142
+
+Si la Chambre des Députés a repoussé la proposition d'une conférence, le projet ne pourra être porté de nouveau à l'ordre du jour avant le délai de deux mois, que sur l'initiative du Gouvernement. Il en sera de même dans le cas où les deux commissions ne s'entendront pas sur un texte ou si la Chambre persiste dans sa première résolution.
+
+## Article 143
+
+Lorsque les propositions de loi ou les projets votés par la Chambre des Députés seront rejetés par le Sénat, ils ne pourront être repris, avant le délai de trois mois, que sur l'initiative du Gouvernement.
+
+# CHAPITRE XVII DISPOSITIONS DIVERSES
+
+## Article 144
+
+Les députations sont désignées par la voie du sort. Le nombre des membres qui les composent est déterminé par la Chambre.
+
+## Article 145
+
+Le Président ou un Vice-Président et deux secrétaires font nécessairement partie des députations.
+
+## Article 146
+
+Tout député peut faire imprimer et distribuer librement à ses frais le discours qu'il a prononcé.
+
+## Article 147
+
+Tout député dont les pouvoirs ont été vérifiés peut se démettre de ses fonctions.
+
+La démission donnée par un député avant la vérification de ses pouvoirs ne dessaisit par la Chambre des Députés du droit de procéder à cette vérification.
+
+## Article 148
+
+Les démissions sont adressées au Président de la Chambre qui en envoie immédiatement copie au Ministre de l'Intérieur.
+
+## Article 149
+
+Les insignes des députés consistent en une décoration ornée des faisceaux de la République surmontés de la main de Justice, et en une écharpe tricolore à franges d'or, portée en sautoir.
+
+## Article 150
+
+Un règlement intérieur arrêté par le Bureau de la Chambre, déterminera les règles relatives à la tenue des procès-verbaux et au service intérieur, les attributions respectives des divers officiers et agents de l'Assemblée, et le mode de leur nomination. 
