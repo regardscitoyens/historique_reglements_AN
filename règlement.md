@@ -768,6 +768,8 @@ Lorsqu'un projet, une proposition de loi ou de résolution ou un amendement disj
 
 Le débat ne pourra s'engager sur la demande visée au présent article que huit jours après qu'elle aura été remise au Président de la Chambre, afin que la commission des finances puisse être consultée s'il y a lieu. Ce débat sera soumis à la procédure des deux derniers paragraphes de l'article 96.
 
+Sauf demande expresse du Gouvernent, aucun projet, aucune proposition
+
 ## Article 97
 
 Tout projet ou proposition de loi régulièrement rapporté est inscrit en tête de l'ordre du jour d'une séance quelconque sous réserve qu'il n'y aura pas débat, lorsque la commission compétente et le Gouvernement en font la demande au Président de la Chambre au moins trois jours de séance avant le jour de l'inscription. Avis de la demande est donné à la Chambre par le Président. Le projet ainsi inscrit est retiré de l'ordre du jour par le Président, si la demande en est faite par trente membres au moins. Cette demande doit être formulée par écrit et indiquer sommairement les motifs invoqués à l'appui du retrait de l'ordre du jour. Elle est publiée, avec les noms des signataires, à la suite du compte rendu in extenso de la séance dans laquelle elle a été déposée.
