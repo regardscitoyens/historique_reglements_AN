@@ -172,7 +172,7 @@ Au début de chaque législature, l'Assemblée nomme, en séance publique, 19 Co
 
 10° commission de la marine marchande et des pêches ;
 
-11° commission des moyens de communication (chemins de fer, lignes aériennes, postes, télégraphes et téléphones) ;
+11° commission des moyens de communication et du tourisme (chemins de fer, lignes aériennes, postes, télégraphes et téléphones) ;
 
 12° commission des pensions (pensions civiles et militaires et victimes de la guerre et de l'oppression) ;
 
