@@ -682,7 +682,7 @@ A. —Le rapport est distribué ou inséré au Journal officiel dans le délai d
 
 B. — Le rapport n'est pas distribué ou inséré au Journal officiel dans le délai de trois jours francs :
 
-Dans ce cas, l'Assemblée est appelée au cours de la deuxième séance suivant l'expiration du délai précité, à se prononcer sur la demande de discussion d'urgence, à la condition, toutefois, s'il s'agit d'une proposition, que la demande de son auteur soit signée par 50 députés au moins, dont la présence doit être constatée par appel nominal.
+Dans ce cas, l'Assemblée est appelée au cours de la deuxième séance suivant l'expiration du délai précité, à se prononcer sur la demande de discussion d'urgence, à la condition, toutefois, s'il s'agit d'une proposition, que la demandede son auteur soit signée par 50 députés au moins, dont la présence doit être constatée par appel nominal.
 
 §4. — Une liste de 50 signatures remise, à l'appui d'une demande de discussion d'urgence, conformément aux dispositions du présent article, ne peut être utilisée que pour un seul appel nominal.
 
@@ -700,6 +700,12 @@ Lorsque l'Assemblée n'a pas décidé l'adoption de la procédure de discussion 
 
 Lorsque l'Assemblée a décidé l'adoption de la procédure de discussion d'urgence, elle peut, soit délibérer séance tenante sur un rapport verbal et éventuellement sur un avis verbal, soit décider que la discussion sur le fond sera inscrite en tête de l'ordre du jour de la plus prochaine séance ; dans l'un et l'autre cas, la délibération, dès qu'elle est commencée, est poursuivie jusqu'à sa conclusion, toute autre discussion devant être ajournée.
 
+En tout état de cause, le vote sur l'ensemble du projet ou de 1a proposition doit intervenir avant l'expiration des trois jours francs suivant l'adoption de l'urgence.
+
+Toutefois, l'Assemblée peut décider, sur la proposition d'un seul de ses membres, de la commission ou du Gouvernement, de prolonger ce délai.
+
+Si l'Assemblée refuse cette proposition et si le vote sur l'ensemble n'est pas intervenu avant l'expiration du délai de trois jours francs précité, le débat continue suivant la procédure ordinaire.
+
 ## Article 65
 
 Lorsque l'Assemblée a décidé l'adoption de la procédure de discussion d'urgence pour un projet ou une proposition relevant de la compétence du Conseil Economique, cette décision vaut déclaration d'urgence au regard dudit Conseil ; elle lui est notifiés immédiatement et le Conseil Economique, conformément à l'article 2, paragraphe 2° de la loi organique du 27 octobre 1946, doit donner son avis dans le délai maximum de deux jours.
@@ -712,9 +718,13 @@ Si la commission déclare n'être pas en mesure de présenter sur-le-champ de no
 
 ## Article 66
 
-Lorsque l'Assemblée a décidé l'adoption de la procédure de discussion d'urgence, le Conseil de la République dispose, pour donner son avis, du délai prévu pour la troisième phrase du deuxième alinéa de l'article 20 de la Constitution, c'est-à-dire d'un délai égal a la durée du débat devant l'Assemblée nationale, cette durée étant définie par le temps écoulé entre l'affichage de la demande de discussion d'urgence et la proclamation du résultat du vote sur l'ensemble du projet ou de la proposition ; l'heure de cette proclamation est mentionnée au compte rendu analytique et au compte rendu in extenso.
+Lorsque l'Assemblée nationale a décidé l'urgence, le Conseil de la République, conformément à l'article 20 de la Constitution, donne son avis dans le délai maximum de trois jours francs prévu pour les débats de l'Assemblée nationale, par le permier alinéa de l'article 64 ci-dessus.
 
-La transmission du texte au Conseil de la République indique la durée, ci-dessus définie, du débat devant l'Assemblée nationale et sert de point de départ au délai imparti au Conseil de la République ; si cette transmission parvient au Conseil de la République dans l'intervalle de deux séances, le délai qui lui est imparti court de l'heure d'ouverture de sa plus prochaine séance.
+Les prolongations de délai décidées par l'Assemblée nationale pour ses débats, en application du deuxième alinéa de l'article 64, sont applicables de plein droit au Conseil de la République.
+
+Les délais susvisés courent de la transmission du texte au Conseil de la République ; si la transmission lui parvient dans l'intervalle de deux séances, les délais courent de l'ouverture de sa plus prochaine séance.
+
+La transmission du texte au Conseil de la République indique éventuellement les délais supplémentaires que s'est octroyés l'Assemblée nationale.
 
 Conformément à l'article 20 précité de la Constitution, l'Assemblée peut, par décision spéciale, prolonger le délai imparti au Conseil de la République pour donner son avis et ce délai est en tout état de cause, suspendu pendant les interruptions de session.
 
