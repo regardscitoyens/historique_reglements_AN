@@ -150,7 +150,7 @@ Est interdite la constitution, au sein de l'Assemblée, de groupes dits « de d�
 
 ## Article 14
 
-Au début de chaque législature, l'Assemblée nomme, en séance publique, 19 Commissions générales, de 44 membres chacune, qui prennent les dénominations suivantes :
+Au début de chaque législature, l'Assemblée nomme, en séance publique, 19 commissions générales, de 44 membres chacune, qui prennent les dénominations suivantes :
 
 1° commission des affaires économiques (douanes et conventions commerciales) ;
 
@@ -178,23 +178,23 @@ Au début de chaque législature, l'Assemblée nomme, en séance publique, 19 Co
 
 13° commission des pensions (pensions civiles et militaires et victimes de la guerre et de l'oppression) ;
 
-14° commission de la presse (radio et cinéma et télévision) ;
+14° commission de la presse (radio, cinéma et télévision) ;
 
-15° commission de la production industrielle ;
+15° commission de la production industrielle et de l'énergie ;
 
 16° commission de la reconstruction et des dommages de guerre ;
 
-17° commission du suffrage universel, du règlement et des pétitions ;
+17° commission du suffrage universel, du Règlement et des pétitions ;
 
 18° commission des territoires d'outre-mer ;
 
 19° commission du travail et de la sécurité sociale.
 
-Les commissions générales nommées au début d'une législature demeurent en fonctions jusqu'à l'ouverture de chaque session annuelle suivante. Elles sont, par la suite, nommées pour un an et renouvelées à l'ouverture de chaque session annuelle.
+Les commissions générales nommées au début d'une législature demeurent en fonctions jusqu'à l'ouverture de la deuxième session ordinaire suivante. Elles sont, par la suite, nommées pour un an et renouvelées à l'ouverture de chaque session ordinaire.
 
 Les commissions générales sont pourvues d'un personnel et d'un local spécialisés et permanents ainsi que des instruments de travail nécessaires.
 
-Pour l'examen des problèmes ressortissants à diverses commissions, l'Assemblée peut, sur l'initiative des présidents de deux ou plusieurs commissions, décider la création de commissions, décider la création de commissions de coordination, temporaires ou permanentes, dans lesquelles les commissions délèguent elles-mêmes un certain nombre de leurs membres, variable selon la nature des problèmes à étudier.
+Pour l'examen des problèmes ressortissants à diverses commissions, l'Assemblée peut, sur l'initiative des présidents de deux ou plusieurs commissions, décider la création de commissions de coordination, temporaires ou permanentes, dans lesquelles les commissions délèguent elles-mêmes un certain nombre de leurs membres, variable selon la nature des problèmes à étudier.
 
 En outre, l'Assemblée peut décider la constitution de commissions spéciales pour un objet déterminé et nommées suivant la procédure prévue à l'article 16 pour la nomination des commissions générales.
 
@@ -230,9 +230,9 @@ La commission de comptabilité et la commission des immunités parlementaires, i
 
 ## Article 18
 
-Dès leur nomination, les commissions, convoquées par le Président de l'Assemblée, nomment leur Bureau en s'efforçant de donner à chacun des groupes une représentation correspondant à son importance numérique.
+Dès leur nomination, les commissions, convoquées par le Président de l'Assemblée, nomment leur Bureau.
 
-Le Bureau se compose de :
+Celui-ci se compose de :
 
 1 Président ;
 
