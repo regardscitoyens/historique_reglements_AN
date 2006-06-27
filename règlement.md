@@ -126,7 +126,15 @@ Une commission de onze membres, chargée de donner son avis sur toute demande de
 
 ## Article 21
 
-Une commission de trente-trois membres, nommée par les bureaux, est chargée de l'examen de la loi des recettes et des dépenses.
+Une commission de trente-trois membres, nommée par les Bureaux, est chargée de l'examen de la loi des recettes et des dépenses.
+
+La présence de dix-sept membres, au moins, est nécessaire pour la validité des votes.
+
+Au cas d'impossibilité d'un vote par le défaut de présence de la majorité absolue du nombre des commissaires, un second tour de scrutin sur le même objet est porté à l'ordre du jour de la séance suivante, et, à ce second tour, le vote est valable à la majorité relative, quel que soit le nombre des votants.
+
+Le lendemain de chaque séance, les noms des membres présents, excusés et absents seront insérés à l'Officiel.
+
+Nulle commission ne pourra procéder à aucun vote, à moins que la moitié plus un de ses membres ne soient présents aux séances.
 
 ## Article 22
 
