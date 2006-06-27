@@ -296,11 +296,13 @@ Dans tous les cas ou la représentation de l'Assemblée n'est pas prévue par un
 
 ## Article 20
 
-Les projets de loi présentés au nom du Gouvernement, les propositions de loi ou de résolution présentées par les Députés, les propositions de loi transmises par le Bureau du Conseil de la République, dûment authentiqués, sont déposés sur le Bureau de l'Assemblée nationale, imprimés, distribués et renvoyés à l'examen de la commission compétente ou d'une commission spéciale de l'Assemblée.
+Les projets de loi présentés au nom du Gouvernement, les propositions de loi ou de résolution présentées par les Députés, dûment authentiqués, sont déposés sur le Bureau de l'Assemblée nationale, imprimés, distribués et renvoyés à l'examen de la commission compétente ou d'une commission spéciale de l'Assemblée.
 
-Les propositions de résolution transmises par le Bureau de l'Assemblée de l'Union française sont transmises par le Président de l'Assemblée nationale au Président de la commission compétente.
+Conformément au premier alinéa et à la première phrase du troisième alinéa de l'article 14 de la Constitution, les propositions de loi formulées par les membres du Conseil de la République ne sont recevables sur le Bureau de l'Assemblée nationale que si elles lui ont été transmises sans débat préalable en séance publique ou au sein d'une commission du Conseil de la République. Lorsqu'elles sont recevables, elles sont déposées sur le Bureau de l'Assemblée nationale, imprimées, distribuées et renvoyées à l'examen de la commission compétente ou d'une commission spéciale de l'Assemblée.
 
-La recevabilité des propositions transmises par le Bureau du Conseil de la République ou par le Bureau de l'Assemblée de l'Union française est appréciée par le Président de l'Assemblée nationale, lequel, après avis du Bureau de l'Assemblée, peut, en cas de doute, soumettre la question de recevabilité à la décision de cette Assemblée.
+Les propositions de résolution transmises par le Bureau de l'Assemblée de l'Union française sont transmises par le Présent de l'Assemblée nationale au Président de la commission compétente.
+
+La recevabilité des propositions transmises par le Bureau du Conseil de la République ou par le Bureau de l'Assemblée de l'Union française est appréciée, quant à l'application des articles 14 (dernière phrase) et 71 (dernier alinéa) de la Constitution, par le Président de l'Assemblée nationale, lequel, après avis du Bureau de l'Assemblée, peut, en cas de doute, soumettre la question de recevabilité à la décision de cette Assemblée.
 
 Le débat engagé devant l'Assemblée sur une question de recevabilité ne peut jamais porter sur le fond ; les Présidents des commissions intéressées, un orateur pour et un orateur contre peuvent seuls être entendus.
 
