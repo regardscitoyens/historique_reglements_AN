@@ -94,6 +94,8 @@ La discussion dans les bureaux ne peut s'ouvrir, sauf le cas d'urgence déclaré
 
 Lorsque la discussion est terminée, chaque bureau nomme un commissaire, conformément aux règles déterminées par l'art. 2.
 
+Il sera procédé par voie d'appel nominal pour la nomination de toutes les commissions de 33 membres.
+
 ## Article 16
 
 Suivant la nature des projets qui sont à examiner la Chambre peut décider que les commissions seront de vingt-deux membres ou de trente-trois au lieu de onze.
