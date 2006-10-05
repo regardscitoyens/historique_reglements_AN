@@ -146,6 +146,12 @@ Elles sont composées chacune de 44 membres.
 
 Cinq jours avant la date fixée pour la nomination de ces commissions, les Bureaux des groupes remettront au Président de la Chambre, pour être publiée à la suite du compte rendu in extenso, la liste électorale de leurs membres.
 
+Les groupes ne sont reconnus valablement formés que s'ils ont déposé au Secrétariat général de la Chambre, à défaut d'un programme de parti, une déclaration politique commune à tous leurs membres, signée par eux, et tenant lieu de programme électoral.
+
+Les Députés n'appartenant à aucun groupe doivent notifier à la Présidence leur désir de rester isolés.
+
+Pour obtenir leur désignation dans les commissions, les Députés qui n'appartiennent à aucun groupe devront s'entendre avec un groupe de leur choix pour leur inscription sur les listes soumises à l'approbation de la Chambre.
+
 Nul ne pourra figurer à la fois sur la liste de deux groupes.
 
 Trois jours avant la date fixée pour la nomination, les bureaux des groupes, après s'être concertés, remettront au Président de la Chambre la liste de candidats qu'ils auront établie conformément à une règle de proportionnalité.
@@ -448,7 +454,7 @@ Elle est mise aux voix avant la question principale.
 
 ## Article 49 bis
 
-Lorsque, en cours de discussion,'une motion est présentée sur l'ordre des débats, tendant soit au retrait de l'ordre du jour du projet ou de la proposition, soit à son renvoi, après une certaine date, après un vote de la Chambre, ou après un événement quelconque, soit à une modification dans l'ordre d'examen des articles tel qu'il résulte de leur numérotage, soit au renvoi de l'article à la commission, soit à tout autre objet, seul l'auteur de la motion, un orateur contre, le Rapporteur, le Président de la commission et le Gouvernement pourront prendre la parole. L'auteur de la motionet l'orateur contre ne peuvent parler plus de dix minutes. En cas de réplique, l'auteur de la motion dispose de cinq minutes. L'auteur de la motion et un orateur contre peuvent céder son tour de parole à un de leurs collègues.
+Lorsque, en cours de discussion,une motion est présentée sur l'ordre des débats, tendant soit au retrait de l'ordre du jour du projet ou de la proposition, soit à son renvoi, après une certaine date, après un vote de la Chambre, ou après un événement quelconque, soit à une modification dans l'ordre d'examen des articles tel qu'il résulte de leur numérotage, soit au renvoi de l'article à la commission, soit à tout autre objet, seul l'auteur de la motion, un orateur contre, le Rapporteur, le Président de la commission et le Gouvernement pourront prendre la parole. L'auteur de la motion et l'orateur contre ne peuvent parler plus de dix minutes. En cas de réplique, l'auteur de la motion dispose de cinq minutes. L'auteur de la motion et un orateur contre peuvent céder son tour de parole à un de leurs collègues.
 
 ## Article 50
 
@@ -992,7 +998,7 @@ Dans les vingt jours qui suivent leur dépôt, elles doivent être imprimées av
 
 Les Ministres ont la faculté de déclarer par écrit que l'intérêt public leur interdit de répondre ou, à titre exceptionnel, qu'ils réclament un délai pour rassembler les éléments de leur réponse.
 
-Chaque semaine, le Journal officiel publie la lsite par Ministère des questions auxquelles il n'a pas été répondu dans le délai réglementaire.
+Chaque semaine, le Journal officiel publie la liste par Ministère des questions auxquelles il n'a pas été répondu dans le délai réglementaire.
 
 ## Article 120
 
