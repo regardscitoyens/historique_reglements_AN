@@ -168,6 +168,8 @@ Les commissions, convoquées sans retard nomment un président et un secrétaire
 
 Elles élisent outre, dans les mêmes formes un rapporteur chargé de rendre compte à la Chambre du résultat de leurs travaux.
 
+Le rapport est soumis à la Chambre dans un délai qui ne peut dépasser trois mois à dater du jour de la nomination du rapporteur.
+
 Le procès-verbal de chaque séance d'une commission mentionne le nom des membres présents.
 
 ## Article 26
@@ -178,13 +180,15 @@ Ce rapport est imprimé et distribué vingt-quatre heures au moins avant la disc
 
 ## Article 27
 
-Aucun membre de la Chambre faisant partie deux commissions autres que la commission chargée d'examiner les projets de loi d'intérêt local, la commission de comptabilité ou celle des congés, ne peut être appelé à faire partie d'une troisième commission jusqu'à ce que l'une des deux premières ait nommé son rapporteur.
+Aucun Député ne peut faire simultanément partie de plus de trois commissions en exercice; dans ce chiffre ne devront pas se trouver plus de deux commissions comprenant un nombre de membres supérieur à onze.
 
-Les membres de la commission du Budget ne peuvent faire partie d'aucune autre commission tant que les rapporteurs sur les recettes et les dépenses des divers ministères n'ont pas été nommés.
+Est considéré comme en exercice une commission dont tous les rapports n'ont pas été distribués.
 
-Tout membre élu commissaire est tenu de déclarer devant le bureau s'il est libre aux termes du règlement d'accepter cette mission.
+Toutes les fois que la Chambre se réunira dans ses bureaux, il sera remis à chaque Président de bureau, par les soins du Secrétariat Général de la Présidence, un état alphabétique des membres inéligibles.
 
-Dans le cas de la négative, il est immédiatement procédé à son remplacement.
+En cas de nomination d'un membre inéligible, le Président de la Chambre en avertit le Président du Bureau compétent et fait procéder à une élection nouvelle.
+
+Les dispositions du présent article ne s'appliquent pas aux commissions d'enquête électorale, d'initiative parlementaire d'intérêt local, de comptabilité, des pétitions et des congés.
 
 ## Article 28
 
