@@ -360,7 +360,23 @@ La Chambre en ordonne l'impression, si elle le sujet utile.
 
 Aucun membre de la Chambre ne peut parler qu'après avoir demandé la parole au Président et l'avoir obtenue.
 
-Il parle à la tribune ou de sa place.
+Il parle à la tribune ou de sa place. Le Président peut l'inviter à monter à la tribune.
+
+S'il parle sans avoir obtenu la parole ou s'il prétend la conserver après que le Président la lui a retirée, le Président peut déclarer que ses paroles ne figureront pas au Compte rendu officiel.
+
+Parlent seuls sans, durée limitée, les membres du Gouvernement et les commissaires du Gouvernement.
+
+Ne peuvent garder la parole pendant plus d'une heure : 1° les Présidents et Rapporteurs des commissions; 2° les auteurs d'interpellation; 3° le premier signataire d'une proposition de loi ou de résolution; 4° les orateurs mandatés à cet effet par le groupe auquel ils appartiennent et dont le nom aura été désigné au Président de la Chambre par le Président du groupe. Les groupes dont le nombre dépasse 50 membres ont la faculté de désigner un orateur par 50 membres ou fraction de 50.
+
+Ne peuvent garder la parole pendant plus d'une demi-heure : les auteurs d'amendements.
+
+La durée de l'intervention des autres membres de la Chambre est limitée à un quart d'heure.
+
+Tout membre de l'Assemblée à qui la parole est donnée avec le consentement de l'orateur ne pourra la garder pendant un temps supérieur à cinq minutes. Cette disposition est applicable également aux membres du Gouvernement et aux Commissaires du Gouvernement.
+
+Les orateurs désignés par les groupes ont la priorité. Entre eux, le tour de parole est déterminé par l'ordre d'inscription.
+
+La Chambre conserve dans tous les cas le droit de prononcer la clôture.
 
 ## Article 42
 
@@ -379,6 +395,8 @@ Un député peut toujours obtenir la parole après un orateur du Gouvernement ou
 ## Article 44
 
 La parole est accordée à tout député qui la demande pour un fait personnel.
+
+Il devra se borner à de brèves rectifications de fait qui ne pourront durer plus de cinq minutes. S'il a de plus amples observations à présenter, elles sont renvoyées à la fin de la séance.
 
 ## Article 45
 
@@ -400,7 +418,7 @@ Toute attaque personnelle, toutes manifestations troublant l'ordre sont interdit
 
 Lorsque au moins deux orateurs d'avis contraires ont pris part à une discussion, tout membre de la Chambre peut réclamer la clôture de cette discussion.
 
-Si la parole est demandée contre la clôture, elle ne peut être accordée qu'à un seul orateur.
+Si la parole est demandée sur la clôture, elle ne peut être accordée qu'à un seul orateur qui ne pourra la garder pendant plus de cinq minutes. Le premier inscrit et, après lui, chaque inscrit dans l'ordre d'inscription, s'il demande la parole sur la clôture, a la priorité ; à défaut des inscrits, la parole sur la clôture est donnée au Député qui l'a demandée le premier.
 
 Le Président consulte la Chambre par mains levées.
 
@@ -412,13 +430,21 @@ La clôture prononcée, la parole n'est plus accordée que sur la position de la
 
 La question préalable, tendant à faire déclarer qu'il n'y a pas lieu à délibérer, peut toujours être proposée.
 
+Elle ne peut être soutenue que par son auteur et combattue que par un seul orateur. Ils disposent chacun d'une demi-heure. Si, après qu'ils ont parlé, le Gouvernement intervient, le Député usant du droit de répondre à un Ministre dispose d'une demi-heure.
+
 Elle est mise aux voix avant la question principale.
+
+## Article 49 bis
+
+Lorsqu'une motion est présentée sur l'ordre des débats, tendant soit au retrait de l'ordre du jour du projet ou de la proposition, soit à son renvoi, après une certaine date, après un vote de la Chambre, ou après un événement quelconque, soit à une modification dans l'ordre d'examen des articles tel qu'il résulte de leur numérotage, soit au renvoi de l'article à la commission, soit à tout autre objet, seul l'auteur de la motion, un orateur contre, le Rapporteur, le Président de la commission et le Gouvernement pourront prendre la parole. L'auteur de la motion ne peut parler plus de dix minutes pour la justifier et cinq minutes pour la justifier et cinq minutes en cas de réplique. Il peut céder son tour de parler ou de répliquer à un de ses collègues.
 
 ## Article 50
 
 Les demandes d'ordre du jour, de priorité et de rappel au Règlement, ont toujours la préférence sur la question principale ; elles en suspendent la discussion.
 
 Toutefois, elles ne peuvent se produire tant que l'auteur n'a pas achevé son discours.
+
+Seul l'auteur de la proposition et un orateur contre elle peuvent parler pendant un maximum de dix minutes.
 
 ## Article 51
 
@@ -448,7 +474,7 @@ Si le motif qui a donné lieu au comité secret a cessé, le Président consulte
 
 ## Article 55
 
-Toute proposition tendant à l'affichage d'un discours doit être déposée par écrit sur le bureau de la Chambre et seulement au début de la séance qui suit l'insertion du discours au compte rendu in extenso. Il est statué séance tenant et sans débat.
+L'affichage des discours prononcés à la Chambre ne peut être ordonné.
 
 # CHAPITRE VIII DE LA DISCIPLINE
 
@@ -600,6 +626,8 @@ Dans les autres cas, il appartient aux Secrétaires de décider s'il y a lieu ou
 
 Le pointage est de droit quand, avant la proclamation du scrutin, le Président a été saisi d'une demande écrite, signée de trente membres.
 
+La Chambre décide, à mains levées et sans débats, sur la proposition du Président, si la discussion est suspendue ou si elle continue pendant l'opération du pointage.
+
 ## Article 76
 
 Sur une demande écrite, visant expressément un scrutin déterminé, et signée de cinquante membres dont la présence en séance est constatée par appel nominal, le scrutin public a lieu à la tribune.
@@ -663,6 +691,8 @@ Si la Chambre décide qu'elle ne veut point passer à la discussion des articles
 Dans le cas contraire, la discussion continue ; elle porte successivement sur chaque article et sur les amendements qui s'y rattachent.
 
 Après le vote de tous les articles, il est procédé à un vote sur l'ensemble.
+
+Si les dispositions présentées par la commission sont rejetées, le texte primitif des projets et propositions de loi que le Gouvernement ou les auteurs desdites propositions ont déclaré maintenir est repris. Il est soumis aux votes de la Chambre.
 
 ## Article 84
 
@@ -748,7 +778,15 @@ L'ajournement est motivé en ces termes :
 
 Les présidents des grandes commissions, les présidents de groupes ou, à leur défaut, un membre désigné par le bureau de la commission ou du groupe, les Vice-Présidents de la Chambre sont convoqués par le Président de la Chambre, chaque semaine s'il y a lieu, pour examiner l'état des travaux de l'Assemblée. Leur conférence donne lieu à une proposition motivée concernant l'ordre des travaux de la Chambre et le règlement de l'ordre du jour. Le Gouvernement, spécialement avisé par le Président de la Chambre du jour et de l'heure de la conférence, peut être entendu. La proposition présentée par la conférence est lue en séance par le Président, qui la soumet à l'approbation de la Chambre.
 
-L'ordre du jour réglé par est affiché dans l'enceinte du Palais et publié au Journal officiel. Il ne peut être modifié que par un vote émis soit sur l'initiative du Gouvernement, soit sur une demande signée par cinquante membres dont la présence devra être constatée par un appel nominal.
+L'ordre du jour réglé par est affiché dans l'enceinte du Palais et publié au Journal officiel. Il ne peut être modifié que par un vote émis soit sur l'initiative du Gouvernement, soit sur une demande signée par cinquante membres dont la présence devra être constatée par un appel nominal. La Chambre se réunit en séance publique les mardi, jeudi et vendredi de chaque semaine.
+
+Elle ne pourra décider la tenue des séances supplémentaires qu'à la demande du Président de l'Assemblée, du Gouvernement, de la Conférence des Présidents ou de la commission intéressée.
+
+Lorsqu'il y a lieu à des séances supplémentaires, et sauf circonstances exceptionnelles, elles se tiennent les mardi, jeudi ou vendredi matin.
+
+Le mercredi est réservé au travail des commissions.
+
+La séance peut être suspendue par le Président.
 
 ## Article 95
 
@@ -768,7 +806,7 @@ Si la commission saisie ne conclut pas à la discussion immédiate, elle doit, s
 
 Dans les cinq jours qui suivent le dépôt de ce rapport sommaire ou le dernier délai dans lequel il aurait dû être déposé, la discussion immédiate peut être ordonnée par un vote émis sur une demande signée par cinquante membres dont la présence devra être constatée par un appel nominal.
 
-Le débat engagé sur cette demande de discussion immédiate ne peut porter sur le fond. L'auteur de la proposition, le rapporteur ou le président de la commission et un membre du Gouvernement ont seuls le droit d'être entendus.
+Le débat engagé sur cette demande de discussion immédiate ne peut porter sur le fond. L'auteur de la proposition, le rapporteur ou le président de la commission et un membre du Gouvernement ont seuls le droit d'être entendus. L'auteur de la demande ne peut parler plus de dix minutes pour justifier sa demande et cinq minutes en cas de réplique. Il peut céder son droit de parole ou de réplique à l'un de ses collègues.
 
 Le débat sur la demande de discussion immédiate ne peut venir qu'en fin de séance. Si la discussion immédiate est ordonnée, elle peut avoir lieu séance tenante ou être reportée en tête de l'ordre du jour de la plus prochaine séance.
 
@@ -796,7 +834,7 @@ Si de nouvelles objections sont formulées, il est procédé suivant les prescri
 
 ## Article 99
 
-Si aucune demande régulière de retrait de l'ordre du jour n'est déposée, si aucun membre ne s'est inscrit ou si la procédure établie à l'article précédent a fonctionné, le Président met successivement aux voix sans débat les différents articles, puis l'ensemble du projet ou de la proposition de loi.
+Si aucune demande régulière de retrait de l'ordre du jour n'est déposée, si aucun membre ne s'est inscrit, si aucune opposition verbale ou écrite n'a été formulée en séance publique ou si la procédure établie à l'article précédent a fonctionné, le Président met successivement aux voix sans débat les différents articles, puis l'ensemble du projet ou de la proposition de loi. Si une opposition se produit en séance, le Président déclare que le projet ou la proposition de loi est provisoirement retiré de l'ordre du jour. L'auteur de l'opposition est tenu d'en formuler immédiatement et par écrit les motifs, qui sont publiés à la suite du compte rendu in extenso de la séance.
 
 # CHAPITRE XII EXAMEN DU BUDGET
 
@@ -814,7 +852,7 @@ Aucune proposition tendant, soit à des augmentation de traitements, d'indemnit�
 
 ## Article 103
 
-Les chapitres des différents budgets dont la modification n'est pas demandée soit par le Gouvernement, soit par la commission du budget, soit par un amendement régulièrement déposé, ne peuvent être l'objet que d'un débat sommaire. Chaque orateur ne peut être entendu que pendant un quart d'heure et ne peut parler qu'une fois, sauf exercice du droit de réponse aux Ministres ou aux Rapporteurs.
+Les chapitres des différents budgets dont la modification n'est pas demandée soit par le Gouvernement, soit par la commission des finances, soit par un amendement régulièrement déposé, ne peuvent être l'objet que d'un débat sommaire. Chaque orateur ne peut être entendu que pendant un quart d'heure et ne peut parler qu'une fois, sauf exercice du droit de réponse aux Ministres ou aux Rapporteurs. La durée de cette réponse ne pourra excéder quinze minutes.
 
 # CHAPITRE XIII DES RAPPORTS DE LA CHAMBRE DES DEPUTES AVEC LE SENAT.
 
@@ -890,6 +928,8 @@ Le droit de prendre la parole comme interpellateur est personnel.
 
 L'orateur inscrit en cette qualité ne peut céder son tour qu'à un autre interpellateur déjà inscrit pour le même objet.
 
+L'auteur de l'interpellation a un droit de priorité pour répondre au Gouvernement, en un quart d'heure.
+
 Aucune interpellation ne peut être jointe à la discussion du budget.
 
 ## Article 113
@@ -934,9 +974,17 @@ Les Ministres ont la faculté de déclarer par écrit que l'intérêt public leu
 
 ## Article 120
 
-Les questions orales peuvent, au commencement ou à la fin des séances, être adressées à un Ministre après que celui-ci a préalablement accepté.
+Les questions orales peuvent à la fin des séances du mardi et du jeudi, au plus tard à dix-neuf heures, être posées à un Ministre.
 
-Seul le Député qui a posé la question a droit de répliquer sommairement.
+L'énoncé de la question ne peut dépasser un quart d'heure. Après la réponse du Ministre, seul le Député qui a posé la question a le droit de répliquer en cinq minutes.
+
+Il ne peut être inscrit plus de deux questions à l'ordre du jour d'une même séance.
+
+Les Ministres sont prévenus des questions qui doivent leur être posées en la forme où leur sont communiquées les demandes d'interpellation.
+
+Les questions sont inscrites à l'ordre du jour de la séance ou elles doivent être posées.
+
+La question ne peut être transformée séance tenante en interpellation.
 
 # CHAPITRE XV DES PETITIONS
 
