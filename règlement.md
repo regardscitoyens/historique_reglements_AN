@@ -46,11 +46,11 @@ Quand les pouvoirs de la moitié plus un des membres ont été vérifiés, il do
 
 1 Président,
 
-4 Vice-Présidents,
+5 Vice-Présidents,
 
-4 Secrétaires.
+6 Secrétaires.
 
-Chacune des 4 catégories des membres de l'Assemblée :
+Chacune des cinq catégories des membres de l'Assemblée :
 
 Représentants des organismes de résistance métropolitaine,
 
@@ -58,9 +58,7 @@ Représentants de la résistance extra-métropolitaine,
 
 Représentants de la résistance parlementaire,
 
--  Représentants des Conseils généraux d'outre-mer, doit être représentée dans le Bureau.
-
-Avant la date fixée pour la nomination des membres du Bureau, les présidents des quatre catégories de membres de l'Assemblée se concertent pour l'application de la règle stipulée à l'alinéa précédent.
+Avant la date fixée pour la nomination des membres du Bureau, les présidents des cinq catégories de membres de l'Assemblée se concertent pour l'application de la règle stipulée à l'alinéa précédent.
 
 Le Bureau délègue à un membre de l'Assemblée désigné par celle-ci les fonctions antérieurement dévolues aux questeurs. Le membre ainsi désigné assiste aux réunions du bureau.
 
@@ -130,7 +128,7 @@ Commission du règlement.
 
 Chacune de ces commissions peut se subdiviser en Sous-Commissions spécialisées qui soumettront leurs conclusions à l'approbation de la commission.
 
-Sur l'initiative des présidents de deux ou plusieurs commissions, l'Assemblée peut décider de créer des commissions de coordination permanentes ou temporaires composées de 36 à 48 membres désignés en nombre égal par chacune des commissions intéressées.
+Sur l'initiative des présidents de deux ou plusieurs commissions, l'Assemblée peut décider de créer des commissions de coordination permanentes ou temporaires composées de 44 à 56 membres désignés en nombre égal par chacune des commissions intéressées.
 
 La commission permanente de coordination des affaires économiques et sociales composée de membres des commissions :
 
@@ -140,19 +138,27 @@ La commission permanente de coordination des affaires économiques et sociales c
 
 - de l'agriculture et du ravitaillement ;
 
--  des finances.
+- des finances.
+
+La commission permanente de coordination des affaires musulmanes est composée de 44 membres :
+
+33 membres désignés par les commissions des affaires étrangères, de l'intérieur et de la santé publique, et de la France de l'outre-mer, à raison de 11 membres chacune ;
+
+7 membres du groupe de la résistance extramétropolitaine et 4 membres du groupe des conseillers généraux d'outre-mer désignés par ces trois mêmes commissions.
 
 ## Article 11
 
-Les commissions sont composées de 36 membres nommés au scrutin de liste en assemblée générale sur la proposition de chacune des quatre catégories de délégués visés à l'article 7 et suivant la règle proportionnelle suivante :
+Les commissions sont composées de 44 membres nommés au scrutin de liste en assemblée générale sur la proposition de chacune des cinq catégories de délégués visés à l'article 7 et suivant la règle proportionnelle suivante :
 
 Représentants de la Résistance métropolitaine : 21 membres,
 
-Représentants de la résistance parlementaire : 9 membres,
+-  Représentants de la résistance parlementaire : 9 membres, -  Représentants des déportés et prisonniers : 8 membres,
+
+<!-- -->
 
 -  Représentants de la Résistance extra-métropolitaine : 4 membres, -  Représentants des Conseils généraux d'outre-mer : 2 membres.
 
-Par dérogation aux dispositions qui précèdent, la commission de la France d'outre-mer comprend 48 membres.
+Par dérogation aux dispositions qui précèdent, la commission de la France d'outre-mer comprend 56 membres.
 
 Les 12 sièges supplémentaires sont affectés :
 
@@ -562,13 +568,13 @@ Toute personne qui donne des marques d'approbation ou d'improbation, est sur le 
 
 ## Article 66
 
-L'Assemblée élit, chaque fois qu'il y a lieu au renouvellement du Bureau, une commission de Comptabilité composée de l'un des Vice-Présidents désignés par le Bureau et de quatre membres à raison de :
+L'Assemblée élit, chaque fois qu'il y a lieu au renouvellement du Bureau, une commission de Comptabilité composée de l'un des Vice-Présidents désignés par le Bureau et de cinq membres à raison de :
 
 2 Représentants des Organismes métropolitains,
 
-1 Représentant de la résistance parlementaire,
+-  1 Représentant de la résistance parlementaire, -  1 Représentant des déportés et prisonniers,
 
-- l Représentant de la Résistance extra-métropolitaine, ou des Conseils généraux.
+l Représentant de la Résistance extra-métropolitaine, ou des Conseils généraux.
 
 La commission de Comptabilité vérifie, examine et soumet à l'approbation de l'Assemblée, les propositions budgétaires de l'Assemblée.
 
@@ -629,6 +635,10 @@ Tout Délégué dont les pouvoirs ont été vérifiés peut se démettre de ses 
 ## Article 74
 
 - Le Bureau proclame, dans la quinzaine, la vacance du siège occupé par un membre qui accepte des fonctions incompatibles avec celles de Délégué.
+
+## Article 74 bis
+
+- Lorsque l'Assemblée est appelée à désigner des membres chargés de la représenter dans un organisme institué auprès d'un département Ministériel la commission compétente de l'Assemblée est chargée de proposer la ou les candidatures. S'il y a doute sur la commission, l'Assemblée statue par assis et levé ; elle peut également décider que les candidature à présenter seront réparties entre deux ou plusieurs commissions. La commission a le droit de choisir le on les candidats, soit parmi ses propres membres, soit parmi les autres membres de l'Assemblée. La liste des candidats est remise au Président de l'Assemblée. Il est procédé à sa publication et à la nomination des candidats dans les conditions prévues aux deux 1s alinéas de l'article 12. Dans le cas où une candidature concurrente se produirait ou si la demande en est faite par un membre de l'Assemblée, il est procède au vote, par scrutin, dans l'un des salons voisins de la salle des séances.
 
 ## Article 75
 
