@@ -210,6 +210,8 @@ Si la question préalable n'est pas admise ou si l'ordre du jour n'est pas adopt
 
 Dans le cas où une pétition rapportée serait reconnue avoir pour objet une modification ou une interprétation de la Constitution, le renvoi aux bureaux est prononcé par le Président du Sénat sur la demande du Gouvernement ou d'un Sénateur.
 
+Une pétition ayant pour objet une modification quelconque ou une interprétation de la Constitution ne peut être rapportée en séance générale que si l'examen en a été autorisé par trois au moins des cinq bureaux du Sénat.
+
 # CHAPITRE VIII Proclamations de l'Empereur au Sénat.
 
 ## Article 32
