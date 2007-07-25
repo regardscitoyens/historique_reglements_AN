@@ -36,11 +36,11 @@ Les membres de l'Assemblée peuvent prendre communication, sans déplacement, de
 
 ## Article 4
 
-Les procès-verbaux sont répartis entre les Bureaux par ordre alphabétique des départements ainsi que des territoires d'outre-mer et, autant que possible, proportionnellement au nombre total des élections. Ils sont examinés par des commissions, de cinq membres au moins, formées dans chaque Bureau par la voie du sort.
+Les procès-verbaux sont répartis entre les bureaux par ordre alphabétique des départements ainsi que des territoires d'outre-mer et, autant que possible, proportionnellement au nombre total des élections. Les bureaux les examinent mais, en cas de contestation, une commission de cinq membres tirés au sort dans le bureau intéressé procède à un examen préalable.
 
 Les protestations électorales doivent être adressées au Président de l'Assemblée qui en saisit le Bureau compétent.
 
-Les Bureaux doivent saisir l'Assemblée de leurs conclusions dans le délai maximum de quinze jours. L'Assemblée peut sur leur demande, leur accorder un délai supplémentaire.
+Les Bureaux doivent saisir l'Assemblée de leurs conclusions dans le délai maximum de quinze jours. La validation est inscrite d'office à l'ordre du jour du deuxième jour de séance qui suit l'expiration de ce délai. L'Assemblée peut sur leur demande, leur accorder un délai supplémentaire.
 
 ## Article 5
 
@@ -210,17 +210,37 @@ Au cas de trois absences consécutives du commissaire ou de son suppléant ou au
 
 Cinq jours avant la date fixée pour la nomination des commissions, les bureaux des groupes remettent au Président de l'Assemblée, pour être publiée au Journal officiel, la liste électorale de leurs membres.
 
-Pour pouvoir établir une liste de candidats à une commission générale, les groupes doivent comprendre au moins 14 membres.
+Pour pouvoir prendre part à l'établissement d'une liste de candidats à une commission générale, les groupes doivent comprendre au moins 14 membres.
 
-Les groupes qui n'atteignent pas cet effectif, et les Députés qui n'appartiennent à aucun groupe de leur choix, avec l'agrément du bureau de ce groupe, afin de pouvoir figurer à la suite de sa liste électorale.
+Les groupes qui n'atteignent pas cet effectif, et les Députés qui n'appartiennent à aucun groupe doivent s'apparenter à un groupe de leur choix, avec l'agrément du bureau de ce groupe, afin de pouvoir figurer à la suite de sa liste électorale.
 
 Trois jours avant la date fixée pour la nomination des commissions, les bureaux des groupes, après s'être concertés, remettent au Président de l'Assemblée la liste des candidats qu'ils ont établie conformément à la règle de proportionnalité ; cette liste est publiée au Journal officiel.
 
 La liste des candidats sera ratifiée par l'Assemblée si, avant la nomination, elle n'a pas suscité l'opposition de cinquante membres au moins.
 
-Les oppositions sont remises par écrit au Président et publiées au Journal officiel. Dans le cas d'opposition, l'Assemblée procède à un vote par scrutin de liste en assemblée générale.
+Les oppositions sont remises par écrit au Président et publiées au Journal officiel. 
+
+Dans le cas d'opposition, le Président consulte l'Assemblée sur la prise en considération de l'opposition- L'Assemblée statue après un débat au cours duquel peuvent seuls être entendus un orateur « pour » et un orateur « contre ».
+
+Si l'Assemblée ne prend pas l'opposition en considération, la liste des candidats présentés par les groupes est immédiatement ratifiée.
+
+Si l'Assemblée prend l'opposition en considération, la liste des candidats frappée d'opposition est annulée et les groupes doivent établir une nouvelle liste de candidats.
+
+Cette nouvelle liste est remise au Président, qui informe sans délai l'Assemblée de son dépôt et la fait immédiatement afficher.
+
+Pendant le délai d'une heure suivant cet affichage, il peut être fait opposition à cette liste. A l'expiration dudit délai, l'Assemblée se prononce dans les conditions prévues dans les alinéas précédents.
 
 Au cas de vacances dans les commissions, les groupes intéressés remettent au Président de l'Assemblée les noms des membres appelés à remplacer les membres sortants ; il est procédé à leur nomination dans les conditions prévues ci-dessus.
+
+Cessent de plein droit d'appartenir aux commissions dont ils font partie et sont remplacés dans les conditions ci-dessus :
+
+1° Le député qui n'appartient plus au groupe qui l'a désigné ;
+
+2° Le député nommé membre du Gouvernement ;
+
+3° Le député chargé d'une mission temporaire dans les conditions prévues à l'article 11 de la loi n° 50-10 du 6 janvier 1950.
+
+Dans les cas prévus aux paragraphes 20 et 3°, le député intéressé ne peut faire l'objet d'une nouvelle désignation de candidature pour une commission qu'après avoir cessé d'appartenir au Gouvernement ou après l'expiration de sa mission.
 
 ## Article 17
 
@@ -532,6 +552,22 @@ Si l'organisation de la discussion est décidée, la conférence des présidents
 
 Aucune inscription de parole n'est reçue en cours de débat ; les interventions nouvelles ne peuvent se produire qu'en fin de débat, lors des explications de vote.
 
+## Article 39 bis
+
+Dans tous les débats pour lesquels le temps de parole est limité, les orateurs ne doivent, en aucun cas, excéder leur temps de parole ou le temps de parole attribué à leur groupe.
+
+Si le temps de parole est dépassé, le Président, après un avertissement, décide que les paroles de l'orateur ne figureront pas au Journal officiel.
+
+Si, malgré cette décision, l'orateur persiste à occuper la tribune, le Président peut le rappeler à l'ordre.
+
+Lorsqu'un groupe a épuisé son temps de parole, celle-ci doit être refusée à ses membres.
+
+Lorsqu'un amendement est ou a été déposé par un membre d'un groupe dont le temps de parole est épuisé, cet amendement est lu par le Président et mis aux voix sans débat.
+
+Le groupe qui a épuisé son temps de parole ne peut plus demander de scrutin public, excepté sur l'ensemble d'un projet ou d'une proposition.
+
+Si, au cours d'un débat organisé, il devient manifeste que les temps de parole sont devenus insuffisants, l'Assemblée, sur proposition d'un de ses membres, peut décider, sans débat, d'augmenter pour une durée déterminée le temps de parole de chaque groupe.
+
 # CHAPITRE X TENUE DES SEANCES
 
 ## Article 40
@@ -580,9 +616,9 @@ Le congé prend fin par une déclaration personnelle, écrite, du Député.
 
 ## Article 43
 
-Aucun membre de l'Assemblée ne peut parler qu'après avoir demandé la parole au Président et l'avoir obtenue.
+Aucun membre de l'Assemblée ne peut parler qu'après avoir demandé la parole au Président et l'avoir obtenue, même s'il est autorisé exceptionnellement par un orateur à l'interrompre. En ce cas, la mise au point de l'interrupteur ne peut dépasser cinq minutes.
 
-La parole est accordée sur-le-champ à tout Député qui la demande pour un rappel au Règlement. Elle est accordée, mais seulement en fin de séance, au Député qui la demande pour un fait personnel. Dans les deux cas, elle ne peut être conservée plus de cinq minutes.
+La parole est accordée dans les conditions prévues à l'article 51, alinéa 1, au Député qui la demande pour un rappel au Règlement. Si, manifestement, son intervention n'a aucun rapport avec le Règlement, le Président peut lui retirer la parole. Elle est accordée, mais seulement en fin de séance, au Député qui la demande pour un fait personnel. Dans les deux cas, elle ne peut être conservée plus de cinq minutes.
 
 Les Députés qui demandent la parole sont inscrits suivant l'ordre de leur demande.
 
@@ -592,7 +628,11 @@ L'orateur parle à la tribune ou de sa place ; le Président peut l'inviter à m
 
 Si l'orateur parle sans avoir obtenu la parole ou s'il prétend la conserver après que le Président la lui a retirée, le Président peut déclarer que ses paroles ne figureront pas au procès-verbal.
 
-L'orateur ne doit pas s'écarter de la question, sinon le Président l'y rappelle. Si l'orateur, rappelé deux fois à la question dans le même discours, continue à s'en écarter, le Président doit consulter l'Assemblée pour savoir si la parole ne sera pas interdite à l'orateur, sur le même sujet, pendant le reste de la séance. L'Assemblée se prononce, sans débat, à main levée ; en cas de doute, la parole n'est pas interdite à l'orateur.
+L'orateur ne doit pas s'écarter de la question, sinon le Président l'y rappelle.
+
+S'il ne se conforme pas à cette invitation, le Président peut décider que ses paroles ne figureront pas au Journal officiel. S'il y a persistance dans le refus opposé à l'invitation du Président, l'orateur est rappelé à l'ordre. Tout orateur invité par le Président à quitter la tribune et qui ne défère pas aussitôt à cette invitation est rappelé à l'ordre avec inscription au procès-verbal. S'il persiste, la peine de la censure simple peut lui être appliquée.
+
+Les interpellations de collègue à collègue sont interdites.
 
 ## Article 44
 
@@ -704,11 +744,13 @@ Après cette seconde lecture, l'Assemblée nationale élabore, sur le rapport de
 
 Les projets et propositions sont, en principe, soumis à une seule délibération en séance publique.
 
-Il est procédé, tout d'abord, à une discussion générale du rapport fait sur le projet ou la proposition.
+Il est procédé, tout d'abord, à l'audition du rapport fait sur le projet ou la proposition.
 
-Avant d'ouvrir la discussion générale, il est éventuellement donné lecture de l'avis du Conseil Economique, soit par le Rapporteur dudit Conseil, soit par le Rapporteur de la commission de l'Assemblée saisie du fond de l'affaire.
+Éventuellement, le Rapporteur de la commission saisie au fond donne lecture de l'avis du Conseil économique.
 
-Après la clôture de la discussion générale, le Président consulte l'Assemblée sur le passage à la discussion des articles du rapport de la commission.
+Avant d'ouvrir une discussion générale, le Président invite le Gouvernement à faire connaître à l'Assemblée s'il oppose à l'adoption de tout ou partie du projet ou de la proposition en discussion une irrecevabilité constitutionnelle, légale ou réglementaire. Si cette irrecevabilité est soulevée, peuvent seuls intervenir, en disposant chacun de cinq minutes (avant consultation de la commission des finances, dans les conditions prévues à l'article 57 bis ci-après, lorsque l'irrecevabilité est d'ordre financier ou budgétaire) deux opposants appartenant à des groupes différents, ainsi que le rapporteur de la commission saisie au fond.
+
+Après la clôture de la discussion générale, le Président consulte l'Assemblée sur le passage à la discussion des articles du rapport de la commission. Aucune explication de vote ne peut être admise.
 
 Lorsque la commission conclut au rejet du projet ou de la proposition, le Président, immédiatement après la clôture de la discussion générale, met aux voix le rejet.
 
@@ -720,9 +762,23 @@ Dans le cas contraire, la discussion continue et elle porte successivement sur c
 
 Après le vote de tous les articles, il est procédé au vote sur l'ensemble du projet ou de la proposition.
 
-Lorsqu'avant le vote sur l'article unique d'un projet ou d'une proposition il n'a pas été présenté d'article additionnel, ce vote équivaut à un vote sur l'ensemble ; aucun article additionnel n'est recevable après que ce vote est intervenu.
+Lorsque, avant le vote sur l'article unique d'un projet ou d'une proposition il n'a pas été présenté d'article additionnel, ce vote équivaut à un vote sur l'ensemble ; aucun article additionnel n'est recevable après que ce vote est intervenu.
 
 Il ne peut être présenté de considérations générales sur l'ensemble ; sont seules admises, avant le vote sur l'ensemble, des explications sommaires n'excédant pas cinq minutes.
+
+## Article 57 bis
+
+Lorsqu'une irrecevabilité est opposée, avant la discussion générale en cours de discussion, en application soit de l'article 57 (alinéa 3 bis
+
+), soit de l'article 68 du Règlement, le Président, après s'il y a lieu le débat limité prévu à l'alinéa sus-visé de l'article 57, consulte la commission des finances selon la procédure prévue à l'article 48 (alinéa 1) du Règlement.
+
+Le retrait de l'ordre du jour de l'ensemble d'un projet ou d'une proposition, ou la disjonction d'un texte ou d'un amendement sont de droit lorsque la commission des finances admet l'irrecevabilité ; dans le cas contraire, l'Assemblée se prononce sur l'irrecevabilité dans les conditions prévues à l'article 70 (alinéa 4) du Règlement.
+
+Dans tous les cas où la commission des finances, ainsi consultée, n'est pas en mesure de donner sur-le-champ son avis, le texte contre lequel est invoquée irrecevabilité ou la disjonction lui est renvoyé, de plein droit et sans débat.
+
+Si ce renvoi porte sur l'ensemble d'un projet ou d'une proposition, ce dernier ne peut être réinscrit à l'ordre du jour qu'après distribution de l'avis de la commission des finances et sur proposition de la Conférence des Présidents.
+
+Si le renvoi à la commission des finances porte sur une partie d'un projet ou d'une proposition ou sur un amendement, sa discussion est réservée jusqu'à ce que la commission des finances ait formulé son avis dans le délai qui lui est imparti par l'Assemblée compte tenu des dispositions des articles 34 (alinéa 7) et 40 (alinéa 3) du Règlement; l'absence d'avis à l'expiration dudit délai est considérée comme une confirmation de l'irrecevabilité.
 
 ## Article 58
 
@@ -870,6 +926,8 @@ Les dispositions de l'article 58 concernant la deuxième délibération et le re
 
 Il ne peut être introduit dans les lois de budget ou les lois de crédits prévisionnels ou supplémentaires que des dispositions visant directement les recettes ou les dépenses de l'exercice ; aucune proposition de résolution, aucune interpellation, aucun ordre du jour motivé ne peuvent leur être joints; aucun article additionnel ne peut y être présenté, sauf s'il tend à supprimer ou à réduire une dépense, à créer ou à accroître une recette ou à assurer le contrôle des dépenses publiques.
 
+La disjonction de toute disposition, qu'il s'agisse d'un amendement ou d'un article, d'un rapport ou d'un projet de loi, ne concernant pas directement les recettes ou les dépenses publiques, est de droit lorsqu'elle est demandée par la commission qui aurait été compétente pour en connaître au fond si cette disposition avait fait l'objet d'un projet ou d'une proposition de loi. La disposition ainsi disjointe sera renvoyée à la commission compétente qui devra la rapporter dans les mêmes conditions qu'une proposition de loi.
+
 Les amendements relatifs aux états de dépenses ne peuvent porter que sur les chapitres desdits états.
 
 Les chapitres des différents budgets dont la modification n'est pas demandée, soit par le Gouvernement, soit par la commission des finances soit par un amendement régulièrement déposé ne peuvent être l'objet que d'un débat sommaire. Chaque orateur ne peut parler qu'une fois, sauf exercice du droit de réponse aux Ministres et aux Rapporteurs. La durée de cette réponse ne peut en aucun cas, excéder dix minutes.
@@ -901,6 +959,28 @@ Les Députés ont le droit de présenter des amendements aux textes soumis à la
 Les amendements ne sont recevables que s'ils s'appliquent effectivement au texte qu'ils visent ou, s'agissant de contre-projets et d'articles additionnels, s'ils sont proposés dans le cadre du projet ou de la proposition. Dans les cas litigieux, la question de leur recevabilité est soumise, avant leur discussion, à la décision de l'Assemblée ; seul l'auteur de l'amendement, un orateur contre, la commission et le Gouvernement peuvent intervenir.
 
 Les amendements adoptés par le Conseil de la République, rejetés en tout ou partie par la commission compétente de l'Assemblée nationale, peuvent être repris par les Députés.
+
+## Article 70 bis
+
+Les amendements présentés aux projets de lois de budget, de finances, de crédits prévisionnels ou supplémentaires, après le dépôt du rapport de la commission ne sont recevables que s'ils sont déposés au plus tard le quatrième jour de séance qui suit la distribution du rapport.
+
+Lorsque la commission dépose un rapport supplémentaire, les amendements sont recevables sur les modifications apportées au rapport précédent pendant un nouveau délai identique à compter de la distribution de ce rapport supplémentaire.
+
+Après expiration de ce délai, sont seuls recevables en séance publique :
+
+1° Les amendements dont le Gouvernement ou la commission saisie au fond acceptent la discussion ;
+
+2° Les amendements déposés au nom d'une commission saisie pour avis;
+
+3° Les amendements aux textes nouveaux proposés par la commission en cours de discussion ;
+
+4° Les amendements au projet du Gouvernement pris en considération en application de l'article 73 ci-après ;
+
+5° Les amendements qui se rapportent directement à un ou plusieurs alinéas modifiés par l'Assemblée en cours de discussion.
+
+Lorsqu'une nouvelle délibération est décidée conformément à l'article 58 ci-dessus, les amendements autres que ceux déjà déposés ne sont recevables que s'ils portent sur les nouveaux textes proposes par la commission ou sur les modifications apportées par l'Assemblée au texte du rapport initial.
+
+Les dispositions du présent article ne s'appliquent qu'aux discussions en première lecture des projets ou propositions de loi.
 
 ## Article 71
 
@@ -984,11 +1064,15 @@ Le Président invite éventuellement les Députés à reprendre leur place.
 
 Chaque Député dépose dans l'urne, qui lui est présentée par les huissiers, un bulletin de vote à son nom, blanc s'il est pour l'adoption, bleu s'il est contre.
 
+Toutefois, chaque Député peut déléguer son vote à un de ses collègues.
+
+Sous réserve des dispositions de l'article 22 de la Constitution, le vote doit être effectué par chaque député personnellement lors des scrutins sur la présentation des Gouvernements, sur les questions de confiance et sur les motions de censure. Il en est de même lors des scrutins sur les traités internationaux si, sur proposition de la Conférence des Présidents, l'Assemblée en a ainsi décidé. Le vote a lieu à la tribune ou dans les salles voisines conformément aux articles 83 et 84. Mention spéciale des absents devra être portée au compte rendu in extenso des séances publiées par le Journal officiel.
+
 Lorsque les votes sont recueillis, le Président prononce la clôture du scrutin. Les urnes sont immédiatement apportées à la tribune. Les Secrétaires font le dépouillement du scrutin et le Président en proclame le résultat.
 
 ## Article 82
 
-Lorsque, dans le dépouillement d'un scrutin, l'écart entre le nombre des bulletins blancs et celui des bulletins bleus n'est pas supérieur à vingt-cinq, lorsque le nombre des bulletins recueillis dans les urnes est supérieur au nombre des Députés pouvant prendre part au vote, les Secrétaires doivent procéder au pointage des votes émis.
+Lorsque, dans le dépouillement d'un scrutin, l'écart entre le nombre des bulletins blancs et celui des bulletins bleus n'est pas supérieur à vingt-cinq, ou lorsque le nombre des bulletins recueillis dans les urnes est supérieur au nombre des Députés pouvant prendre part au vote, les Secrétaires doivent procéder au pointage des votes émis.
 
 Le pointage est de droit lorsque la majorité absolue des membres composant l'Assemblée est requise par les articles 49, 50, 57 et 90 de la Constitution. Il est également de droit dans le cas prévu par l'article 45 (alinéa 3) de la Constitution.
 
@@ -1002,9 +1086,9 @@ Lorsqu'un scrutin portant sur une demande de suspension de séance ou sur un tex
 
 ## Article 83
 
-Le scrutin public a lieu à la tribune sur demande signée de cinquante Députés, dont la présence en séance est constatée par appel nominal : à l'appel de son nom chaque signataire de la demande présent se lève à son banc.
+Le scrutin public à la tribune n'a lieu qu'en application du sixième alinéa de rarticle 5. Dans ce cas le scrutin a lieu de la manière suivante :
 
-Avant l'appel nominal préalable à l'ouverture du scrutin public à la tribune, le Bureau doit faire connaître si le nombre des membres présents dans l'enceinte du Palais atteint la majorité absolue du nombre des Députés composant l'Assemblée.
+Avant l'ouverture du scrutin, le Bureau doit faire connaître si le nombre des membres présents dans l'enceinte du Palais atteint la majorité absolue du nombre des Députés composant l'Assemblée.
 
 Si le Bureau affirme que le quorum est atteint, le scrutin a lieu immédiatement et il est valable quel que soit le nombre des suffrages exprimés. Dans le cas contraire, le scrutin est renvoyé à une séance ultérieure.
 
@@ -1014,11 +1098,7 @@ Le scrutin reste ouvert pendant une heure ; il est dépouillé par les Secrétai
 
 Le pointage est de droit en matière de scrutin public à la tribune.
 
-Si, avant l'ouverture d'un scrutin public à la tribune, quel qu'en soit l'objet, il est présenté une demande de renvoi de ce scrutin, signée, soit du Président d'un groupe comprenant au moins vingt-cinq membres, y compris les Députés apparentes, soit de vingt-cinq Députés, l'Assemblée statue sur cette demande au scrutin public ordinaire. Cette demande de renvoi ne peut être présentée qu'une seule fois sur le même objet.
-
-Le scrutin public à la tribune ne peut être demandé qu'une seule fois par 150 Députés, appartenant ou apparentés à un même groupe, au cours d'un même débat.
-
-Les dispositions du précédent alinéa s'appliquent aux Députés ayant déposé une demande de scrutin public à la tribune, même s'ils ont pour co-signataires des Députés appartenant à d'autres groupes.
+Si, avant l'ouverture d'un scrutin public à la tribune, quel qu'en soit l'objet, il est présenté une demande de renvoi de ce scrutin, signée, soit du Président d'un groupe comprenant au moins vingt-cinq membres, y compris les Députés apparentés, soit de vingt-cinq Députés, l'Assemblée statue sur cette demande au scrutin public ordinaire. Cette demande de renvoi ne peut être présentée qu'une seule fois sur le même objet.
 
 ## Article 84
 
@@ -1079,8 +1159,6 @@ Les demandes d'interpellations ne peuvent être déposées que par un seul Dépu
 Tout Député qui veut interpeller le Gouvernement remet au Président une demande écrite expliquant sommairement l'objet de son interpellation.
 
 Le Président notifie immédiatement cette demande au Gouvernement et en donne connaissance à l'Assemblée le premier jour de séance qui suit la notification.
-
-Les interpellations de Député à Député sont interdites.
 
 ## Article 90
 
@@ -1164,6 +1242,12 @@ Si le Ministre intéressé est absent, la question est reportée à l'ordre du j
 
 Lorsque, par suite de deux absences successives d'un Ministre, une question est appelée pour la troisième fois en séance publique et si le Ministre est de nouveau absent, l'auteur de la question peut la transformer séance tenante en interpellation et soumettre, sur-le-champ, un ordre du jour au vote de l'Assemblée.
 
+## Article 96 bis
+
+Sur proposition de la Conférence des Présidents, deux questions orales peuvent être inscrites hors tour, en tête de l'ordre du jour des séances du mercredi ou du jeudi après-midi.
+
+Seuls peuvent prendre la parole en disposant chacun de cinq minutes, le député pour exposer sa question et le Ministre pour lui répondre. L'auteur de la question peut, après la réponse du Ministre, reprendre la parole pendant cinq minutes.
+
 ## Article 97
 
 Les questions écrites sont publiées à la suite du compte rendu in extenso; dans le mois qui suit cette publication, les réponses des Ministres doivent également y être publiées.
@@ -1191,8 +1275,6 @@ Les pétitions doivent être adressées au Président de l'Assemblée. Elles peu
 Une pétition, apportée ou transmise par un rassemblement formé sur la voie publique, ne peut être reçue par le Président ni déposée sur le Bureau.
 
 Toute pétition doit indiquer la demeure du pétitionnaire et être revêtue de sa signature.
-
-Les signatures des pétitionnaires doivent être légalisées ; si la légalisation a été refusée, le pétitionnaire doit faire mention de ce refus à la suite de sa pétition.
 
 ## Article 99
 
