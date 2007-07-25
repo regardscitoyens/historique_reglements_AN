@@ -88,6 +88,8 @@ Dans le cas où la nomination est renvoyée aux bureaux, les scrutins sont ouver
 
 L'Assemblée peut aussi, si elle le juge convenable, renvoyer à une commission déjà formée l'examen des projets ou propositions qui lui sont soumis.
 
+Dans ce cas, la nouvelle proposition sera soumise •aux mêmes conditions d'examen, auxquelles est assujettie la proposition dont la commission est déjà saisie.
+
 ## Article 16
 
 Les commissions, convoquées sans retard nomment, à la majorité absolue des votants, un président et un secrétaire.
@@ -446,7 +448,7 @@ L'Assemblée se réunit dans ses bureaux, et nomme une commission, sur le rappor
 
 ## Article 74
 
-- Toute proposition faite par un représentant est formulée par écrit. Elle est remise au Président qui, après en avoir donné connaissance à l'Assemblée, la renvoie à l'examen de la commission spéciale pour les propositions.
+- Toute proposition faite par un représentant est formulée par écrit. Elle est remise au Président qui, après en avoir donné connaissance à l'Assemblée, la renvoie à l'examen de la commission spéciale pour les propositions, sauf l'exception portée en l'article 15.
 
 ## Article 75
 
@@ -508,11 +510,7 @@ La demande ayant pour objet de faire déclarer l'urgence est précédée d'un ex
 
 ## Article 85
 
-Si la demande d'urgence est prise en considération, l'Assemblée renvoie dans les bureaux, et fixe le moment où le rapport sur l'urgence sera présenté.
-
-Sur ce rapport, si l'Assemblée reconnaît l'urgence, elle le déclare, et passe immédiatement à la délibération.
-
-Elle peut aussi prononcer le renvoi, soit à la même commission soit aux bureaux. Dans ce cas, elle fixe le moment où le rapport lui sera présenté et où la discussion s'ouvrira.
+Si l'urgence est déclarée, l'Assemblée prononce le renvoi, soit à une commission déjà formée, soit aux bureaux.
 
 ## Article 86
 
@@ -543,6 +541,10 @@ La commission présente sans délai son travail. Lecture en est donnée, et la d
 ## Article 89
 
 Si l'Assemblée s'est prononcée contre l'urgence, le projet ou la proposition est examiné et voté dans les formes ordinaires.
+
+Le caractère d'urgence reconnu à une proposition ou projet de loi pourra être retiré, sur la demande d'un membre de l'Assemblée, après le dépôt du rapport de la commission chargée de son examen.
+
+Ce retrait ne pourra plus être demandé après l'ouverture de la discussion sur les articles.
 
 # CHAPITRE IX Des pétitions.
 
