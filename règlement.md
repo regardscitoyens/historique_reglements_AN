@@ -372,7 +372,7 @@ Sous réserve des règles fixées par la Constitution, les lois organiques et le
 
 ## Article 41
 
-Pendant les sessions, les matinées des mardi, mercredi et vendredi de chaque semaine sont réservées aux travaux des commissions.
+Pendant les sessions, les matinées des mardi, mercredi, jeudi et vendredi de chaque semaine sont réservées aux travaux des commissions.
 
 Quand l'Assemblée tient séance, les commissions ne peuvent se réunir que pour délibérer sur les affaires qui leur sont renvoyées par l'Assemblée en vue d'un examen immédiat ou sur les affaires inscrites à l'ordre du jour de l'Assemblée.
 
@@ -568,9 +568,7 @@ Si la contestation est prise en considération par le Bureau, la rectification d
 
 ## Article 60
 
-Le Président constate la clôture de la première session ordinaire annuelle à la fin de la dernière séance du troisième vendredi de décembre et au plus tard à minuit.
-
-Il constate la clôture de la deuxième session ordinaire annuelle à la fin de la dernière séance fixée sur proposition de la Conférence des Présidents et au plus tard le jour de l'expiration du délai de trois mois suivant le dernier mardi d'avril, à minuit. Le délai de trois mois se compte de quantième en quantième.
+Le Président constate la clôture des sessions ordinaires à la fin de la dernière séance fixée sur proposition de la Conférence des Présidents et au plus tard à minuit le quatre-vingtième ou le quatre-vingt-dixième jour à partir du jour d'ouverture de la session – ce jours compris – selon qu'il s'agit de la première ou de la seconde session ordinaire.
 
 Après la lecture du décret de clôture d'une session extraordinaire intervenue dans les conditions prévues aux articles 29, alinéa 2 et 30 de la Constitution, le Président ne peut donner la parole à aucun orateur et lève sur-le-champ la séance.
 
@@ -898,7 +896,7 @@ Il ne peut ensuite être mis en discussion et aux voix qu'une seule exception d'
 
 La parole est ensuite donnée aux orateurs qui se sont fait inscrire dans la discussion générale. L'auteur ou le premier signataire d'une proposition a priorité.
 
-Après la clôture de la discussion générale, il ne peut être mis en discussion et aux voix qu'une seule motion tendant au renvoi à la commission saisie au fond de l'ensemble du texte en discussion, et dont l'effet, en cas d'adoption est de suspendre le débat jusqu'à présentation par la commission d'un nouveau rapport. La discussion de cette motion a lieu dans les conditions prévues à l'alinéa 3.
+Après la clôture de la discussion générale, il ne peut être mis en discussion et aux voix qu'une seule motion tendant au renvoi à la commission saisie au fond de l'ensemble du texte en discussion, et dont l'effet, en cas d'adoption est de suspendre le débat jusqu'à présentation par la commission d'un nouveau rapport. La discussion de cette motion a lieu dans les conditi prévues à l'alinéa 3.
 
 Si la motion de renvoi est adoptée, le Gouvernement, lorsqu'il s'agit d'un texte prioritaire aux termes de l'article 48, alinéa 1, de la Constitution, l'Assemblée, lorsqu'il s'agit d'un texte non prioritaire, fixe la date et l'heure auxquelles la commission devra présenter son nouveau rapport. Le Gouvernement peut demander que ce texte conserve sa priorité sur les autres affaires inscrites à l'ordre du jour.
 
@@ -1302,7 +1300,7 @@ Dans le cas où une question écrite est transformée en question orale, en appl
 
 ## Article 134
 
-La séance du vendredi après-midi est réservée par priorité aux questions orales; la première partie de la séance est consacrée aux questions orales sans débat.
+La séance réservée par priorité aux questions des membres du Parlement et aux réponses du Gouvernement est fixée, par décisions de la Conférence des Présidents, soit au mercredi après-midi, soit au vendredi après-midi.
 
 L'inscription des questions orales à l'ordre du jour de cette séance est décidée par la Conférence des Présidents au vu des deux rôles de ces questions arrêtés la veille de sa réunion.
 
@@ -1330,7 +1328,7 @@ Aucune autre intervention ne peut avoir lieu.
 
 Lorsque l'auteur d'une question orale avec ou sans débat ne peut assister à la séance, il peut, s'il se trouve dans l'un des cas prévus par l'ordonnance n° 58-1066 du 7 novembre 1958, se faire suppléer par l'un de ses collègues. A défaut, sa question est rayée du rôle.
 
-Seuls peuvent répondre aux questions le Premier Ministre et les ministres compétents. Lorsqu'un ministre intéressé est absent, la question est reportée d'office au vendredi suivant, en tête de son rôle et le Président de l'Assemblée en informe le Premier Ministre.
+Seuls peuvent répondre aux questions le Premier Ministre et les ministres compétents. Lorsqu'un Ministre intéressé est absent, la question est reportée d'office en tête de son rôle, à la séance de la semaine suivante réservée aux questions orales sur décision de la Conférence des Présidents. Le Président de l'Assemblée en informe le Premier Ministre.
 
 # CHAPITRE III QUESTIONS ÉCRITES
 
