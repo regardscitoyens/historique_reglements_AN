@@ -428,17 +428,21 @@ Les dispositions du présent article sont applicables aux rapports déposés par
 
 ## Article 34
 
-Les Vice-Présidents de l'Assemblée, les Présidents des commissions et les Présidents des groupes d'au moins 14 membres sont convoqués, chaque semaine, s'il y a lieu, par le Président de l'Assemblée, en vue d'examiner l'ordre de ses travaux et d'examiner toutes propositions concernant le règlement de l'ordre du jour, compte tenu des articles 35 et 46 subordonnant l'inscription à l'ordre du jour à la distribution préalable du rapport.
+Les Vice-Présidents de l'Assemblée, les Présidents des commissions et les Présidents des groupes d'au moins 14 membres sont convoqués, chaque semaine, par le Président de l'Assemblée, en vue d'examiner l'ordre de ses travaux et de faire toutes propositions concernant le règlement de l'ordre du jour, compte tenu des articles 35 et 55 subordonnant l'inscription à l'ordre du jour à la distribution préalable du rapport.
 
 Le Gouvernement est avisé par le Président du jour et de l'heure de la Conférence ; il peut y déléguer un représentant.
 
+Sous réserve des dispositions spéciales de l'article 63 relatives à l'inscription des discussions d'urgence à l'ordre du jour, la Conférence des Présidents, dans sa première réunion suivant l'ouverture ou la reprise de la session annuelle, propose l'ordre du jour de l'Assemblée pour la durée de trois semaines. Dans sa réunion suivante, elle le propose pour la quatrième semaine et procède de même dans chacune de ses réunions hebdomadaires ultérieures.
+
 A la fin de la séance suivant la réunion de la Conférence, le Président soumet les propositions de la Conférence à l'approbation de l'Assemblée. La parole peut être accordée à un représentant de chaque groupe pour une durée maximum de cinq minutes.
 
-L'ordre du jour réglé par l'Assemblée ne peut être ultérieurement modifié qu'en fin de séance pour les séances suivantes, à la suite d'un vote émis, au scrutin public et à la majorité absolue des membres composant l'Assemblée, soit sur l'initiative du Gouvernement ou d'une commission, soit sur une demande signée par 3o membres appartenant au moins à trois groupes organisés dont la présence doit être constatée par appel nominal. Seuls, l'auteur de la proposition de modification et un orateur de chaque groupe peuvent prendre la parole pour une durée de cinq minutes chacun.
+Aucune proposition tendant soit à fixer directement ou indirectement la date de discussion d'une interpellation, soit à inscrire à l'ordre du jour une affaire sur laquelle le rapport n'est pas distribué, soit à inscrire à l'ordre du jour un arbitrage ou une discussion d'urgence, ne peut être présentée sous forme d'amendement aux propositions de la Conférence des Présidents.
+
+L'ordre du jour réglé par l'Assemblée sur proposition de la Conférence ne peut plus être modifié.
 
 ## Article 35
 
-Sauf dans le cas de nouvelle délibération prévu à l'article 22 et dans le cas de discussion immédiate prévu à l'article 54 ci-après, l'inscription à l'ordre du jour d'un projet ou d'une proposition ne peut se produire qu'après la distribution ou la publication du rapport.
+L'inscription à l'ordre du jour d'un projet ou d'une proposition sur lequel l rapport n'a pas été distribué ne peut avoir lieu que sur proposition de la Conférence des Présidents prévue à l'article 34.
 
 Lorsque la commission n'a pas rapporté un projet ou une proposition ou un amendement disjoint dans le délai de trois mois prévu à l'article 29, son inscription immédiate à l'ordre du jour peut être proposée à l'Assemblée par le Gouvernement ou sur demande signée par 50 membres, dont la présence doit être constatée par appel nominal.
 
@@ -718,55 +722,47 @@ Dans le délai maximum de trois jours francs à compter de la distribution ou, s
 
 Dans le même délai de trois jours francs, la commission saisie au fond doit également, par écrit, faire connaître son avis sur l'urgence et, s'il y a lieu, faire distribuer son rapport sur le fond du projet ou de la proposition. L'urgence ne peut être valablement acceptée par la commission qu'à la suite d'un vote émis à la majorité absolue des membres composant la commission.
 
-Lorsque le Président du Conseil ou la commission s'opposent à l'urgence, leur avis doit être sommairement motivé. Dans l'avis de la commission doivent figurer, sommairement rédigés par leurs soins, les avis des minorités qui se sont manifestées au sein de la commission en faveur de l'urgence.
+Lorsque le Président du Conseil s'opposent à l'urgence ou que la commission s'y oppose expressément, leur avis doit être sommairement motivé. Dans l'avis de la commission doivent figurer, sommairement rédigés par leurs soins, les avis des minorités qui se sont manifestées au sein de la commission en faveur de l'urgence.
 
-Si, au terme du délai précité de trois jours francs, l'avis motivé du Président du Conseil ou celui de la commission n'est pas parvenu au Président de l'Assemblée, cette absence d'avis est considérée, de leur part, comme une acceptation tacite de l'urgence.
+Si, au terme du délai précité de trois jours francs, l'avis motivé du Président du Conseil n'est pas parvenu au Président de l'Assemblée, cette absence d'avis est considérée comme une acceptation tacite de l'urgence. L'absence d'avis de la commission saisie du fond, au terme du même délai, est considérée comme une opposition tacite à l'urgence.
 
 ## Article 63
 
-En aucun cas la discussion sur le fond d'un projet ou d'une proposition pour lequel l'urgence a été demandée ne peut avoir lieu avant sa distribution.
+I. — Acceptation de l'urgence. - Lorsque, dans le délai de trois jours francs, l'urgence a été acceptée par le Président du Conseil ainsi que par la commission, l'urgence est acquise de plein droit et la discussion d'urgence peut être inscrite à l'ordre du jour, après décision de la Conférence des Présidents, dans les conditions prévues au paragraphe IV ci-après.
 
-I. — Acceptation expresse de l'urgence. - Lorsque, dans le délai de trois jours francs, l'urgence a été acceptée par le Président du Conseil ainsi que par la commission, l'urgence est acquise de plein droit et l'Assemblée peut aborder directement la discussion sur le fond.
+II. - Opposition à l'urgence. - Lorsque, dans le délai de trois jours francs, une demande d'urgence formulée par un député a fait l'objet soit d'une double opposition du Président du Conseil et de la commission, soit d'une opposition de la commission – lorsque son avis est seul requis - ces oppositions ne sont susceptibles d'aucun recours ; elles sont notifiées à l'auteur de la demande dans un délai à la suite du compte rendu in extenso et une nouvelle demande d'urgence portant sur la même affaire ne peut être présentée avant le délai d'un mois suivant cette insertion.
 
-a) Dès réception du dernier avis favorable à l'urgence et si le rapport est distribué ou si la commission est prête rapporter verbalement, la discussion a lieu selon le cas :
+III. - Désaccord sur l'urgence. - Lorsque l'avis, exprès ou tacite, du Président du Conseil et celui de la commission sont divergents, le Président de l'Assemblée l'annonce à l'Assemblée et en informe sans délai l'auteur de la demande d'urgence ; l'avis qui s'oppose à l'urgence est inséré à la suite du compte rendu in extenso.
 
-- Soit à la fin de l'une des séances de la journée au cours de laquelle l'urgence a été demandée ;
+Si l'auteur de la demande d'urgence peut faire appel à l'arbitrage de l'Assemblée, il doit, à peine de forclusion, en prévenir le Président de l'Assemblée, avant la fin de la dernière séance du premier jour de séance suivant l'annonce prévue à l'alinéa précédent.
 
-- Soit, après inscription à l'ordre du jour de séance suivant ;
+1° Lorsque la demande d'arbitrage émane du Président du Conseil, elle est communiquée à l'Assemblée et l'arbitrage peut être inscrit à l'ordre du jour, après décision de la Conférence des Présidents, dans les conditions prévues au paragraphe IV ci -après.
 
-- Soit – après annonce et affichage au début de la séance suivante – à la fin de cette même séance du même jour.
+2° Lorsque la demande d'arbitrage émane d'une commission, elle n'est recevable que si l'arbitrage a été demandé par la commission à la suite d'un vote émis, sur le vu de l'opposition du Président du Conseil, à la majorité absolue des membres la composant; dans ce cas, I la demande est communiquée à l'Assemblée et l'arbitrage peut être inscrit à l'ordre du jour, après décision de la Conférence des Présidents, dans les conditions prévues au paragraphe IV ci-après ;
 
-b) Si, au terme du délai de trois jours francs, la commission, après avoir accepté l'urgence ou n'est pas prête à rapporter verbalement, l'affaire est inscrite d'office en tête de l'ordre du jour du premier ou du deuxième jour de séance suivant l'expiration dudit délai, selon qu'il expire en cours de séance ou un jour où l'Assemblée ne siège pas. Dans le cas où la commission n'est pas en mesure de rapporter à l'ouverture de la discussion, l'Assemblée peut lui impartir, pour faire distribuer son rapport, un nouveau délai qui ne peut excéder huit jours francs.
+3° Lorsque la demande d'arbitrage émane d'un député, elle n'est recevable que si elle est signée par au moins 50 députés, une liste de signataires ne pouvant servir que pour une seule demande d'arbitrage.
 
-La discussion sur le fond est alors inscrite, d'office, en tête de l'ordre du jour du premier jour de séance suivant la distribution du rapport ou l'expiration du délai de huit jours francs ; en l'absence de rapport, l'Assemblée se prononce sur le passage à la discussion des articles du projet ou de la proposition. Dès qu'une discussion d'urgence est commencée, elle est pour suivie jusqu'à sa conclusion, toute autre discussion devant être ajournée.
+Dans ce cas, la demande d'arbitrage est communiquée à l'Assemblée, la liste ne varietur des signataires est inséré au compte rendu in extenso et leur appel nominal est inscrit d'office en tête de l'ordre du jour du premier jour de séance suivant. Si la présence de 50 signataires est alors constatée, l'arbitrage peut être inscrit à l'ordre du jour, après décision de la Conférence des Présidents, dans les conditions prévues au paragraphe IV ci-après ;
 
-II. - Acceptation tacite de l'urgence. - Lorsque, dans le délai de trois jours francs, ni le Président du Conseil, ni la commission n'ont fait parvenir au Président de l'Assemblée leur avis sur l'urgence, ou lorsque l'un d'eux a fait parvenir un avis favorable à l'urgence et que l'autre, demeuré muet, a tacitement accepté l'urgence, celle-ci est acquise de plein droit et la discussion sur le fond est inscrite à l'ordre du jour du premier ou du deuxième jour de séance suivant l'expiration dudit délai, selon qu'il expire en cours de séance où un jour ou l'Assemblée ne siège pas.
+4° Lorsque l'auteur de la demande d'urgence n'a pas fait appel à l'arbitrage de l'Assemblée ou lorsque 50 signataires de la demande formulée par un député ne sont pas présents à l'appel de leur nom, le projet, le rapport ou la proposition suit la procédure normale et l'Assemblée ne peut être saisie avant le délai d'un mois d'une nouvelle demande d'urgence portant sur la même affaire.
 
-Si, à l'ouverture de la discussion, la commission n'a pas fait distribuer son rapport ou n'est pas prête à rapporter verbalement, l'Assemblée peut lui impartir un nouveau délai qui ne peut excéder huit jours francs et il est ensuite procédé comme prévu au dernier alinéa du paragraphe I ci-dessus.
+IV. - Inscription à l'ordre du jour. - La Conférence des Présidents, prévue par l'article 34, établit définitivement la liste des arbitrages et des discussions d'urgence qui seront inscrits à l'ordre du jour de l'Assemblée et décide de l'ordre de leur examen. Elle prévoit une séance spéciale pour l'examen de ces affaires par l'Assemblée.
 
-III. - Opposition à l'urgence. — Lorsque, dans le délai de trois jours francs, le Président du Conseil a fait connaître qu'il s'oppose à l'urgence d'une proposition et que la commission a fait connaître qu'elle s'y oppose également, l'Assemblée n'est pas saisie de la demande de discussion d'urgence de cette proposition et ne peut être saisie, avant le délai d'un mois, d'une nouvelle demande de discussion d'urgence portant sur la même affaire.
+Les arbitrages et les discussions d'urgence qui n'ont pas été inscrits par la Conférence à l'ordre du jour de quatre séances consécutives réservées aux urgences deviennent caducs, mais les affaires sur lesquelles ils portent peuvent alors faire l'objet d'une nouvelle demande de discussion d'urgence.
 
-Dans ce cas, l'avis motivé du Président du Conseil et celui de la commission sont notifiés à l'auteur de la proposition et insérés en même temps à la suite du compte rendu in extenso de la plus prochaine séance de l'Assemblée.
+V. — Débats sur les arbitrages et sur le fond. — Les débats sur les arbitrages ne doivent pas porter sur le fond ; l'auteur de la demande, un orateur d'opinion contraire, le Gouvernement et le Président ou le Rapporteur de la commission saisie du fond peuvent seuls intervenir et disposent chacun de cinq minutes au maximum ; l'Assemblée se prononce sur l'urgence au scrutin public.
 
-IV. - Désaccord sur l'urgence. - Lorsque l'avis, exprès ou tacite, du Président du Conseil et celui de la commission sont divergents, le Président de l'Assemblée l'annonce à l'Assemblée et en informe sans délai l'auteur de la demande d'urgence ; l'avis motivé qui s'oppose à l'urgence est inséré à la suite du compte rendu in extenso.
+Lorsqu'après arbitrage, l'Assemblée n'a pas adopté l'urgence, le projet, le rapport ou la proposition suit la procédure normale et une nouvelle demande de discussion d'urgence portant sur la même affaire ne peut être présentée avant le délai d'un mois ; lorsque l'Assemblée a adopté l'urgence, elle entame séance tenante la discussion sur le fond.
 
-Si l'auteur de la demande d'urgence désire faire appel à l'arbitrage de l'Assemblée, il doit, à peine de forclusion, en prévenir le Président de l'Assemblée, avant la fin du premier jour de séance suivant l'annonce prévue à l'alinéa précédent. Lorsque la demande d'arbitrage émane d'un Député, elle doit être signée par 50 Députés.
+En aucun cas, la discussion sur le fond ne peut commencer avant la distribution du projet ou de la proposition, mais elle peut avoir lieu sur rapport verbal de la commission.
 
-La demande d'arbitrage est communiquée à l'Assemblée et le débat sur l'urgence est inscrit, d'office en tête de l'ordre du jour du premier jour de séance suivant.
+En l'absence de rapport, verbal ou écrit, ou si le rapport ne présente aucune conclusion, l'Assemblée se prononce directement sur le passage à la discussion des articles du projet ou de la proposition.
 
-Au début de cette séance il est procédé, s'il y a lieu, à l'appel des 50 signataires de la demande d'arbitrage. Une liste de 50 signataires ne peut servir que pour un seul appel nominal.
-
-Dès que la présence des 50 signataires a été constatée, ou sur la demande du Président du Conseil ou de la commission, l'Assemblée est appelée à se prononcer sur l'urgence, au scrutin public.
-
-Le débat sur l'urgence ne doit pas porter sur le fond : l'auteur de la demande, un orateur d'opinion contraire, Gouvernement et le Président ou le Rapporteur de la commission saisie du fond peuvent seuls intervenir et disposent chacun de cinq minutes au maximum.
-
-Lorsque l'Assemblée n'a pas adopté urgence, elle ne peut pas être saisie avant le délai d'un mois d'une nouvelle demande de discussion d'urgence portant sur la même affaire.
-
-Lorsque l'Assemblée a adopté l'urgence, elle peut délibérer séance tenante sur un rapport verbal et, éventuellement sur un avis verbal, ou décider que la discussion sur le fond sera inscrite en tête de l'ordre du jour de la plus prochaine séance. Si, à l'ouverture de la discussion, la commission n'a pas fait distribuer son rapport, ou n'est pas prête à rapporter verbalement, l'Assemblée peut lui impartir un nouveau délai qui ne peut excéder deux jours francs et il est ensuite procédé comme prévu au dernier alinéa du paragraphe I du présent article.
+Lorsqu'une discussion d'urgence a commencé, elle est poursuivie jusqu'à sa conclusion ou inscrite, de droit, en tête de l'ordre du jour de la plus prochaine séance réservée aux urgences ; ce report vaut prolongation de la validité de l'urgence au sens de l'article 64 (alinéa 2) ci-après.
 
 ## Article 64
 
-En tout état de cause, le vote sur l'ensemble du projet ou de 1a proposition doit intervenir avant l'expiration des trois jours francs suivant l'adoption de l'urgence. Lorsque l'urgence a été acquise de plein droit, ce délai court du commencement de la discussion sur le fond.
+En tout état de cause, le vote sur l'ensemble du projet ou de 1a proposition doit intervenir avant l'expiration des trois jours francs suivant le commencement de la discussion sur le fond.
 
 Toutefois, l'Assemblée peut décider, sur la proposition d'un seul de ses membres, de la commission ou du Gouvernement, de prolonger ce délai.
 
@@ -776,9 +772,9 @@ Si l'Assemblée refuse cette proposition et si le vote sur l'ensemble n'est pas 
 
 Lorsque l'Assemblée a décidé l'adoption de la procédure de discussion d'urgence pour un projet ou une proposition relevant de la compétence du Conseil Economique, cette décision vaut déclaration d'urgence au regard dudit Conseil ; elle lui est notifiés immédiatement et le Conseil Economique, conformément à l'article 2, paragraphe 2° de la loi organique du 27 octobre 1946, doit donner son avis dans le délai maximum de deux jours.
 
-L'avis du Conseil Economique est immédiatement communiqué à la commission saisie du fond.
+L'avis du Conseil Economique est immédiatement communiqué à la commission saisie du fond ; il est distribué sans délai.
 
-Si la commission se déclare prête à présenter sur-le-champ de nouvelles conclusions ou si elle déclare maintenir ses conclusions primitives, la discussion du projet ou de la proposition est inscrite, d'office, en tête de l'ordre du jour du premier jour de séance suivant la distribution de l'avis du Conseil Economique, cette distribution devant avoir lieu sans délai.
+Si la commission se déclare prête à présenter sur-le-champ de nouvelles conclusions ou si elle déclare maintenir ses conclusions primitives, la discussion du projet ou de la proposition est inscrite à l'ordre du jour de l'Assemblée, après décision de la Conférence des Présidents, dans les conditions prévues au paragraphe IV de l'article 63.
 
 Si la commission déclare n'être pas en mesure de présenter sur-le-champ de nouvelles conclusions, elle dispose, pour faire distribuer son rapport ou le faire insérer au Journal officiel, d'un délai de trois jours francs à compter de la notification qui lui est faite de l'avis du Conseil Economique dans ce cas, la discussion du projet ou de la proposition est inscrite, d'office, en tête de l'ordre du jour du premier jour de séance suivant la distribution du rapport de la commission ou son insertion ou Journal officiel.
 
@@ -802,9 +798,9 @@ Lorsque le Conseil de la République a émis un avis « non conforme » sur une 
 
 La commission dispose, pour faire distribuer son rapport ou le faire insérer au Journal officiel, d'un délai maximum de huit jours francs à compter de la distribution de l'avis du Conseil de la République.
 
-Lorsque la commission saisie du fond demande au Président de l'Assemblée, en cours de séance, la discussion de son rapport distribué le jour même cette discussion peut avoir lieu à la fin de la séance, une heure au moins après qu'une annonce du débat a été faite à l'Assemblée et qu'un avis a été affiché et notifié au Président du Conseil et aux Présidents des groupes.
+Dès que le rapport est distribué, la discussion d'urgence, en deuxième lecture, est inscrite d'office en tête de l'ordre du jour de la plus prochaine séance réservée par la Conférence des Présidents aux discussions d'urgence, après, s'il y a lieu, la suite des discussions d'urgence en première lecture déjà commencées.
 
-Dans tous les autres cas, la discussion en deuxième lecture est inscrite d'office, en tête de l'ordre du jour du premier jour de séance suivant la distribution du rapport ou son insertion au Journal officiel.
+Toutefois, dans les séances qui précèdent la clôture ou l'interruption de la session, la discussion d'urgence en deuxième lecture du rapport distribue peut, à la demande de la commission, avoir lieu en fin de séance après annonce, affichage et notification au Président du Conseil et aux Présidents des groupes dans les conditions prévues au dernier alinéa de l'article 61 ci-dessus.
 
 La discussion sur le fond en deuxième lecture ne peut jamais commencer avant la distribution de l'avis du Conseil de la République.
 
