@@ -604,6 +604,10 @@ Pour les nominations en assemblée générale, deux urnes sont placées, l'une s
 
 Le dépouillement des scrutins de nomination se fait par les soins de scrutateurs dont les noms sont tirés au sort à raison de trois par chaque table de dépouillement.
 
+Lorsqu'il sera procédé en assemblée générale à des élections autres que celles des membres du Bureau, le vote aura lieu de la manière suivante :
+
+L'urne de vote sera placée dans l'un des salons voisins de la salle des séances sous la surveillance de l'un des secrétaires assisté de deux des scrutateurs tirés au sort. Chaque membre déposera son bulletin dans l'urne pendant le cours de la séance, qui ne sera pas suspendue par le fait de l'opération. Les scrutateurs émargeront les noms des votants. Le président indiquera, après avoir consulté la Chambre, l'heure d'ouverture et de clôture du scrutin. Le dépouillement aura lieu dans la forme ordinaire.
+
 ## Article 90
 
 La question préalable, tendant à faire déclarer qu'il n'y a pas lieu à délibérer, peut toujours être proposée.
