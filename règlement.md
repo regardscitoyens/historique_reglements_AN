@@ -70,6 +70,50 @@ Ils restent en fonctions jusqu'à l'ouverture de la session ordinaire suivante.
 
 Après l'élection du Bureau définitif, le Président fait connaître au Sénat et au Président de la République que la Chambre des Députés est constituée.
 
+## Article 11 bis
+
+Au début de chaque législature, la Chambre des Députés se divise en seize grandes commissions permanentes, sans préjudice des autres commissions spéciales ou permanentes dont elle pourra décider la constitution.
+
+Ces commissions prennent les dénominations suivantes :
+
+« 1. commission des Douanes;
+
+« 2. commission du Travail;
+
+« 3. commission d'Assurance et de Prévoyance sociales;
+
+« 4. commission de l'agriculture;
+
+« 5. commission des Travaux publics, des Chemins de fer et des Voies de communication;
+
+« 6. commission de la Réforme judiciaire et de la Législation civile et criminelle;
+
+« 7. commission de l'Armée;
+
+« 8. commission de la Marine;
+
+« 9. commission des Affaires extérieures, des Protectorats et des Colonies;
+
+« 10. commission de l'Enseignement et des Beaux-Arts ;
+
+« 11. commission de l'Administration générale, départementale et communale, des Cultes et de la Décentralisation ;
+
+« 12. commission du Commerce et de l'Industrie;
+
+« 13. commission de la Législation fiscale ;
+
+« 14. commission de l'Hygiène publique;
+
+« 15. commission des Postes et des Télégraphes;
+
+« 16. commission des Économies. »
+
+## Article 11 ter
+
+L'article 17 s'applique à la nomination de ces grandes commissions.
+
+Ces commissions seront composées chacune de trente-trois membres.
+
 # CHAPITRE III BUREAUX. - COMMISSION. - RAPPORTS. DOCUMENTS
 
 ## Article 12
