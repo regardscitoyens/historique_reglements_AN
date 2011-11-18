@@ -328,8 +328,7 @@ Lorsqu'un projet ou une proposition a été l'objet d'un renvoi pour avis, la co
 
 Les avis sont imprimés et distribués.
 
-Le défaut de dépôt ou de distribution d'un avis ne peut faire obstacle à l'inscription à l'ordre du jour, avec débat, des conclusions d'un rapport, la commission qui a demandé à donner son avis pouvant toujours le donner verbalement au jour fixé pour la discussion
-du fond.
+Le défaut de dépôt ou de distribution d'un avis ne peut faire obstacle à l'inscription à l'ordre du jour, avec débat, des conclusions d'un rapport, la commission qui a demandé à donner son avis pouvant toujours le donner verbalement au jour fixé pour la discussion du fond.
 
 Par contre, la distribution préalable de l'avis est obligatoire pour l'inscription à l'ordre du jour, sans débat, dans les conditions prévues à l'article 36.
 
@@ -871,7 +870,11 @@ Le scrutin reste ouvert pendant une heure ; il est dépouillé par les Secrétai
 
 Le pointage est de droit en matière de scrutin public à la tribune.
 
-Si, avant l'ouverture d'un scrutin public à la tribune, quel qu'en soit l'objet, il est présenté une demande de renvoi de ce scrutin, signée, soit du Président d'un groupe comprenant au moins vingt-cinq membres, y compris les Députés apparentes, soit de vingt-cinq Députés, l'Assemblée statue sur cette demande au scrutin public ordinaire. Cette demande de renvoi ne peut être présentée qu'une seule fois sur le même objet,
+Si, avant l'ouverture d'un scrutin public à la tribune, quel qu'en soit l'objet, il est présenté une demande de renvoi de ce scrutin, signée, soit du Président d'un groupe comprenant au moins vingt-cinq membres, y compris les Députés apparentes, soit de vingt-cinq Députés, l'Assemblée statue sur cette demande au scrutin public ordinaire. Cette demande de renvoi ne peut être présentée qu'une seule fois sur le même objet.
+
+Le scrutin public à la tribune ne peut être demandé qu'une seule fois par 150 Députés, appartenant ou apparentés à un même groupe, au cours d'un même débat.
+
+Les dispositions du précédent alinéa s'appliquent aux Députés ayant déposé une demande de scrutin public à la tribune, même s'ils ont pour co-signataires des Députés appartenant à d'autres groupes.
 
 ## Article 84
 
