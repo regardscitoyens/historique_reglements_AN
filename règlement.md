@@ -270,7 +270,7 @@ Si une opposition a été formulée dans les conditions prévues au précédent 
 
 ## Article 32
 
-La constitution d'une commission spéciale à l'initiative de l'Assemblée est de droit si deux commissions permanentes ont demandé, dans les quinze jours suivant la distribution, à se saisir pour avis d'un projet ou d'une proposition de loi renvoyé à une autre commission permanente qui n'a pas encore statué sur l'ensemble, sauf s'il s'agit d'un projet de loi de finances. La commission spéciale doit comprendre au moins trois membres de chacune des commissions permanentes qui ont demandé à être saisies pour avis.
+La constitution d'une commission spéciale à l'initiative de l'Assemblée est de droit si deux commissions permanentes ont demandé, dans les quinze jours suivant la distribution, à se saisir pour avis d'un projet ou d'une proposition de loi renvoyé à une autre commission permanente qui n'a pas encore statué sur l'ensemble, sauf s'il s'agit d'un projet de loi de finances ou si l'Assemblée, en application du deuxième alinéa de l'article 85 a déjà refusé la constitution de cette commission spéciale. La commission spéciale doit comprendre au moins trois membres de chacune des commissions permanentes qui ont demandé à être saisies pour avis.
 
 ## Article 33
 
@@ -644,9 +644,9 @@ II. - Pour un scrutin public à la tribune, tous les députés sont appelés nom
 
 Le vote a lieu par procédé électronique. Dans le cas où l'appareillage électronique ne fonctionne pas, le vote a lieu par bulletins. Chaque député remet son bulletin à l'un des secrétaires qui le dépose dans une urne placée sur la tribune.
 
-Le scrutin reste ouvert pendant quarante-cinq minutes. Le résultat est constaté par les secrétaires et proclamé par le Président.
+Le scrutin reste ouvert pendant une heure. Le résultat est constaté par les secrétaires et proclamé par le Président.
 
-III- — Les modalités du vote électronique et de l'exercice des délégations de vote sont réglées par une instruction du Bureau.
+III. — Les modalités du vote électronique et de l'exercice des délégations de vote sont réglées par une instruction du Bureau.
 
 ## Article 67
 
@@ -776,11 +776,27 @@ Indépendamment des cas prévus par l'article 19 de l'ordonnance n°58-998 du 24
 
 ## Article 80
 
-Il est constitué, pour chaque demande de levée de l'immunité parlementaire d'un député ou chaque demande de suspension de poursuites déjà engagées, une commission ad hoc de quinze membres nommés selon la procédure prévue à l'article 25.
+Il est constitué pour l'examen de chaque demande de levée de l'immunité parlementaire d'un député, de chaque demande de suspension de poursuites déjà engagées ou de chaque demande de suspension de détention d'un député, une commission ad hoc de quinze membres, nommés à la représentation proportionnelle des groupes, selon la procédure prévue à l'article 25 et à l'article 38, alinéa 4. Les demandes relatives à des faits connexes sont jointes.
 
-La commission doit entendre le député intéressé, lequel peut se faire représenter par un de ses collègues.
+Le Chapitre X concernant la procédure relative aux travaux des commissions est applicable aux commissions ad hoc. Les dispositions de l'article 35 concernant les commissions spéciales sont également applicables aux commissions ad hoc. Les dipositions de l'article 87 ne leur sont pas applicables.
 
-Dans les débats ouverts par l'Assemblée, en séance publique, sur les questions d'immunité parlementaire, peuvent seuls prendre la parole le rapporteur de la commission, le Gouvernement le député intéressé ou un membre de l'Assemblée le représentant, un orateur pour et un orateur contre.
+La commission saisie d'une demande de levée de l'immunité parlementaire doit entendre le député intéressé, lequel peut se faire représenter par un de ses collègues.
+
+La commission saisie d'une demande de suspension de détention ou de poursuites doit entendre l'auteur ou le premier signataire de la proposition et le député intéressé ou le collègue qu'il a chargé de le représenter. Si le député intéressé est détenu, elle peut le faire entendre personnellement par un ou plusieurs de ses membres délégués à cet effet.
+
+Les demandes de levée d'immunité parlementaire sont inscrites à l'ordre du jour de l'Assemblée par le Gouvernement, dans les conditions prévues à l'article 89, ou par l'Assemblée, sur proposition de la Conférence des Présidents, conformément à l'article 48.
+
+Pour permettre à l'Assemblée de requérir, conformément à l'article 26 de la Constitution, la suspension de la détention ou de la poursuite d'un de ses membres, les demandes tendant à cet effet sont inscrites d'office par la Conférence des Présidents, dès la distribution du rapport de la commission ad hoc à la plus prochaine séance réservée par priorité par l'article 48, alinéa 2, de la Constitution aux questions des membres du Parlement et aux réponses du Gouvernement, à la suite desdites questions et réponses. La Conférence des Présidents aménage en conséquence l'ordre du jour des questions orales. Si le rapport n'a pas été distribué dans un délai de vingt jours de session à compter du dépôt de la demande, l'affaire peut être inscrite d'office par la Conférence des Présidents à la plus prochaine séance réservée par priorité par l'article 48, alinéa 2, de la Constitution aux questions des membres du Parlement et aux réponses du Gouvernement, à la suite desdites questions et réponses.
+
+La discussion en séance publique porte sur la demande de levée d'immunité parlementaire faite par le Parquet ou la partie lésée. Aucun amendement n'est recevable. Dans les autres cas, la discussion porte sur les conclusions de la commission ou, si elle n'en présente pas, sur la demande dont l'Assemblée est saisie. Une motion de renvoi à la commission peut être présentée et discutée dans les conditions prévues à l'article 91. En cas de rejet des conclusions de la commission ad hoc tendant à rejeter la demande, celle-ci est considérée comme adoptée.
+
+L'Assemblée statue sur le fond après un débat auquel peuvent seuls prendre part le rapporteur de la commission, le Gouvernement, le député intéressé ou un membre de l'Assemblée le représentant, un orateur pour et un orateur contre.
+
+La demande de renvoi en commission, prévue à l'alinéa 7 précédent, est mise aux voix après l'audition du rapporteur. En cas de rejet, l'Assemblée entend ensuite les orateurs prévus au présent alinéa.
+
+Saisie d'une demande de suspension de la poursuite d'un député détenu, l'Assemblée peut ne décider que la suspension de la détention. L'article 100 est applicable à la discussion des amendements présentés en vertu du présent alinéa, qui sont seuls recevables.
+
+En cas de rejet d'une demande de suspension de la détention ou de la poursuite d'un député, aucune demande nouvelle, concernant les mêmes faits, ne peut être présentée pendant le cours de la session.
 
 # TITRE II Procédure législative. PREMIÈRE PARTIE : PROCÉDURE LÉGISLATIVE ORDINAIRE
 
@@ -836,7 +852,7 @@ L'auteur d'une proposition ou d'un amendement peut, s'il en fait la demande au p
 
 ## Article 87
 
-Toute commission permanente qui s'estime compétente pour donner son avis sur un projet ou une proposition renvoyé à une autre commission permanente ou spéciale constituée à l'initiative de l'Assemblée informe le Président de l'Assemblée de sa demande d'avis qui est communiquée à l'Assemblée pour décision, sous réserve des dispositions de l'article 32.
+Toute commission permanente qui s'estime compétente pour donner son avis sur un projet ou une proposition renvoyé à une autre commission permanente ou spéciale constituée à l'initiative de l'Assemblée informe le Président de l'Assemblée de sa demande d'avis. Cette demande d'avis porte soit sur un ou plusieurs articles du projet ou de la proposition, soit sur l'ensemble du projet ou de la proposition. Elle est communiquée à l'Assemblée pour décision, sous réserve des dispositions de l'article 32.
 
 Lorsqu'un projet ou une proposition a été l'objet d'un renvoi pour avis, la commission saisie désigne un rapporteur qui a le droit de participer, avec voix consultative, aux travaux de la commission saisie au fond. Réciproquement le rapporteur de la commission saisie au fond a le droit de participer, avec voix consultative, aux travaux de la commission saisie pour avis.
 
@@ -1000,7 +1016,9 @@ Avant le vote sur l'ensemble des projets et propositions, l'Assemblée peut déc
 
 La seconde délibération est de droit à la demande du Gouvernement ou de la commission saisie au fond, ou si celle-ci l'accepte.
 
-Les textes qui font l'objet de la seconde délibération sont renvoyés à la commission, qui doit présenter, par écrit ou verbalement, un nouveau rapport; dans sa deuxième délibération, l'Assemblée n'est appelée à statuer que sur les nouvelles propositions de la commission ou du Gouvernement.
+Les textes qui font l'objet de la seconde délibération sont renvoyés à la commission, qui doit présenter, par écrit ou verbalement, un nouveau rapport; la seconde délibération de l'Assemblée ne porte que sur les nouvelles propositions de la commission ou du Gouvernement et sur les amendements qui s'y rapportent ou, en l'absence de propositions de la commission, sur les amendements relatifs aux articles pour lesquels l'Assemblée a décidé la seconde délibération.
+
+Le rejet par l'Assemblée des nouvelles propositions de la commission ou du Gouvernement portant sur un texte vaut confirmation de la décision prise par l'Assemblée en première délibération.
 
 ## Article 102
 
@@ -1066,6 +1084,8 @@ II ne peut être fait exception aux règles ci-dessus édictées qu'en vue d'ass
 
 Le rejet de l'ensemble d'un texte au cours de ses examens successifs devant les deux Assemblées du Parlement n'interrompt pas les procédures fixées par l'article 45 de la Constitution.
 
+Dans le cas de rejet de l'ensemble d'un texte par le Sénat, l'Assemblée nationale, dans sa lecture suivante, délibère sur le texte qu'elle avait précédemment adopté et qui lui est transmis par le Gouvernement après la décision du rejet du Sénat.
+
 ## Article 110
 
 La décision du Gouvernement de provoquer la réunion d'une commission mixte paritaire dans les conditions de l'article 45 de la Constitution est communiquée au Président de l'Assemblée qui la notifie immédiatement à l'Assemblée nationale. Si la discussion du texte est en cours devant l'Assemblée nationale, elle est immédiatement interrompue.
@@ -1096,7 +1116,7 @@ Les conclusions des travaux des commissions mixtes paritaires font l'objet de ra
 
 Si le Gouvernement n'a pas soumis le texte élaboré par la commission mixte paritaire à l'approbation du Parlement dans les quinze jours du dépôt du rapport de la commission mixte, l'Assemblée qui, avant la réunion de la commission, était saisie en dernier lieu du texte en discussion, peut en reprendre l'examen conformément à l'article 45, alinéa 1, de la Constitution.
 
-Lorsque l'Assemblée est saisie du texte élaboré par la commission mixte paritaire, les amendements déposés sont soumis au Gouvernement avant leur distribution et ne sont distribués que s'ils ont recueilli son accord.
+Lorsque l'Assemblée est saisie du texte élaboré par la commission mixte paritaire, les amendements déposés sont soumis au Gouvernement avant leur distribution et ne sont distribués que s'ils ont recueilli son accord. Dans cette hypothèse, le premier alinéa de l'article 88 est applicable auxdits amendements.
 
 L'Assemblée statue d'abord sur les amendements. Après leur adoption ou leur rejet, ou s'il n'en a pas été déposé, elle statue par un vote unique sur l'ensemble du texte.
 
