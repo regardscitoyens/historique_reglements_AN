@@ -252,11 +252,15 @@ La demande est aussitôt affichée et notifiée au Gouvernement et aux présiden
 
 Elle est considérée comme adoptée si, avant la deuxième séance qui suit cet affichage, le Président de l'Assemblée n'a été saisi d'aucune opposition par le Gouvernement, le président d'une commission permanente, le président d'un groupe.
 
-Si une opposition a été formulée dans les conditions prévues au précédent alinéa, l'Assemblée statue après un débat au cours duquel peuvent seuls prendre la parole le Gouvernement et, pour une durée n'excédant pas cinq minutes, l'auteur ou le premier signataire de l'opposition, l'auteur ou le premier signataire de la demande et les présidents des commissions permanentes intéressées.
+Si une opposition à la demande de constitution d'une commission spéciale a été formulée dans les conditions prévues au précédent alinéa, un débat sur la demande est inscrit d'office à la suite de l'ordre du jour du premier jour de séance suivant l'annonce faite à l'Assemblée de l'opposition. Au cours de ce débat peuvent seuls prendre la parole le Gouvernement et, pour une durée n'excédant pas cinq minutes, l'auteur de l'opposition, l'auteur ou le premier signataire de la demande, et les présidents des commissions permanentes intéressées.
 
 ## Article 32
 
-La constitution d'une commission spéciale à l'initiative de l'Assemblée est de droit si deux commissions permanentes ont demandé, dans les quinze jours suivant la distribution, à se saisir pour avis d'un projet ou d'une proposition de loi renvoyé à une autre commission permanente qui n'a pas encore statué sur l'ensemble, sauf s'il s'agit d'un projet de loi de finances ou si l'Assemblée, en application du deuxième alinéa de l'article 85 a déjà refusé la constitution de cette commission spéciale. La commission spéciale doit comprendre au moins trois membres de chacune des commissions permanentes qui ont demandé à être saisies pour avis.
+Sauf lorsqu'il s'agit d'un projet de loi de finances, d'un projet portant approbation des options du Plan ou du Plan lui-même, d'un traité ou accord visé à l'article 128, ou si l'Assemblée a déjà refusé la constitution d'une commission spéciale, cette constitution, à l'initiative de l'Assemblée, est de droit :
+
+1° lorsqu'elle est demandée, dans les délais prévus à l'article 31 (alinéa 1), par un ou plusieurs présidents de groupes dont l'effectif global représente la majorité absolue des membres composant l'Assemblée ;
+
+2° lorsque deux commissions permanentes ont demandé, conformément à l'article 87 (alinéa 1), à se saisir pour avis d'un projet ou d'une proposition renvoyé à une autre commission permanente qui n'a pas encore statué sur l'ensemble. Dans ce cas, la commission spéciale doit comprendre au moins trois membres de la commission permanente compétente et de chacune des commissions qui ont demandé à être saisies pour avis.
 
 ## Article 33
 
@@ -370,7 +374,7 @@ Sous réserve des règles fixées par la Constitution, les lois organiques et le
 
 ## Article 41
 
-Pendant les sessions, les matinées des mardi, mercredi et vendredi de chaque semaine sont réservées aux travaux des commissions.
+Pendant les sessions, une matinée par semaine est réservée aux travaux des commissions permanentes. Cette matinée est déterminée conformément aux dispositions de l'article 50 (alinéa 3).
 
 Quand l'Assemblée tient séance, ces commissions ne peuvent se réunir que pour délibérer sur les affaires qui leur sont renvoyées par l'Assemblée en vue d'un examen immédiat ou sur les affaires inscrites à l'ordre du jour de l'Assemblée.
 
@@ -908,7 +912,7 @@ Il ne peut ensuite être mis en discussion et aux voix qu'une seule exception d'
 
 La parole est ensuite donnée aux orateurs qui se sont fait inscrire dans la discussion générale. L'auteur ou le premier signataire d'une proposition a priorité.
 
-Après la clôture de la discussion générale, il ne peut être mis en discussion et aux voix qu'une seule motion tendant au renvoi à la commission saisie au fond de l'ensemble du texte en discussion, et dont l'effet, en cas d'adoption est de suspendre le débat jusqu'à présentation par la commission d'un nouveau rapport. La discussion de cette motion a lieu dans les conditi prévues à l'alinéa 3.
+Après la clôture de la discussion générale, il ne peut être mis en discussion et aux voix qu'une seule motion tendant au renvoi à la commission saisie au fond de l'ensemble du texte en discussion, et dont l'effet, en cas d'adoption est de suspendre le débat jusqu'à présentation par la commission d'un nouveau rapport. La discussion de cette motion a lieu dans les conditions prévues à l'alinéa 3.
 
 Si la motion de renvoi est adoptée, le Gouvernement, lorsqu'il s'agit d'un texte prioritaire aux termes de l'article 48, alinéa 1, de la Constitution, l'Assemblée, lorsqu'il s'agit d'un texte non prioritaire, fixe la date et l'heure auxquelles la commission devra présenter son nouveau rapport. Le Gouvernement peut demander que ce texte conserve sa priorité sur les autres affaires inscrites à l'ordre du jour.
 
@@ -1358,9 +1362,21 @@ Lorsque l'auteur d'une question orale avec ou sans débat ne peut assister à la
 
 Seuls peuvent répondre aux questions le Premier Ministre et les ministres compétents. Lorsqu'un Ministre intéressé est absent, la question est reportée d'office en tête de son rôle, à la séance de la semaine suivante réservée aux questions orales sur décision de la Conférence des Présidents. Le Président de l'Assemblée en informe le Premier Ministre.
 
+## Article 138
+
+Les questions d'actualité sont déposées à la Présidence de l'Assemblée au plus tard deux heures avant l'heure fixée pour la Conférence des Présidents. Elles sont libellées très sommairement.
+
+Elles sont posées au Premier Ministre qui y répond ou peut y faire répondre par un membre du Gouvernement de son choix.
+
+La Conférence des Présidents décide de leur inscription, en fonction de leurs caractères d'actualité et d'intérêt général, à l'ordre du jour de la plus prochaine séance réservée aux questions orales. La première heure de séance leur est consacrée par priorité.
+
+La question est appelée par le Président. Après la réponse du ministre, 1'auteur de la question dispose de la parole pendant deux au plus. S'il est absent, la question n'est pas appelée.
+
+II n'est pas tenu de rôle des questions d'actualité. Les questions non retenues par la Conférence des Présidents sont inscrites, si leur auteur le demande, au rôle des questions orales sans débat.
+
 # CHAPITRE III QUESTIONS ÉCRITES
 
-## Article 138
+## Article 139
 
 Les questions sont rédigées, notifiées et publiées dans les conditions fixées par l'article 133. En outre, elles ne doivent contenir aucune imputation d'ordre personnel à l'égard de tiers nommément désignés.
 
@@ -1378,6 +1394,8 @@ Le texte des questions écrites est reproduit dans les rappels. Il est communiqu
 
 # CHAPITRE IV COMMISSIONS D'ENQUÊTE ET DE CONTRÔLE
 
+## Article 140
+
 La création d'une commission d'enquête ou de contrôle par l'Assemblée résulte du vote d'une proposition de résolution déposée, renvoyée à la commission permanente compétente, examinée et discutée dans les conditions fixées par le présent Règlement. Cette proposition doit déterminer avec précision, soit les faits qui donnent lieu à enquête, soit les services publics ou les entreprises nationales dont la commission de contrôle doit examiner la gestion.
 
 La commission saisie d'une proposition de résolution tendant à la création d'une commission d'enquête ou de contrôle doit déposer son rapport dans le mois de session ordinaire suivant la distribution de cette proposition.
@@ -1386,7 +1404,7 @@ Les commission d'enquête et de contrôle ne peuvent comprendre plus de 30 dépu
 
 Ne peuvent être désignés comme membres d'une commission d'enquête ou de contrôle les députés ayant été l'objet d'une sanction pénale ou disciplinaire pour manquement à l'obligation du secret à l'occasion des travaux d'une commission constituée au cours de la même législature.
 
-## Article 140
+## Article 141
 
 Le dépôt d'une proposition de résolution tendant à la création d'une commission d'enquête est notifié par le Président de l'Assemblée au Garde des Sceaux, ministre de la justice.
 
@@ -1394,11 +1412,11 @@ Si le Garde des Sceaux fait connaître que des poursuites judiciaires sont en co
 
 Lorsqu'une information judiciaire est ouverte après la création de la commission, le Président de l'Assemblée, saisi par le Garde des Sceaux, en informe le président de la commission. Celle-ci met immédiatement fin à ses travaux.
 
-## Article 141
+## Article 142
 
 A l'expiration du délai de quatre mois prévu par l'article 6, alinéa 5, de l'ordonnance n°58-1100 du 17 novembre 1958 relative au fonctionnement des Assemblées parlementaires, et si la commission n'a pas déposé son rapport, le président de la commission remet au Président de l'Assemblée nationale les documents en sa possession. Ceux-ci ne peuvent donner lieu à aucune publication ni à aucun débat.
 
-## Article 142
+## Article 143
 
 Le rapport établi par une commission d'enquête ou de contrôle est remis au Président de l'Assemblée.
 
@@ -1406,7 +1424,7 @@ La publication de tout ou partie du rapport peut être décidée par l'Assemblé
 
 L'Assemblée ne peut ouvrir un débat sur la publication du rapport que si elle s'est auparavant constituée en comité secret dans les conditions prévues à l'article 51 du Règlement.
 
-## Article 143
+## Article 144
 
 Le Président de l'Assemblée déclare irrecevable toute proposition de résolution ayant pour effet la reconstitution d'une commission d'enquête ou de contrôle avec le même objet qu'une commission antérieure, avant l'expiration d'un délai de douze mois à compter de la fin de la mission de celle-ci.
 
@@ -1414,13 +1432,13 @@ S'il y a doute, le Président statue après avis du Bureau de l'Assemblée.
 
 # CHAPITRE V ROLE D'INFORMATION DES COMMISSIONS PERMANENTES
 
-## Article 144
+## Article 145
 
 Sans préjudice des dispositions les concernant contenues au Titre II, les commissions permanentes assurent l'information de l'Assemblée pour lui permettre d'exercer son contrôle sur la politique du Gouvernement.
 
 # CHAPITRE VI CONTROLE BUDGÉTAIRE
 
-## Article 145
+## Article 146
 
 Les documents et les renseignements destinés à permettre l'exercice du contrôle du budget des départements ministériels ou la vérification des I comptes des entreprises nationales et des sociétés d'économie mixte sont communiqués par les autorités compétentes au rapporteur spécial de la commission des finances, de l'économie générale et du plan, chargé du budget du département ministériel dont il s'agit ou auquel se rattachent les entreprises nationales et les sociétés d'économie mixte intéressées.
 
@@ -1430,7 +1448,7 @@ Les travaux des rapporteurs ne peuvent faire l'objet de rapports d'information. 
 
 # CHAPITRE VII PÉTITIONS
 
-## Article 146
+## Article 147
 
 Les pétitions doivent être adressées au Président de l'Assemblée. Elles peuvent également être déposées par un député, qui fait, en marge, mention du dépôt et signe cette mention.
 
@@ -1438,7 +1456,7 @@ Une pétition apportée ou transmise par un rassemblement formé sur la voie pub
 
 Toute pétition doit indiquer la demeure du pétitionnaire et être revêtue de sa signature.
 
-## Article 147
+## Article 148
 
 Les pétitions sont inscrites sur un rôle général dans l'ordre de leur arrivée. Avis est donné à tout pétitionnaire du numéro d'ordre de sa pétition.
 
@@ -1452,7 +1470,7 @@ La réponse du Ministre est communiqué au pétitionnaire. Si le Ministre n'a pa
 
 Lorsqu'une commission, conformément aux alinéas 3, 4 ou 5 du présent article, décide de soumettre une pétition à l'Assemblée, elle dépose sur le Bureau de l'Assemblée un rapport reproduisant le texte intégral de la pétition; ce rapport est imprimé et distribué.
 
-## Article 148
+## Article 149
 
 Un feuilleton mensuel portant l'indication sommaire des pétitions et des décisions les concernant est distribué périodiquement aux membres de l'Assemblée.
 
@@ -1462,13 +1480,29 @@ Passé ce délai, ou lorsque la Conférence des Présidents ne fait pas droit à
 
 Lorsque la Conférence des Présidents fait droit à la demande, le rapport sur la pétition qui a été publié au feuilleton est déposé, imprimé et distribué ; ce rapport reproduit le texte intégral de la pétition.
 
+## Article 150
+
+Les rapports déposés en application des articles 148 (alinéaa 6) et 149 (alinéa 4) peuvent être inscrits à l'ordre du jour de l'Assemblée soit par le Gouvernement dans les conditions prévues à l'article 89, soit par l'Assemblée sur proposition de la Conférence des Présidents, conformément à l'article 48.
+
+## Article 151
+
+Le débat en séance publique sur les rapports faits en application des articles 148 (alinéa 6) et 149 (alinéa 4) s'engage par l'audition du rapporteur de la commission.
+
+La parole est ensuite donnée, s'il y a lieu, au député ayant déposé la pétition, en application de l'article 147 (alinéa 1) puis au député ayant demandé qu'elle soit soumise à l'Assemblée.
+
+Au vu de la liste des orateurs inscrits dans la discussion, le Président fixe le temps de parole de chacun d'eux.
+
+Le Gouvernement a la parole quand il la demande.
+
+Après l'audition du dernier orateur, le Président passe à la suite de l'ordre du jour.
+
 # DEUXIEME PARTIE. - MISE EN JEU DE LA RESPONSABILITÉ GOUVERNEMENTALE
 
 # CHAPITRE VIII DEBAT SUR LE PROGRAMME OU SUR UNE DECLARATION DE POLITIQUE GENERALE DU GOUVERNEMENT
 
-## Article 149
+## Article 152
 
-Lorsque, par application du premier alinéa de l'article 49 de la Constitution, le Premier Ministre engage la responsabilité du Gouvernement sur son programme ou sur une déclaration de politique générale, il est procédé au débat dans les conditions prévues à l'article 132 (alinéas 2 et 3).
+Lorsque, par application du premier alinéa de l'article 49 de la Constitution, le Premier Minitre engage la responsabilité du Gouvernement sur son programme ou sur une déclaration de politique générale, il est procédé au débat dans les conditions prévues à l'article 132 (alinéas 2 et 3).
 
 Après la clôture de du débat, la parole peut être accordée pour une explication de vote d'une durée de quinze minutes à l'orateur désigné par chaque groupe et d'une durée de cinq minutes aux autres orateurs. Les dispositions relatives à la clôture sont applicables à ces explications de vote.
 
@@ -1478,7 +1512,7 @@ Le vote est émis à la majorité absolue des suffrages exprimés.
 
 # CHAPITRE IX MOTIONS DE CENSURE ET INTERPELLATIONS
 
-## Article 150
+## Article 153
 
 Le dépôt des motions de censure est constaté par la remise au Président de l'Assemblée, au cours d'une séance publique, d'un document portant l'intitulé “Motion de censure” suivi de la liste des signatures du dixième au moins des membres de l'Assemblée. Ce dixième est calculé sur le nombre des sièges effectivement pourvus avec, en cas de fraction, arrondissement au chiffre immédiatement supérieur.
 
@@ -1488,7 +1522,7 @@ Les motions de censure peuvent être motivées.
 
 A partir du dépôt, aucune signature ne peut être retirée ni ajoutée. Le Président notifie la motion de censure au Gouvernement, en donne connaissance à l'Assemblée et la fait afficher. La liste ne varietur des signataires est publiée au compte rendu intégral.
 
-## Article 151
+## Article 154
 
 La Conférence des Présidents fixe la date de discussion des motions de censure, qui doit avoir lieu au plus tard le troisième jour de séance suivant l'expiration du délai constitutionnel de quarante-huit heures consécutif au dépôt.
 
@@ -1502,7 +1536,7 @@ Il ne peut être présenté d'amendement à une motion de censure.
 
 Seuls les députés favorables à la motion de censure participent au scrutin, qui a lieu conformément aux dispositions de l'article 66, paragraphe II.
 
-## Article 152
+## Article 155
 
 Lorsqu'en application du troisième alinéa de l'article 49 de la Constitution, le Premier Ministre engage la responsabilité du Gouvernement sur le vote d'un texte, le débat est immédiatement suspendu durant vingt-quatre heures.
 
@@ -1512,7 +1546,7 @@ L'Assemblée se réunit à l'expiration du délai précité pour prendre acte, s
 
 Il est procédé à la notification, à 1'inscription à l'ordre du jour, à la discussion et au vote de cette motion dans les conditions prévues au présent chapitre.
 
-## Article 153
+## Article 156
 
 Le député qui désire interpeller le Gouvernement en informe le Président de l'Assemblée au cours d'une séance publique en joignant à sa demande une motion de censure répondant aux conditions fixées par l'article 150.
 
@@ -1522,7 +1556,7 @@ Troisième partie. - Responsabilité pénale du président de la république et 
 
 # CHAPITRE X ÉLECTION DES MEMBRES DE LA HAUTE COUR DE JUSTICE
 
-## Article 154
+## Article 157
 
 Au début de la législature, dans le mois qui suit sa première réunion, l'Assemblée nationale élit douze juges titulaires et six juges suppléants de la Haute Cour de justice.
 
@@ -1532,25 +1566,25 @@ Les dispositions de l'article 26, concernant le dépôt des candidatures, la dis
 
 Sont élus, à chaque tour de scrutin, dans l'ordre des suffrages, les candidats ayant obtenu un nombre de voix au moins égal à la majorité absolue des membres composant l'Assemblée nationale. Pour chaque catégorie, il est procédé à autant de tours de scrutin qu'il est nécessaire, jusqu'à ce que tous les sièges soient pourvus. En cas d'égalité des voix pour les derniers sièges à pourvoir, les candidats sont proclamés élus dans l'ordre d'âge, en commençant par le plus âgé, jusqu'à ce que tous les sièges soient pourvus.
 
-## Article 155
+## Article 158
 
 Aucune proposition de résolution portant mise en accusation devant la Haute Cour de justice n'est recevable, si elle n'est signée par le dixième au moins des députés. La procédure fixée par l'article 51, alinéa 1, est applicable.
 
-## Article 156
+## Article 159
 
 Le Bureau de l'Assemblée nationale prononce d'office l'irrecevabilité des propositions de résolution contraires aux dispositions de l'article précèdent ou de l'article 18 de l'ordonnance n° 59-1 du 2 janvier 1959 portant loi organique sur la Haute Cour de justice.
 
-## Article 157
+## Article 160
 
 Les propositions de résolution déclarées recevables par le Bureau et celles transmises par le Président du Sénat sont renvoyées à une commission élue spécialement pour leur examen, en la forme prévue par l'article 80. Les députés appartenant à la Haute Cour de justice ne peuvent être désignés comme membres d'une telle commission.
 
-## Article 158
+## Article 161
 
 L'Assemblée statue sur le rapport de la commission après un débat organisé conformément à l'article 80.
 
 # Dispositions diverses
 
-## Article 159
+## Article 162
 
 L'indemnité de fonction instituée par l'article 2 de l'ordonnance n° 58-1210 du 13 décembre 1958 est payable mensuellement, sur sa base annuelle, compte non tenu de la durée des sessions, à tous les députés qui prennent part régulièrement aux travaux de l'Assemblée.
 
@@ -1558,26 +1592,14 @@ Les députés peuvent s'excuser de ne pouvoir assister à une séance détermin�
 
 Compte tenu des cas où la délégation de vote eût été possible ou a été donnée, conformément à l'ordonnance n° 58-1066 du 7 novembre 1958, des votes sur les motions de censure et des congés accordés en vertu de l'alinéa précédent, le fait d'avoir pris part à moins des deux tiers-des scrutins publics intervenus pendant une-session, en séance publique, entraîne une retenue du tiers de l'indemnité de fonction pour une-durée égale à celle de la session; si le même député a pris part à moins de la moitié des scrutins, cette retenue est doublée.
 
-## Article 160
+## Article 163
 
 Des insignes sont portés par les députés lorsqu'ils sont en mission, dans les cérémonies publiques et en toutes circonstances où ils ont à faire connaître leur qualité.
 
 La nature de ces insignes est déterminée par le Bureau de l'Assemblée.
 
-## Article 161
+## Article 164
 
 Il est établi, au début de chaque législature, par les soins du secrétariat général de l'Assemblée nationale, un recueil des textes authentiques des programmes et engagements électoraux des députés proclamés élus à la suite des élections générales.
 
-Au cas où quelque difficulté se présenterait dans la confection du recueil, le Bureau de l'Assemblée nationale en serait saisi.
-
-# Dispositions transitoires
-
-## Article 162
-
-Les groupes prévus par l'article 19 du Règlement devront, pour participer à la désignation des membres des commissions permanentes prévue par l'article 37 être constitués avant le 6 octobre 1959 à 19 heures. Les groupes politiques et les formations administratives antérieurement constitués jouiront jusqu'à cette date de tous les droits et prérogatives attribués aux groupes par le Règlement définitif.
-
-Les commissions spéciales constituées conformément aux Règles provisoires demeureront compétentes pour l'examen des projets et propositions ayant motivé leur création.
-
-Les commissions permanentes constituées conformément aux Règles provisoires demeureront en fonction jusqu'à la deuxième séance de la session ordinaire d'octobre 1959.
-
-Les désignations prévues aux articles 28 et 154 auront lieu dans le mois qui suivra la mise en application du Règlement définitif. 
+Au cas où quelque difficulté se présenterait dans la confection du recueil, le Bureau de l'Assemblée nationale en serait saisi. 
