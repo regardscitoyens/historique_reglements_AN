@@ -58,6 +58,8 @@ A l'ouverture de la première séance de chaque session ordinaire, le plus âgé
 
 Après l'installation du Président d'âge, et, si l'on est au début de la législature, après que les pouvoirs de la moitié plus un des membres de la Chambre ont été vérifiés, il est procédé immédiatement, en séance publique, à la nomination du Bureau définitif, composé d'un Président, de quatre Vice-Présidents, de douze Secrétaires et trois Questeurs.
 
+Avant la date fixée pour cette nomination, les bureaux des groupes, après s'être concertés, remettront à la Présidence la liste des candidats établie par eux en s'efforçant de donner à chacun, une représentation correspondant à leur importance numérique, le siège du Président demeurant en dehors.
+
 Les Vice-présidents, les Secrétaires et les Questeurs sont nommés au scrutin de liste. Le scrutin a lieu séparément pour chacune de ces fonctions.
 
 Pour les élections prévues au paragraphe précédent, la Chambre peut décider qu'il y sera procédé conformément aux dispositions de l'article 79. En cas de renouvellement intégral du Bureau, cette décision doit être prise avant l'ouverture de la session ordinaire ; elle n'est pas applicable au début d'une législature.
