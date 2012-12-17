@@ -932,13 +932,13 @@ Dans l'intérêt de la discussion, le Président peut décider le renvoi d'un ar
 
 Il précise les conditions dans lesquelles la discussion sera poursuivie.
 
-## Article 96
-
-Si le Gouvernement le demande, l'Assemblée se prononce par un seul vote sur tout ou partie du texte en discussion en ne retenant que les amendements proposés ou acceptés par le Gouvernement.
-
-Après le vote du dernier article additionnel proposé par voie d'amendement, il est procédé au vote sur l'ensemble du projet ou de la proposition.
+Après le vote du dernier article additionnel proposé par voie d'amendement, il est procédé au vote sur l'ensemble du projet ou de la proposition. Lorsque, avant le vote sur l'article unique d'un projet ou d'une proposition, il n'a pas été présenté d'article additionnel, ce vote équivaut à un vote sur l'ensemble; aucun article additionnel n'est recevable après que ce vote est intervenu.
 
 Lorsque, avant le vote sur l'article unique d'un projet ou d'une proposition, il n'a pas été présenté d'article additionnel, ce vote équivaut à un vote sur l'ensemble; aucun article additionnel n'est recevable après que ce vote est intervenu.
+
+## Article 96
+
+L'application de l'article 44, alinéa 3, de la Constitution n'est dérogatoire aux dispositions des chapitres IV et VI du titre II du présent Règlement qu'en ce qui concerne les modalités de mise aux voix des textes. Leur discussion a lieu selon la procédure prévue aux chapitres susénoncés.
 
 ## Article 97
 
