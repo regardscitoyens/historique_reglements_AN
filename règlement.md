@@ -70,7 +70,7 @@ Lorsque la discussion est terminée, chaque bureau nomme un commissaire, à la m
 
 ## Article 13
 
-Aucun membre de l'Assemblée- nationale faisant partie de deux commissions, autres que la commission de comptabilité et celle des congés, ne peut être appelé à faire partie d'une troisième, jusqu'à ce que l'une des deux premières ait déposé son rapport.
+Aucun membre de l'Assemblée- nationale faisant partie de deux commissions, autres que la commission de comptabilité et celle des congés, ne peut être appelé à faire partie d'une troisième, jusqu'à ce que l'une des deux premières ait déposé son rapport, à moins que cette troisième commission ne soit chargée de l'examen d'un projet de loi dont l'urgence a été déclarée.
 
 Tout membre élu commissaire est tenu de déclarer devant le bureau s'il est libre, aux termes du règlement, d'accepter cette mission.
 
@@ -344,10 +344,6 @@ Le dépouillement des scrutins de nomination a lieu par des scrutateurs désign�
 
 Le bureau constate le nombre des membres présents.
 
-La présence de trois cent soixante-seize membres est nécessaire pour la validité des votes de l'Assemblée.
-
-Le bureau constate le nombre des membres présents.
-
 Si le bureau n'est pas unanime, il est procédé au scrutin public.
 
 ## Article 60
@@ -450,7 +446,7 @@ L'Assemblée se réunit dans ses bureaux, et nomme une commission, sur le rappor
 
 ## Article 74
 
-- Toute proposition faite par un représentant est formulée par écrit. Elle est remise au Président qui, après en avoir donné connaissance à l'Assemblée, la renvoie à l'examen de la commission spéciale pour les propositions.
+- Toute proposition faite par un représentant nest formulée par écrit. Elle est remise au Président qui, après en avoir donné connaissance à l'Assemblée, la renvoie à l'examen de la commission spéciale pour les propositions.
 
 ## Article 75
 
