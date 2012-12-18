@@ -312,11 +312,11 @@ Enseignement, arts et lettres, jeunesse et sports, rayonnement culturel ; popula
 
 2° commission des affaires étrangères (60 membres) ;
 
-3° commission de la défense nationale et des forces armées (90 membres) ;
+3° commission de la défense nationale et des forces armées (60 membres) ;
 
 4° commission des finances, de l'économie générale et du plan (60 membres) ;
 
-5° commission des lois constitutionnelles, de la législation et de l'administration générale de la République (90 membres) :
+5° commission des lois constitutionnelles, de la législation et de l'administration générale de la République (60 membres) :
 
 Lois constitutionnelles, organiques et électorales ; règlement ; organisation judiciaire ; législation civile, administrative et pénale; pétitions; administration générale des territoires de la République et des collectivités locales ;
 
@@ -348,11 +348,9 @@ Il peut être pourvu au remplacement des sièges devenus vacants, pour quelque c
 
 Dès leur nomination, toutes les commissions sont convoquées par le Président de l'Assemblée nationale en vue de procéder à la nomination de leur bureau.
 
-Le bureau des commissions permanentes comprend, outre le président, un vice-président et un secrétaire, par fraction de 30 membres de l'effectif maximum. La commission des finances, de l'économie générale et du plan nomme un rapporteur général. Toutefois, le nombre des vice-présidents ne peut être inférieur à trois.
+Le bureau des commissions permanentes comprend, outre le président, un vice-président et un secrétaire, par fraction de 30 membres de l'effectif maximum. La commission des finances, de l'économie générale et du plan nomme un rapporteur général. Toutefois, le nombre des vice-présidents et des secrétaires ne peut être inférieur à trois.
 
-Le bureau des autres commissions comprend : 1 président, 1 vice-président et 1 secrétaire.
-
-Les bureaux des commissions sont élus au scrutin secret par catégorie de fonction.
+Le bureau des autres commissions comprend : 1 président, 1 vice-président et 1 secrétaire. Les bureaux des commissions sont élus au scrutin secret par catégorie de fonction.
 
 Si la majorité absolue n'a pas été acquise aux deux premiers tours de scrutin la majorité relative suffit au troisième tour, et en cas d'égalité de suffrages, le plus âgé est nommé.
 
@@ -374,7 +372,7 @@ Sous réserve des règles fixées par la Constitution, les lois organiques et le
 
 ## Article 41
 
-Pendant les sessions, les matinées des mardi, mercredi, jeudi et vendredi de chaque semaine sont réservées aux travaux des commissions.
+Pendant les sessions, les matinées des mardi, mercredi et vendredi de chaque semaine sont réservées aux travaux des commissions.
 
 Quand l'Assemblée tient séance, les commissions ne peuvent se réunir que pour délibérer sur les affaires qui leur sont renvoyées par l'Assemblée en vue d'un examen immédiat ou sur les affaires inscrites à l'ordre du jour de l'Assemblée.
 
@@ -464,7 +462,7 @@ Elle peut fixer l'heure limite à laquelle auront lieu les votes.
 
 ## Article 50
 
-L'Assemblée se réunit chaque semaine en séance publique dans l'après-midi des mardi, mercredi, jeudi et vendredi, sur proposition de la Conférence des Présidents.
+L'Assemblée se réunit chaque semaine en séance publique dans l'après-midi des mardi, mercredi et vendredi, sur proposition de la Conférence des Présidents.
 
 L'Assemblée peut à tout moment décider que les dispositions de l'alinéa 1 sont suspendues.
 
@@ -1318,7 +1316,7 @@ La question orale avec débat est appelée par le Président qui fixe le temps d
 
 Le ministre compétent y répond. Il peut différer cette réponse en annonçant pour l'un des deux prochains jours de séance une communication du Gouvernement avec débat sur le même sujet. Cette annonce interrompt le débat sur la question orale. La communication du Gouvernement est inscrite d'office en tête de l'ordre du jour de la séance choisie par le Gouvernement. A cette séance, le débat se déroule suivant les dispositions du chapitre premier du présent titre.
 
-Après la réponse du ministre, le Président organise le débat au vu de la liste des orateurs inscrits et peut donner la parole à chacun d'eux pour le temps de parole qui lui a été imparti. Le ministre peut répliquer lorsqu'il le juge utile.
+Après la réponse du ministre, le Président organise le débat au vu de la liste des orateurs inscrits et peut donner la parole à chacun d'eux pour le temps de parole qui lui a été imparti. Le ministre peut répliquer lorsqu'il le juge utile. Les auteurs des questions peuvent à nouveau obtenir la parole.
 
 Après l'audition du dernier orateur, le Président passe à la suite de l'ordre du jour.
 
@@ -1332,9 +1330,7 @@ Aucune autre intervention ne peut avoir lieu.
 
 Lorsque l'auteur d'une question orale avec ou sans débat ne peut assister à la séance, il peut, s'il se trouve dans l'un des cas prévus par l'ordonnance n° 58-1066 du 7 novembre 1958, se faire suppléer par l'un de ses collègues. A défaut, sa question est rayée du rôle.
 
-Seuls peuvent répondre aux questions le Premier Ministre et les ministres compétents.
-
-Lorsqu'un ministre intéressé est absent, la question est reportée d'office au vendredi suivant, en tête de son rôle et le Président de l'Assemblée en informe le Premier Ministre.
+Seuls peuvent répondre aux questions le Premier Ministre et les ministres compétents. Lorsqu'un ministre intéressé est absent, la question est reportée d'office au vendredi suivant, en tête de son rôle et le Président de l'Assemblée en informe le Premier Ministre.
 
 # CHAPITRE III QUESTIONS ÉCRITES
 
