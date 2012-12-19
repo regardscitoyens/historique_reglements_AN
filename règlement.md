@@ -938,7 +938,7 @@ Lorsque les votes sont recueillis, le Président prononce la clôture du scrutin
 
 Lorsque, dans le dépouillement d'un scrutin, l'écart entre le nombre des bulletins blancs et celui des bulletins bleus n'est pas supérieur à vingt-cinq, lorsque le nombre des bulletins recueillis dans les urnes est supérieur au nombre des Députés pouvant prendre part au vote, les Secrétaires doivent procéder au pointage des votes émis.
 
-Lorsque le Gouvernement a posé la question de confiance ou lorsque le scrutin porte sur une motion de censure, le pointage est également de droit.
+Le pointage est de droit lorsque majorité absolue des membres composant l'Assemblée est requise par les articles 45, 49, 50, 57 et 90 de la Constitution. Il est également de droit, lorsque cette majorité est requise par l'article 20 in fine de la Constitution si l'écart entre la majorité absolue des membres composant l'Assemblée et le nombre des bulletins blancs n'est pas supérieur à vingt-cinq.
 
 Il est aussi de droit lorsque, avant la proclamation du scrutin, le Président a été saisi d'une demande signée d'au moins vingt-cinq Députés ou du Président d'un groupe comprenant au moins vingt-cinq membres, y compris les Députés apparentés.
 
