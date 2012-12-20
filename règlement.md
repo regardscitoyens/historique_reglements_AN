@@ -10,11 +10,11 @@ Ses membres portent le titre de Députés à l'Assemblée nationale.
 
 ## Article 2
 
-Au début d'une législature ainsi qu'à l'ouverture de la première séance de chaque session annuelle de l'Assemblée nationale, le plus âgé des membres présents occupe le fauteuil.
+Au début d'une législature ainsi qu'à l'ouverture de la première séance de chaque session annuelle de l'Assemblée nationale, le plus âgé des membres présents occupe le fauteuil jusqu'à la proclamation de l'élection du Président.
 
 Les six plus jeunes Députés présents remplissent les fonctions de Secrétaires jusqu'à l'élection du Bureau définitif.
 
-Aucun débat ne peut avoir lieu avant l'installation du Bureau définitif.
+Aucun débat ne peut avoir lieu sous la présidence du doyen d'âge.
 
 # CHAPITRE III BUREAUX VERIFICATION DES POUVOIRS DEMISSIONS
 
@@ -110,15 +110,15 @@ Si la majorité absolue n'a pas été acquise aux deux premiers tours de scrutin
 
 Des scrutateurs, tirés au sort, dépouillent le scrutin et le doyen d'âge en proclame le résultat.
 
-Aussitôt après la proclamation du résultat du scrutin. Pour l'élection du Président, les présidents de groupes se réunissent pour établir selon la règle de proportionnalité inscrite à l'article 11 de la Constitution, la liste des candidats aux fonctions de Vice-Présidents, Secrétaires et Questeurs. Cette liste remise au doyen d'âge est immédiatement affichée.
+Aussitôt après la proclamation du résultat du scrutin. Pour l'élection du Président, les présidents de groupes se réunissent pour établir selon la règle de proportionnalité inscrite à l'article 11 de la Constitution, la liste des candidats aux fonctions de Vice-Présidents, Secrétaires et Questeurs. Cette liste remise au Président est immédiatement affichée.
 
 Pendant un délai d'une heure, il peut être fait opposition à la liste des candidats établie par les présidents de groupes. Cette opposition ne peut être motivée que par une contestation sur l'application de l'article 11 de la Constitution.
 
-Elle est rédigée par écrit et remise au doyen d'âge. Elle doit être signée par cinquante députés au moins.
+Elle est rédigée par écrit et remise au Président. Elle doit être signée par cinquante députés au moins.
 
-A l'expiration du délai indiqué ci-dessus, s'il n'y a pas d'opposition, la liste des candidats est ratifiée par l'Assemblée et le doyen d'âge procède à la proclamation des Vice-Présidents, Secrétaires et Questeurs.
+A l'expiration du délai indiqué ci-dessus, s'il n'y a pas d'opposition, la liste des candidats est ratifiée par l'Assemblée et le Président procède à la proclamation des Vice-Présidents, Secrétaires et Questeurs.
 
-S'il y a une opposition le doyen d'âge la communique à l'Assemblée et consulte celle-ci sur le point de savoir si elle la prend en considération. L'Assemblée statue après un débat au cours duquel peuvent seul être entendus un orateur « pour » et un orateur « contre ».
+S'il y a une opposition le Président la communique à l'Assemblée et consulte celle-ci sur le point de savoir si elle la prend en considération. L'Assemblée statue après un débat au cours duquel peuvent seul être entendus un orateur « pour » et un orateur « contre ».
 
 Si l'Assemblée prend l'opposition en considération, la première liste de candidats proposée est annulée et les présidents des groupes se réunissent immédiatement pour établir une nouvelle liste de candidats. L'Assemblée statue sur cette seconde liste de candidats dans les mêmes conditions que sur la première. Si l'Assemblée ne prend pas l'opposition en considération, la liste des candidats présentes est ratifiée et il est procédé à leur proclamation.
 
