@@ -56,7 +56,7 @@ A l'ouverture de la première séance de chaque session ordinaire, le plus âgé
 
 ## Article 8
 
-Après l'installation du Président d'âge, et, si l'on est au début de la législature, après que les pouvoirs de la moitié plus un des membres de la Chambre ont été vérifiés, il est procédé immédiatement, en séance publique, à la nomination du Bureau définitif, composé d'un Président, de quatre Vice-Présidents, de douze Secrétaires et trois Questeurs.
+Après l'installation du Président d'âge, et, si l'on est au début de la législature, après que les pouvoirs de la moitié plus un des membres de la Chambre ont été vérifiés, il est procédé immédiatement, en séance publique, à la nomination du Bureau définitif, composé d'un Président, de six Vice-Présidents, de douze Secrétaires et trois Questeurs.
 
 Avant la date fixée pour cette nomination, les bureaux des groupes, après s'être concertés, remettront à la Présidence la liste des candidats établie par eux en s'efforçant de donner à chacun, une représentation correspondant à leur importance numérique, le siège du Président demeurant en dehors.
 
