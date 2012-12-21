@@ -72,47 +72,49 @@ Après l'élection du Bureau définitif, le Président fait connaître au Sénat
 
 ## Article 11
 
-Au début de chaque législature, la Chambre des Députés se divise en dix-neuf grandes commissions permanentes, sans préjudice des autres commissions spéciales ou permanentes dont elle pourra décider la constitution.
+Au début de chaque législature et de chaque session ordinaire, la Chambre des Députés nomme vingt grandes commissions permanentes, sans préjudice des autres commissions spéciales ou permanentes dont elle pourra décider la constitution. Toutefois, les grandes commissions permanentes nommées au début de la session ordinaire de l'année qui précède l'expiration des pouvoirs de la Chambre resteront en fonctions jusqu'à la date fixée pour cette expiration.
 
 Ces commissions prennent les dénominations suivantes :
 
-1. commission de l'Administration générale, départementale et communale ;
+1° commission de l'Administration générale, départementale et communale ;
 
-2. commission des Affaires extérieures, des Protectorats et des Colonies;
+2° commission des Affaires étrangères;
 
-3. commission de l'agriculture;
+3° commission de l'agriculture;
 
-4. commission de l'Armée;
+4° commission de l'Algérie, des colonies et des protectorats ;
 
-5. commission d'Assurance et de Prévoyance sociales;
+5° commission de l'Alsace-Lorraine ;
 
-6. commission du budget ;
+6° commission de l'armée;
 
-7. commission du Commerce et de l'Industrie;
+7° commission d'assurance et de prévoyance sociales;
 
-8. commission des comptes définitifs et des économies ;
+8° commission du commerce et de l'industrie;
 
-9. commission des Douanes;
+9° commission des comptes définitifs et des économies ;
 
-10. commission de l'Enseignement et des Beaux-Arts ;
+10° commission des douanes et des conventions commerciales ;
 
-11.Commission de l'Hygiène publique;
+11° commission de l'enseignement et des beaux-arts ;
 
-12. commission de la Législation civile et criminelle;
+12° commission des finances ;
 
-13. commission de la Législation fiscale ;
+13° commission de l'hygiène;
 
-14. commission de la marine de guerre;
+14° commission de la législation civile et criminelle;
 
-15. commission de la marine marchande ;
+15° commission de la marine marchande ;
 
-16. commission des mines ;
+16° commission de la marine militaire ;
 
-17. commission des Postes et des Télégraphes;
+17° commission des mines et de la force motrice ;
 
-18. commission du Travail;
+18° commission des régions libérées
 
-19.Commission des Travaux publics, des Chemins de fer et des Voies de communication.
+19° commission du Travail;
+
+20° commission des travaux publics et des voies de communication.
 
 ## Article 11 bis
 
