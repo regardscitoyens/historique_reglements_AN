@@ -182,15 +182,13 @@ Au début de chaque législature, l'Assemblée nomme, en séance publique, 19 Co
 
 15° commission de la production industrielle ;
 
-16° commission du ravitaillement ;
+16° commission de la reconstruction et des dommages de guerre ;
 
-17° commission de la reconstruction et des dommages de guerre ;
+17° commission du suffrage universel, du règlement et des pétitions ;
 
-18° commission du suffrage universel, du règlement et des pétitions ;
+18° commission des territoires d'outre-mer ;
 
-19° commission des territoires d'outre-mer ;
-
-20° commission du travail et de la sécurité sociale.
+19° commission du travail et de la sécurité sociale.
 
 Les commissions générales nommées au début d'une législature demeurent en fonctions jusqu'à l'ouverture de chaque session annuelle suivante. Elles sont, par la suite, nommées pour un an et renouvelées à l'ouverture de chaque session annuelle.
 
