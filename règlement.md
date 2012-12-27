@@ -54,6 +54,8 @@ Après l'installation du Président d'âge, et, si l'on est au début de la lég
 
 Les Vice-présidents, les Secrétaires et les Questeurs sont nommés au scrutin de liste. Le scrutin a lieu séparément pour chacune de ces fonctions.
 
+Pour les élections prévues au paragraphe précédent, la Chambre peut décider qu'il y sera procédé conformément aux dispositions de l'article 79. En cas de renouvellement intégral du Bureau, cette décision doit être prise avant l'ouverture de la session ordinaire ; elle n'est pas applicable au début d'une législature.
+
 Après deux tours de scrutin, et en cas de ballottage, la majorité relative suffit.
 
 S'il y a égalité de suffrages, le plus âgé est nommé.
