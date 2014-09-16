@@ -184,7 +184,7 @@ Les députés qui n'appartiennent à aucun groupe peuvent s'apparenter à un gro
 
 ## Article 20
 
-Les groupes constitués conformément à l'article précédent peuvent assurer leur service intérieur par un secrétariat administratif dont ils règlent eux-mêmes le recrutement et le mode de rétribution; le statut, les conditions d'installation matérielle de ces secrétariats et les droits d'accès et de circulation de leur personnel dans le Palais de 1'Assemblée sont fixés par le Bureau de l'Assemblée sur proposition des questeurs et des présidents des groupes.
+Les groupes créés conformément à l'article précédent sont constitués sous forme d'association, présidée par le président du groupe et composée des membres du groupe et apparentés. Ils peuvent assurer leur service intérieur par un secrétariat administratif dont ils règlent eux-mêmes le recrutement et le mode de rétribution; le statut, les conditions d'installation matérielle de ces secrétariats et les droits d'accès et de circulation de leur personnel dans le Palais de 1'Assemblée sont fixés par le Bureau de l'Assemblée sur proposition des questeurs et des présidents des groupes.
 
 ## Article 21
 
@@ -260,7 +260,7 @@ La personnalité dont la nomination est envisagée est auditionnée par la commi
 
 Le scrutin, qui peut avoir lieu à l'issue de l'audition prévue à l'alinéa qui précède mais hors la présence de la personnalité concernée, est secret. Les membres de la commission sont invités à mentionner le sens de leur avis sur des bulletins qui doivent comporter le nom de cette personnalité.
 
-Des scrutateurs tirés au sort dépouillent le scrutin. Le président de la commission se concerte avec la président de la commission permanente compétente du Sénat afin que le dépouillement du scrutin intervienne au même moment dans les deux commissions permanentes. Il proclame le sens de l'avis en précisant le nombre des suffragesexprimés ainsi que celui des votes positifs et négatifs. L'avis est notifié au Président de la République et au Premier ministre. Il est publié au Journal officiel.
+Des scrutateurs tirés au sort dépouillent le scrutin. Le président de la commission se concerte avec la président de la commission permanente compétente du Sénat afin que le dépouillement du scrutin intervienne au même moment dans les deux commissions permanentes. Il proclame le sens de l'avis en précisant le nombre des suffrages exprimés ainsi que celui des votes positifs et négatifs. L'avis est notifié au Président de la République et au Premier ministre. Il est publié au Journal officiel.
 
 Lorsqu'en vertu de dispositions constitutionnelles ou législatives une nomination par le Président de l'Assemblée doit faire l'objet d'un avis d'une commission permanente, le Président saisit la commission compétente. La procédure prévue aux alinéas 2 et 5 est applicable.
 
@@ -910,7 +910,7 @@ Les rapports concluent à l'adoption, au rejet ou à la modification du texte do
 
 Le texte d'ensemble adopté par la commission est publié séparément du rapport. Sauf lorsque la procédure accélérée prévue par l'article 45, alinéa 2, de la Constitution est engagée ou lorsque le projet est relatif aux états de crise, en première lecture, le délai qui sépare la mise à disposition par voie électronique du texte adopté par la commission et le début de son examen en séance ne peut être inférieur à sept jours. En cas d'engagement de la procédure accélérée ainsi que lors de la deuxième lecture et des lectures ultérieures, le texte est mis à disposition par voie électronique dans les meilleurs délais.
 
-Tout député peut présenter un amendement en commission, qu'il soit ou non membre de celle-ci. Les amendements autres que ceux du Gouvernement du rapporteur de la commission et, le cas échéant, des commissions saisies pour avis doivent être transmis par leurs auteurs au secrétariat de la commission au plus tard le troisième jour ouvrable précédant la date de début de l'examen du texte à 17 heures, sauf décision contraire du président de la commission. La recevabilité des amendements des députés est appréciée dans les conditions prévues par le chapitre III de la présente partie.
+Tout député peut présenter un amendement en commission, qu'il soit ou non membre de celle-ci. Les amendements autres que ceux du Gouvernement du rapporteur de la commission et, le cas échéant, des commissions saisies pour avis doivent être transmis par leurs auteurs au secrétariat de la commission au plus tard le troisième jour ouvrable précédant la date de début de l'examen du texte à 17 heures, sauf décision contraire du président de la commission. La recevabilité des amendements des députés est appréciée dans les conditions prév ues par le chapirtre III de la présente partie.
 
 Peuvent participer aux débats de la commission, outre les membres de celle-ci, l'auteur, selon les cas, d'une proposition ou d'un amendement ainsi qu e, le cas échéant, les rapporteurs des commissions saisies pour avis. La participation du Gouvernement est de droit.
 
@@ -1626,7 +1626,7 @@ Les documents et les renseignements destinés à permettre l'exercice du contrô
 
 Le rapporteur spécial peut demander à la commission des finances, de l'économie générale et du contrôle budgétaire de lui adjoindre un de ses membres pour l'exercice de ce contrôle. Il communique les documents dont il est saisi aux rapporteurs pour avis du même budget désignés par les autres commissions permanentes.
 
-Les travaux des rapporteurs peuvent être utilisés pour les rapports faits par les commissions sur la loi de finances et la loi de règlement. Ils peuvent, en outre, faire l'objet de rapports d'information établis par les rapporteurs spéciaux de la commission des finances, de l'économie générale et du contrôle budgétaire. Un rapport d'information établi par un rapporteur spécial peut donner lieu, en séance publique, à un débat sans vote ou à une séance de questions.
+Les travaux des rapporteurspeuvent être utilisés pour les rapports faits par les commissions sur la loi de finances et la loi de règlement. Ils peuvent, en outre, faire l'objet de rapports d'information établis par les rapporteurs spéciaux de la commission des finances, de l'économie générale et du contrôle budgétaire. Un rapport d'information établi par un rapporteur spécial peut donner lieu, en séance publique, à un débat sans vote ou à une séance de questions.
 
 La désignation des rapporteurs spéciaux et des rapporteurs pour avis doit s'efforcer de reproduire la configuration politique de l'Assemblée.
 
@@ -1916,7 +1916,7 @@ La notification, l'affichage, l'inscription à l'ordre du jour, la discussion et
 
 ## Article 157
 
-Le Parlement constitué en Haute Cour prononce la destitution du Président de la République dans les conditions prévues à l'article 68 de la Constitution et la loi organique à laquelle il fait référence.
+Le Parlement constitué en Haute Cour prononce la déstitution du Président de la République dans les conditions prévues à l'article 68 de la Constitution et la loi organique à laquelle il fait référence.
 
 # CHAPITRE XIII COUR DE JUSTICE DE LA REPUBLIQUE
 
