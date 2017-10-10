@@ -1,5 +1,3 @@
-
-
 # TITRE PREMIER Organisation et fonctionnement de l'Assemblée.
 
 # CHAPITRE PREMIER BUREAU D'AGE
@@ -86,9 +84,19 @@ Les autres membres du Bureau sont élus, au début de chaque législature, au co
 
 L'élection des vice-présidents, des questeurs et des secrétaires a lieu en s'efforçant de reproduire au sein du Bureau la configuration politique de l'Assemblée et de respecter la parité entre les femmes et les hommes.
 
-Les présidents de groupe se réunissent en vue d'établir, dans l'ordre de présentation qu'ils déterminent, la liste de leurs candidats aux diverses fonctions du Bureau.
+Le Président de l’Assemblée réunit les présidents des groupes en vue d’établir la répartition entre les groupes de l’ensemble des fonctions du Bureau et la liste de leurs candidats à ces fonctions.
 
-Les candidatures doivent être déposées au Secrétariat général de l'Assemblée, au plus tard une heure avant l'heure fixée pour la nomination ou l'ouverture de chaque tour de scrutin.
+La répartition se fait selon la procédure décrite aux alinéas 5 à 16.
+
+Il est attribué à chaque poste du Bureau une valeur exprimée en points : 4 points pour la fonction de Président, 2 points pour celle de vice-président, 2,5 points pour celle de questeur, 1 point pour celle de secrétaire.
+
+L’ensemble des postes représente un total de 35,5 points, qui est réparti entre les groupes à la représentation proportionnelle sur la base de leurs effectifs respectifs.
+
+Les présidents des groupes choisissent, en fonction du nombre de points dont ils disposent, les postes qu’ils souhaitent réserver à leur groupe. Cette répartition s’effectue par choix prioritaire en fonction des effectifs respectifs des groupes et, en cas d’égalité de ces effectifs, par voie de tirage au sort. L’un des postes de questeur est réservé à un député appartenant à un groupe s’étant déclaré d’opposition.
+
+Lorsque le Président de l’Assemblée constate que la répartition des postes fait l’objet d’un accord, les présidents des groupes établissent, conformément à cette répartition et dans l’ordre de présentation qu’ils déterminent, la liste de leurs candidats à ces diverses fonctions et la déposent au Secrétariat général de l’Assemblée. Il est alors procédé conformément à l’article 26, alinéa 3.
+
+Si le Président constate qu’il n’y a pas d’accord, les candidatures aux diverses fonctions du Bureau doivent être déposées au Secrétariat général de l’Assemblée, au plus tard une demi-heure avant l’heure fixée pour la nomination ou pour l’ouverture de chaque tour de scrutin.
 
 Lorsque, pour chacune des fonctions du Bureau, le nombre des candidats n'est pas supérieur au nombre des sièges à pourvoir, il est procédé conformément à l'article 26 (alinéa 3).
 
@@ -536,13 +544,13 @@ Lorsque la demande émane des membres de l'Assemblée, elle est constituée par 
 
 L'Assemblée se réunit chaque semaine en séance publique le matin, l'après-midi et la soirée du mardi, l'après-midi et la soirée du mercredi ainsi que le matin, l'après-midi et la soirée du jeudi.
 
-Sur proposition de la Conférence des Présidents, l'Assemblée peut décider de tenir d'autres séances dans les limites prévues par l'article 28, alinéa 2, de la Constitution. Dans les mêmes limites, la tenue de ces séances est de droit à la demande du Gouvernement formulée en Conférence des Présidents, pour l’examen des textes et des demandes visés à l’article 48, alinéa 3, de la Constitution.
+Sur proposition de la Conférence des Présidents, l'Assemblée peut décider de tenir d'autres séances dans les limites prévues par l'article 28, alinéa 2, de la Constitution. Dans les mêmes limites, la tenue de ces séances est de droit à la demande du Gouvernement formulée en Conférence des Présidents, pour l’examen des textes et des demandes visées à l’article 48, alinéa 3, de la Constitution.
 
 La matinée du mercredi est réservée aux travaux des commissions. Sous réserve des dispositions de l'article 48, alinéas 2 et 3, de la Constitution, au cours de cette matinée, aucune séance ne peut être tenue en application de l'alinéa précédent.
 
 L'Assemblée se réunit l'après-midi de 15 heures à 20 heures et en soirée de 21 h 30 à 1 heure le lendemain. Lorsque l'Assemblée tient séance le matin, elle se réunit de 9 h 30 à 13 heures.
 
-L'Assemblée peut toutefois décider de prolonger ses séances soit sur proposition de la Conférence des Présidents pour un ordre du jour déterminé, soit sur proposition de la commission saisie au fond ou du Gouvernement pour continuer le débat en cours ; dans ce dernier cas, elle est consultée sans débat par le Président. La prolongation de la séance du soir au-delà de l’horaire mentionné à l’alinéa 4 n’est admise que pour achever une discussion en cours.
+L'Assemblée peut toutefois décider de prolonger ses séances soit sur proposition de la Conférence des Présidents pour un ordre du jour déterminé, soit sur proposition de la commission saisie au fond ou du Gouvernement pour continuer le débat en cours ; dans ce dernier cas, elle est consultée sans débat par le Président. La prolongation de la séance du soir au delà de l’horaire mentionné à l’alinéa 4 n’est admise que pour achever une discussion en cours.
 
 L'Assemblée peut à tout moment décider des semaines au cours desquelles elle ne tient pas séance, conformément au deuxième alinéa de l'article 28 de la Constitution.
 
@@ -1814,7 +1822,7 @@ La commission des affaires européennes peut, de sa propre initiative ou à la d
 
 ## Article 151-2
 
-La transmission des projets ou propositions d'actes des Communautés européennes et de l'Union européenne soumis par le Gouvernement à l'Assemblée, en application de l'article 88-4 de la Constitution, fait l'objet d'une insertion au Journal officiel. 
+La transmission des projets ou propositions d'actes des Communautés européennes et de l'Union européenne soumis par le Gouvernement à l'Assemblée, en application de l'article 88-4 de la Constitution, fait l'objet d'une insertion au Journal officiel.
 
 Les projets et propositions mentionnés à l'alinéa 1 sont imprimées et distribuées. Ils sont examinés par la commission des affaires européennes qui peut transmettre aux commissions permanentes, de sa propre initiative ou à leur demande, ses analyses assorties ou non de conclusions. Elle peut déposer un rapport d'information concluant éventuellement au dépôt d'une proposition de résolution.
 
