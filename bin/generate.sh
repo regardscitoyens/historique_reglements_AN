@@ -27,7 +27,9 @@ mv ./textes_des_reglements/003_IIIeme-République/Règlement* ./textes_des_regle
 find . -name '*odt' | while read odt ; do 
         txt=$(echo $odt | sed 's/odt$/txt/');
 	pandoc $odt -o $txt ; 
-	bash bin/homogenize.sh "$txt"
+        md=$(echo $odt | sed 's/odt$/md/');
+	mv "$txt" "$md"
+	bash bin/homogenize.sh "$md"
 	rm $odt ; 
 done 
 
