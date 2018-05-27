@@ -44,9 +44,7 @@ Toutefois le droit de voter est suspendu pour tout député dont l'admission a �
 
 Les députés non validés ne votent sur leur admission ni dans les bureaux ni en assemblée générale. Ils ne peuvent déposer aucune proposition de loi.
 
-CHAPITRE II
-
-BUREAU DEFINITIF
+CHAPITRE II BUREAU DEFINITIF
 
 Article 7
 
@@ -74,11 +72,7 @@ Article 11
 
 Après l'élection du Bureau définitif, le Président fait connaître au Sénat et au Président de la République que la Chambre des Députés est constituée.
 
-CHAPITRE III
-
-BUREAUX. - COMMISSION. - RAPPORTS.
-
-DOCUMENTS
+CHAPITRE III BUREAUX. - COMMISSION. - RAPPORTS. DOCUMENTS
 
 Article 12
 
@@ -216,9 +210,7 @@ La Chambre consacre un jour par semaine aux travaux des commissions. Toutefois u
 
 La Chambre consacrera provisoirement, et jusqu'à nouvel ordre, deux jours par semaine aux travaux des Commissions. Ces jours seront le mercredi et le vendredi. Toutefois, une résolution contraire peut toujours être prise si l'urgence de certaine délibération le commande.
 
-CHAPITRE IV
-
-PROJETS DE LOI PRESENTES PAR LE GOUVERNEMENT
+CHAPITRE IV PROJETS DE LOI PRESENTES PAR LE GOUVERNEMENT
 
 Article 30
 
@@ -256,9 +248,7 @@ Lorsque, en vertu de l'Article 7 de la loi constitutionnelle sur les rapports de
 
 La Chambre se réunit dans ses bureaux et nomme une Commission, sur le rapport de laquelle il est procédé à la nouvelle délibération.
 
-CHAPITRE V
-
-PROPOSITIONS DE LOI PROVENANT DE L'INITIATIVE PARLEMENTAIRE.
+CHAPITRE V PROPOSITIONS DE LOI PROVENANT DE L'INITIATIVE PARLEMENTAIRE.
 
 Article 34
 
@@ -292,9 +282,7 @@ Article 38
 
 Les propositions rejetées par la Chambre ne peuvent être représentées avant un délai de trois mois, si elles ont été prises en considération ; avant un délai de six mois, si elles ont été repoussées au 1 vote.
 
-CHAPITRE VI
-
-DES INTERPELLATIONS ET DES QUESTIONS
+CHAPITRE VI DES INTERPELLATIONS ET DES QUESTIONS
 
 Article 39
 
@@ -350,9 +338,7 @@ Article 49
 
 Le député qui a posé la question a seul le droitde répliquer sommairement.
 
-CHAPITRE VII
-
-DISCUSSION DES PROJETS DE LOI. - AMENDEMENTS.
+CHAPITRE VII DISCUSSION DES PROJETS DE LOI. - AMENDEMENTS.
 
 Article 50
 
@@ -422,9 +408,7 @@ Les prescriptions relatives aux deux délibérations ne s'appliquent pas au budg
 
 Néanmoins, les amendements ou articles additionnels présentés dans le cours de la délibération, sont soumis aux formalités prescrites par l'article 55.
 
-CHAPITRE VIII
-
-DES PETITIONS
+CHAPITRE VIII DES PETITIONS
 
 Article 61
 
@@ -494,9 +478,7 @@ Les Commissions spéciales auxquelles des pétitions auront été renvoyées dev
 
 Dans un délai de six mois, les Ministres feront connaître, par une mention portée au euilleton distribué aux membres de la Chambre, la suite qu'ils ont donnée aux pétitions qui leur ont été respectivement renvoyées.
 
-CHAPITRE IX
-
-DE LA DECLARATION D'URGENCE
+CHAPITRE IX DE LA DECLARATION D'URGENCE
 
 Article 69
 
@@ -556,9 +538,7 @@ Article 77
 
 Après le vote d'une loi, la Chambre, sur la proposition d'un député, est consultée par le Président sur le point de savoir si la loi votée sera promulguée d'urgence dans les trois jours, aux termes de l'Article 7 de la loi constitutionnelle du 16 juillet 1875.
 
-CHAPITRE X
-
-DES VOTATIONS
+CHAPITRE X DES VOTATIONS
 
 Article 78
 
@@ -670,9 +650,7 @@ Le résultat des délibérations de la Chambre est proclamé par le Président e
 
 « La Chambre a adopté » ou « la Chambre n'a pas adopté. »
 
-CHAPITRE XI
-
-TENUE DES SEANCES
+CHAPITRE XI TENUE DES SEANCES
 
 Article 97
 
@@ -772,9 +750,7 @@ Le Président, avant de prononcer la clôure de la séance, consulte la Chambre 
 
 L'ordre du jour ainsi réglé est affiché dans l'enceinte du Palais et publié au Journal officiel
 
-CHAPITRE XII
-
-DES CONGES
+CHAPITRE XII DES CONGES
 
 Article 112
 
@@ -804,9 +780,7 @@ A défaut des motifs valables qui justifient son absence, le député est inscri
 
 Les réclamations sont portées au bureau de la Chambre qui prononce après avoir pris l'avis de la Commission des congés.
 
-CHAPITRE XIII
-
-DE LA DISCIPLINE
+CHAPITRE XIII DE LA DISCIPLINE
 
 Article 117
 
@@ -918,9 +892,7 @@ En cas de résistance du Député, ou de tumulte dans la Chambre, le Président 
 
 Le Bureau informe le procureur général qu'un délit vient d'être commis dans le Palais de la Chambre des Députés.
 
-CHAPITRE XIV
-
-DE LA COMPTABILITE
+CHAPITRE XIV DE LA COMPTABILITE
 
 Article 130
 
@@ -956,9 +928,7 @@ Pour qu'ils soient valablement payables par le trésorier de la Chambre, les man
 
 Les membres du Bureau ne peuvent faire partie de la Commission de comptabilité.
 
-CHAPITRE XV
-
-DE LA POLICE INTERIEURE ET EXTERIEURE DE LA CHAMBRE. - DES DROITS DU PRESIDENT.
+CHAPITRE XV DE LA POLICE INTERIEURE ET EXTERIEURE DE LA CHAMBRE. - DES DROITS DU PRESIDENT.
 
 Article 134
 
@@ -986,9 +956,7 @@ Article 139
 
 Tout individu qui trouble les délibérations est traduit sans délai, s'il y a lieu, devant l'autorité compétente.
 
-CHAPITRE XVI
-
-DES RAPPORTS DE LA CHAMBRE DES DEPUTES AVEC LE SENAT.
+CHAPITRE XVI DES RAPPORTS DE LA CHAMBRE DES DEPUTES AVEC LE SENAT.
 
 Article 140
 
@@ -1036,9 +1004,7 @@ Article 147
 
 Lorsque les propositions de loi ou les projets votés par la Chambre des Députés seront rejetés par le Sénat, ils ne pourront être repris, avant le délai de trois mois, que sur l'initiative du Gouvernement.
 
-CHAPITRE XVII
-
-DISPOSITIONS DIVERSES
+CHAPITRE XVII DISPOSITIONS DIVERSES
 
 Article 148
 

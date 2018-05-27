@@ -2,9 +2,7 @@ RÉSOLUTION PORTANT RÈGLEMENT DE L'ASSEMBLÉE NATIONALE CONSTITUANTE
 
 adoptée le 22 novembre 1945.
 
-CHAPITRE PREMIER
-
-Dénomination de l'Assemblée et de ses Membres.
+CHAPITRE PREMIER Dénomination de l'Assemblée et de ses Membres.
 
 Article 1
 
@@ -12,9 +10,7 @@ L'Assemblée élue le 21 octobre 1945 se dénomme Assemblée Nationale Constitua
 
 Ses membres portent le titre de Députés à l'Assemblée Nationale Constituante.
 
-CHAPITRE II
-
-Bureau d'âge.
+CHAPITRE II Bureau d'âge.
 
 Article 2
 
@@ -22,9 +18,7 @@ A la séance d'ouverture de l'Assemblée Nationale Constituante, le plus âgé d
 
 Les six plus jeunes Députés présents remplissent les fonctions de Secrétaires jusqu'à l'élection du Bureau définitif.
 
-CHAPITRE III
-
-Bureaux. - Vérification des Pouvoirs. Démissions.
+CHAPITRE III Bureaux. - Vérification des Pouvoirs. Démissions.
 
 Article 3
 
@@ -80,9 +74,7 @@ Les démissions sont adressées au Président, qui en donne connaissance à l'As
 
 La démission acceptée par l'Assemblée est immédiatement notifiée au Ministre de l'Intérieur.
 
-CHAPITRE IV
-
-Bureau définitif.
+CHAPITRE IV Bureau définitif.
 
 Article 9
 
@@ -114,9 +106,7 @@ Article 11
 
 Après l'élection du Bureau définitif, le Président de l'Assemblée fait connaître au Gouvernement que l'Assemblée Nationale Constituante est constituée.
 
-CHAPITRE V
-
-Groupes
+CHAPITRE V Groupes
 
 Article 12
 
@@ -130,9 +120,7 @@ Article 13
 
 Est interdite la constitution, au sein de l'Assemblée, de groupes dits « de défense d'intérêts particuliers, locaux ou professionnels ».
 
-CHAPITRE VI
-
-Commissions
+CHAPITRE VI Commissions
 
 Article 14
 
@@ -238,9 +226,7 @@ Il est procédé à la publication du nom des candidats et à leur nomination da
 
 Dans le cas où une ou plusieurs candidatures concurrentes se produisent, ou si la demande en est faite par un membre de l'Assemblée, la désignation a lieu par scrutin.
 
-CHAPITRE VII
-
-Dépôt des projets et des propositions
+CHAPITRE VII Dépôt des projets et des propositions
 
 Article 21
 
@@ -264,9 +250,7 @@ Article 24
 
 Les projets ou propositions repoussés par l'Assemblée ne peuvent être reproduits avant le délai d'un mois.
 
-CHAPITRE VIII
-
-Travaux des commissions.
+CHAPITRE VIII Travaux des commissions.
 
 Article 25
 
@@ -328,11 +312,7 @@ Article 31
 
 Il est publié chaque semaine un Bulletin des Commissions dans lequel sont insérées les indications prévues à l'article précédent ainsi que tous autres renseignents relatifs aux travaux des Commissions et dont le détail sera fixé par décision du Bureau de l'Assemblée.
 
-CHAPITRE IX
-
-Inscription à l'ordre du jour de l'Assemblée.
-
-Organisation des débats.
+CHAPITRE IX Inscription à l'ordre du jour de l'Assemblée. Organisation des débats.
 
 Article 32
 
@@ -378,9 +358,7 @@ Si l'organisation du débat est décidée, les Vice-Présidents de l'Assemblée,
 
 La Conférence répartit le temps de parole entre les orateurs inscrits, le Gouvernement et la commission. L'inscription primitive des orateurs ne leur confère aucune priorité pour le tour de parole, lequel peut être modifié par la Conférence de façon à grouper les interventions selon leur objet.
 
-CHAPITRE X
-
-Tenue des séances.
+CHAPITRE X Tenue des séances.
 
 Article 36
 
@@ -490,9 +468,7 @@ Article 47
 
 Il est établi, pour chaque séance publique, un compte rendu analytique officiel et un compte rendu in extenso, lequel est publié au Journal officiel.
 
-CHAPITRE XI
-
-Discussion des projets et des propositions.
+CHAPITRE XI Discussion des projets et des propositions.
 
 Article 48
 
@@ -500,9 +476,7 @@ Sauf le cas de deuxième délibération prévue à l'article 23 (alinéa 2) et d
 
 Lorsque la discussion a commencé, la suite du débat est inscrite, de droit, en tête de l'ordre dn jour de la séance suivante, si la demande en est faite par la commission.
 
-SECTION A.
-
-Discussion des textes constitutionnels.
+SECTION A. Discussion des textes constitutionnels.
 
 Article 49
 
@@ -536,9 +510,7 @@ Avant le vote sur l'ensemble d'un projet ou d'une proposition d'ordre constituti
 
 La commission présente, sans délai, son travail. Lecture en est donnée et la discussion, qui s'ouvre porte exclusivement sur la rédaction.
 
-Section B.
-
-Discussion des textes législatifs.
+Section B. Discussion des textes législatifs.
 
 Article 52
 
@@ -550,9 +522,7 @@ Article 53
 
 Les dispositions des alinéas 1 et 3 de l'article 50 et celles de l'article 51 sont applicables à la discussion des textes législatifs.
 
-Section C.
-
-Discussion immédiate.
+Section C. Discussion immédiate.
 
 Article 54
 
@@ -568,9 +538,7 @@ Lorsque la discssion immédiate est décidée, il peut être délibéré sur un 
 
 Les dispositions de l'article 51 sont applicables à la discussion immédiate.
 
-Section D.
-
-Discussion du budget.
+Section D. Discussion du budget.
 
 Article 55
 
@@ -588,9 +556,7 @@ Les amendements relatifs aux états de dépenses ne peuvent porter que sur les c
 
 Les chapitres des différents budgets dont la modification n'est pas demandée, soit par le Gouvernement, soit par la commission des finances soit par un amendement régulièrement déposé ne peuvent être l'objet que d'un débat sommaire. Chaque orateur ne peut parler qu'une fois, sauf exercice du droit de réponse aux Ministres et aux rapporteurs. La durée de cette réponse ne peut en aucun cas, excéder dix minutes.
 
-Section E.
-
-Discussion des traités.
+Section E. Discussion des traités.
 
 Article 57
 
@@ -608,9 +574,7 @@ La Commission présente son rapport sur les clauses renvoyées à son examen, ap
 
 Tout projet d'approbation de traité, qui a été rejeté ou ajourné, peut être reproduit sans observation d'aucun délai.
 
-CHAPITRE XII
-
-Amendements.
+CHAPITRE XII Amendements.
 
 Article 58
 
@@ -648,9 +612,7 @@ L'Assemblée ne peut être consultée que sur leur prise en considération ; si 
 
 La procédure relative aux amendements leur est applicable ainsi qu'aux articles additionnels.
 
-CHAPITRE XIII
-
-Modes de votation.
+CHAPITRE XIII Modes de votation.
 
 Article 62
 
@@ -750,9 +712,7 @@ Les Députés ne peuvent rectifier leur vote que par écritet durant les huit jo
 
 En aucun cas, les rectifications ne peuvent modifier le résultat proclamé en séance.
 
-CHAPITRE XIV
-
-Interpellations.
+CHAPITRE XIV Interpellations.
 
 Article 74
 
@@ -790,9 +750,7 @@ L'ordre du jour pur et simple, s'il est proposé, a toujours la priorité.
 
 Le Président soumet les ordres du jour au vote de l'Assemblée, qui statue, s'il y a lieu, sur les questions de priorité. La priorité est de droit pour les demandes de commission d'enquête.
 
-CHAPITRE XVI
-
-Questions orales ou écrites.
+CHAPITRE XVI Questions orales ou écrites.
 
 Article 94
 
@@ -822,9 +780,7 @@ Les Ministres ont toutefois la faculté de déclarer par écrit que l'intérêt 
 
 Chaque semaine, le Journal officiel publie la liste, par Ministère, des questions auxquelles il n'a pas été répondu dans le délai réglementaire.
 
-CHAPITRE XVII
-
-Pétitions.
+CHAPITRE XVII Pétitions.
 
 Article 98
 
@@ -856,9 +812,7 @@ Dans le mois de cette publication, les Ministres doivent faire connaître la sui
 
 Leurs réponses sont insérées au Feuilleton des Pétitions et publiées au Journal officiel.
 
-CHAPITRE XVIII
-
-Police intérieur et extérieure de l'Assemblée.
+CHAPITRE XVIII Police intérieur et extérieure de l'Assemblée.
 
 Article 85
 
@@ -890,9 +844,7 @@ Article 88
 
 Les députations de l'Assemblée sont désignées par la voie du sort ; le nombre des membres qui les composent est déterminé par l'Assemblée.
 
-CHAPITRE XVIII
-
-Discipline.
+CHAPITRE XVIII Discipline.
 
 Article 89
 
@@ -962,9 +914,7 @@ En cas de résistance du Député ou de tumulte dans l'Assemblée, le Président
 
 Le Bureau informe sur-le-champ, le Procureur Général qu'un délit vient d'être commis dans le Palais de l'Assemblée.
 
-CHAPITRE XIX
-
-Services et comptabilité de l'Assemblée.
+CHAPITRE XIX Services et comptabilité de l'Assemblée.
 
 Article 96
 
@@ -988,9 +938,7 @@ Le Bureau de l'Assemblée déterminera, par un règlement intérieur, les règle
 
 Avant de clore ses travaux, la Commission rend compte à l'Assemblée de l'exécution du mandat qui lui a été confié.
 
-CHAPITRE XXI
-
-Dispositions diverses.
+CHAPITRE XXI Dispositions diverses.
 
 Article 99
 

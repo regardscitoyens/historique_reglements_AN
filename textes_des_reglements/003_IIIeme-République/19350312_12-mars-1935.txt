@@ -50,9 +50,7 @@ Article 6
 
 Quand les pouvoirs de la moitié plus un des membres de la Chambre ont été vérifiés, il peut être procédé à l'élection du Bureau définitif dans la forme indiquée à l'article 8.
 
-CHAPITRE II
-
-BUREAU D'AGE. - BUREAU DEFINITIF
+CHAPITRE II BUREAU D'AGE. - BUREAU DEFINITIF
 
 Article 7
 
@@ -92,9 +90,7 @@ Article 10
 
 Après l'élection du Bureau définitif, le Président fait connaître au Sénat et au Président de la République que la Chambre des Députés est constituée.
 
-CHAPITRE III
-
-GRANDES COMMISSIONS PERMANENTES
+CHAPITRE III GRANDES COMMISSIONS PERMANENTES
 
 Article 11
 
@@ -194,9 +190,7 @@ Toute Commission nouvellement nommée est convoquée sans retard par le Préside
 
 Les grandes Commission visées à l'article 11 sont pourvues d'un personnel et d'un local spécialisés et permanents, ainsi que des instruments de travail nécessaires.
 
-CHAPITRE IV
-
-BUREAUX
+CHAPITRE IV BUREAUX
 
 Article 17
 
@@ -224,15 +218,7 @@ Lorsque les Bureaux ont été constitués pour la nomination d'une Commission, c
 
 Il est procédé par voie d'appel nominal lorsque la demande est formulée par un membre présent.
 
-CHAPITRE IV
-
-DEPOT DES PROJETS DE LOI PRESENTES
-
-PAR LE GOUVERNEMENT ET DES PROPOSITIONS
-
-PROVENANT
-
-DE L'INITIATIVE PARLEMENTAIRE
+CHAPITRE IV DEPOT DES PROJETS DE LOI PRESENTES PAR LE GOUVERNEMENT ET DES PROPOSITIONS PROVENANT DE L'INITIATIVE PARLEMENTAIRE
 
 Article 20
 
@@ -272,9 +258,7 @@ Article 25
 
 Les propositions de loi adoptées par le Sénat sont renvoyées de plein droit, et sans délai, aux Commissions compétentes.
 
-CHAPITRE VI
-
-TRAVAUX DES COMMISSIONS
+CHAPITRE VI TRAVAUX DES COMMISSIONS
 
 Article 26
 
@@ -376,9 +360,7 @@ Les demandes de renvoi sont déposées entre les mains du Président, qui les co
 
 Toute Commission sasie d'un rapport émanant de la précédent législature peut décider qu'elle en accepte les conclusions sans amendement ; elle charge alors l'un de ses membres d'en soutenir la discussion devant la Chambre, et l'inscription à l'ordre du jour a lieu dans les formes ordinaires sans autre procédure. Si la Commission estime qu'il y a lieu à modifier un ou plusieurs articles, elle soumet à la Chambre un rapport se limitant aux articles amendés.
 
-CHAPITRE VII
-
-TENUE DES SEANCES
+CHAPITRE VII TENUE DES SEANCES
 
 Article 37
 
@@ -544,9 +526,7 @@ Article 55
 
 L'affichage des discours prononcés à la Chambre ne peut être ordonné.
 
-CHAPITRE VIII
-
-DE LA DISCIPLINE
+CHAPITRE VIII DE LA DISCIPLINE
 
 Article 56
 
@@ -648,9 +628,7 @@ En cas de résistance du Député, ou de tumulte dans la Chambre, le Président 
 
 Le Bureau informe le procureur général qu'un délit vient d'être commis dans le Palais de la Chambre des Députés.
 
-CHAPITRE IX
-
-MODES DE VOTATION
+CHAPITRE IX MODES DE VOTATION
 
 Article 68
 
@@ -752,9 +730,7 @@ Le résultat des délibérations de la Chambre est proclamé par le Président e
 
 La rectification d'un vote n'est admise que dans le mois qui suit ce vote.
 
-CHAPITRE X
-
-DISCUSSION DES PROJETS ET PROPOSITIONS DE LOI. - AMENDEMENTS.
+CHAPITRE X DISCUSSION DES PROJETS ET PROPOSITIONS DE LOI. - AMENDEMENTS.
 
 Article 82
 
@@ -884,9 +860,7 @@ L'ajournement est motivé en ces termes :
 
 « La Chambre, appelant de nouveau l'attention du Gouvernement sur telle ou telle clause du traité (relater en entier la ou les clauses sur lesquelles se fonde l'ajournement) surseoit à donner l'autorisation de ratifier. »
 
-CHAPITRE XI
-
-INSCRIPTION A L'ORDRE DU JOUR DES PROJETS ET PROPOSITIONS
+CHAPITRE XI INSCRIPTION A L'ORDRE DU JOUR DES PROJETS ET PROPOSITIONS
 
 Article 94
 
@@ -954,9 +928,7 @@ Article 99
 
 Si aucune demande régulière de retrait de l'ordre du jour n'est déposée, si aucun membre ne s'est inscrit, si aucune opposition verbale ou écrite n'a été formulée en séance publique ou si la procédure établie à l'article précédent a fonctionné, le Président met successivement aux voix sans débat les différents articles, puis l'ensemble du projet ou de la proposition de loi.
 
-CHAPITRE XII
-
-EXAMEN DU BUDGET
+CHAPITRE XII EXAMEN DU BUDGET
 
 Article 100
 
@@ -974,9 +946,7 @@ Article 103
 
 Les chapitres des différents budgets dont la modification n'est pas demandée soit par le Gouvernement, soit par la Commission des finances, soit par un amendement régulièrement déposé, ne peuvent être l'objet que d'un débat sommaire. Chaque orateur ne peut être entendu que pendant un dix minutes et ne peut parler qu'une fois, sauf exercice du droit de réponse aux Ministres ou aux Rapporteurs. La durée de cette réponse ne pourra, en aucun cas, excéder dix minutes.
 
-CHAPITRE XIII
-
-DES RAPPORTS DE LA CHAMBRE DES DEPUTES AVEC LE SENAT.
+CHAPITRE XIII DES RAPPORTS DE LA CHAMBRE DES DEPUTES AVEC LE SENAT.
 
 Article 104
 
@@ -1018,9 +988,7 @@ Article 110
 
 Lorsque les propositions de loi ou les projets votés par la Chambre des Députés ont été rejetés par le Sénat, ils ne peuvent être repris, avant le délai de trois mois, que sur l'initiative du Gouvernement.
 
-CHAPITRE XIV
-
-INTERPELLATIONS ET QUESTIONS
+CHAPITRE XIV INTERPELLATIONS ET QUESTIONS
 
 Article 111
 
@@ -1118,9 +1086,7 @@ Les questions sont inscrites à l'ordre du jour de la séance ou elles doivent �
 
 La question ne peut être transformée séance tenante en interpellation.
 
-CHAPITRE XV
-
-DES PETITIONS
+CHAPITRE XV DES PETITIONS
 
 Article 121
 
@@ -1170,9 +1136,7 @@ Article 127
 
 Dans un délai de six mois, les Ministres feront connaître, par une mention portée au euilleton distribué aux membres de la Chambre, la suite qu'ils ont donnée aux pétitions qui leur ont été respectivement renvoyées.
 
-CHAPITRE XVI
-
-DES CONGES
+CHAPITRE XVI DES CONGES
 
 Article 128
 
@@ -1188,9 +1152,7 @@ Les demandes de congé sont renvoyées à l'examen du Bureau de la Chambre.
 
 En soummettant les demandes de congé à la Chambre, le Président fait connaître l'avis du Bureau sur chacune d'elles.
 
-CHAPITRE XVII
-
-ORGANISATION DES SERVICES DE LA CHAMBRE
+CHAPITRE XVII ORGANISATION DES SERVICES DE LA CHAMBRE
 
 Article 130
 
@@ -1228,9 +1190,7 @@ Pour qu'ils soient valablement payables par le trésorier de la Chambre, les man
 
 Les membres du Bureau ne peuvent faire partie de la Commission de comptabilité.
 
-CHAPITRE XVIII
-
-DE LA POLICE INTERIEURE ET EXTERIEURE DE LA CHAMBRE. - DES DROITS DU PRESIDENT.
+CHAPITRE XVIII DE LA POLICE INTERIEURE ET EXTERIEURE DE LA CHAMBRE. - DES DROITS DU PRESIDENT.
 
 Article 134
 

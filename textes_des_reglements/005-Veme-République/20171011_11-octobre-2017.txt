@@ -2,9 +2,7 @@ TITRE PREMIER
 
 Organisation et fonctionnement de l'Assemblée.
 
-CHAPITRE PREMIER
-
-BUREAU D'AGE
+CHAPITRE PREMIER BUREAU D'AGE
 
 Article 1
 
@@ -14,11 +12,7 @@ Les six plus jeunes députés présents remplissent les fonctions de secrétaire
 
 Aucun débat ne peut avoir lieu sous la présidence du doyen d'âge.
 
-CHAPITRE II
-
-ADMISSION DES DEPUTES
-
-INVALIDATIONS. - VACANCES
+CHAPITRE II ADMISSION DES DEPUTES INVALIDATIONS. - VACANCES
 
 Article 2
 
@@ -62,11 +56,7 @@ Le Président informe l'Assemblée, dans la plus prochaine séance, de la repris
 
 Lorsque l'Assemblée ne tient pas séance, le Président prend acte des communications faites au titre du présent article dans les conditions prévues à l'article 4, alinéa 3.
 
-CHAPITRE III
-
-BUREAU DE L'ASSEMBLÉE : 
-
-COMPOSITION, MODE D'ÉLECTION
+CHAPITRE III BUREAU DE L'ASSEMBLÉE : COMPOSITION, MODE D'ÉLECTION
 
 Article 8
 
@@ -138,9 +128,7 @@ Article 12
 
 Après l'élection du Bureau, le Président de l'Assemblée en notifie la composition au Président de la République, au Premier Ministre et au Président du Sénat.
 
-CHAPITRE IV
-
-PRESIDENCE ET BUREAU DE L'ASSEMBLÉE : POUVOIRS
+CHAPITRE IV PRESIDENCE ET BUREAU DE L'ASSEMBLÉE : POUVOIRS
 
 Article 13
 
@@ -186,9 +174,7 @@ Les services de l'Assemblée nationale sont assurés exclusivement par un person
 
 Les députés peuvent employer sous contrat de droit privé des collaborateurs parlementaires, qui les assistent dans l'exercice de leurs fonctions et dont ils sont les seuls employeurs. Ils bénéficient à cet effet d'un crédit affecté à la rémunération de leurs collaborateurs.
 
-CHAPITRE V
-
-GROUPES
+CHAPITRE V GROUPES
 
 Article 19
 
@@ -224,9 +210,7 @@ Est interdite la constitution, au sein de l'Assemblée nationale, dans les forme
 
 Est également interdite la réunion dans l'enceinte du Palais de groupements permanents, quelle que soit leur dénomination, tendant à la défense des mêmes intérêts.
 
-CHAPITRE VI
-
-NOMINATIONS PERSONNELLES MODALITÉS GÉNÉRALES
+CHAPITRE VI NOMINATIONS PERSONNELLES MODALITÉS GÉNÉRALES
 
 Article 24
 
@@ -268,9 +252,7 @@ Article 28
 
 Les nominations effectuées sur le fondement des dispositions du présent chapitre ont lieu en s'efforçant de reproduire la configuration politique de l'Assemblée.
 
-CHAPITRE VII
-
-AVI S DES COMMISSIONS PERMANENTES SUR CERTAINES NOMINATIONS
+CHAPITRE VII AVI S DES COMMISSIONS PERMANENTES SUR CERTAINES NOMINATIONS
 
 Article 29
 
@@ -338,9 +320,7 @@ Article 35
 
 Chaque commission spéciale demeure compétente jusqu'à ce que le projet ou la proposition ayant provoqué sa création ait fait l'objet d'une décision définitive.
 
-CHAPITRE IX
-
-COMMISSIONS PERMANENTES: COMPOSITION ET MODE D'ÉLECTION
+CHAPITRE IX COMMISSIONS PERMANENTES: COMPOSITION ET MODE D'ÉLECTION
 
 Article 36
 
@@ -400,9 +380,7 @@ Le député qui cesse d'appArticle nir au groupe dont il faisait partie lors de 
 
 Le remplacement des sièges attribués aux groupes dans les Commissions permanentes et devenus vacants a lieu dans les conditions prévues à l'article 34 (alinéa 5).
 
-CHAPITRE X
-
-TRAVAUX DES COMMISSIONS
+CHAPITRE X TRAVAUX DES COMMISSIONS
 
 Article 39
 
@@ -478,9 +456,7 @@ A l'issue de chaque réunion de Commission, un compte rendu est publié, faisant
 
 Sur décision du bureau de la commission, un compte rendu audiovisuel est produit et diffusé.
 
-CHAPITRE XI
-
-CONFERENCE DES PRESIDENTS. - ORDRE DU JOUR DE L'ASSEMBLÉE. - ORGANISATIONS DES DEBATS
+CHAPITRE XI CONFERENCE DES PRESIDENTS. - ORDRE DU JOUR DE L'ASSEMBLÉE. - ORGANISATIONS DES DEBATS
 
 Article 47
 
@@ -564,9 +540,7 @@ La décision du Premier ministre de tenir des jours de séance supplémentaires,
 
 Lorsque la demande émane des membres de l'Assemblée, elle est constituée par un document remis au Président de l'Assemblée comportant la liste des signatures de la moitié plus un de ses membres. S'il constate que cette condition est remplie, le Président convoque l'Assemblée.
 
-CHAPITRE XII
-
-TENUE DES SÉANCES PLÉNIÈRES
+CHAPITRE XII TENUE DES SÉANCES PLÉNIÈRES
 
 Article 50
 
@@ -674,9 +648,7 @@ Le Président constate la clôture de la session ordinaire à la fin de la derni
 
 Après la lecture du décret de clôture d'une session extraordinaire intervenue dans les conditions prévues aux articles 29, alinéa 2 et 30 de la Constitution, le Président ne peut donner la parole à aucun orateur et lève sur-le-champ la séance.
 
-CHAPITRE XIII
-
-MODES DE VOTATION
+CHAPITRE XIII MODES DE VOTATION
 
 Article 61
 
@@ -776,9 +748,7 @@ Dans ce dernier cas, le Président en indique en séance l'heure d'ouverture et 
 
 Sauf décision contraire de la Conférence des Présidents, la durée de tous les scrutins prévus au présent article est fixée à une heure.
 
-CHAPITRE XIV
-
-DISCIPLINE, IMMUNITE ET DEONTOLOGIE
+CHAPITRE XIV DISCIPLINE, IMMUNITE ET DEONTOLOGIE
 
 Article 70
 
@@ -920,17 +890,9 @@ Article 80-5
 
 Il est tenu un registre public des représentants d’intérêts sous l’autorité du Bureau. Le déontologue est habilité à faire toute remarque sur les informations contenues dans ce registre.
 
-TITRE II
+TITRE II Procédure législative. PREMIÈRE PARTIE : PROCÉDURE LÉGISLATIVE ORDINAIRE
 
-Procédure législative.
-
-PREMIÈRE PARTIE :
-
-PROCÉDURE LÉGISLATIVE ORDINAIRE
-
-CHAPITRE PREMIER
-
-DÉPÔT DES PROJETS ET PROPOSITIONS
+CHAPITRE PREMIER DÉPÔT DES PROJETS ET PROPOSITIONS
 
 Article 81
 
@@ -968,9 +930,7 @@ Le Président de l'Assemblée saisit la commission permanente compétente, ou la
 
 Dans le cas où une Commission permanente se déclare incompétente ou en cas de conflit de compétence entre deux ou plusieurs de ces Commissions, le Président, après un débat où sont seuls entendus le Gouvernement ou l'auteur de la proposition et les présidents des Commissions intéressées, propose par priorité à l'Assemblée le création d'une commission spéciale. Si cette proposition est rejettée, le Président soumet à l'Assemblée le question de compétence.
 
-CHAPITRE II
-
-TRAVAUX LÉGISLATIFS DES COMMISSIONS
+CHAPITRE II TRAVAUX LÉGISLATIFS DES COMMISSIONS
 
 Article 86
 
@@ -1014,9 +974,7 @@ Postérieurement à la réunion tenue en application de l'article 86, la commiss
 
 La commission délibère au fond sur les amendements déposés avant l'expiration du délai prévu à l'article 99 et les repousse ou les accepte sans les incorporer à ses propositions, ni présenter de rapport supplémentaire.
 
-CHAPITRE III
-
-RECEVABILITE FINANCIERE
+CHAPITRE III RECEVABILITE FINANCIERE
 
 Article 89
 
@@ -1032,9 +990,7 @@ Sont opposables, dans les mêmes conditions, les dispositions des lois organique
 
 En cas d’irrecevabilité d’une proposition de loi ou d’un amendement, le député qui en est l’auteur peut demander une explication écrite de cette irrecevabilité.
 
-CHAPITRE IV
-
-DISCUSSION DES PROJETS ET PROPOSITIONS EN PREMIÈRE LECTURE
+CHAPITRE IV DISCUSSION DES PROJETS ET PROPOSITIONS EN PREMIÈRE LECTURE
 
 Article 90
 
@@ -1166,9 +1122,7 @@ Lorsque le Président de l'Assemblée est informé d'une opposition émanant de 
 
 En cas d'opposition conjointe des Conférences des présidents des deux assemblées avant la clôture de la discussion générale, la procédure accélérée n'est pas engagée.
 
-CHAPITRE V
-
-PROCEDURE D'EXAMEN SIMPLIFIE
+CHAPITRE V PROCEDURE D'EXAMEN SIMPLIFIE
 
 Article 103
 
@@ -1206,9 +1160,7 @@ Lorsqu'un texte soumis à la procédure d'examen simplifiée fait l'objet d'amen
 
 Sous réserve des dispositions de l'article 44, alinéa 3, de la Constitution, le Président ne met aux voix que les amendements, les articles auxquels ils se rapportent et l'ensemble du texte. Lorsqu'un texte soumis à la procédure d'examen simplifiée ne fait l'objet d'aucun amendement, le Président met directement au voix l'ensemble du texte, sauf décision contraire de la Conférence des présidents.
 
-CHAPITRE VI
-
-RAPPORTS DE L'ASSEMBLÉE NATIONALE AVEC LE SÉNAT
+CHAPITRE VI RAPPORTS DE L'ASSEMBLÉE NATIONALE AVEC LE SÉNAT
 
 Article 108
 
@@ -1286,9 +1238,7 @@ Toute proposition de loi votée par l'Assemblée Nationale et non devenue défin
 
 Lorsque l'Assemblée Nationale adopte sans modification un projet ou une proposition de loi votés par le Sénat, le Président de l'Assemblée Nationale en transmet le texte définitif au Président de la République, aux fins de promulgation, par l'intermédiaire du Secrétariat général du Gouvernement. Le Président du Sénat est avisé de cette transmission.
 
-CHAPITRE VII
-
-NOUVELLE DÉLIBÉRATION DE LA LOI DEMANDÉE PAR LE PRÉSIDENT DE LA RÉPUBLIQUE
+CHAPITRE VII NOUVELLE DÉLIBÉRATION DE LA LOI DEMANDÉE PAR LE PRÉSIDENT DE LA RÉPUBLIQUE
 
 Article 116
 
@@ -1298,13 +1248,9 @@ Il la consulte pour savoir si elle désire renvoyer le texte de la loi devant un
 
 La Commission compétente doit statuer dans le délai imparti par l'Assemblée, qui ne peut, en aucun cas, excéder quinze jours. L'inscription de l'affaire à l'ordre du jour de l'Assemblée a lieu conformément à l'article 48.
 
-DEUXIEME PARTIE
+DEUXIEME PARTIE PROCEDURE LEGISLATIVE APPLICABLE AUX REVISIONS CONSTITUTIONNELLES, AUX PROJETS DE LOI DE FINANCES ET AUX PROJETS DE LOI DE FINANCEMENT DE LA SECURITE SOCIALE
 
-PROCEDURE LEGISLATIVE APPLICABLE AUX REVISIONS CONSTITUTIONNELLES, AUX PROJETS DE LOI DE FINANCES ET AUX PROJETS DE LOI DE FINANCEMENT DE LA SECURITE SOCIALE
-
-CHAPITRE VIII
-
-DISPOSITIONS COMMUNES AUX PROJETS DE LOI DE FINANCES ET AUX PROJETS DE LOI DE FINANCEMENT DE LA SECURITE SOCIALE
+CHAPITRE VIII DISPOSITIONS COMMUNES AUX PROJETS DE LOI DE FINANCES ET AUX PROJETS DE LOI DE FINANCEMENT DE LA SECURITE SOCIALE
 
 Article 117
 
@@ -1332,9 +1278,7 @@ Article 117-3
 
 Les projets de révision constitutionnelle, les projets de loi de finances et les projets de loi de financement de la sécurité sociale ne peuvent faire l'objet de la procédure d'examen simplifiée prévue au chapitre V de la première partie du présent titre.
 
-CHAPITRE IX
-
-DISCUSSION DES REVISIONS DE LA CONSTITUTION
+CHAPITRE IX DISCUSSION DES REVISIONS DE LA CONSTITUTION
 
 Article 118
 
@@ -1342,9 +1286,7 @@ Les révisions constitutionnelles sont examinées, discutées et votées selon l
 
 Lorsque l'Assemblée a adopté en des termes identiques le texte d'une révision constitutionnelle votée par le Sénat, ce texte est transmis au Président de la République.
 
-CHAPITRE X
-
-DISCUSSION DES LOIS DE FINANCES
+CHAPITRE X DISCUSSION DES LOIS DE FINANCES
 
 Article 119
 
@@ -1370,9 +1312,7 @@ Article 121
 
 Les amendements contraires aux dispositions de la loi organique relative aux lois de finances, sont déclarés irrecevables dans les conditions prévues au chapitre III de la première partie du présent titre.
 
-CHAPITRE IX BIS
-
-DISCUSSION DES LOIS DE FINANCEMENT DE LA SECURITE SOCIALE
+CHAPITRE IX BIS DISCUSSION DES LOIS DE FINANCEMENT DE LA SECURITE SOCIALE
 
 Article 121-1
 
@@ -1390,13 +1330,9 @@ Si, conformément à l'article 101, il est procédé avant le commencement des e
 
 Dans le cas d’un projet de loi de financement rectificative de la sécurité sociale, la seconde délibération mentionnée aux alinéas 1 et 2 peut également porter sur l’article liminaire.
 
-TROISIEME PARTIE
+TROISIEME PARTIE DISPOSITIONS SPECIALES
 
-DISPOSITIONS SPECIALES
-
-CHAPITRE XII
-
-PROPOSITIONS DE REFERENDUM
+CHAPITRE XII PROPOSITIONS DE REFERENDUM
 
 Article 122
 
@@ -1430,9 +1366,7 @@ Article 124
 
 Lorsque le Président de la République, sur proposition du Gouvernement, décide de soumettre au référendum un projet de loi dont l'Assemblée nationale est saisie, la discussion du texte est immédiatement interrompue.
 
-CHAPITRE XII bis
-
-PROPOSITIONS DE LOI PRESENTEES EN APPLICATION DE L'ARTICLE 11 DE LA CONSTITUTION
+CHAPITRE XII bis PROPOSITIONS DE LOI PRESENTEES EN APPLICATION DE L'ARTICLE 11 DE LA CONSTITUTION
 
 Article 124-1
 
@@ -1454,9 +1388,7 @@ Article 124-5
 
 En cas de rejet par l’Assemblée nationale, en première lecture, d’une proposition de loi mentionnée à l’article 124-2, le Président en avise le Président du Sénat et lui transmet le texte initial de la proposition de loi.
 
-CHAPITRE XIII
-
-PROCEDURES RELATIVES A LA CONSULTATION DES ELECTEURS D'UNE COLLECTIVITE TERRITORIALE SITUEE OUTRE-MER
+CHAPITRE XIII PROCEDURES RELATIVES A LA CONSULTATION DES ELECTEURS D'UNE COLLECTIVITE TERRITORIALE SITUEE OUTRE-MER
 
 Article 125
 
@@ -1468,9 +1400,7 @@ Lorsque l'Assemblée adopte sans modification une motion transmise par le Sénat
 
 Lorsque le Gouvernement fait devant l'Assemblée une déclaration sur le fondement des articles 72-4 ou 73 de la Constitution, préalablement à l'organisation outre-mer, sur sa proposition, d'une consultation portant sur un changement prévu à l'article 72-4, alinéa 1, ou à l'article 73, alinéa 7, de la Constitution, la Conférence des présidents organise le débat dans les conditions prévues à l'article 132, alinéas 2 à 4, du présent Règlement. Aucun vote, de quelque nature qu'il soit, ne peut avoir lieu.
 
-CHAPITRE XIV
-
-MOTIONS RELATIVES AUX TRAITES D'ADHESION A L'UNION EUROPEENNE
+CHAPITRE XIV MOTIONS RELATIVES AUX TRAITES D'ADHESION A L'UNION EUROPEENNE
 
 Article 126
 
@@ -1492,9 +1422,7 @@ En cas de rejet de la motion transmise par le Sénat ou d'adoption à une majori
 
 Les délais mentionnés au présent article sont suspendus entre les sessions ordinaires ou lorsque l'inscription de la discussion de la motion à l'ordre du jour a été empêchée par la mise en œuvre des priorités prévues à l'article 48, alinéas 2 et 3, de la Constitution.
 
-CHAPITRE XV
-
-PROCEDURE DE DISCUSSION DES LOIS ORGANIQUES
+CHAPITRE XV PROCEDURE DE DISCUSSION DES LOIS ORGANIQUES
 
 Article 127
 
@@ -1522,9 +1450,7 @@ La saisine du Conseil constitutionnel intervenue au cours de la procédure légi
 
 La discussion ne peut être commencée ou reprise hors des formes prévues pour une révision de la Constitution qu'après publication au Journal officiel de la déclaration du Conseil constitutionnel portant que l'engagement ne contient aucune clause contraire à la Constitution.
 
-CHAPITRE XV
-
-DECLARATION DE GUERRE ET ETAT DE SIEGE
+CHAPITRE XV DECLARATION DE GUERRE ET ETAT DE SIEGE
 
 Article 131
 
@@ -1542,9 +1468,7 @@ PREMIERE PARTIE
 
 INFORMATION, EVALUATION ET CONTROLE
 
-CHAPITRE PREMIER
-
-DECLARATIONS DU GOUVERNEMENT
+CHAPITRE PREMIER DECLARATIONS DU GOUVERNEMENT
 
 Article 132
 
@@ -1562,9 +1486,7 @@ Le Président met aux voix la déclaration du Gouvernement. Le scrutin a lieu co
 
 Le Gouvernement peut également demander à faire devant l'Assemblée une déclaration sans débat. Dans ce cas, après la déclaration du Gouvernement, le Président peut autoriser un seul orateur par groupe à lui répondre. Aucun vote, de quelque nature qu'il soit, ne peut avoir lieu.
 
-CHAPITRE II
-
-QUESTIONS
+CHAPITRE II QUESTIONS
 
 Article 133
 
@@ -1600,9 +1522,7 @@ Les réponses des ministres doivent être publiées dans les deux mois suivant l
 
 Au terme du délai mentionné à l'alinéa 6, les présidents des groupes ont la faculté de signaler certaines des questions restées sans réponse. Le signalement est mentionné au Journal officiel. Les ministres sont alors tenus de répondre dans un délai de dix jours.
 
-CHAPITRE III
-
-RESOLUTIONS AU TITRE DE L'ARTICLE 34-1 DE LA CONSTITUTION
+CHAPITRE III RESOLUTIONS AU TITRE DE L'ARTICLE 34-1 DE LA CONSTITUTION
 
 Article 136
 
@@ -1626,9 +1546,7 @@ Les propositions de résolution ne peuvent faire l'objet d'aucun amendement.
 
 Les résolutions adoptées par l'Assemblée sont transmises au Gouvernement. Elles sont publiées au Journal officiel.
 
-CHAPITRE IV
-
-COMMISSIONS D'ENQUÊTES
+CHAPITRE IV COMMISSIONS D'ENQUÊTES
 
 Article 137
 
@@ -1640,9 +1558,7 @@ Est irrecevable toute proposition de résolution tendant à la création d'une c
 
 L'irrecevabilité est déclarée par le Président de l'Assemblée. En cas de doute le président statue après avis du Bureau de l'Assemblée.
 
-CHAPITRE III
-
-QUESTIONS ÉCRITES
+CHAPITRE III QUESTIONS ÉCRITES
 
 Article 139
 
@@ -1652,9 +1568,7 @@ Si le garde des sceaux fait connaître que des poursuites judiciaires sont en co
 
 Lorsqu'une information judiciaire est ouverte après la création de la commission, le Président de l'Assemblée, saisi par le garde des sceaux en informe le président de la commission. Celle-ci met immédiatement fin à ses travaux.
 
-CHAPITRE IV
-
-COMMISSIONS D'ENQUÊTE
+CHAPITRE IV COMMISSIONS D'ENQUÊTE
 
 Article 140
 
@@ -1698,9 +1612,7 @@ Le rapport adopté par une commission d'enquête est remis au Président de l'As
 
 La demande de constitution de l'Assemblée en comité secret à l'effet de décider, par un vote spécial, de ne pas autoriser la publication de tout ou partie du rapport, doit être présentée dans un délai de cinq jours francs à compter de la publication du dépôt au Journal officiel.
 
-CHAPITRE V
-
-ROLE D'INFORMATION DES COMMISSIONS PERMANENTES
+CHAPITRE V ROLE D'INFORMATION DES COMMISSIONS PERMANENTES
 
 Article 145
 
@@ -1768,9 +1680,7 @@ Article 145-8
 
 Un rapport sur la mise en œuvre des conclusions d'une commission d'enquête ou d'une mission d'information peut donner lieu, en séance publique, à un débat sans vote ou à une séance de questions.
 
-CHAPITRE VI
-
-CONTROLE BUDGÉTAIRE
+CHAPITRE VI CONTROLE BUDGÉTAIRE
 
 Article 146
 
@@ -1788,9 +1698,7 @@ Le rapport annuel de la Cour des comptes est présenté par le 1 président de l
 
 Un débat organisé par la Conférence des présidents peut suivre la présentation du rapport annuel de la Cour des comptes.
 
-CHAPITRE VII
-
-COMITE D'EVALUATION ET DE CONTRÔLE DES POLITIQUES PUBLIQUES
+CHAPITRE VII COMITE D'EVALUATION ET DE CONTRÔLE DES POLITIQUES PUBLIQUES
 
 Article 146-2
 
@@ -1844,9 +1752,7 @@ Article 146-7
 
 Le comité d'évaluation et de contrôle des politiques publiques peut faire des propositions à la Conférence des présidents concernant l'ordre du jour de la semaine prévue par l'article 48, alinéa 4, de la Constitution. Il peut, en particulier, proposer l'organisation, en séance publique, de débats sans vote ou de séances de questions portant sur les conclusions de ses rapports ou sur celles des rapports des missions d'information créées en application du chapitre V de la présente partie ou des rapports d'information prévus par l'article 146, alinéa 3.
 
-CHAPITRE VII
-
-PÉTITIONS
+CHAPITRE VII PÉTITIONS
 
 Article 147
 
@@ -1896,9 +1802,7 @@ Le Gouvernement a la parole quand il la demande.
 
 Après l'audition du dernier orateur, le Présidait passe à la suite de l'ordre du jour.
 
-CHAPITRE IX
-
-AFFAIRES EUROPÉENNES
+CHAPITRE IX AFFAIRES EUROPÉENNES
 
 Article 151-1
 
@@ -2000,9 +1904,7 @@ En cas de rejet de la moi ion transmise par le Sénat, le Président de l'Assemb
 
 Le délai mentionné à l'alinéa 4 est suspendu entre les sessions ordinaires ou lorsque l'inscription de la discussion de la motion à l'ordre du jour a clé empêchée par la mise en oeuvre des priorités prévues à l'article 48, alinéas 2 et 3, de la Constitution.
 
-CHAPITRE X
-
-DEBAT SUR LE PROGRAMME OU SUR UNE DECLARATION DE POLITIQUE GENERALE DU GOUVERNEMENT
+CHAPITRE X DEBAT SUR LE PROGRAMME OU SUR UNE DECLARATION DE POLITIQUE GENERALE DU GOUVERNEMENT
 
 Article 152
 
@@ -2058,21 +1960,15 @@ Le député qui désire interpeller le Gouvernement en informe le Président de 
 
 La notification, l'affichage, l'inscription à l'ordre du jour, la discussion et le vote sur la motion de censure ont lieu dans les conditions prévues aux articles 15o et i5i. Dans la discussion l'auteur de l'interpellation a la parole par priorité.
 
-TROISIEME PARTIE
+TROISIEME PARTIE HAUTE COUR DE JUSTICE DE LA REPUBLIQUE
 
-HAUTE COUR DE JUSTICE DE LA REPUBLIQUE
-
-CHAPITRE XII
-
-HAUTE COUR
+CHAPITRE XII HAUTE COUR
 
 Article 157
 
 Le Parlement constitué en Haute Cour prononce la déstitution du Président de la République dans les conditions prévues à l'article 68 de la Constitution et la loi organique à laquelle il fait référence.
 
-CHAPITRE XIII
-
-COUR DE JUSTICE DE LA REPUBLIQUE
+CHAPITRE XIII COUR DE JUSTICE DE LA REPUBLIQUE
 
 Article 158
 
@@ -2092,9 +1988,7 @@ Article 159
 
 Le Bureau de l'Assemblée Nationale prononce d'office l'irrecevabilité des propositions de résolution contraires aux dispositions de l'article précèdent ou de l'article 18 de l'ordonnance n° 59-1 du 2 janvier 1959 portant loi organique sur la Haute Cour de justice.
 
-TITRE IV
-
-DISPOSITIONS DIVERSES
+TITRE IV DISPOSITIONS DIVERSES
 
 Article 160
 

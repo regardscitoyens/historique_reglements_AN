@@ -8,9 +8,7 @@ L'Assemblée élue pour la première fois le 10 novembre 1946 se dénomme Assemb
 
 Ses membres portent le titre de Députés à l'Assemblée Nationale.
 
-CHAPITRE II
-
-BUREAU D'AGE
+CHAPITRE II BUREAU D'AGE
 
 Article 2
 
@@ -20,13 +18,7 @@ Les six plus jeunes Députés présents remplissent les fonctions de Secrétaire
 
 Aucun débat ne peut avoir lieu sous la présidence du doyen d'âge.
 
-CHAPITRE III
-
-BUREAUX
-
-V2RIFICATION DES POUVOIRS
-
-DEMISSIONS
+CHAPITRE III BUREAUX V2RIFICATION DES POUVOIRS DEMISSIONS
 
 Article 3
 
@@ -92,9 +84,7 @@ En dehors des démissions d'office édictées par les lois sur les incompatibili
 
 La démission acceptée par l'Assemblée est immédiatement notifiée au Ministre intéressé.
 
-CHAPITRE IV
-
-BUREAU DEFINITIF
+CHAPITRE IV BUREAU DEFINITIF
 
 Article 9
 
@@ -140,9 +130,7 @@ Article 11
 
 Après l'élection du Bureau définitif, le Président de l'Assemblée fait connaître au Président de la République et au Conseil de la République que l'Assemblée Nationale est constituée.
 
-CHAPITRE V
-
-GROUPES
+CHAPITRE V GROUPES
 
 Article 12
 
@@ -160,9 +148,7 @@ Article 13
 
 Est interdite la constitution, au sein de l'Assemblée, de groupes dits « de défense d'intérêts particuliers, locaux ou professionnels ».
 
-CHAPITRE VI
-
-COMMISSIONS
+CHAPITRE VI COMMISSIONS
 
 Article 14
 
@@ -308,9 +294,7 @@ Lorsqu'une ou plusieurs candidatures concurrentes se produisent, ou si la demand
 
 Dans tous les cas ou la représentation de l'Assemblée n'est pas prévue par une disposition légale, le Président de l'Assemblée transmet les demandes de désignation à la commission compétente qui fait pArticle de ses désignations au Gouvernement, par l'entremise du Président de l'Assemblée.
 
-CHAPITRE VII
-
-DÉPÔT DES PROJETS ET DES PROPOSITIONS
+CHAPITRE VII DÉPÔT DES PROJETS ET DES PROPOSITIONS
 
 Article 20
 
@@ -348,9 +332,7 @@ Article 23
 
 Les propositions repoussées par l'Assemblée ne peuvent être reproduites avant le délai de trois mois.
 
-CHAPITRE VIII
-
-TRAVAUX DES COMMISSIONS
+CHAPITRE VIII TRAVAUX DES COMMISSIONS
 
 Article 24
 
@@ -448,11 +430,7 @@ Toute Commission, saisie d'un rapport émanant de la précédente législature, 
 
 Les dispositions du présent article sont applicables aux rapports déposés par les Commissions de l'Assemblée Nationale Constituante élue le 2 juin 1946.
 
-CHAPITRE IX
-
-INSCRIPTION A L'ORDRE DU JOUR DE L'ASSEMBLEE
-
-ORGANISATION DES DEBATS
+CHAPITRE IX INSCRIPTION A L'ORDRE DU JOUR DE L'ASSEMBLEE ORGANISATION DES DEBATS
 
 Article 34
 
@@ -512,9 +490,7 @@ Si l'organisation de la discussion est décidée, la conférence des présidents
 
 Aucune inscription de parole n'est reçue en cours de débat ; les interventions nouvelles ne peuvent se produire qu'en fin de débat, lors des explications de vote.
 
-CHAPITRE X
-
-TENUE DES SEANCES
+CHAPITRE X TENUE DES SEANCES
 
 Article 40
 
@@ -656,9 +632,7 @@ Article 54
 
 Il est établi, pour chaque séance publique, un compte rendu analytique officiel et un compte rendu in extenso, lequel est publié au Journal officiel.
 
-CHAPITRE XI
-
-DISCUSSION DES PROJETS ET DES PROPOSITIONS
+CHAPITRE XI DISCUSSION DES PROJETS ET DES PROPOSITIONS
 
 Article 55
 
@@ -666,9 +640,7 @@ Sauf le cas de discussion d'urgence prévu à la section C du présent chapitre,
 
 Lorsque la discussion a commencé, la suite du débat est inscrite, de droit, en tête de l'ordre dn jour de la séance suivante, sauf demande contraire de la Commission.
 
-SECTION A.
-
-Révision des textes constitutionnels
+SECTION A. Révision des textes constitutionnels
 
 Article 56
 
@@ -680,9 +652,7 @@ Elle est soumise, dans le délai minimum de trois mois, à une deuxiéme lecture
 
 Après cette seconde lecture, l'Assemblée Nationale élabore, sur le rapport de la Commission précédemment saisie de la proposition revisionnelle, un projet de loi portant revision de la Constitution. Ce projet est discuté et voté par l'Assemblée Nationale à la majorité et dans les formes prévues pour la loi ordinaire.
 
-Section B.
-
-Discussion des textes législatifs.
+Section B. Discussion des textes législatifs.
 
 Article 57
 
@@ -730,9 +700,7 @@ Article 60
 
 Après le vote d'une loi et si un Député en fait la proposition, l'Assemblée est consultée par le Président sur le point de savoir si la loi votée sera promulguée d'urgence dans les cinq jours, conformément à l'article 36 de la Constitution.
 
-Section C.
-
-Discussion d'urgence.
+Section C. Discussion d'urgence.
 
 Article 61
 
@@ -852,9 +820,7 @@ Article 67
 
 Les dispositions de l'article 58 concernant la deuxième délibération et le renvoi à la Commission, pour révision et coordination, sont applicables aux textes adoptés avec la procédure de discussion d'urgence.
 
-Section D.
-
-Discussion du budget.
+Section D. Discussion du budget.
 
 Article 68
 
@@ -866,9 +832,7 @@ Les chapitres des différents budgets dont la modification n'est pas demandée, 
 
 Avant l'examen de chaque budget particulier, le Rapporteur spécial de la Commission des finances peut être convoqué devant la Commission dont la compétence correspond à ce budget, afin d'y présenter un exposé oral de ses dispositions. Il doit mentionner dans son rapport les observations présentées par les membres de cette dernière Commission.
 
-Section E.
-
-Ratification des traités.
+Section E. Ratification des traités.
 
 Article 69
 
@@ -884,9 +848,7 @@ L'ajournement doit être motivé en ces termes :
 
 La Commission présente son rapport sur les clauses renvoyées à son examen après la clôture de la discussion sur les articles non contestés.
 
-CHAPITRE XII
-
-AMENDEMENTS
+CHAPITRE XII AMENDEMENTS
 
 Article 70
 
@@ -922,9 +884,7 @@ Article 73
 
 Avant l'examen des contre-projets ou de l'article 1, le Gouvernement peut demander la prise en considération de son texte initial régulièrement déposé sur le Bureau de l'Assemblée ; il peut, en cours de discussion, faire la même proposition pour un ou plusieurs articles ou chapitres. Cette demande a la priorité sur les autres contre-projets et amendements.
 
-CHAPITRE XIII
-
-MODES DE VOTATION
+CHAPITRE XIII MODES DE VOTATION
 
 Article 74
 
@@ -1036,9 +996,7 @@ Le résultat des délibérations de l'Assemblée est proclamé par le Président
 
 Les Députés peuvent rectifier leur vote, par écrit, durant les huit jours qui suivent ce vote. Toutefois, ils ne peuvent, pour quelque motif et sous quelque forme que ce soit, rectifier leur vote dans les scrutins publics ayant eu lieu à la tribune ou dans les salles voisines. En aucun cas, les rectifications ne peuvent modifier le résultat proclamé en séance.
 
-CHAPITRE XIV
-
-DES RAPPORTS DE L'ASSEMBLÉE NATIONALE AVEC LE CONSEIL DE LA RÉPUBLIQUE ET AVEC LE GOUVERNEMENT.
+CHAPITRE XIV DES RAPPORTS DE L'ASSEMBLÉE NATIONALE AVEC LE CONSEIL DE LA RÉPUBLIQUE ET AVEC LE GOUVERNEMENT.
 
 Article 86
 
@@ -1064,9 +1022,7 @@ Article 88
 
 Les communications de l'Assemblée Nationale au Gouvernement sont faites par le Président de l'Assemblée au Président du Conseil des Ministres.
 
-CHAPITRE XV
-
-INTERPELLATIONS
+CHAPITRE XV INTERPELLATIONS
 
 Article 89
 
@@ -1124,9 +1080,7 @@ La priorité est ensuite de droit pour les demandes de Commission d'enquête.
 
 Le Président soumet les ordres du jour au vote de l'Assemblée, qui statue, s'il y a lieu, sur les questions de priorité.
 
-CHAPITRE XVI
-
-QUESTIONS ORALES OU ÉCRITES
+CHAPITRE XVI QUESTIONS ORALES OU ÉCRITES
 
 Article 94
 
@@ -1178,9 +1132,7 @@ Dans tous les cas susvisés, le rappel reproduit le texte de la question il est 
 
 Un recueil des questions écrites res pectivement suivies des réponses qui leur ont été données, est établi, chaque semestre, dans un classement méthodique par matières, et distribué aux membres de l'Assemblée.
 
-CHAPITRE XVII
-
-PÉTITIONS
+CHAPITRE XVII PÉTITIONS
 
 Article 98
 
@@ -1214,9 +1166,7 @@ Dans le mois de cette publication, les Ministres doivent faire connaître la sui
 
 Leurs réponses sont insérées au Feuilleton des Pétitions et publiées au Journal officiel.
 
-CHAPITRE XVIII
-
-POLICE INTÉRIEURE ET EXTÉRIEURE DE L'ASSEMBLÉE
+CHAPITRE XVIII POLICE INTÉRIEURE ET EXTÉRIEURE DE L'ASSEMBLÉE
 
 Article 101
 
@@ -1240,9 +1190,7 @@ Article 103
 
 Les députations de l'Assemblée sont désignées par la voie du sort ; le nombre des membres qui les composent est déterminé par l'Assemblée.
 
-CHAPITRE XIX
-
-DISCIPLINE
+CHAPITRE XIX DISCIPLINE
 
 Article 104
 
@@ -1314,9 +1262,7 @@ En cas de résistance du Député ou de tumulte dans l'Assemblée, le Président
 
 Le Bureau informe sur-le-champ, le Procureur Général qu'un délit vient d1être commis dans le Palais de l'Assemblée.
 
-CHAPITRE XX
-
-SERVICES ET COMPTABILITÉ DE L'ASSEMBLÉE
+CHAPITRE XX SERVICES ET COMPTABILITÉ DE L'ASSEMBLÉE
 
 Article 111
 
@@ -1346,9 +1292,7 @@ A la fin de chaque exercice, la Commission rend compte à l'Assemblée de l'exé
 
 Le Bureau de l'Assemblée déterminera, par un règlement intérieur, les règles applicables à la comptabilité de l'Assemblée.
 
-CHAPITRE XXI
-
-DISPOSITIONS DIVERSES
+CHAPITRE XXI DISPOSITIONS DIVERSES
 
 Article 114
 
