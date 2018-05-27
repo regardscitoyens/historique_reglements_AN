@@ -30,3 +30,5 @@ find . -name '*odt' | while read odt ; do
 	bash bin/homogenize.sh "$txt"
 	rm $odt ; 
 done 
+
+bash bin/chapitres.sh
