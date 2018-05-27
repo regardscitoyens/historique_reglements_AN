@@ -938,7 +938,7 @@ Le Bureau de l'Assemblée déterminera, par un règlement intérieur, les règle
 
 Avant de clore ses travaux, la Commission rend compte à l'Assemblée de l'exécution du mandat qui lui a été confié.
 
-# CHAPITRE XXI Dispositions diverses.
+# CHAPITRE XXI Dispositions diverses
 
 ## Article 99
 
