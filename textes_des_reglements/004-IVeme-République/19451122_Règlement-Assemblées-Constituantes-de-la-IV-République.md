@@ -26,7 +26,7 @@ L'Assemblée vérifie la validité des pouvoire de ses membres et la régularit�
 
 A cet effet, les procès-verbaux d'élection sont, avec les pièces justificatives, renvoyés par le Président à l'examen de dix Bureaux tirés au sort en séance publique.
 
-Les Députés qui entrent en fonctions postérieurement à la formation des Bureaux auxquels appArticle naient leurs prédécesseurs, s'ils en ont, et, dans le cas contraire, sont affectés, par voie de tirage au sort, à l'un des Bureaux précédemment constitués.
+Les Députés qui entrent en fonctions postérieurement à la formation des Bureaux auxquels appartenaient leurs prédécesseurs, s'ils en ont, et, dans le cas contraire, sont affectés, par voie de tirage au sort, à l'un des Bureaux précédemment constitués.
 
 Chaque Bureau élit un président et un secrétaire.
 
@@ -34,7 +34,7 @@ Les Bureaux procèdent, sans délai, à l'examen des procès-verbaux d'élection
 
 ## Article 4
 
-Les procès-verbaux sont répartis entre les Bureaux par ordre alphabétique des dépArticle ments ainsi que des territoires d'outre-mer et, autant que possible, proportionnellement au nombre total des élections. Ils sont examinés par des commissions de cinq membres au moins formées dans chaque Bureau par la voie du sort.
+Les procès-verbaux sont répartis entre les Bureaux par ordre alphabétique des départements ainsi que des territoires d'outre-mer et, autant que possible, proportionnellement au nombre total des élections. Ils sont examinés par des commissions de cinq membres au moins formées dans chaque Bureau par la voie du sort.
 
 Les protestations électorales doivent être adressées au Président de l'Assemblée, qui en saisit le Bureau compétent.
 
@@ -60,7 +60,7 @@ Le Député dont l'élection est soumise à enquête peut désigner un membre de
 
 ## Article 7
 
-Les Déutés dont les pouvoirs n'ont pas encore été validés peuvent prendre pArticle aux délibérations et aux votes. Toutefois, le droit de vote est suspendu pour tout Député dont l'admission a été ajournée par décision de l'Assemblée.
+Les Déutés dont les pouvoirs n'ont pas encore été validés peuvent prendre part aux délibérations et aux votes. Toutefois, le droit de vote est suspendu pour tout Député dont l'admission a été ajournée par décision de l'Assemblée.
 
 Les Députés non validés ne votent sur leur admission ni dans les Bureaux, ni en Assemblée générale. Ils ne peuvent déposer ni proposition de loi, ni amendement.
 
@@ -150,7 +150,7 @@ L'Assemblée nomme, dans son sein, pour toute sa durée, 17 Cornmissions génér
 
 4° Commission de la défense nationale ;
 
-5° Commission de l'éduction nationale et des beaux-Article , de la jeunesse, des sports et des loisirs ;
+5° Commission de l'éduction nationale et des beaux-arts, de la jeunesse, des sports et des loisirs ;
 
 6° Commission de l'équipement national et de la production (travaux publics, mines, forces motrices) ;
 
@@ -158,7 +158,7 @@ L'Assemblée nomme, dans son sein, pour toute sa durée, 17 Cornmissions génér
 
 8° Commission des finances et du contrôle budgétaire ;
 
-9° Commission de l'intérieur, de l'Algérie et de l'administration générale, dépArticle mentale et communale) ;
+9° Commission de l'intérieur, de l'Algérie et de l'administration générale, départementale et communale) ;
 
 10° Commission de la justice et de législation générale ;
 
@@ -354,7 +354,7 @@ Lorsque personne ne s'oppose à une adoption ans débat, le Président met succe
 
 Lorsque la proposition d'organiser un débat est faite par la commission intéressée ou par le Gouvernement, l'Assemblée est appelée a statuer, sans débat, sur cette proposition.
 
-Si l'organisation du débat est décidée, les Vice-Présidents de l'Assemblée, les Présidents des groupes d'au moins 14 membres, les Présidents et les rapporteurs des commissions intéressées, les orateurs inscrits n'appArticle nant à aucun groupe représenté et un membre du Gouvernement, réunis par le Président de l'Assemblée, peuvent fixer la durée des interventions et celle de l'ensemble du débat.
+Si l'organisation du débat est décidée, les Vice-Présidents de l'Assemblée, les Présidents des groupes d'au moins 14 membres, les Présidents et les rapporteurs des commissions intéressées, les orateurs inscrits n'appartenant à aucun groupe représenté et un membre du Gouvernement, réunis par le Président de l'Assemblée, peuvent fixer la durée des interventions et celle de l'ensemble du débat.
 
 La Conférence répartit le temps de parole entre les orateurs inscrits, le Gouvernement et la commission. L'inscription primitive des orateurs ne leur confère aucune priorité pour le tour de parole, lequel peut être modifié par la Conférence de façon à grouper les interventions selon leur objet.
 
@@ -410,9 +410,9 @@ Sauf le cas d'organisation d'un débat, prévu à l'article 35, tout député in
 
 Si l'orateur parle sans avoir obtenu la parole ou s'il prétend la conserver après que le Président la lui a retirée, le Président peut déclarer que ses paroles ne figureront pas au procès-verbal.
 
-L'orateur doit se renfermer dans la question. S'il s'en écArticle , le Président l'y rappelle.
+L'orateur doit se renfermer dans la question. S'il s'en écarte, le Président l'y rappelle.
 
-Si l'orateur, rappelé deux fois à la question dans le même discours, continue à s'en écArticle r, le Président doit consulter l'Assemblée pour savoir si la parole ne sera pas interdite à l'orateur, sur le même sujet, pendant le reste de la séance. La décision est prise, sans débat, à main levée ; en cas de doute, la parole n'est pas interdite a l'orateur.
+Si l'orateur, rappelé deux fois à la question dans le même discours, continue à s'en écarter, le Président doit consulter l'Assemblée pour savoir si la parole ne sera pas interdite à l'orateur, sur le même sujet, pendant le reste de la séance. La décision est prise, sans débat, à main levée ; en cas de doute, la parole n'est pas interdite a l'orateur.
 
 ## Article 40
 
@@ -422,7 +422,7 @@ Un député peut toujours orbtenir la parole après un orateur du Gouvernement o
 
 ## Article 41
 
-Lorsqu'au moins deux orateurs d'avis contraire ont pris pArticle à une discussion et traité le fond du débat, le Président ou tout membre de l'Assemblée peut proposer la clôture de cette discussion.
+Lorsqu'au moins deux orateurs d'avis contraire ont pris part à une discussion et traité le fond du débat, le Président ou tout membre de l'Assemblée peut proposer la clôture de cette discussion.
 
 Lorsque, dans la discussion générale, la parole est demandée contre la clôture, elle ne peut être accordée qu'à un seul orateur, qui ne peut la garder pendant plus de cinq minutes. Le 1 inscrit et, à son défaut, l'un des inscrits dans l'ordre d'inscription, s'il demande la parole contre la clôture, a la priorité ; à défaut d'orateurs inscrits, la parole contre la clôture est donnée au Député, qui l'a demandée le premier.
 
@@ -462,7 +462,7 @@ Si les circonstances l'exigent, le Président peut annoncer qu'il va suspendre l
 
 ## Article 46
 
-Avant de lever la séance, le Président fait pArticle à l'Assemblée de la date et de l'ordre du jour de la séance suivante.
+Avant de lever la séance, le Président fait part à l'Assemblée de la date et de l'ordre du jour de la séance suivante.
 
 ## Article 47
 
@@ -668,7 +668,7 @@ Lorsque les votes sont recueillis, le Président prononce la clôture du scrutin
 
 ## Article 70
 
-Lorsque, dans le dépouillement d'un scrutin, l'écArticle entre le nombre des bulletins blancs et celui des bulletins bleus n'est pas supérieur à vingt-cinq, les Secrétaires doivent procéder au pointage des votes émis.
+Lorsque, dans le dépouillement d'un scrutin, l'écart entre le nombre des bulletins blancs et celui des bulletins bleus n'est pas supérieur à vingt-cinq, les Secrétaires doivent procéder au pointage des votes émis.
 
 Le pointage est également de droit lorsque, avant la proclamation du scrutin, le Président a été saisi d'une demande signée de vingt-cinq Députés.
 
@@ -826,11 +826,11 @@ Lors de la réunion de l'Assemblée, il est procédé à une attribution proviso
 
 Dès que les listes électorales des groupes ont été publiées conformément à l'article 17, le Président convoque les représentants des groupes en vue de procéder à l'attribution définitive des places.
 
-Vingt-quatre heures avant cette réunion, les membres de l'Assemblée n'appArticle nant à aucun groupe et non apparentés doivent faire connaître au Président à la suite de quel groupe, en allant de gauche à droite, ils désirent siéger.
+Vingt-quatre heures avant cette réunion, les membres de l'Assemblée n'appartenant à aucun groupe et non apparentés doivent faire connaître au Président à la suite de quel groupe, en allant de gauche à droite, ils désirent siéger.
 
 ## Article 87
 
-A l'exception des porteurs de cArticle s régulièrement délivrées à cet effet par le Président, et du personnel qui y est appelé à faire son service, nul ne peut, sous aucun prétexte, pénétrer dans la Salle des Séances.
+A l'exception des porteurs de cartes régulièrement délivrées à cet effet par le Président, et du personnel qui y est appelé à faire son service, nul ne peut, sous aucun prétexte, pénétrer dans la Salle des Séances.
 
 Le public admis dans les tribunes se tient assis, découvert et en silence.
 
@@ -856,7 +856,7 @@ Les peines disciplinaires applicables aux membres de l'Assemblée sont :
 
 Le Président seul rappelle à l'ordre.
 
-Est rappelé à l'ordre tout orateur qui s'en écArticle et tout membre qui trouble l'ordre, soit par une des infractions au Règlement prévues à l'article 45, soit de toute autre manière.
+Est rappelé à l'ordre tout orateur qui s'en écarte et tout membre qui trouble l'ordre, soit par une des infractions au Règlement prévues à l'article 45, soit de toute autre manière.
 
 Tout Député qui, n'étant pas autorisé à parler, s'est fait rappeler à l'ordre, n'obtient la parole pour se justifier qu'à la fin de la séance, à moins que le Président n'en décide autrement.
 
@@ -884,7 +884,7 @@ La censure avec exclusion temporaire du Palais de l'Assemblée est prononcée co
 
 4° Qui s'est rendu coupable d'unjures, provocations ou menaces envers les membres du Gouvernement ou son Président.
 
-La censure avec exclusion temporaire entraine l'interdiction de prendre pArticle aux travaux de l'Assemblée et de raparaître dans le Palais de l'Assemblée jusqu'à l'expiration du quinzième jour de séance qui suit celui où la mesure a été prononcée.
+La censure avec exclusion temporaire entraine l'interdiction de prendre part aux travaux de l'Assemblée et de raparaître dans le Palais de l'Assemblée jusqu'à l'expiration du quinzième jour de séance qui suit celui où la mesure a été prononcée.
 
 En cas de refus du Député de se conformer à l'injonction qui lui est faite par le Président de sortir de l'Assemblée, la séance est suspendue. Dans ce cas et aussi dans le cas où la censure avec exclusion temporaire est appliquée pour la deuxième fois à un Député, l'exclusion s'étend à trente jours de séance.
 

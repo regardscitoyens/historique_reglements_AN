@@ -28,7 +28,7 @@ Les demandes de commissions spéciales doivent être présentées dans le délai
 
 Les commissions spéciales sont nommées par l'Assemblée selon la procédure fixée par l'article 4.
 
-Elles sont composées de 3o membres ; une commission spéciale ne peut comprendre plus de 15 membres appArticle nant à une même commission permanente.
+Elles sont composées de 3o membres ; une commission spéciale ne peut comprendre plus de 15 membres appartenant à une même commission permanente.
 
 La présidence d'une commission spéciale ne peut être cumulée avec la présidence d'une commission permanente.
 
@@ -40,7 +40,7 @@ L'Assemblée nomme, en séance publique, six commissions permanentes dont la dé
 
 1° Commission des affaires culturelles, familiales et sociales (120 membres) :
 
-Enseignement, Article et lettres, jeunesse et sports, rayonnement culturel ; population, famille, santé publique ; pensions civiles, militaires et d'invalidité ; travail ; sécurité sociale ; information sous toutes ses formes ;
+Enseignement, arts et lettres, jeunesse et sports, rayonnement culturel ; population, famille, santé publique ; pensions civiles, militaires et d'invalidité ; travail ; sécurité sociale ; information sous toutes ses formes ;
 
 2° Commission des affaires étrangères (60 membres) ;
 
@@ -62,7 +62,7 @@ Les commissions permanentes examinent les projets et les propositions qui ne son
 
 Les groupes régulièrement constitués dans les conditions fixées à l'article 1 disposent, dans chaque commission permanente, d'un nombre de sièges proportionnel à leur importance numérique. Ils font connaître à la Présidence de l'Assemblée les noms des candidats qu'ils proposent. La liste de ces candidats est affichée vingt-quatre heures avant la séance publique où elle sera proclamée, sauf opposition signée par trente députés au moins. Les oppositions ne sont recevables que si elles portent sur le respect de la proportionnalité.
 
-Dans les désignations intervenant avant la mise en application du Règlement définitif, les députés n'appArticle nant a aucun groupe pourront faire acte de candidature aux sièges restant vacants après application de la procédure prévue à l'alinéa précédent. Les nominations sont faites par l'Assemblée au scrutin majoritaire à deux tours, la majorité relative étant suffisante au troisième tour.
+Dans les désignations intervenant avant la mise en application du Règlement définitif, les députés n'appartenant a aucun groupe pourront faire acte de candidature aux sièges restant vacants après application de la procédure prévue à l'alinéa précédent. Les nominations sont faites par l'Assemblée au scrutin majoritaire à deux tours, la majorité relative étant suffisante au troisième tour.
 
 ## Article 5
 
@@ -70,7 +70,7 @@ Un député ne peut faire partie que d'une seule commission permanente.
 
 En cas de vacance, il est pourvu au remplacement selon la procédure prévue à l'article 4 ci-dessus.
 
-Cesse de plein droit d'appArticle nir aux commissions :
+Cesse de plein droit d'appartenir aux commissions :
 
 1° le député qui n'appartient plus au groupe ou à la formation auquel ou à laquelle il apprtenait lors de sa nomination ;
 
@@ -152,7 +152,7 @@ Pour ces scrutins, sont distribués par les soins de la Présidence les bulletin
 
 La majorité absolue est requise aux deux 1s tours de scrutin ; la majorité relative suffit au troisième tour et, en cas d'égalité des suffrages, le plus âgé est nommé.
 
-II. - Lorsqu'en vertu d'un décret ou d'un arrêté ministériel, l'Assemblée doit nommer des membres d'un organisme extraparlementaire, le Président de l'Assemblée transmet la demande de désignation émanant du Gouvernement à la commission compétente. Celle-ci fait pArticle de sa décision au ministère intéressé par l'intermédiaire du Président de l'Assemblée.
+II. - Lorsqu'en vertu d'un décret ou d'un arrêté ministériel, l'Assemblée doit nommer des membres d'un organisme extraparlementaire, le Président de l'Assemblée transmet la demande de désignation émanant du Gouvernement à la commission compétente. Celle-ci fait part de sa décision au ministère intéressé par l'intermédiaire du Président de l'Assemblée.
 
 # CHAPITRE III TRAVAUX DES COMMISSIONS
 
@@ -228,7 +228,7 @@ Le vote par scrutin est de droit lorsqu'il est demandé soit par le dixième au 
 
 Les commissaires ne peuvent déléguer leur droit de vote dans les scrutins qu'à un autre membre de la même Commission et seulement dans les cas et les conditions prévus par l'ordonnance n° 58-1066 du 7 novembre 1958. Les délégations doivent alors être notifiées au président de la commission. Les dispositions de l'article 39 leur sont applicables.
 
-Les présidents des commissions n'ont pas voix prépondérante. En cas de pArticle ge égal des voix, la disposition mise aux voix n'est pas adoptée.
+Les présidents des commissions n'ont pas voix prépondérante. En cas de partage égal des voix, la disposition mise aux voix n'est pas adoptée.
 
 ## Article 17
 
@@ -352,7 +352,7 @@ L'Assemblée décide ultérieurement de la publication éventuelle du compte ren
 
 Le Président ouvre la séance, dirige les délibérations, fait observer le règlement et maintient l'ordre ; il peut, à tout moment, suspendre ou lever la séance.
 
-Les secrétaires surveillent la rédaction du procès-verbal, constatent les votes à mains levée, par assis et levé ou par appel nominal et dépouillent les scrutins ; ils contrôlent les délégations de vote ; la présence d'au moins deux d'entre eux au bureau est obligatoire. A défaut de cette bouble présence, ou en cas de pArticle ge égal de leurs avis, le Président décide.
+Les secrétaires surveillent la rédaction du procès-verbal, constatent les votes à mains levée, par assis et levé ou par appel nominal et dépouillent les scrutins ; ils contrôlent les délégations de vote ; la présence d'au moins deux d'entre eux au bureau est obligatoire. A défaut de cette bouble présence, ou en cas de partage égal de leurs avis, le Président décide.
 
 Au début de chaque séance, le Président soumet à l'adoption de l'Assemblée le procès-verbal de la séance précédente ; le procès-verbal de la dernière séance d'une session est soumis à l'approbation de l'Assemblée avant que cette séance soit levée. Les observations sur le procès-verbal ne peuvent excéder cinq minutes.
 
@@ -382,7 +382,7 @@ Quand le Président juge l'Assemblée suffisamment informée, il peut inviter l'
 
 La lecture de discours est interdite; toutefois, l'orateur peut se référer à des notes.
 
-Si un orateur parle sans en avoir obtenu l'autorisation, s'il prétend poursuivre son intervention après avoir été invité à conclure, s'il lit un discours, s'il s'écArticle de la question, le Président, après, s'il y a lieu, un avertissement, lui retire la parole.
+Si un orateur parle sans en avoir obtenu l'autorisation, s'il prétend poursuivre son intervention après avoir été invité à conclure, s'il lit un discours, s'il s'écarte de la question, le Président, après, s'il y a lieu, un avertissement, lui retire la parole.
 
 Si l'orateur ne se conforme pas à cette décision, le Président ordonne que ses paroles ne figureront pas au procès-verbal.
 
@@ -424,7 +424,7 @@ Toute attaque personnelle, toute interpellation de député à député, toute m
 
 ## Article 31
 
-Avant de lever la séance, le Président fait pArticle à l'Assemblée de la date et de l'ordre du jour de la séance suivante.
+Avant de lever la séance, le Président fait part à l'Assemblée de la date et de l'ordre du jour de la séance suivante.
 
 Il est établi, pour chaque séance publique un compte rendu analytique officiel et un compte rendu intégral, qui est publié au Journal officiel.
 
@@ -506,7 +506,7 @@ Le Président ne met en discussion que les amendements déposés sur le bureau d
 
 L'Assemblée ne délibère pas sur les amendements qui ne sont pas soutenus en séance, ni sur les amendements qui n'ont pas été soumis à la commission avant l'ouverture du débat, lorsque le Gouvernement s'oppose à leur examen en application de l'article 44 (alinéa 2) de la Constitution.
 
-Lorsqu'ils viennent en concurrence, 1es amendements sont mis en discussion dans l'ordre ci-après: amendements de suppression et ensuite les autres amendements en commençant par ceux qui s'écArticle nt le plus du texte proposé et dans l'ordre où ils s'y opposent, s'y intercalent ou s'y ajoutent.
+Lorsqu'ils viennent en concurrence, 1es amendements sont mis en discussion dans l'ordre ci-après: amendements de suppression et ensuite les autres amendements en commençant par ceux qui s'écartent le plus du texte proposé et dans l'ordre où ils s'y opposent, s'y intercalent ou s'y ajoutent.
 
 Les amendements présentés par le Gouvernement ou par la commission saisie au fond ont priorité de discussion sur les amendements des députés ayant un objet identique. Dans ce cas la parole est donnée à tous les auteurs d'amendements et il est procédé à un seul vote sur l'ensemble de ces amendements.
 
@@ -604,7 +604,7 @@ Le scrutin reste ouvert pendant quarante-cinq minutes ; il est dépouillé par 
 
 Le Président, après consultation des secrétaires, décide s'il y a lieu ou non à pointage d'un scrutin public ordinaire.
 
-Le pointage est de droit en matière de scrutin public à la tribune ou lorsque l'écArticle entre le nombre des bulletins blancs et celui des bulletins bleus n'est pas supérieur à dix.
+Le pointage est de droit en matière de scrutin public à la tribune ou lorsque l'écart entre le nombre des bulletins blancs et celui des bulletins bleus n'est pas supérieur à dix.
 
 Dans le cas de pointage, aucune modification ne peut, entre l'annonce du pointage et la proclamation de son résultat, être apportée aux votes recueillis en séance.
 
@@ -814,7 +814,7 @@ Le Président est chargé de veiller à la sûreté intérieure et extérieure d
 
 La police de l'Assemblée est exercée, en son nom, par le Président.
 
-A l'exception des porteurs de cArticle s régulièrement délivrées à cet effet par le Président, et du personnel qui y est appelé à faire son service, nul ne peut, sous aucun prétexte, pénétrer dans la salle des séances.
+A l'exception des porteurs de cartes régulièrement délivrées à cet effet par le Président, et du personnel qui y est appelé à faire son service, nul ne peut, sous aucun prétexte, pénétrer dans la salle des séances.
 
 Le public admis dans les tribunes se tient assis, découvert et en silence.
 
@@ -848,7 +848,7 @@ Est rappelé à l'ordre avec inscription au procès-verbal tout député qui, da
 
 Est également rappelé à l'ordre avec inscription au procès-verbal, tout député qui a adressé à un ou plusieurs de ses collègues des injures, provocations ou menaces.
 
-Le rappel à l'ordre avec inscription au procès-verbal comporte de droit la privation, pendant un mois, du quArticle de l'indemnité parlementaire allouée aux députés.
+Le rappel à l'ordre avec inscription au procès-verbal comporte de droit la privation, pendant un mois, du quart de l'indemnité parlementaire allouée aux députés.
 
 ## Article 64
 
@@ -872,7 +872,7 @@ La censure avec exclusion temporaire du Palais de 1'Assemblée est prononcée co
 
 4° qui s'est rendu coupable d'injures, provocations ou menaces envers le Président de la République, le Premier Ministre, les membres du Gouvernement et les Assemblées prévues par la Constitution.
 
-La censure avec exclusion temporaire entraîne l'interdiction de prendre pArticle aux travaux de l'Assemblée et de reparaître dans le Palais de l'Assemblée jusqu'à l'expiration du quinzième jour de séance qui suit celui où la mesure a été prononcée.
+La censure avec exclusion temporaire entraîne l'interdiction de prendre part aux travaux de l'Assemblée et de reparaître dans le Palais de l'Assemblée jusqu'à l'expiration du quinzième jour de séance qui suit celui où la mesure a été prononcée.
 
 En cas de refus du député de se conformer à l'injonction qui lui est faite par le Président de sortir de l'Assemblée, la séance est suspendue. Dans ce cas et aussi dans le cas où la censure avec exclusion temporaire est appliquée pour la deuxième fois à un député, l'exclusion s'étend à trente jours de séance.
 
@@ -954,6 +954,6 @@ Vingt-quatre heures au moins avant cette réunion, les membres de l'Assemblée q
 
 ## Article 75
 
-L'indemnité de fonction instituée par l'article 2 de l'ordonnance n° 58-1210 du 13 décembre 1958 est payable mensuellement, sur sa base annuelle, compte non tenu de la durée des sessions, à tous les députés qui prennent pArticle régulièrement aux travaux de l'Assemblée.
+L'indemnité de fonction instituée par l'article 2 de l'ordonnance n° 58-1210 du 13 décembre 1958 est payable mensuellement, sur sa base annuelle, compte non tenu de la durée des sessions, à tous les députés qui prennent part régulièrement aux travaux de l'Assemblée.
 
-Compte tenu des cas où la délégation de vote eût été possible ou a été donnée, conformément à l'ordonnance n° 58-1066 du 7 novembre 1958, le fait d'avoir pris pArticle à moins des deux tiers des scrutins publics intervenus dans le mois, en séance publique, entraîne une retenue du tiers de l'indemnité mensuelle de fonction ; si le même député a pris pArticle à moins de la moitié des scrutins, cette retenue est doublée. 
+Compte tenu des cas où la délégation de vote eût été possible ou a été donnée, conformément à l'ordonnance n° 58-1066 du 7 novembre 1958, le fait d'avoir pris part à moins des deux tiers des scrutins publics intervenus dans le mois, en séance publique, entraîne une retenue du tiers de l'indemnité mensuelle de fonction ; si le même député a pris part à moins de la moitié des scrutins, cette retenue est doublée. 
