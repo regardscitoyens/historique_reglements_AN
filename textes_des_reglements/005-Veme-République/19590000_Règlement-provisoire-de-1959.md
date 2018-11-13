@@ -12,7 +12,7 @@ Les députés qui n'appartiennent à aucun groupe politique peuvent s'apparenter
 
 Les groupes politiques peuvent assurer leur service intérieur par un secrétariat administratif dont ils règlent eux-mêmes le recrutement et le mode de rétribution ; le statut, les conditions d'installation matérielle de ces secrétariats et les droits d'accès et de circulation de leur personnel dans le palais de l'Assemblée sont fixés par le Bureau de l'Assemblée sur proposition des questeurs et des présidents de groupes.
 
-Est interdite la constitution, au sein de l'Assemblée Nationale, de groupes tendant à défendre des intérêts particuliers, locaux ou professionnels.
+Est interdite la constitution, au sein de l'Assemblée nationale, de groupes tendant à défendre des intérêts particuliers, locaux ou professionnels.
 
 Jusqu'à la mise en application du Règlement définitif, des formations administratives non assujetties au dépôt d'une déclaration politique commune pourront se constituer, sans membres apparentés, dans les mêmes conditions que les groupes et jouir des mêmes droits et prérogatives.
 
@@ -104,7 +104,7 @@ La nomination des commissions sera inscrite a l'ordre du jour de la séance que 
 
 ## Article 8
 
-Dès leur nomination, toutes les commissions sont convoquées par le Président de l'Assemblée Nationale en vue de procéder à la nomination de leur bureau.
+Dès leur nomination, toutes les commissions sont convoquées par le Président de l'Assemblée nationale en vue de procéder à la nomination de leur bureau.
 
 Le bureau des commissions permanentes comprend, outre le président, un vice-président et un secrétaire par fraction de 3o membres composant la commission. Toutefois, le nombre des vice-présidents ne peut être inférieur à trois. Seule, la commission des finances, de l'économie générale et du plan nomme un rapporteur général.
 
@@ -122,7 +122,7 @@ Si la majorité absolue n'a pas été acquise aux deux 1s tours de scrutin, la m
 
 ## Article 9
 
-I — Lorsqu'on vertu de dispositions constitutionnelles, légales ou réglementaires, l'Assemblée Nationale doit fonctionner comme un corps électoral d'une autre Assemblée ou d'un organisme quelconque, il est procédé à ces nominations personnelles, sauf dispositions contraires du texte constitutif, dans les conditions ci-après :
+I — Lorsqu'on vertu de dispositions constitutionnelles, légales ou réglementaires, l'Assemblée nationale doit fonctionner comme un corps électoral d'une autre Assemblée ou d'un organisme quelconque, il est procédé à ces nominations personnelles, sauf dispositions contraires du texte constitutif, dans les conditions ci-après :
 
 A - Lorsque le texte constitutif impose la représentation proportionnelle des groupes ou la présentation des candidats par des commissions intéressées à présenter leurs candidats.
 
@@ -204,9 +204,9 @@ Le défaut de dépôt ou de distribution d'un avis ne peut faire obstacle à la 
 
 ## Article 14
 
-Les rapporteurs des commissions doivent être désignés et leurs rapports doivent être déposés, imprimés et distribués dans un délai tel que l'Assemblée Nationale soit en mesure de procéder à la discussion des projets et propositions conformément à la Constitution.
+Les rapporteurs des commissions doivent être désignés et leurs rapports doivent être déposés, imprimés et distribués dans un délai tel que l'Assemblée nationale soit en mesure de procéder à la discussion des projets et propositions conformément à la Constitution.
 
-Les rapports faits sur des projets de loi soumis en 1 lieu à l'Assemblée Nationale ou sur des textes transmis par le Sénat concluent à l'adoption, au rejet ou à des amendements.
+Les rapports faits sur des projets de loi soumis en 1 lieu à l'Assemblée nationale ou sur des textes transmis par le Sénat concluent à l'adoption, au rejet ou à des amendements.
 
 En annexe des rapports doivent être insérés les amendements soumis à la commission, qu'ils lui aient été transmis par la Présidence de l'Assemblée ou directement présentés par leurs auteurs avant le dépôt du rapport.
 
@@ -252,7 +252,7 @@ Selon que la recevabilité ou l'irrecevabilité d'une proposition de loi est év
 
 Les propositions de loi dont l'adoption pourrait avoir l'une des conséquences prévues par l'article 40 de la Constitution sont soumises, par le Président de l'Assemblée, au bureau de la commission des finances pour appréciation de leur recevabilité. Le bureau de la commission des finances doit donner son avis dans le délai de trois jours francs suivant la demande d'avis du Président de l'Assemblée et, en tout état de cause, avant le commencement de la discussion des propositions.
 
-La recevabilité ou l'irrecevabilité sont de droit si elles sont reconnues par le bureau de la commission des finances. Dans le cas où le bureau de la commission des finances n'a pas statué dans le délai précité, le président saisit le Bureau de l'Assemblée Nationale qui statue en temps utile.
+La recevabilité ou l'irrecevabilité sont de droit si elles sont reconnues par le bureau de la commission des finances. Dans le cas où le bureau de la commission des finances n'a pas statué dans le délai précité, le président saisit le Bureau de l'Assemblée nationale qui statue en temps utile.
 
 La même procédure et la même sanction seront appliquées aux propositions de résolution tendant a suggérer au Gouvernement des mesures qui auraient pour objet la création ou l'aggravation d'une charge publique ou la diminution de ressources publiques.
 
@@ -262,7 +262,7 @@ Dans l'intervalle des sessions, les projets de loi peuvent être, à la demande 
 
 ## Article 19
 
-Le Bureau de l'Assemblée Nationale saisi par le Président, soit à son initiative, soit à la demande du Gouvernement, peut déclarer irrecevables les propositions de résolution dont l'adoption mettrait en jeu la responsabilité du Gouvernement en dehors des formes prévues par l'article 49 de la Constitution.
+Le Bureau de l'Assemblée nationale saisi par le Président, soit à son initiative, soit à la demande du Gouvernement, peut déclarer irrecevables les propositions de résolution dont l'adoption mettrait en jeu la responsabilité du Gouvernement en dehors des formes prévues par l'article 49 de la Constitution.
 
 ## Article 20
 
@@ -652,9 +652,9 @@ II ne peut être fait exception aux règles ci-dessus édictées qu'en vue d'ass
 
 ## Article 48
 
-En accord entre l'Assemblée Nationale et le Sénat, le nombre des représentants de chaque Assemblée dans les commissions mixtes paritaires prévues par le deuxième alinéa de l'article 45 de la Constitution est fixé à sept.
+En accord entre l'Assemblée nationale et le Sénat, le nombre des représentants de chaque Assemblée dans les commissions mixtes paritaires prévues par le deuxième alinéa de l'article 45 de la Constitution est fixé à sept.
 
-Les représentants de l'Assemblée Nationale dans ces commissions sont nommés par un vote au scrutin plurinominal, en assemblée plénière.
+Les représentants de l'Assemblée nationale dans ces commissions sont nommés par un vote au scrutin plurinominal, en assemblée plénière.
 
 Une liste de candidats est établie par la commission compétente.
 
@@ -664,13 +664,13 @@ Il est procédé à ces nominations conformément à l'article 9, paragraphe I-B
 
 ## Article 49
 
-Les communications de l'Assemblée Nationale au Gouvernement sont faites par le Président de l'Assemblée Nationale au Premier Ministre.
+Les communications de l'Assemblée nationale au Gouvernement sont faites par le Président de l'Assemblée nationale au Premier Ministre.
 
-Les projets de loi adoptés par l'Assemblée Nationale sont transmis par le Président de l'Assemblée Nationale au Gouvernement. Le rejet des projets par l'Assemblée Nationale est notifié au Gouvernement.
+Les projets de loi adoptés par l'Assemblée nationale sont transmis par le Président de l'Assemblée nationale au Gouvernement. Le rejet des projets par l'Assemblée nationale est notifié au Gouvernement.
 
-Les propositions de loi adoptées par l'Assemblée Nationale non définitivement sont directement transmises par le Président de l'Assemblée Nationale au Président du Sénat. Le Gouvernement est avisé de cet envoi.
+Les propositions de loi adoptées par l'Assemblée nationale non définitivement sont directement transmises par le Président de l'Assemblée nationale au Président du Sénat. Le Gouvernement est avisé de cet envoi.
 
-Si l'Assemblée Nationale adopte sans modification les propositions de loi adoptées ou modifiées par le Sénat, le Président de l'Assemblée Nationale les transmet au Gouvernement.
+Si l'Assemblée nationale adopte sans modification les propositions de loi adoptées ou modifiées par le Sénat, le Président de l'Assemblée nationale les transmet au Gouvernement.
 
 # CHAPITRE X DEBAT SUR LE PROGRAMME OU SUR UNE DECLARATION DE POLITIQUE GENERALE DU GOUVERNEMENT MOTIONS DE CENSURE
 
@@ -934,7 +934,7 @@ Le Président et les questeurs habitent le Palais-Bourbon.
 
 Le Bureau détermine par des règlements intérieurs l'organisation et le fonctionnement des services de l'Assemblée, les modalités d'application, d'interprétation et d'exécution, par les différents services, des dispositions du présent Règlement, ainsi que le statut du personnel et les rapports entre l'administration de l'Assemblée et les organisations professionnelles du personnel.
 
-Les services de l'Assemblée Nationale sont assurés exclusivement par un personnel nommé dans les conditions déterminées par le Bureau. Est interdite, en conséquence, la collaboration, de caractère permanent, de tout fonctionnaire relevant d'une administration extérieure à l'Assemblée, à l'exception des personnels civils et militaires mis par le Gouvernement à la disposition de la Commission de la défense nationale et des forces armées et de la Commission des finances, de économie générale et du plan.
+Les services de l'Assemblée nationale sont assurés exclusivement par un personnel nommé dans les conditions déterminées par le Bureau. Est interdite, en conséquence, la collaboration, de caractère permanent, de tout fonctionnaire relevant d'une administration extérieure à l'Assemblée, à l'exception des personnels civils et militaires mis par le Gouvernement à la disposition de la Commission de la défense nationale et des forces armées et de la Commission des finances, de économie générale et du plan.
 
 # CHAPITRE XVII DISPOSITIONS DIVERSES
 

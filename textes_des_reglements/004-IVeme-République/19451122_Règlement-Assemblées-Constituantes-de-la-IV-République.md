@@ -6,15 +6,15 @@ adoptée le 22 novembre 1945.
 
 ## Article 1
 
-L'Assemblée élue le 21 octobre 1945 se dénomme Assemblée Nationale Constituante.
+L'Assemblée élue le 21 octobre 1945 se dénomme Assemblée nationale Constituante.
 
-Ses membres portent le titre de Députés à l'Assemblée Nationale Constituante.
+Ses membres portent le titre de Députés à l'Assemblée nationale Constituante.
 
 # CHAPITRE II Bureau d'âge.
 
 ## Article 2
 
-A la séance d'ouverture de l'Assemblée Nationale Constituante, le plus âgé des membres présents occupe le fauteuil.
+A la séance d'ouverture de l'Assemblée nationale Constituante, le plus âgé des membres présents occupe le fauteuil.
 
 Les six plus jeunes Députés présents remplissent les fonctions de Secrétaires jusqu'à l'élection du Bureau définitif.
 
@@ -78,13 +78,13 @@ La démission acceptée par l'Assemblée est immédiatement notifiée au Ministr
 
 ## Article 9
 
-L'Assemblée Nationale Constituante élit un Bureau qui a tous pouvoirs pour présider à ses délibérations et pour organiser et diriger tous les services dans les conditions déterminées par le présent Règlement.
+L'Assemblée nationale Constituante élit un Bureau qui a tous pouvoirs pour présider à ses délibérations et pour organiser et diriger tous les services dans les conditions déterminées par le présent Règlement.
 
 Cette élection a lieu quand les pouvoirs de la moitié plus un des membres de l'Assemblée ont été vérifiés.
 
 ## Article 10
 
-Le Bureau définitif de l'Assemblée Nationale Constituante se compose de :
+Le Bureau définitif de l'Assemblée nationale Constituante se compose de :
 
 1 Président ; 5 Vice-Présidents ; 8 Secrétaires ; 3 Questeurs.
 
@@ -104,7 +104,7 @@ A peine de nullité, les bulletins déposés dans l'urne ne doivent pas porter p
 
 ## Article 11
 
-Après l'élection du Bureau définitif, le Président de l'Assemblée fait connaître au Gouvernement que l'Assemblée Nationale Constituante est constituée.
+Après l'élection du Bureau définitif, le Président de l'Assemblée fait connaître au Gouvernement que l'Assemblée nationale Constituante est constituée.
 
 # CHAPITRE V Groupes
 
@@ -918,7 +918,7 @@ Le Bureau informe sur-le-champ, le Procureur Général qu'un délit vient d'êtr
 
 ## Article 96
 
-Le Président a, du point de vue législatif, la haute direction et le contrôle de tous les services de l'Assemblée Nationale Constituante.
+Le Président a, du point de vue législatif, la haute direction et le contrôle de tous les services de l'Assemblée nationale Constituante.
 
 Au point de vue administratif, l'autorité sur les services appartient au Bureau; la direction est assurée par les Questeurs sous le contrôle du Bureau.
 
