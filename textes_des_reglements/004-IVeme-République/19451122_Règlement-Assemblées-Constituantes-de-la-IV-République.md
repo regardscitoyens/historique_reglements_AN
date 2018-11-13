@@ -54,7 +54,7 @@ Le Président proclame Députés ceux dont les pouvoirs ont été déclarés val
 
 ## Article 6
 
-Lorsque l'Assemblée ordonne une enquête sur une élection contestée, il est nommé dans les Bureaux une Commission composée de dix membres, à raison d'un membre par Bureau, chargée de procéder à ladite enquête et de soumettre ses conclusions à l'Assemblée.
+Lorsque l'Assemblée ordonne une enquête sur une élection contestée, il est nommé dans les Bureaux une commission composée de dix membres, à raison d'un membre par Bureau, chargée de procéder à ladite enquête et de soumettre ses conclusions à l'Assemblée.
 
 Le Député dont l'élection est soumise à enquête peut désigner un membre de l'Assemblée qui est adjointaux dix Commissaires, mais seulement avec voix consultative.
 
@@ -120,7 +120,7 @@ Nul ne peut figurer sur la liste de plusieurs groupes.
 
 Est interdite la constitution, au sein de l'Assemblée, de groupes dits « de défense d'intérêts particuliers, locaux ou professionnels ».
 
-# CHAPITRE VI Commissions
+# CHAPITRE VI commissions
 
 ## Article 14
 
@@ -142,39 +142,39 @@ Ainsi qu'il est dit à l'article 30, les présences et les absences seront publi
 
 L'Assemblée nomme, dans son sein, pour toute sa durée, 17 Cornmissions générales qui prennent les dénominations suivantes :
 
-1° Commission des affaires économiques des douanes et conventions commerciales ;
+1° commission des affaires économiques des douanes et conventions commerciales ;
 
-2° Commissiones, affaires étrangères ;
+2° commissiones, affaires étrangères ;
 
-3° Commission de l'agriculture et du ravitaillement ;
+3° commission de l'agriculture et du ravitaillement ;
 
-4° Commission de la défense nationale ;
+4° commission de la défense nationale ;
 
-5° Commission de l'éduction nationale et des beaux-arts, de la jeunesse, des sports et des loisirs ;
+5° commission de l'éduction nationale et des beaux-arts, de la jeunesse, des sports et des loisirs ;
 
-6° Commission de l'équipement national et de la production (travaux publics, mines, forces motrices) ;
+6° commission de l'équipement national et de la production (travaux publics, mines, forces motrices) ;
 
-7° Commission de la famille, de la population et de la santé publique ;
+7° commission de la famille, de la population et de la santé publique ;
 
-8° Commission des finances et du contrôle budgétaire ;
+8° commission des finances et du contrôle budgétaire ;
 
-9° Commission de l'intérieur, de l'Algérie et de l'administration générale, départementale et communale) ;
+9° commission de l'intérieur, de l'Algérie et de l'administration générale, départementale et communale) ;
 
-10° Commission de la justice et de législation générale ;
+10° commission de la justice et de législation générale ;
 
-11° Commission des moyens de communication (chemins de fer, marine marchande et pêches et lignes aériennes) et des postes, télégraphes et téléphones ;
+11° commission des moyens de communication (chemins de fer, marine marchande et pêches et lignes aériennes) et des postes, télégraphes et téléphones ;
 
-12° Commission des pensions civiles et militaires et des victimes de la guerre et de la répression ;
+12° commission des pensions civiles et militaires et des victimes de la guerre et de la répression ;
 
-13° Commission de la presse, de la radio et du cinéma ;
+13° commission de la presse, de la radio et du cinéma ;
 
-14° Commission de la reconstruction et des dommages de guerre ;
+14° commission de la reconstruction et des dommages de guerre ;
 
-15° Commission du règlement et des pétitions ;
+15° commission du règlement et des pétitions ;
 
-16° Commission des territoires d'outre-mer ;
+16° commission des territoires d'outre-mer ;
 
-17° Commission du travail et de la sécurité sociale.
+17° commission du travail et de la sécurité sociale.
 
 En outre, l'Assemblée peut décider la constitution de commissions spéciales pour un objet déterminé et nommées suivant la procédure prévue à l'article 17 pour la nomination des commissions générales.
 
@@ -254,11 +254,11 @@ Les projets ou propositions repoussés par l'Assemblée ne peuvent être reprodu
 
 ## Article 25
 
-L'Assemblée consacre en principe la journée du mercredi et les matinées des autres jours aux travaux des Commissions.
+L'Assemblée consacre en principe la journée du mercredi et les matinées des autres jours aux travaux des commissions.
 
 ## Article 26
 
-Les Commissions sont saisies, à la diligence du Président, de tous les projets ou propositions rentrant dans leur compétence, ainsi que des pièces et documents qui s'y rapportent.
+Les commissions sont saisies, à la diligence du Président, de tous les projets ou propositions rentrant dans leur compétence, ainsi que des pièces et documents qui s'y rapportent.
 
 En cas de conflit de compétence entre deux ou plusieurs commissions, le Président soumet kla question à la décision de l'Assemblée.
 
@@ -298,41 +298,41 @@ Durant les intervalles des séances, les rapports adoptés par les commissions p
 
 ## Article 30
 
-Dans toute Commission, la présence de la majorité absolue des membres est nécessaire pour la validité des votes.
+Dans toute commission, la présence de la majorité absolue des membres est nécessaire pour la validité des votes.
 
-Le vote par scrutin est de droit, en toutes matières, lorsqu'il est demandé par trois membres. Le résultat du vote et les noms des votants sont publiés au Bulletin des Commissions prévu à l'article suivant.
+Le vote par scrutin est de droit, en toutes matières, lorsqu'il est demandé par trois membres. Le résultat du vote et les noms des votants sont publiés au Bulletin des commissions prévu à l'article suivant.
 
 Lorsqu'un vote ne peut avoir lieu faute de quorum, le scrutin a lieu valablement, quel que soit le nombre des membres présents, dans la séance suivante, qui ne peut être tenue moins d'une heure après.
 
-Le lendemain de chaque séance de Commission, les noms des membres présents, excusés ou absents par congé, sont insérés au Journal officiel ; le report d'un vote, faute de quorum, y est également mentionné.
+Le lendemain de chaque séance de commission, les noms des membres présents, excusés ou absents par congé, sont insérés au Journal officiel ; le report d'un vote, faute de quorum, y est également mentionné.
 
 L'absence d'un membre, sans motif valable, durant trois séances consécutives, doit être notifiée par le Président de la commission au groupe intéressé, en vue de son remplacement.
 
 ## Article 31
 
-Il est publié chaque semaine un Bulletin des Commissions dans lequel sont insérées les indications prévues à l'article précédent ainsi que tous autres renseignents relatifs aux travaux des Commissions et dont le détail sera fixé par décision du Bureau de l'Assemblée.
+Il est publié chaque semaine un Bulletin des commissions dans lequel sont insérées les indications prévues à l'article précédent ainsi que tous autres renseignents relatifs aux travaux des commissions et dont le détail sera fixé par décision du Bureau de l'Assemblée.
 
 # CHAPITRE IX Inscription à l'ordre du jour de l'Assemblée. Organisation des débats.
 
 ## Article 32
 
-Les Vice-Présidents de l'Assemblée, les Présidents des Commissions et les Présidents des groupes d'au moins 14 membres sont convoqués, chaque semaine, s'il y a lieu, par le Président de l'Assemblée, en vue d'examiner l'ordre de ses travaux et d'examiner toutes propositions concernant le règlement de l'ordre du jour.
+Les Vice-Présidents de l'Assemblée, les Présidents des commissions et les Présidents des groupes d'au moins 14 membres sont convoqués, chaque semaine, s'il y a lieu, par le Président de l'Assemblée, en vue d'examiner l'ordre de ses travaux et d'examiner toutes propositions concernant le règlement de l'ordre du jour.
 
 Le Gouvernement est avisé par le Président du jour et de l'heure de la Conférence ; il peut y déléguer un représentant.
 
 A la fin de la séance suivant la réunion de la Conférence, le Président soumet les propositions de la Conférence à l'approbation de l'Assemblée.
 
-L'ordre du jour réglé par l'Assemblée ne peut être ultérieurement modifié que par un vote émis soit sur l'initiative du Gouvernement ou d'une Commission, soit sur une demande signée par cinquante membres, dont la présence doit être constatée par appel nominal.
+L'ordre du jour réglé par l'Assemblée ne peut être ultérieurement modifié que par un vote émis soit sur l'initiative du Gouvernement ou d'une commission, soit sur une demande signée par cinquante membres, dont la présence doit être constatée par appel nominal.
 
 ## Article 33
 
 Sauf dans le cas de nouvelle délibération prévu à l'article 23 et dans le cas de discussion immédiate prévu à l'article 54 ci-après, la demande de mise à l'ordre du jour d'un projet ou d'une proposition ne peut se produire qu'après le dépôt et la distribution du rapport.
 
-Lorsque la Commission n'a pas rapporté une proposition ou un amendement disjoint dans le délai d'un mois prévu à l'article 29, son inscription immédiate à l'ordre du jour peut être proposée à l'Assemblée sur demande signée par cinquante membres, dont la présence doit être constatée par appel nominal.
+Lorsque la commission n'a pas rapporté une proposition ou un amendement disjoint dans le délai d'un mois prévu à l'article 29, son inscription immédiate à l'ordre du jour peut être proposée à l'Assemblée sur demande signée par cinquante membres, dont la présence doit être constatée par appel nominal.
 
 ## Article 34
 
-Lorsque le rapport et, s'il y a lieu, l' avis sont distribués, la Commission saisie au fond peut demander l'inscription de l'affaire à l'ordre du jour d'une séance quelconque, sous réserve qu'il n'y ait pas de débat.
+Lorsque le rapport et, s'il y a lieu, l' avis sont distribués, la commission saisie au fond peut demander l'inscription de l'affaire à l'ordre du jour d'une séance quelconque, sous réserve qu'il n'y ait pas de débat.
 
 Cette demande d'inscription doit être adressée au Président de l'Assemblée, qui en saisit la Conférence des Présidents.
 
@@ -340,9 +340,9 @@ Sur décision de la Conférence, dont le Président donne communication à l'Ass
 
 Si un ou plusieurs Députés font opposition à la procédure d'adoption sans débat, ils sont tenus de formuler, par écrit, cette opposition, laquelle est publiée au Journal officiel.
 
-Le projet ou la proposition est, dans ce cas, retiré de l'ordre du jour et les oppositions sont transmises à la Commission saisie du fond, qui doit entendre leurs auteurs, s'ils le demandent.
+Le projet ou la proposition est, dans ce cas, retiré de l'ordre du jour et les oppositions sont transmises à la commission saisie du fond, qui doit entendre leurs auteurs, s'ils le demandent.
 
-La Commission saisit l'Assemblée d'un rapport supplémentaire, qui doit mentionner toutes les objections formulées.
+La commission saisit l'Assemblée d'un rapport supplémentaire, qui doit mentionner toutes les objections formulées.
 
 Trois jours au moins après la distribution de ce rapport supplémentaire, le projet ou la proposition peut être inscrit, de nouveau à l'ordre du jour avec la procédure prévue pour les adoptions sans débat.
 
@@ -416,7 +416,7 @@ Si l'orateur, rappelé deux fois à la question dans le même discours, continue
 
 ## Article 40
 
-Les ministres, les commissaires du Gouvernement, les présidents et les rapporteurs des Commissions intéressées obtiennent la parole quand il la demandent.
+Les ministres, les commissaires du Gouvernement, les présidents et les rapporteurs des commissions intéressées obtiennent la parole quand il la demandent.
 
 Un député peut toujours orbtenir la parole après un orateur du Gouvernement ou de la commission.
 
@@ -436,7 +436,7 @@ Dès que la clôture d'une discussion est prononcée, elle a un effet immédiat 
 
 Lorsqu'il est présenté une motion préjudicielle ou incidente, elle est mise aux voix avant la question principale. Seul l'auteur de la motion et un orateur contre ont la parole ; ils peuvent céder leur droit de parole à un de leurs collègues.
 
-Le renvoi à la Commission de l'ensemble d'un projet ou d'une proposition, ou d'un articlepeut toujours être demandé. Lorsqu'il est demandé ou accepté par la commission, il est de droit.
+Le renvoi à la commission de l'ensemble d'un projet ou d'une proposition, ou d'un articlepeut toujours être demandé. Lorsqu'il est demandé ou accepté par la commission, il est de droit.
 
 En cas de renvoi à la commission de l'ensemble, l'Assemblée peut fixer la date à laquelle le projet ou la proposition lui sera à nouveau soumis.
 
@@ -502,7 +502,7 @@ Avant le vote sur l'ensemble des projets et propositions d'ordre constitutionnel
 
 Si la commission de la Constitution demande une seconde délibération des textes constitutionnels, elle est de droit.
 
-Lorsqu'il y a lieu à seconde délibération, les textes votés en première lecture sont renvoyés à la Commission qui doit présenter un nouveau rapport.
+Lorsqu'il y a lieu à seconde délibération, les textes votés en première lecture sont renvoyés à la commission qui doit présenter un nouveau rapport.
 
 ## Article 51
 
@@ -570,7 +570,7 @@ L'ajournement doit être motivé en ces termes :
 
 « L'Assemblée, appelant de nouveau l'attention du Gouvernement sur telle ou telle clause du traité (relater en entier la ou les clauses sur lesquelles se fonde l'ajournement), surseoit à donner l'autorisation de ratifier. »
 
-La Commission présente son rapport sur les clauses renvoyées à son examen, après la clôture de la discussion sur les articles non contestés.
+La commission présente son rapport sur les clauses renvoyées à son examen, après la clôture de la discussion sur les articles non contestés.
 
 Tout projet d'approbation de traité, qui a été rejeté ou ajourné, peut être reproduit sans observation d'aucun délai.
 
@@ -794,9 +794,9 @@ Toute pétition doit indiquer la demeure du pétitionnaire et être revêtue de 
 
 Les pétitions sont inscrites sur un rôle général dans l'ordre de leur arrivée.
 
-Le Président les renvoie à la Commission des pétitions.
+Le Président les renvoie à la commission des pétitions.
 
-La Commission décide, suivant le cas, soit de les renvoyer à un Ministre ou à une autre commission de l'Assemblée, soit de les soumettre à l'Assemblée, soit de les classer purement et simplement.
+La commission décide, suivant le cas, soit de les renvoyer à un Ministre ou à une autre commission de l'Assemblée, soit de les soumettre à l'Assemblée, soit de les classer purement et simplement.
 
 Avis est donné au pétitionnaire du numéro d'ordre donné à sa pétition et de la décision la concernant.
 
@@ -806,7 +806,7 @@ Un Feuilleton mensuel portant l'indication sommaire des pétitions et des décis
 
 Dans les huit jours de sa distribution, tout Député peut demander le rapport en séance publique d'une pétition.
 
-Passé ce délai, les décisions de la Commission sont définitives et elles sont publiées au Journal Officiel.
+Passé ce délai, les décisions de la commission sont définitives et elles sont publiées au Journal Officiel.
 
 Dans le mois de cette publication, les Ministres doivent faire connaître la suite qu'ils ont donnée aux pétitions qui leur ont été renvoyées.
 
@@ -930,13 +930,13 @@ Le Bureau déterminera, par un Règlement intérieur, l'organisation et le fonct
 
 L'Assemblée nomme, pour toute sa durée, suivant les règles fixées à l'article 17, une commission de dix membres chargée du contrôle de la comptabilité des fonds alloués pour les dépenses de l'Assemblée.
 
-Les membres du Bureau de l'Assemblée ne peuvent faire partie de la Commission de comptabilité.
+Les membres du Bureau de l'Assemblée ne peuvent faire partie de la commission de comptabilité.
 
-La Commission de comptabilité examine le budget de l'Assemblée et le soumet à son approbation en séance publique. Elle vérifie et apure les comptes., même les comptes antérieurs non réglés.
+La commission de comptabilité examine le budget de l'Assemblée et le soumet à son approbation en séance publique. Elle vérifie et apure les comptes., même les comptes antérieurs non réglés.
 
 Le Bureau de l'Assemblée déterminera, par un règlement intérieur, les règles applicables à la comptabilité de l'Assemblée.
 
-Avant de clore ses travaux, la Commission rend compte à l'Assemblée de l'exécution du mandat qui lui a été confié.
+Avant de clore ses travaux, la commission rend compte à l'Assemblée de l'exécution du mandat qui lui a été confié.
 
 # CHAPITRE XXI Dispositions diverses
 

@@ -38,21 +38,21 @@ Chaque commission spéciale demeure compétente jusqu'au vote définitif par le 
 
 L'Assemblée nomme, en séance publique, six commissions permanentes dont la dénomination, la composition et la compétence sont fixées ci-dessous :
 
-1° Commission des affaires culturelles, familiales et sociales (120 membres) :
+1° commission des affaires culturelles, familiales et sociales (120 membres) :
 
 Enseignement, arts et lettres, jeunesse et sports, rayonnement culturel ; population, famille, santé publique ; pensions civiles, militaires et d'invalidité ; travail ; sécurité sociale ; information sous toutes ses formes ;
 
-2° Commission des affaires étrangères (60 membres) ;
+2° commission des affaires étrangères (60 membres) ;
 
-3° Commission de la défense nationale et des forces armées (90 membres) ;
+3° commission de la défense nationale et des forces armées (90 membres) ;
 
-4° Commission des finances, de l'économie générale et du plan (60 membres) ;
+4° commission des finances, de l'économie générale et du plan (60 membres) ;
 
-5° Commission des lois constitutionnelles, de la législation et de l'administration générale de la République (90 membres) :
+5° commission des lois constitutionnelles, de la législation et de l'administration générale de la République (90 membres) :
 
 Lois constitutionnelles, organiques et électorales ; règlement ; organisation judiciaire ; législation civile, administrative et criminelle; pétitions; administration générale des territoires de la République et des collectivités locales ;
 
-6° Commission de la production et des échanges (120 membres) :
+6° commission de la production et des échanges (120 membres) :
 
 Agriculture, pèches, commerce, industrie et production de l'énergie, sous toutes leurs formes; moyens de communication de tous ordres et tourisme ; équipement et travaux publics; aménagement du territoire, urbanisme, logement et construction ; reconstruction et réparation des dommages de guerre.
 
@@ -108,7 +108,7 @@ Dès leur nomination, toutes les commissions sont convoquées par le Président 
 
 Le bureau des commissions permanentes comprend, outre le président, un vice-président et un secrétaire par fraction de 3o membres composant la commission. Toutefois, le nombre des vice-présidents ne peut être inférieur à trois. Seule, la commission des finances, de l'économie générale et du plan nomme un rapporteur général.
 
-Le bureau des autres Commissions comprend :
+Le bureau des autres commissions comprend :
 
 1 président,
 
@@ -184,7 +184,7 @@ Les ministres ont accès dans les commissions lorsqu'il le demandent. Le présid
 
 Chaque commission peut demander, par l'entremise du Président de l'Assemblée, l'audition d'un rapporteur du Conseil économique et social. L'auteur d'une proposition ou d'un amendement doit, s'il en fait la demande au président de la commission, être convoqué aux séances de la commission consacrées à l'examen de son texte ; il se retire au moment du vote.
 
-Toute Commission peut désigner un ou plusieurs de ses membres à l'effet de participer, avec voix consultative, aux travaux de la commission des finances, de l'économie générale et du plan, pendant l'examen des articles de loi ou des chapitres de crédits ressortissant à sa compétence : ce ou ces délégués doivent être convoqués par la commission des finances, de l'économie générale et du plan.
+Toute commission peut désigner un ou plusieurs de ses membres à l'effet de participer, avec voix consultative, aux travaux de la commission des finances, de l'économie générale et du plan, pendant l'examen des articles de loi ou des chapitres de crédits ressortissant à sa compétence : ce ou ces délégués doivent être convoqués par la commission des finances, de l'économie générale et du plan.
 
 Les rapporteurs spéciaux de la commission des finances, de l'économie générale et du plan doivent être convoqués en vue de participer, avec voix consultative, aux travaux des commissions dont la compétence correspond au budget particulier dont ils ont le rapport.
 
@@ -226,7 +226,7 @@ Les votes en commission sont personnels.
 
 Le vote par scrutin est de droit lorsqu'il est demandé soit par le dixième au moins des membres d'une commission.
 
-Les commissaires ne peuvent déléguer leur droit de vote dans les scrutins qu'à un autre membre de la même Commission et seulement dans les cas et les conditions prévus par l'ordonnance n° 58-1066 du 7 novembre 1958. Les délégations doivent alors être notifiées au président de la commission. Les dispositions de l'article 39 leur sont applicables.
+Les commissaires ne peuvent déléguer leur droit de vote dans les scrutins qu'à un autre membre de la même commission et seulement dans les cas et les conditions prévus par l'ordonnance n° 58-1066 du 7 novembre 1958. Les délégations doivent alors être notifiées au président de la commission. Les dispositions de l'article 39 leur sont applicables.
 
 Les présidents des commissions n'ont pas voix prépondérante. En cas de partage égal des voix, la disposition mise aux voix n'est pas adoptée.
 
@@ -432,7 +432,7 @@ Il est établi, pour chaque séance publique un compte rendu analytique officiel
 
 ## Article 32
 
-A l'exception des motions de censure, des questions préalables, des motions de renvoi à la Commission ou de réserve visées à l'article 33 et des amendements, aucun texte ou proposition quelconque, quels que soient leur objet et la qualification qui leur est donnée par leurs auteurs, ne peut être mise en discussion et aux voix s'il n'a fait, au préalable, l'objet d'un rapport de la Commission compétente dans les conditions réglementaires.
+A l'exception des motions de censure, des questions préalables, des motions de renvoi à la commission ou de réserve visées à l'article 33 et des amendements, aucun texte ou proposition quelconque, quels que soient leur objet et la qualification qui leur est donnée par leurs auteurs, ne peut être mise en discussion et aux voix s'il n'a fait, au préalable, l'objet d'un rapport de la commission compétente dans les conditions réglementaires.
 
 ## Article 33
 
@@ -934,7 +934,7 @@ Le Président et les questeurs habitent le Palais-Bourbon.
 
 Le Bureau détermine par des règlements intérieurs l'organisation et le fonctionnement des services de l'Assemblée, les modalités d'application, d'interprétation et d'exécution, par les différents services, des dispositions du présent Règlement, ainsi que le statut du personnel et les rapports entre l'administration de l'Assemblée et les organisations professionnelles du personnel.
 
-Les services de l'Assemblée nationale sont assurés exclusivement par un personnel nommé dans les conditions déterminées par le Bureau. Est interdite, en conséquence, la collaboration, de caractère permanent, de tout fonctionnaire relevant d'une administration extérieure à l'Assemblée, à l'exception des personnels civils et militaires mis par le Gouvernement à la disposition de la Commission de la défense nationale et des forces armées et de la Commission des finances, de économie générale et du plan.
+Les services de l'Assemblée nationale sont assurés exclusivement par un personnel nommé dans les conditions déterminées par le Bureau. Est interdite, en conséquence, la collaboration, de caractère permanent, de tout fonctionnaire relevant d'une administration extérieure à l'Assemblée, à l'exception des personnels civils et militaires mis par le Gouvernement à la disposition de la commission de la défense nationale et des forces armées et de la commission des finances, de économie générale et du plan.
 
 # CHAPITRE XVII DISPOSITIONS DIVERSES
 
