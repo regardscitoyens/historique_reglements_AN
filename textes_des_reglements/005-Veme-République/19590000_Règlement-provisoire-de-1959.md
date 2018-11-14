@@ -126,7 +126,7 @@ I — Lorsqu'on vertu de dispositions constitutionnelles, légales ou réglement
 
 A - Lorsque le texte constitutif impose la représentation proportionnelle des groupes ou la présentation des candidats par des commissions intéressées à présenter leurs candidats.
 
-Les candidatures transmises au Président de l'Assemblée sont publiées au Journal officiel  et affichées dans le plus bref délai.
+Les candidatures transmises au Président de l'Assemblée sont publiées au Journal officiel et affichées dans le plus bref délai.
 
 Au cours de la séance prévue pour la nomination, le Président donne avis de cet affichage à l'Assemblée.
 
