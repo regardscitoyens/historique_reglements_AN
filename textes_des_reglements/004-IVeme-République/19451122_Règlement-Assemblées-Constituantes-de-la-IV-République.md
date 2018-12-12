@@ -22,7 +22,7 @@ Les six plus jeunes Députés présents remplissent les fonctions de Secrétaire
 
 ## Article 3
 
-L'Assemblée vérifie la validité des pouvoire de ses membres et la régularité de leur élection.
+L'Assemblée vérifie la validité des pouvoirs de ses membres et la régularité de leur élection.
 
 A cet effet, les procès-verbaux d'élection sont, avec les pièces justificatives, renvoyés par le Président à l'examen de dix Bureaux tirés au sort en séance publique.
 
@@ -44,7 +44,7 @@ Les Bureaux doivent saisir l'Assemblée de leurs conclusions dans le délai maxi
 
 Tous les rapports d'élection doivent être publiés au Journal officiel avant que l'Assemblée soit appelée à statuer.
 
-Si le rapport conclut à la validation, la vérification est portée d'office en tête de l'ordre du jour de la séance suivante, sauf inscriplion d'un député sur cette vérification.
+Si le rapport conclut à la validation, la vérification est portée d'office en tête de l'ordre du jour de la séance suivante, sauf inscription d'un député sur cette vérification.
 
 Si une inscription intervient après le règlement de l'ordre du jour et avant la vérification, Celle-ci est reportée à la suite de l'ordre du jour à moins que l'Assemblée sur proposition du Président du Bureau ou du Rapporteur, ne fixe immédiatement une date ferme pour cette discussion.
 
@@ -56,11 +56,11 @@ Le Président proclame Députés ceux dont les pouvoirs ont été déclarés val
 
 Lorsque l'Assemblée ordonne une enquête sur une élection contestée, il est nommé dans les Bureaux une commission composée de dix membres, à raison d'un membre par Bureau, chargée de procéder à ladite enquête et de soumettre ses conclusions à l'Assemblée.
 
-Le Député dont l'élection est soumise à enquête peut désigner un membre de l'Assemblée qui est adjointaux dix Commissaires, mais seulement avec voix consultative.
+Le Député dont l'élection est soumise à enquête peut désigner un membre de l'Assemblée qui est adjoint aux dix Commissaires, mais seulement avec voix consultative.
 
 ## Article 7
 
-Les Déutés dont les pouvoirs n'ont pas encore été validés peuvent prendre part aux délibérations et aux votes. Toutefois, le droit de vote est suspendu pour tout Député dont l'admission a été ajournée par décision de l'Assemblée.
+Les Députés dont les pouvoirs n'ont pas encore été validés peuvent prendre part aux délibérations et aux votes. Toutefois, le droit de vote est suspendu pour tout Député dont l'admission a été ajournée par décision de l'Assemblée.
 
 Les Députés non validés ne votent sur leur admission ni dans les Bureaux, ni en Assemblée générale. Ils ne peuvent déposer ni proposition de loi, ni amendement.
 
@@ -134,17 +134,17 @@ La présence aux réunions de la commission sera obligatoire.
 
 Au cas de trois absences consécutives non justifiées, ou d'absences consécutives à un tiers des séances mensuelles, tout membre de la commission sera déclaré démissionnaire d'office par le Bureau de l'Assemblée, dûment avisé par le Président de la commission, et remplacé par le groupe auquel il appartient.
 
-En cas d'absence justifiée, l'interessé sera remplacé apr un suppléant désigné spécialement, pour chaque cas, par son groupe.
+En cas d'absence justifiée, l'interessé sera remplacé par un suppléant désigné spécialement, pour chaque cas, par son groupe.
 
 Ainsi qu'il est dit à l'article 30, les présences et les absences seront publiées après chaque séance au Journal officiel.
 
 ## Article 15
 
-L'Assemblée nomme, dans son sein, pour toute sa durée, 17 Cornmissions générales qui prennent les dénominations suivantes :
+L'Assemblée nomme, dans son sein, pour toute sa durée, 17 Comnmissions générales qui prennent les dénominations suivantes :
 
 1° commission des affaires économiques des douanes et conventions commerciales ;
 
-2° commissiones, affaires étrangères ;
+2° commission des affaires étrangères ;
 
 3° commission de l'agriculture et du ravitaillement ;
 
@@ -190,7 +190,7 @@ Cinq jours avant la date fixée pour la nomination des commissions, les bureaux 
 
 Pour pouvoir établir une liste de candidats à une commission générale, les groupes doivent comprendre au moins 14 membres.
 
-Les groupes qui n'atteignent pas cet effectif, et les députés, qui n'appartiennent à aucun groupe doivent s'apprenter à un groupe de leur choix, avec l'agrément du bureau de ce groupe, afin de pouvoir figurer à la suite de sa liste électorale.
+Les groupes qui n'atteignent pas cet effectif, et les députés, qui n'appartiennent à aucun groupe doivent s'apparenter à un groupe de leur choix, avec l'agrément du bureau de ce groupe, afin de pouvoir figurer à la suite de sa liste électorale.
 
 Trois jours avant la date fixée pour la nomination des commissions, les bureaux des groupes, après s'être concertés, remettent au Président de l'Assemblée la liste des candidats qu'ils ont établie conformément à la règle de proportionnalité ; cette liste est publiée au Journal officiel.
 
@@ -260,17 +260,17 @@ L'Assemblée consacre en principe la journée du mercredi et les matinées des a
 
 Les commissions sont saisies, à la diligence du Président, de tous les projets ou propositions rentrant dans leur compétence, ainsi que des pièces et documents qui s'y rapportent.
 
-En cas de conflit de compétence entre deux ou plusieurs commissions, le Président soumet kla question à la décision de l'Assemblée.
+En cas de conflit de compétence entre deux ou plusieurs commissions, le Président soumet la question à la décision de l'Assemblée.
 
-Les membres de l'Assemblée peuvent prendre communication, sans déplacemen, des pièces et documents remis aux commissions.
+Les membres de l'Assemblée peuvent prendre communication, sans déplacement, des pièces et documents remis aux commissions.
 
-Ces documents et les procès-verbauxsont déposés aux Archives de l'Assemblée.
+Ces documents et les procès-verbaux sont déposés aux Archives de l'Assemblée.
 
 ## Article 27
 
 L'auteur d'une proposition ou d'un amendement peut être convoqué aux séances de la commission. Il se retire au moment du vote.
 
-Chacune des commission a le droit de désigner l'un de ses membres à l'effet de participer, avec voix consultative, aux travaux de la commission des finances pendant l'examen des chapitres du budget ou des cahiers de crédits qui ressortissent à sa compétence.
+Chacune des commissions a le droit de désigner l'un de ses membres à l'effet de participer, avec voix consultative, aux travaux de la commission des finances pendant l'examen des chapitres du budget ou des cahiers de crédits qui ressortissent à sa compétence.
 
 Les rapporteurs spéciaux de la commission des finances participent de droit aux travaux des commissions, dont la compétence correspond au budget particulier, dont ils ont le rapport.
 
@@ -310,7 +310,7 @@ L'absence d'un membre, sans motif valable, durant trois séances consécutives, 
 
 ## Article 31
 
-Il est publié chaque semaine un Bulletin des commissions dans lequel sont insérées les indications prévues à l'article précédent ainsi que tous autres renseignents relatifs aux travaux des commissions et dont le détail sera fixé par décision du Bureau de l'Assemblée.
+Il est publié chaque semaine un Bulletin des commissions dans lequel sont insérées les indications prévues à l'article précédent ainsi que tous autres renseignements relatifs aux travaux des commissions et dont le détail sera fixé par décision du Bureau de l'Assemblée.
 
 # CHAPITRE IX Inscription à l'ordre du jour de l'Assemblée. Organisation des débats.
 
@@ -416,9 +416,9 @@ Si l'orateur, rappelé deux fois à la question dans le même discours, continue
 
 ## Article 40
 
-Les ministres, les commissaires du Gouvernement, les présidents et les rapporteurs des commissions intéressées obtiennent la parole quand il la demandent.
+Les ministres, les commissaires du Gouvernement, les présidents et les rapporteurs des commissions intéressées obtiennent la parole quand ils la demandent.
 
-Un député peut toujours orbtenir la parole après un orateur du Gouvernement ou de la commission.
+Un député peut toujours obtenir la parole après un orateur du Gouvernement ou de la commission.
 
 ## Article 41
 
@@ -436,7 +436,7 @@ Dès que la clôture d'une discussion est prononcée, elle a un effet immédiat 
 
 Lorsqu'il est présenté une motion préjudicielle ou incidente, elle est mise aux voix avant la question principale. Seul l'auteur de la motion et un orateur contre ont la parole ; ils peuvent céder leur droit de parole à un de leurs collègues.
 
-Le renvoi à la commission de l'ensemble d'un projet ou d'une proposition, ou d'un articlepeut toujours être demandé. Lorsqu'il est demandé ou accepté par la commission, il est de droit.
+Le renvoi à la commission de l'ensemble d'un projet ou d'une proposition, ou d'un article peut toujours être demandé. Lorsqu'il est demandé ou accepté par la commission, il est de droit.
 
 En cas de renvoi à la commission de l'ensemble, l'Assemblée peut fixer la date à laquelle le projet ou la proposition lui sera à nouveau soumis.
 
@@ -446,7 +446,7 @@ La motion de censure, définie par l'article 1, paragraphe 2, de la loi constitu
 
 Lorsque l'Assemblée est appelée à statuer sur la motion de censure, le vote doit intervenir le troisième jour suivant le dépôt de ladite motion.
 
-Le scrutin a lieu à la tribune et la majorité absolue des membrs composant l'Assemblée est nécessaire pour l'adoption de la motion de censure.
+Le scrutin a lieu à la tribune et la majorité absolue des membres composant l'Assemblée est nécessaire pour l'adoption de la motion de censure.
 
 ## Article 44
 
@@ -498,7 +498,7 @@ Le vote sur l'ensemble des projets et propositions d'ordre constitutionnel a lie
 
 ## Article 50
 
-Avant le vote sur l'ensemble des projets et propositions d'ordre constitutionnel, l'Assem-plée peut décider, sur la demande d'un Député, qu'il sera procédé à une seconde délibération.
+Avant le vote sur l'ensemble des projets et propositions d'ordre constitutionnel, l'Assemblée peut décider, sur la demande d'un Député, qu'il sera procédé à une seconde délibération.
 
 Si la commission de la Constitution demande une seconde délibération des textes constitutionnels, elle est de droit.
 
@@ -534,7 +534,7 @@ Lorsque la discussion immédiate est demandée par l'auteur d'une proposition sa
 
 Le débat engagé sur une demande de discussion immédiate ne peut jamais porter sur le fond, l'auteur de la demande, le président ou le rapporteur de la commission et le Gouvernement sont seuls entendus.
 
-Lorsque la discssion immédiate est décidée, il peut être délibéré sur un rapport verbal dans les conditions prévues par les alinéas 2 à 7 inclus de l'article 49.
+Lorsque la discussion immédiate est décidée, il peut être délibéré sur un rapport verbal dans les conditions prévues par les alinéas 2 à 7 inclus de l'article 49.
 
 Les dispositions de l'article 51 sont applicables à la discussion immédiate.
 
@@ -542,7 +542,7 @@ Les dispositions de l'article 51 sont applicables à la discussion immédiate.
 
 ## Article 55
 
-La commission des finances est chargé de l'examen des lois de recettes et de dépenses et du contrôle budgétaire.
+La commission des finances est chargée de l'examen des lois de recettes et de dépenses et du contrôle budgétaire.
 
 Le renvoi à la commission ou la réserve d'un chapitre de dépenses ou d'un article de loi peut toujours être demandé. Lorsqu'il est demandé ou accepté par la commission des finances, et est de droit.
 
@@ -568,7 +568,7 @@ Lorsque le renvoi est prononcé, la commission, avant le vote définitif, fait u
 
 L'ajournement doit être motivé en ces termes :
 
-« L'Assemblée, appelant de nouveau l'attention du Gouvernement sur telle ou telle clause du traité (relater en entier la ou les clauses sur lesquelles se fonde l'ajournement), surseoit à donner l'autorisation de ratifier. »
+« L'Assemblée, appelant de nouveau l'attention du Gouvernement sur telle ou telle clause du traité (relater en entier la ou les clauses sur lesquelles se fonde l'ajournement), sursoit à donner l'autorisation de ratifier. »
 
 La commission présente son rapport sur les clauses renvoyées à son examen, après la clôture de la discussion sur les articles non contestés.
 
@@ -580,7 +580,7 @@ Tout projet d'approbation de traité, qui a été rejeté ou ajourné, peut êtr
 
 Les amendements, obligatoirement rédigés par écrit, sont déposés par les députés entre les mains du Président ; ils peuvent être sommairement motivés.
 
-Ils doivent préciser l'article de loi ou le chapitre du budget auquel ils se rapportent, et ils ne ont recevables que s'ils sont proposés dans le cadre du projet ou de la proposition et s'ils s'appliquent effectivement à l'article ou au chapitre qu'ils visent.
+Ils doivent préciser l'article de loi ou le chapitre du budget auquel ils se rapportent, et ils ne sont recevables que s'ils sont proposés dans le cadre du projet ou de la proposition et s'ils s'appliquent effectivement à l'article ou au chapitre qu'ils visent.
 
 Ils sont communiqués par la Présidence à la commission compétente, imprimés et distribués.
 
@@ -600,7 +600,7 @@ Le renvoi à la commission ou la réserve d'un amendement peut toujours être de
 
 ## Article 60
 
-Lorsqu'un amendement entraîne la réduction ou la suppression d'une recelte existante ou parait susceptible d'entraîner une dépense nouvelle ou une augmentation de dépenses par apport au texte qu'il serait appelé à remplacer ou à compléter, la disjonction est de droit si elle est demandée par le Gouvernement, la commission des finances ou la commission compétente.
+Lorsqu'un amendement entraîne la réduction ou la suppression d'une recette existante ou parait susceptible d'entraîner une dépense nouvelle ou une augmentation de dépenses par rapport au texte qu'il serait appelé à remplacer ou à compléter, la disjonction est de droit si elle est demandée par le Gouvernement, la commission des finances ou la commission compétente.
 
 Si la réalité de la réduction ou de la suppression de la recette, de l'établissement ou de l'augmentation de la dépense est affirmée au nom de la commission des finances par son Président, le Rapporteur général ou le Rapporteur spécial compétent, la disjonction ne peut être contestée.
 
@@ -708,7 +708,7 @@ Le dépouillement a lieu dans la forme ordinaire.
 
 Le résultat des délibérations de l'Assemblée est proclamé par le Président en ces termes : « l'Assemblée a adopté » ou « l'Assemblée n'a pas adopté ».
 
-Les Députés ne peuvent rectifier leur vote que par écritet durant les huit jours qui suivent ce vote. La rectification n'est pas admise pour les scutins publics à la tribune.
+Les Députés ne peuvent rectifier leur vote que par écrit et durant les huit jours qui suivent ce vote. La rectification n'est pas admise pour les scrutins publics à la tribune.
 
 En aucun cas, les rectifications ne peuvent modifier le résultat proclamé en séance.
 
@@ -744,7 +744,7 @@ Dans le cas de jonction d'interpellations, un interpellateur ne peut céder son 
 
 Les ordres du jour motivés doivent être remis au Président, qui en donne lecture.
 
-Aucune addition à un ordre du jour ne peut être présentée si elle n'a été déposée et communiquée à l'Assemblée péalablement au vote de cet ordre du jour.
+Aucune addition à un ordre du jour ne peut être présentée si elle n'a été déposée et communiquée à l'Assemblée préalablement au vote de cet ordre du jour.
 
 L'ordre du jour pur et simple, s'il est proposé, a toujours la priorité.
 
@@ -752,7 +752,7 @@ Le Président soumet les ordres du jour au vote de l'Assemblée, qui statue, s'i
 
 # CHAPITRE XVI Questions orales ou écrites.
 
-## Article 94
+## Article 78
 
 Tout Député qui désire poser au Gouvernement des questions, orales ou écrites, doit les remettre au Président de l'Assemblée, qui les communique au Gouvernement.
 
@@ -782,7 +782,7 @@ Chaque semaine, le Journal officiel publie la liste, par Ministère, des questio
 
 # CHAPITRE XVII Pétitions.
 
-## Article 98
+## Article 82
 
 Les pétitions doivent être adressées au Président de l'Assemblée. Elles peuvent également être déposées par un Député, qui fait, en marge, mention du dépôt et signe cette mention.
 
@@ -862,7 +862,7 @@ Tout Député qui, n'étant pas autorisé à parler, s'est fait rappeler à l'or
 
 Lorsqu'un orateur a été rappelé deux fois à l'ordre dans la même séance, l'Assemblée peut, sur la proposition du Président et par assis et levé, sans débat, lui interdire la parole pour le reste de la séance.
 
-## Article 191
+## Article 91
 
 La censure est prononcée contre tout Député :
 
@@ -882,9 +882,9 @@ La censure avec exclusion temporaire du Palais de l'Assemblée est prononcée co
 
 3° Qui s'est rendu coupable d'outrages envers l'Assemblée ou envers son Président ;
 
-4° Qui s'est rendu coupable d'unjures, provocations ou menaces envers les membres du Gouvernement ou son Président.
+4° Qui s'est rendu coupable d'injures, provocations ou menaces envers les membres du Gouvernement ou son Président.
 
-La censure avec exclusion temporaire entraine l'interdiction de prendre part aux travaux de l'Assemblée et de raparaître dans le Palais de l'Assemblée jusqu'à l'expiration du quinzième jour de séance qui suit celui où la mesure a été prononcée.
+La censure avec exclusion temporaire entraine l'interdiction de prendre part aux travaux de l'Assemblée et de reparaître dans le Palais de l'Assemblée jusqu'à l'expiration du quinzième jour de séance qui suit celui où la mesure a été prononcée.
 
 En cas de refus du Député de se conformer à l'injonction qui lui est faite par le Président de sortir de l'Assemblée, la séance est suspendue. Dans ce cas et aussi dans le cas où la censure avec exclusion temporaire est appliquée pour la deuxième fois à un Député, l'exclusion s'étend à trente jours de séance.
 
@@ -952,4 +952,4 @@ Il est interdit à tout Député d'exciper ou de laisser user de sa qualité dan
 
 ## Article 101
 
-Les communications et les transmissions des délibérations de l'Assemblée au Gouvernement sont faites par le Président de l'Assemblée au Préisdent du Gouvernement Provisoire de la République française. 
+Les communications et les transmissions des délibérations de l'Assemblée au Gouvernement sont faites par le Président de l'Assemblée au Président du Gouvernement Provisoire de la République française. 
