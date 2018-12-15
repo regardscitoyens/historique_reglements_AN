@@ -268,7 +268,7 @@ Le Bureau de l'Assemblée nationale saisi par le Président, soit à son initiat
 
 Les projets de loi peuvent être retirés par le Gouvernement à tout moment jusqu'à leur adoption définitive par le Parlement.
 
-L'auteur ou le 1 signataire d'une proposition peut la retirer à tout moment avant son adoption en première lecture. Si le retrait a lieu~ ~en cours de discussion en séance publique et si un autre député la reprend, la discussion continue.
+L'auteur ou le 1 signataire d'une proposition peut la retirer à tout moment avant son adoption en première lecture. Si le retrait a lieu en cours de discussion en séance publique et si un autre député la reprend, la discussion continue.
 
 Les propositions repoussées par l'Assemblée ne peuvent être reproduites avant un délai de trois mois.
 
@@ -612,7 +612,7 @@ Lorsqu'il y a lieu à pointage d'un scrutin portant sur une demande de suspensio
 
 ## Article 45
 
-Les scrutins secrets pour des nominations personnelles en assemblée générale ont lieu, ~ ~soit en séance, soit dans les salles voisines dans les conditions ci-après :
+Les scrutins secrets pour des nominations personnelles en assemblée générale ont lieu,  soit en séance, soit dans les salles voisines dans les conditions ci-après :
 
 I. - Lorsque le scrutin à lieu en séance, il y est procédé dans les conditions prévues à l'article 43, paragraphe II.
 
@@ -910,7 +910,7 @@ Si un fait délictueux est commis par un député dans l'enceinte du Palais pend
 
 Séance tenante, le Président porte le fait à la connaissance de l'Assemblée.
 
-Si le fait visé à l'alinéa 1 est commis~ ~pendant une suspension ou après la levée de la séance, le Président porte le fait à la connaissance de l'Assemblée à la reprise de la séance ou au début de la séance suivante.
+Si le fait visé à l'alinéa 1 est commis pendant une suspension ou après la levée de la séance, le Président porte le fait à la connaissance de l'Assemblée à la reprise de la séance ou au début de la séance suivante.
 
 Le député est admis à s'expliquer, s'il le demande. Sur l'ordre du Président, il est tenu de quitter la salle des séances et retenu dans 1e Palais.
 
