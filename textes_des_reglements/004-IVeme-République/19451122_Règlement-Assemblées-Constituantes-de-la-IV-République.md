@@ -474,7 +474,7 @@ Il est établi, pour chaque séance publique, un compte rendu analytique officie
 
 Sauf le cas de deuxième délibération prévue à l'article 23 (alinéa 2) et de discussion immédiate prévue à l'article 54 ci-après, la discussion d'un projet ou d'une proposition ne peut commencer que vingt-quatre heures au moins après la distribution ou la publication du rapport.
 
-Lorsque la discussion a commencé, la suite du débat est inscrite, de droit, en tête de l'ordre dn jour de la séance suivante, si la demande en est faite par la commission.
+Lorsque la discussion a commencé, la suite du débat est inscrite, de droit, en tête de l'ordre de jour de la séance suivante, si la demande en est faite par la commission.
 
 # SECTION A. Discussion des textes constitutionnels.
 
