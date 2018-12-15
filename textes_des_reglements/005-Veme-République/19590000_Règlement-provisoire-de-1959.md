@@ -364,7 +364,7 @@ En cas de rejet du procès-verbal, la séance continue; la discussion du procès
 
 ## Article 26
 
-Avant de passer à l'ordre du jour, le Préaident donne connaissance à l'Assemblée des communications qui la concernent; l'Assemblée peut en ordonner l'impression, si elle le juge utile.
+Avant de passer à l'ordre du jour, le Président donne connaissance à l'Assemblée des communications qui la concernent; l'Assemblée peut en ordonner l'impression, si elle le juge utile.
 
 ## Article 27
 
