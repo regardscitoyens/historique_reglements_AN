@@ -70,13 +70,15 @@ L'Assemblée peut constituer en son sein des commissions spécialisées qui peuv
 
 ## Article 12
 
-Les commissions sont composées de 12 membres élus sur la proposition de chacun des groupes des quatre catégories de délégués visés à l'article 7 et suivant la règle proportionnelle suivante :
+Les commissions sont composées de 16 membres élus sur la proposition de chacun des groupes des quatre catégories de délégués visés à l'article 7 et suivant la règle proportionnelle suivante :
 
-Représentants de la Résistance métropolitaine : 6 membres,
+Représentants de la Résistance métropolitaine : 8 membres,
 
 Membres du Sénat et de la Chambre des Députés : 3 membres,
 
-Représentants de l'ancienne Résistance extra-métropolitaine et Représentants des Conseils généraux : 3 membres.
+-  Représentants de l'ancienne Résistance extra-métropolitaine : 3 membres,
+
+Représentants des Conseils généraux : 2 membres.
 
 ## Article 13
 
@@ -134,9 +136,9 @@ Le Président ouvre la séance, dirige les délibérations, fait observer le Rè
 
 ## Article 21
 
-Les Secrétaires surveillent la rédaction du procès-verbal. L'un d'eux en donne lecture à l'ouverture de chaque séance.
+Les Secrétaires surveillent la rédaction du procès-verbal et s'assurent de sa publication.
 
-Le procès-verbal, adopté par l'Assemblée, est signé par le Président ou le Vice-Président qui a tenu la séance et deux Secrétaires au moins.
+Le procès-verbal, communiqué par l'Assemblée et adopté par elle, est signé par le Président ou le Vice-Président qui a tenu la séance et deux Secrétaires au moins.
 
 ## Article 22
 
@@ -156,7 +158,7 @@ Les Secrétaires inscrivent les Délégués qui demandent la parole suivant l'or
 
 Les membres du Comité français de la Libération Nationale, les Commissaires du Gouvernement, les Rapporteurs chargés de soutenir la discussion des projets ne sont point assujettis à l'ordre d'inscription et obtiennent la parole quand ils la réclament.
 
-Un membre de l'Assemblée peut toujours obtenir la parole d'un membre du Comité français de la Libération Nationale.
+Un membre de l'Assemblée peut toujours obtenir la parole après un membre du Comité français de la Libération Nationale.
 
 ## Article 25
 
@@ -198,7 +200,7 @@ L'heure étant expirée, la séance est reprise; si les circonstances l'exigent 
 
 ## Article 34
 
-Avant de lever la séance, le Président fixe, après avoir consulté l'Assemblée, la date et l'ordre du jour de la séance suivante.
+Avant de lever la séance, le Président fixe, après avoir consulté l'Assemblée sur les propositions de la conférence des Présidents, la date et l'ordre du jour de la séance suivante.
 
 Au début de chaque séance, l'ordre du jour est distribué aux membres de l'Assemblée et affiché.
 
@@ -238,9 +240,7 @@ proposition nouvelle à la commission, le Président de l'Assemblée prononce le
 
 ## Article 41
 
-Sur le rapport de la commission, l'Assemblée délibère et il est procédé au vote sur les propositions de la commission. Les Délégués peuvent pendant le cours de la discussion présenter des amendements
-
-sur lesquels l'Assemblée se prononce après avoir entendu l'avis du Rapporteur de la commission. Avant le vote sur l'ensemble du projet ainsi amendé, tout membre a le droit de présenter des considérations générales pour l'adoption ou le rejet.
+Sur le rapport de la commission, l'Assemblée délibère et il est procédé au vote sur les propositions de la commission. Les Délégués peuvent pendant le cours de la discussion présenter par écrit des amendements sur lesquels l'Assemblée se prononce après avoir entendu l'avis du Rapporteur de la commission. Avant le vote sur l'ensemble du projet ainsi amendé, tout membre a le droit de présenter des considérations générales pour l'adoption ou le rejet.
 
 ## Article 42
 
@@ -266,7 +266,7 @@ Les votes de l'Assemblée autres que ceux relatifs aux désignations personnelle
 
 ## Article 45
 
-Toutefois, quel que soit le nombre de leurs membres présents, les Représentants des organismes de Résistance métropolitaine disposent toujours au total de 48 voix.
+Toutefois, quel que soit le nombre de leurs membres présents, les Représentants des organismes de Résistance métropolitaine disposent toujours au total de 49 voix.
 
 Les voix des membres absents de cette catégorie de Délégués sont réparties proportionnellement entre les membres de cette même catégorie.
 
@@ -440,7 +440,7 @@ Le Secrétaire Général assiste avec voix consultative aux délibérations de l
 
 ## Article 69
 
-Les communications et transmissions des délibérations de l'Assemblée au Comité français de la Libération Nationale sont faites par le Président et l'intermédiaire du Secrétaire Général de l'Assemblée au Secrétariat général du Comité français de la Libération Nationale.
+Les communications et transmissions des délibérations de l'Assemblée au Comité français de la Libération Nationale sont faites par le Président et l'intermédiaire du Secrétaire Général de l'Assemblée au Commissaire d'Etat chargé des relations avec l'Assemblée et au Secrétariat général du Comité français de la Libération Nationale.
 
 # CHAPITRE X. — DISPOSITIONS DIVERSES
 
