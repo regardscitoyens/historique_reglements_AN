@@ -1086,7 +1086,11 @@ Les questions doivent être très sommairement rédigées et ne contenir aucune 
 
 Les questions orales sont inscrites sur un rôle spécial au fur et à mesure de leur dépôt.
 
-Les questions écrites auxquelles il n'a pas été répondu dans le délai prévu par l'article 97 ci-après, sont, sauf indication contraire de leurs auteurs, automatiquement converties en questions orales et prennent rang au rôle, à compter de leur insertion au Journal officiel.
+Lorsqu'une question écrite n'a pas obtenu de réponse dans le délai d'un mois prévu par le premier alinéa de l'article 97 ci-après, son auteur est immédiatement invité par le Président de l'Assemblée à lui faire connaître s'il entend ou non convertir sa question écrite en question orale.
+
+Dans le cas où la question écrite transformée en question orale, son rang au rôle des questions orales est déterminé d'après sa publication, comme question écrite, à la suite du compte rendu in extenso.
+
+Dans le cas contraire, le Ministre intéressé ne peut disposer, pour répondre à cette question écrite maintenue, que du délai supplémentaire d'un mois qu'il aurait pu invoquer en vertu de l'article 97 (alinéa 2) ci-après.
 
 ## Article 95
 
@@ -1109,6 +1113,18 @@ Lorsque, par suite de deux absences successives d'un Ministre, une question est 
 Les questions écrites sont publiées à la suite du compte rendu in extenso; dans le mois qui suit cette publication, les réponses des Ministres doivent également y être publiées.
 
 Les Ministres ont toutefois la faculté de déclarer par écrit que l'intérêt public leur interdit de répondre ou. à titre exceptionnel, qu'ils réclament un délai supplémentaire pour rassembler les éléments de leur réponse; ce délai supplémentaire ne peut excéder un mois.
+
+Font l'objet d'un rappel inséré à la suite du compte rendu in extenso :
+
+- les questions écrites auxquelles il n'a pas été répondu dans le délai d'un mois suivant leur publication audit compte rendu ;
+
+- les questions écrites, maintenues en application de l'article 94 in fine, auxquelles il n'a pas été répondu dans le délai supplémentaire d'un mois prévu audit article ;
+
+- les questions écrites auxquelles le Ministre intéressé n'a pas répondu au terme du délai supplémentaire dont il a bénéficié, sur sa demande, en application du deuxième alinéa du présent article.
+
+Dans tous les cas susvisés, le rappel reproduit le texte de la question il est notifié à son auteur, accompagné du texte de la question.
+
+Un recueil des questions écrites respectivement suivies des réponses qui leur ont été données, est établi, chaque semestre, dans un classement méthodique par matières, et distribué aux membres de l'Assemblée.
 
 # CHAPITRE XVII PÉTITIONS
 
