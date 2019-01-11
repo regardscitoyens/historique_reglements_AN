@@ -778,79 +778,113 @@ Les peines disciplinaires applicables aux membres de la Chambre des Députés so
 
 Le rappel à l'ordre ;
 
+Le rappel à l'ordre, avec inscription au procès-verbal ;
+
 La censure ;
 
 La censure avec exclusion temporaire du lieu des séances.
 
 ## Article 118
 
-Est rappelé 0 l'ordre tout député qui s'en écarte, tout membre qui trouble l'ordre par une des infractions au règlement prévues dans l'art.107, ou de toute autre manière.
+Est rappelé à l'ordre tout orateur qui s'en écarte, tout membre qui trouble l'ordre par une des infractions au règlement prévues dans l'art.107, ou de toute autre manière.
 
 ## Article 119
 
-Le Président seul rappelle à l'ordre ; la parole est accordée à l'orateur qui, rappelé à l'ordre, se soumet à l'autorité du Président et demande à se justifier.
+Est rappelé à l'ordre, avec inscription au procès-verbal, tout Député qui, dans la même séance, aura encouru un premier rappel à l'ordre.
+
+## Article 120
+
+Le rappel à l'ordre, avec inscription au procès-verbal, emporte, de plein droit, la privation pendant quinze jours de moitié de l'indemnité allouée aux Députés.
+
+## Article 121
+
+Le Président seul rappelle à l'ordre. La parole est accordée à l'orateur qui, rappelé à l'ordre, se soumet à l'autorité du Président et demande à se justifier.
 
 Tout député qui, n'étant pas autorisé à parler s'est fait rappeler à l'ordre, n'obtient la parole pour se justifier qu'à la fin de la séance, à moins que le Président n'en décide autrement.
 
 Si le rappel à l'ordre est maintenu par le Président, il en est tenu note par les Secrétaires.
 
-## Article 120
-
-Lorsqu'un orateur a été rappelé à l'ordre deux fois dans la même séance, si une troisième fois il s'écarte de l'ordre, le Président propose à la Chambre de lui interdire la parole pour le reste de la séance.
-
-La Chambre se prononce par assis et levé, sans débats.
-
-## Article 121
-
-La censure est prononcée contre :
-
-Tout député qui, après avoir encouru l'interdiction mentionnée en l'article précédent, ne sera pas rentré dans le devoir ;
-
-Tout député qui pendant l'espace de trente jours, aura, dans trois séances différentes, subi le rappel à l'ordre ;
-
-Tout député qui, dans la Chambre, aura donné le signal d'une scène tumultueuse ou d'une abstention collective de prendre part aux travaux législatifs ;
-
-Tout député qui aura adressé à un ou plusieurs de ses collègues des injures, provocations ou menaces.
-
 ## Article 122
 
-La censure avec exclusion temporaire du lieu des séances est prononcée contre tout député :
+Lorsqu'un orateur a été rappelé deux fois à l'ordre dans la même séance, la Chambre peut sur proposition du Président, lui interdire la parole pour le reste de la séance.
 
-Qui aura résisté à la censure simple ;
-
-Qui aura, en séance publique, fait appel à la violence, ou provoqué à la guerre civile ;
-
-Qui se sera rendu coupable d'outrages envers la Chambre, ou une partie de cette Assemblée, ou son Président ;
-
-Qui se sera rendu coupable d'outrages envers le Sénat ou envers le Président de la République.
+La Chambre prononce par assis et levé, sans débats.
 
 ## Article 123
 
-La censure, avec exclusion temporaire, impose au Député contre lequel elle a été prononcée,l'obligation de sortir immédiatement de la Chambre et de s'abstenir d'y reparaître pendant les trois séances suivantes.
+La censure est prononcée contre :
 
-En cas de désobéissance du député à l'injonction qui lui est faite par le Président de sortir de la Chambre, la séance est levée. Elle peut être reprise.
+1° Tout député qui, après le rappel à l'ordre avec inscription au procès-verbal, ne sera pas rentré dans le devoir ;
+
+2° Tout député qui, dans l'espace de trente jours, aura encouru trois fois le rappel à l'ordre ;
+
+3° Tout député qui, dans la Chambre, aura donné le signal d'une scène tumultueuse ou d'une abstention collective de prendre part aux travaux législatifs ;
+
+4° Tout député qui aura adressé à un ou plusieurs de ses collègues des injures, provocations ou menaces.
 
 ## Article 124
 
-La censure simple et la censure avec exclusion temporaire sont prononcées par la Chambre sans débats, et par assis et levé, sur la proposition du Président.
+La censure avec exclusion temporaire du Palais de l'Assemblée est prononcée contre tout Député :
 
-Le député contre qui l'une ou l'autre de ces peines disciplinaires est demandée, a toujours le droit d'être entendu, ou de faire entendre, en nom, un de ses collègues.
+1° Qui aura résisté à la censure simple, ou qui, dans le cours de la même session aura déjà subi deux fois la censure simple ;
 
-La décision de la Chambre prononçant soit la censure simple, soit la censure avec exclusion temporaire, est inscrite au procès-verbal.
+2° Qui aura, en séance publique, fait appel à la violence, provoqué à la guerre civile ou à la violation des lois constitutionnelles ;
+
+3° Qui se sera rendu coupable d'outrages envers la Chambre, ou une partie de la Chambre ou envers son Président ;
+
+4° Qui aura adressé à un ou plusieurs membres du Gouvernement des injures, provocations ou menaces ;
+
+5° Qui se sera rendu coupable d'outrages envers le Président de la République, le Sénat ou le Gouvernement.
 
 ## Article 125
 
-Si un délit est commis par un député dans l'enceinte du Palais législatif, toute délibération est suspendue.
+La censure, avec exclusion temporaire, entraîne l'interdiction de prendre part aux travaux de la Chambre et de reparaître dans le Palais législatif jusqu'à l'expiration du jour de la quinzième séance qui suivra celle où la mesure aura été prononcée.
 
-Le Président porte, séance tenante, le fait à la connaissance de la Chambre.
+En cas de désobéissance du Député à l'injonction qui lui est faite par le Président de sortir de la Chambre, la séance est levée. Elle peut être reprise.
 
-Sur l'ordre du Président, le député est tenu de se rendre dans le cabinet du Président, où le Bureau réuni entend ses explications.
+Lorsque la censure avec exclusion temporaire est de nouveau appliquée à un Député dans le cours de la même session, l'exclusion s'étend à trente séances.
 
-Le Bureau dresse un procès-verbal qu'il envoie s'il y a lieu, à l'autorité compétente.
+## Article 126
+
+Si le Député reparaît dans le Palais législatif avant l'expiration du délai d'exclusion, il est arrêté par l'ordre des Questeurs, conduit dans un local préparé à cet effet et y est retenu pendant un temps qui ne peut excéder trois jours.
+
+S'il reparaît dans la salle des séances, sa présence est constatée par le Bureau, Le Président lève la séance, et, sur son ordre, le Député est arrêté par les soins des Questeurs et retenu comme il est dit au paragraphe précédent,
+
+## Article 127
+
+La censure simple et la censure avec exclusion temporaire sont prononcées par la Chambre sans débats, et par assis et levé, sur la proposition du Président.
+
+Le Député contre qui l'une ou l'autre de ces peines disciplinaires est demandée, a toujours le droit d'être entendu, ou de faire entendre, en son nom, un de ses collègues.
+
+La décision de la Chambre prononçant soit la censure simple, soit la censure avec exclusion temporaire, est inscrite au procès-verbal.
+
+## Article 128
+
+La censure simple emporte de droit :
+
+La privation pendant un mois de moitié de l'indemnité allouée au Député.
+
+La censure avec exclusion temporaire emporte de droit la privation de l'indemnité pendant deux mois.
+
+L'une et l'autre mesure entraînent, en outre, l'impression et l'affichage à deux cents exemplaires, aux frais du Député, de l'extrait du procès-verbal mentionnant la censure.
+
+Les affiches seront apposées dans toutes les communes de la circonscription par laquelle le Député a été élu.
+
+## Article 129
+
+Si un délit vient à être commis dans l'enceinte du Palais législatif par un Député, toute délibération est suspendue.
+
+Le Président porte le fait à la connaissance de la Chambre, séance tenante.
+
+Le Député est admis à s'expliquer, s'il le demande. Sur l'ordre du Président, il est tenu de quitter la salle des séances et de se rendre dans le local indiqué à l'article 126.
+
+En cas de résistance du Député, ou de tumulte dans la Chambre, le Président lève à l'instant la séance.
+
+Le Bureau informe le procureur général qu'un délit vient d'être commis dans le Palais de la Chambre des Députés.
 
 # CHAPITRE XIV DE LA COMPTABILITE
 
-## Article 126
+## Article 130
 
 Les services de la Chambre des Députés se divisent en services législatifs et en services administratifs.
 
@@ -858,13 +892,13 @@ Les services législatifs sont : le secrétariat général de la présidence, la
 
 Les services administratifs sont : le secrétariat général de la questure, les archives, la bibliothèque, la caisse, et les bâtiments.
 
-## Article 127
+## Article 131
 
 Le Président a la haute direction et le contrôle de tous les services législatifs ; mais les dépenses qui les concernent ne peuvent être engagées sans l'avis préalable des questeurs.
 
 Les questeurs ont la direction et le contrôle de tous les services administratifs. Ils habitent le Palais de la Chambre des Députés.
 
-## Article 128
+## Article 132
 
 La commission de comptabilité vérifie et apure les comptes, même les comptes antérieurs non réglés.
 
@@ -876,7 +910,7 @@ Les dépenses de la Chambre sont réglées par exercice comme le budget de l'Eta
 
 A la fin de chaque exercice, la commission de comptabilité rend compte à la Chambre de l'exécution du mandat qui lui a été confié.
 
-## Article 129
+## Article 133
 
 Un des questeurs de la Chambre désigné par ses collègues, est spécialement chargé de la comptabilité des dépenses.
 
@@ -886,39 +920,39 @@ Les membres du Bureau ne peuvent faire partie de la commission de comptabilité.
 
 # CHAPITRE XV DE LA POLICE INTERIEURE ET EXTERIEURE DE LA CHAMBRE. - DES DROITS DU PRESIDENT.
 
-## Article 130
+## Article 134
 
 Le Président est chargé de veiller à la sûreté intérieure et extérieure de la Chambre. A cet effet, il fixe l'importance des forces militaires qu'il juge nécessaires ; elles sont placées sous ses ordres.
 
 Le Président habite dans l'intérieur du Palais législatif.
 
-## Article 131
+## Article 135
 
 La police de la Chambre est exercée en son nom par le Président.
 
-## Article 132
+## Article 136
 
 Nul étranger ne peut sous aucun prétexte s'introduire dans l'enceinte où siègent les membres de la Chambre des Députés.
 
-## Article 133
+## Article 137
 
 Pendant tout le cours des séances, les personnes placées dans les tribunes se tiennent assises, découvertes et en silence.
 
-## Article 134
+## Article 138
 
 Toute personne qui donne des marques d'approbation ou d'improbation est sur-le-champ exclue des tribunes par les huissiers chargés d'y maintenir l'ordre.
 
-## Article 135
+## Article 139
 
 Tout individu qui trouble les délibérations est traduit sans délai, s'il y a lieu, devant l'autorité compétente.
 
 # CHAPITRE XVI DES RAPPORTS DE LA CHAMBRE DES DEPUTES AVEC LE SENAT.
 
-## Article 136
+## Article 140
 
 Si les deux Chambres ont été saisies de projets ou de propositions de loi sur le même objet et si la délibération est commencée au Sénat, la Chambre des Députés ne mettre pas les projets ou propositions à son ordre du jour avant le vote définitif du Sénat.
 
-## Article 137
+## Article 141
 
 Toute proposition de loi votée par la Chambre des Députés est transmise directement par le Président de la Chambre au Président du Sénat. Le Gouvernement est avisé de cet envoi.
 
@@ -928,66 +962,64 @@ Au cas où, dans le délai d'un mois, ce projet n'aurait pas été présenté au
 
 Le délai d'un mois est réduit à trois jours si la Chambre, par une décision spéciale, a déclaré que la transmission aurait lieu d'urgence.
 
-## Article 138
+## Article 142
 
 Les propositions de loi émanées de l'initiative parlementaire, votées par le Sénat et transmises au Président de la Chambre des Députés, sont examinées conformément aux règles suivies pour les projets présentés par le Gouvernement.
 
 Dans le cas où le Sénat a déclaré l'urgence, la Chambre doit être consultée sur la question d'urgence.
 
-## Article 139
+## Article 143
 
 Si la Chambre adopte sans modifications les propositions de loi ou les projets votés par le Sénat, le Président de la Chambre des Députés transmet la loi au Président de la République par l'intermédiaire du ministre compétent.
 
-## Article 140
+## Article 144
 
-Lorsqu'un projet de loi voté par la Chambre des Députés a été modifié par le Sénat, la Chambre des Députés peut décider, sur la proposition d'un de ses membres, qu'une commission sera
-
-chargée de se réunir avec une commission du Sénat à l'effet de s'entendre sur un texte commun.
+Lorsqu'un projet de loi voté par la Chambre des Députés a été modifié par le Sénat, la Chambre des Députés peut décider, sur la proposition d'un de ses membres, qu'une commission sera chargée de se réunir avec une commission du Sénat à l'effet de s'entendre sur un texte commun.
 
 La Chambre décidera si les pouvoirs, à cet effet, seront donnés à la commission qui a fait le rapport sur le projet ou à une nouvelle commission élue dans les bureaux.
 
-## Article 141
+## Article 145
 
 Si les deux commissions s'entendent sur un texte, la commission nommée par la Chambre des Députés fait un rapport à cette Assemblée.
 
 La Chambre des Députés délibère sur la nouvelle rédaction.
 
-## Article 142
+## Article 146
 
 Si la Chambre des Députés a repoussé la proposition d'une conférence, le projet ne pourra être porté de nouveau à l'ordre du jour avant le délai de deux mois, que sur l'initiative du Gouvernement. Il en sera de même dans le cas où les deux commissions ne s'entendront pas sur un texte ou si la Chambre persiste dans sa première résolution.
 
-## Article 143
+## Article 147
 
 Lorsque les propositions de loi ou les projets votés par la Chambre des Députés seront rejetés par le Sénat, ils ne pourront être repris, avant le délai de trois mois, que sur l'initiative du Gouvernement.
 
 # CHAPITRE XVII DISPOSITIONS DIVERSES
 
-## Article 144
+## Article 148
 
 Les députations sont désignées par la voie du sort. Le nombre des membres qui les composent est déterminé par la Chambre.
 
-## Article 145
+## Article 149
 
 Le Président ou un Vice-Président et deux secrétaires font nécessairement partie des députations.
 
-## Article 146
+## Article 150
 
 Tout député peut faire imprimer et distribuer librement à ses frais le discours qu'il a prononcé.
 
-## Article 147
+## Article 151
 
 Tout député dont les pouvoirs ont été vérifiés peut se démettre de ses fonctions.
 
 La démission donnée par un député avant la vérification de ses pouvoirs ne dessaisit par la Chambre des Députés du droit de procéder à cette vérification.
 
-## Article 148
+## Article 152
 
 Les démissions sont adressées au Président de la Chambre qui en envoie immédiatement copie au Ministre de l'Intérieur.
 
-## Article 149
+## Article 153
 
 Les insignes des députés consistent en une décoration ornée des faisceaux de la République surmontés de la main de Justice, et en une écharpe tricolore à franges d'or, portée en sautoir.
 
-## Article 150
+## Article 154
 
 Un règlement intérieur arrêté par le Bureau de la Chambre, déterminera les règles relatives à la tenue des procès-verbaux et au service intérieur, les attributions respectives des divers officiers et agents de l'Assemblée, et le mode de leur nomination. 
