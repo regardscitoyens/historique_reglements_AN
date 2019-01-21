@@ -22,7 +22,7 @@ La Chambre prononce sur la validité des élections et le Président proclame le
 
 Toutes les vérifications d'élection doivent être inscrites à l'ordre du jour et les rapports les concernant publiés à la suite du compte rendu in extenso avant que la Chambre soit appelée à statuer.
 
-Lorsque le rapport du Bureau compétent est favorable, la validation d'un Député ne peut être retirée de l'ordre du jour de la Chambre que sur demande du Président ou du Rapporteur du Bureau compétent ou sur une demande signée par cinquante Députés. Les protestataires ayant désigné l'un d'eux, celui-ci sera entendu par la commission prévue à l'article premier et, en cas de désaccord, par le Bureau compétent. Si le désaccord persiste, le débat sera porté devant la Chambre.
+Lorsque le rapport du Bureau compétent est favorable, la validation d'un Député ne peut être retirée de l'ordre du jour de la Chambre que sur demande du Président ou du Rapporteur du Bureau compétent.
 
 ## Article 3 bis
 
@@ -274,29 +274,27 @@ Ces documents et les procès-verbaux des Bureaux et des commissions restent dép
 
 ## Article 28
 
-L'auteur d'une proposition a le droit d'assister, avec voix consultative, aux séances de la commission chargée de l'examiner. Il se retire au moment du vote.
+L'auteur d'une proposition, d'un amendement ou d'observations écrites est convoqué aux séances de la commission à l'ordre du jour desquelles a été inscrit l'examen de sa proposition. Il a le droit d'assister, avec voix consultative, aux séances auxquelles il est convoqué. Il se retire au moment du vote.
 
 S'il y a plusieurs auteurs d'une même proposition, ils doivent désigner un d'entre eux qui les représentera auprès de la commission.
 
 Chacune des grandes commissions a le droit de désigner l'un de ses membres à l'effet de participer, avec voix consultative, aux travaux de la Commission des finances pendant l'examen des chapitres du budget ou des cahiers de crédits qui ressortissent à sa compétence.
 
-Les rapporteurs spéciaux de la commission des finances participent de droit, avec voix consultative, aux travaux des commissions dont la compétence correspond au budget particulier dont ils ont le rapport.
+Les rapporteurs spéciaux de la commission des finances participent de droit, avec voix consultative, aux travaux des commissions dont la compétence correspond au budget particulier dont ils ont le rapport. Ils sont convoqués à chacune des séances de la commission.
 
-Dans les quinze jours qui suivent le renvoi d'un projet ou d'une proposition de loi ou de résolution, la commission saisie désigne un rapporteur provisoire chargé de suivre la question et d'en préparer l'examen par la commission.
+Dans les quinze jours qui suivent la distribution d'un projet ou d'une proposition de loi ou de résolution, la commission saisie désigne un rapporteur provisoire chargé de suivre la question et d'en préparer l'examen par la commission.
 
-Lorsqu'un projet ou une proposition de loi a été l'objet d'un renvoi pour avis, la commission saisie désigne un rapporteur appelé à intervenir en son nom dans la disucussion. L'avis doit être donné dans le délai de dix jours après que la commission saisie pour avis a eu connaissance des conclusions de la commission saisie du fond. Le rapporteur de l'avis a le droit de participer, avec voix consultative, aux travaux de la commission saisie du fond, et, réciproquement, le rapporteur de la commission saisie du fond a le droit de participer, avec voix consultative, aux travaux de la commission saisie pour avis.
+Lorsqu'un projet ou une proposition de loi a été l'objet d'un renvoi pour avis, la commission saisie désigne un rapporteur appelé à intervenir en son nom dans la disucussion. L'avis doit être donné dans les six jours qui suivent la distribution du rapport. Le rapporteur de l'avis a le droit de participer, avec voix consultative, aux travaux de la commission saisie du fond, et, réciproquement, le rapporteur de la commission saisie du fond a le droit de participer, avec voix consultative, aux travaux de la commission saisie pour avis. Les rapporteurs admis aux délibérations avec voix consultative sont convoqués comme les membres de la commission.
 
 Les noms des titulaires des mandats conférés en vertu des quatre paragraphes ci-dessus seront notifiés au Président de la Chambre et publiés en annexe au procès-verbal de la Conférence des Présidents.
 
 ## Article 29
 
-Tout projet ou proposition de loi ou de résolution renvoyé à une commission doit être rapporté dans le délai maximum de quatre mois, non compris les intersessions, à dater du jour du renvoi à la commission.
+Tout projet ou proposition de loi ou de résolution, ou tout amendement disjoint, renvoyé à une commission doit être rapporté dans le délai maximum de quatre mois, non compris les intersessions, à dater du jour de sa distribution. Si, à l'expiration de ce délai, les conclusions de la commission ne peuvent être déposées, un avant-rapport expose sommairement l'état des travaux de la commission.
 
 ## Article 30
 
-Dans toute commission, la présence de la moitié des membres est nécessaire pour la validité des votes.
-
-Au cas d'impossibilité d'un vote par le défaut du quorum fixé au paragraphe précédent, le scrutin explicitement porté à l'ordre du jour de la séance suivante est valable à cette séance, quel que soit le nombre des membres présents.
+Dans toute commission, la présence de la moitié des membres est nécessaire pour la validité des votes. Le vote par scrutin peut être demandé par trois membres en toute matière lorsque le quorum prescrit à l'alinéa précédent est atteint. Il est de droit. Le résultat du vote est alors publié au Bulletin des commissions. La publication au Bulletin des commissions des noms des membres qui ont demandé le scrutin et de ceux des votants peut être demandée. Elle est de droit et les noms des auteurs de cette dernière demande sont également publiés.
 
 Le lendemain de chaque séance des commissions, les noms des membres présents, excusés et absents sont insérés au Journal officiel ; en cas d'impossibilité d'un vote par défaut de quorum, mention en est également faite.
 
@@ -320,7 +318,7 @@ Celle-ci peut ordonner que le projet ou la proposition sera examiné par ces com
 
 Toute commission chargé de l'examen d'un projet de loi ou d'une proposition affectant les recettes ou les dépenses de l'Etat fait un rapport sur l'ensemble du projet, sans pouvoir proposer d'imputation de crédits.
 
-Si les conclusions sont favorables au projet, elle est tenue de les communiquer à la commission du Budget. Celle-ci, dans les dix jours, donne son avis sur l'imputation des crédits.
+Si les conclusions sont favorables au projet, elle est tenue de les communiquer à la commission du Budget. Celle-ci, dans les six jours, donne son avis sur l'imputation des crédits.
 
 Cet avis motivé est imprimé et annexé au rapport principal.
 
@@ -338,13 +336,21 @@ Tout Député a le droit de faire parvenir directement à une commission des obs
 
 La commission répond à ces observations soit dans son rapport, soit dans un rapport supplémentaire.
 
+## Article 34 bis
+
+Après l'expiration du délai de six jours prévu pour le dépôt des amendements et avant la mise à l'ordre du jour, la commission pourra, si elle le juge utile, inscrire à son ordre du jour l'examen en deuxième lecture d'un projet ou proposition et déposer un rapport supplémentaire qui sera imprimé et distribué.
+
+## Article 34 ter
+
+La Chambre pourra, sur la proposition de la conférence des présidents, réduire les délais prévus par les articles 28, 32, 34, 85 et 95 pour le dépôt des avis, observations écrites et amendements et pour l'inscription à l'ordre du jour.
+
 ## Article 35
 
-Il est établi, au moins une fois par an, par les soins du Secrétariat général de la Chambre, un état des travaux de chaque grande commission permanente, lequel doit mentionner les noms des rapporteurs désignés pour chaque question.
+Il est établi, au moins une fois par an, par les soins du Secrétariat général de la Chambre, un état des travaux de chaque grande commission permanente, lequel doit mentionner les noms des rapporteurs désignés pour chaque question. Il est publié hebdomadairement, d'autre part, un Bulletin des commissions qui comprend, dans sa première partie et pour chaque commission, la liste des projets, des propositions de loi ou de résolution distribués. Pour chaque commission et pour chaque séance seront insérées au Journal officiel, le dimanche, pour toutes les séances de la semaine, et les jours suivants, pour le cas de séances imprévues, ainsi que dans la première partie du Bulletin des commissions : 1° La liste des projets, des propositions de loi ou de résolution, avec l'indication des amendements et des observations écrites qui les visent, inscrits à l'ordre du jour de la commission ; 2° La liste des rapports distribués avec l'indication de la date d'expiration du délai pour le dépôt des amendements ; 3° La liste des rapports inscrits pour une deuxième lecture. Le Bulletin des commissions publie dans sa seconde partie le procès-verbal sommaire des séances avec le dispositif in extenso des articles des projets et propositions de loi ou de résolution et des amendements écrits examinés.
 
 ## Article 36
 
-Après le renouvellement intégral de la Chambre, les rapports sur le fond déposés par les commissions de la précédente législature peuvent être repris et renvoyés aux commissions nouvelles, soit sur l'initiative des commissions elles-mêmes, soit sur l'initiative de 20 membres.
+Après le renouvellement intégral de la Chambre, et dans un délai d'un an, les rapports sur le fond déposés par les commissions de la précédente législature peuvent être repris et renvoyés aux commissions nouvelles, soit sur l'initiative des commissions elles-mêmes, soit sur l'initiative de 20 membres.
 
 Les demandes de renvoi sont déposées entre les mains du Président, qui les communique à la Chambre. Lorsque la demande émane d'une commission, le renvoi est de droit ; dans le cas contraire, la Chambre statue, par assis et levé, sans débat.
 
@@ -412,11 +418,19 @@ Les Ministres, les Commissaires du Gouvernement et les rapporteurs chargés de s
 
 Un député peut toujours obtenir la parole après un orateur du Gouvernement ou de la commission.
 
+## Article 43 bis
+
+La Conférence des Présidents peut proposer à la Chambre de fixer la durée des débats sur un projet ou une proposition et la date d'ouverture du scrutin. Les Vice-Présidents de la Chambre, les Présidents des groupes, les Présidents et les Rapporteurs des commissions saisies au fond et pour avis, les orateurs inscrits n'appartenant à aucun groupe et non apparentés, et un membre du Gouvernement réunis par le Président de la Chambre et sous sa présidence,fixent la date limite au delà de laquelle ne pourront avoir lieu le vote sur le passage à la discussion des articles, et, s'il y a lieu, sur les diverses sections du projet, et répartissent le temps de parole entre les orateurs partisans du projet, le Gouvernement et la commission, d'une part, et les adversaires du projet, de l'autre.
+
+L'ordre d'inscription des orateurs ne confère aucune priorité pour le tour de parole.
+
+Les orateurs ou les représentants des groupes se concerteront, soit pour répartir entre eux le temps qui leur est accordé, soit pour désigner ensemble un ou plusieurs orateurs. Ils remettront ensuite le nom des orateurs au Président qui dressera la liste dans l'ordre le plus utile à la clarté de la discussion, mais en laissant toujours le dernier tour à un adversaire du projet ou à un orateur de la minorité.
+
 ## Article 44
 
-La parole est accordée à tout député qui la demande pour un fait personnel.
+La parole est accordée, mais seulement à la fin de la séance, à tout député qui la demande pour un fait personnel.
 
-Il devra se borner à de brèves rectifications de fait qui ne pourront durer plus de cinq minutes. S'il a de plus amples observations à présenter, elles sont renvoyées à la fin de la séance.
+Dans le cas d'imputations infamantes ou d'outrages personnels, le Président peut donner la parole immédiatement au Député mis en cause ; celui-ci disposera de cinq minutes.
 
 ## Article 45
 
@@ -438,13 +452,15 @@ Toute attaque personnelle, toutes manifestations troublant l'ordre sont interdit
 
 Lorsque au moins deux orateurs d'avis contraires ont pris part à une discussion, tout membre de la Chambre peut réclamer la clôture de cette discussion.
 
-Si la parole est demandée sur la clôture, elle ne peut être accordée qu'à un seul orateur qui ne pourra la garder pendant plus de cinq minutes. Le premier inscrit et, après lui, chaque inscrit dans l'ordre d'inscription, s'il demande la parole sur la clôture, a la priorité ; à défaut des inscrits, la parole sur la clôture est donnée au Député qui l'a demandée le premier.
+Si la parole est demandée sur la clôture de la discussion générale, elle ne peut être accordée qu'à un seul orateur qui ne pourra la garder pendant plus de cinq minutes. Le premier inscrit et, après lui, chaque inscrit dans l'ordre d'inscription, s'il demande la parole sur la clôture, a la priorité ; à défaut des inscrits, la parole sur la clôture est donnée au Député qui l'a demandée le premier.
 
 Le Président consulte la Chambre par mains levées.
 
-S'il y a doute sur le vote de la Chambre, après une seconde épreuve, la discussion continue.
+Sauf pour la discussion générale, la Chambre est appelée, sans débat, à se prononcer sur la clôture.
 
-La clôture prononcée, la parole n'est plus accordée que sur la position de la question ou pour une explication sommaire de vote qui ne pourra dépasser une durée de cinq minutes.
+S'il y a doute sur le vote de la Chambre, après une seconde épreuve, par assis et levé, la discussion continue.
+
+La clôture prononcée, la parole n'est plus accordée que pour une explication sommaire de vote qui ne pourra dépasser une durée de cinq minutes.
 
 ## Article 49
 
@@ -456,7 +472,11 @@ Elle est mise aux voix avant la question principale.
 
 ## Article 49 bis
 
-Lorsque, en cours de discussion,une motion est présentée sur l'ordre des débats, tendant soit au retrait de l'ordre du jour du projet ou de la proposition, soit à son renvoi, après une certaine date, après un vote de la Chambre, ou après un événement quelconque, soit à une modification dans l'ordre d'examen des articles tel qu'il résulte de leur numérotage, soit au renvoi de l'article à la commission, soit à tout autre objet, seul l'auteur de la motion, un orateur contre, le Rapporteur, le Président de la commission et le Gouvernement pourront prendre la parole. L'auteur de la motion et l'orateur contre ne peuvent parler plus de dix minutes. En cas de réplique, l'auteur de la motion dispose de cinq minutes. L'auteur de la motion et un orateur contre peuvent céder son tour de parole à un de leurs collègues.
+Lorsque, en cours de discussion,une motion est présentée sur l'ordre des débats, tendant soit au retrait de l'ordre du jour du projet ou de la proposition, soit à son renvoi, après une certaine date, après un vote de la Chambre, ou après un événement quelconque, soit à une modification dans l'ordre d'examen des articles tel qu'il résulte de leur numérotage, soit au renvoi à la commission du projet ou de la proposition, soit à tout autre objet, seul l'auteur de la motion, un orateur contre, le Rapporteur, le Président de la commission et le Gouvernement pourront prendre la parole. L'auteur de la motion et l'orateur contre ne peuvent parler plus de dix minutes. En cas de réplique, l'auteur de la motion dispose de cinq minutes. L'auteur de la motion et un orateur contre peuvent céder leur tour de parole à un de leurs collègues.
+
+Le renvoi à la commission du projet ou de la proposition de loi est de droit et prononcé sans débat lorsqu'il est demandé ou accepté, soit par la commission, soit par le Gouvernement.
+
+Le Gouvernement et la commission peuvent seuls demander la réserve ou le renvoi d'un article à la commission. La réserve ou le renvoi sont de droit lorsqu'ils sont demandés par la commission et si le Gouvernement ne s'y oppose pas.
 
 ## Article 50
 
@@ -465,6 +485,10 @@ Les demandes d'ordre du jour, de priorité et de rappel au Règlement, ont toujo
 Toutefois, elles ne peuvent se produire tant que l'auteur n'a pas achevé son discours.
 
 Seul l'auteur de la proposition et un orateur contre elle peuvent parler pendant un maximum de dix minutes.
+
+## Article 50 bis
+
+Avant l'examen des contre-projets ou avant l'examen de l'article premier, le Gouvernement peut demander la prise en considération en faveur de son texte régulièrement déposé. Il peut, au cours de la discussion, faire la même proposition pour un ou plusieurs articles. Cette demande a la priorité sur les contre-projets ou sur les amendements. Le débat sur cette demande ne pourra être limité ni pour le nombre des orateurs, ni pour la durée du temps de parole, mais la clôture pourra toujours être proposée. Sur la clôture, la parole ne peut être accordée qu'à un seul orateur qui ne pourra la garder pendant plus de cinq minutes.
 
 ## Article 51
 
@@ -624,15 +648,23 @@ Il peut être demandé, soit avant l'épreuve commencée, soit après la premiè
 
 ## Article 72
 
-La demande de scrutin public doit être faite par écrit, signée de vingt Députés au moins, et déposée entre les mains du Président.
+La demande de scrutin public doit être faite par écrit, signée soit du président ou du secrétaire d'un groupe, si ce groupe comprend plus de vingt-cinq Députés, soit du secrétaire d'un intergroupe réunissant le même nombre de membres, soit de vingt-cinq Députés au moins dont la présence est constatée par appel nominal. La demande doit porter le nom et la signature des Députés et être déposée entre les mains du Président.
 
-La demande de scrutin peut être faite oralement par un seul membre après la première épreuve à mains levées si celle-ci est déclarée douteuse.
+Après le dépôt, il ne peut être ajouté aucune signature.
+
+A l'appel de son nom, le Député présent doit se lever à son banc.
+
+Le Gouvernement et la commission peuvent oralement demander le scrutin public, il est de droit.
 
 Les noms des membres qui ont demandé le scrutin et ceux des votants sont insérés à la suite du compte rendu in extenso.
+
+La demande de scrutin peut être faite oralement par un seul membre après la première épreuve à mains levées si celle-ci est déclarée douteuse.
 
 ## Article 73
 
 Le vote par scrutin public est obligatoire sur les projets de loi établissant ou modifiant les impôts et contributions publics.
+
+Cette disposition n'est pas applicable aux affaires inscrites sous réserve qu'il n'y ait pas débat.
 
 ## Article 74
 
@@ -652,7 +684,7 @@ La Chambre décide, à mains levées et sans débats, sur la proposition du Pré
 
 ## Article 76
 
-Sur une demande écrite, visant expressément un scrutin déterminé, et signée de cinquante membres dont la présence à la séance est constatée par appel nominal, le scrutin public a lieu à la tribune.
+Sur une demande écrite, visant expressément un scrutin déterminé, et signée de cinquante membres dont la présence à la séance est constatée par appel nominal, conformément à l'article 72, le scrutin public a lieu à la tribune.
 
 Avant l'appel nominal préalable à l'ouverture du scrutin public à la tribune, le Bureau fera connaître si le nombre des présents atteint la majorité absolue du nombre réel des Députés en fonction. Si le Bureau affirme que le quorum est atteint, le scrutin est valable, quel qu soit le nombre des suffrages exprimés. Dans le cas contraire, le scrutin est renvoyé à une séance ultérieure.
 
@@ -662,7 +694,7 @@ Il est procédé à l'émargement des noms des votants au fur et à mesure des v
 
 Le scrutin reste ouvert pendant une heure.
 
-Si avant l'ouverture du scrutin public à la tribune une demande de renvoi est présentée signée de vingt membres dont la présence est constatée par appel nominal, la Chambre se prononce sur cette demande par scrutin public en la forme prévue à l'article 74.
+Si avant l'ouverture du scrutin public à la tribune une demande de renvoi est présentée signée de vingt-cinq membres dont la présence est constatée conformément au 3° alinéa de l'article 72, la Chambre se prononce sur cette demande par scrutin public en la forme prévue à l'article 74.
 
 ## Article 77
 
@@ -698,7 +730,7 @@ La rectification d'un vote n'est admise que dans le mois qui suit ce vote.
 
 ## Article 82
 
-Les projets et propositions de loi sont, en principe, soumis à une seule délibération.
+Les projets et propositions de loi sont, en principe, soumis à une seule délibération en séance publique.
 
 Toutefois, avant le vote sur l'ensemble des projets ou propositions, la Chambre peut décider, sur la demande d'un membre, qu'il sera procédé à une seconde délibération.
 
@@ -708,13 +740,23 @@ Dans ce cas, les textes votés en première lecture sont renvoyés à la commiss
 
 La première discussion porte d'abord sur l'ensemble du projet ou de la proposition de loi.
 
+Les orateurs, dans la discussion générale, disposeront chacun d'une demi-heure.
+
+Le Président et le Rapporteur de la commission disposeront chacun d'une heure.
+
 Quand cette discussion générale est close, le Président consulte la Chambre pour savoir si elle entend passer à la discussion des articles.
 
 Si la Chambre décide qu'elle ne veut point passer à la discussion des articles, le Président déclare que le projet de loi n'est pas adopté.
 
 Dans le cas contraire, la discussion continue ; elle porte successivement sur chaque article et sur les amendements qui s'y rattachent.
 
+Sur chaque article, il ne peut être entendu, indépendamment du Président de la commission et du Rapporteur, qu'un seul orateur contre. Ils disposent chacun d'une demi-heure.
+
+Les amendements soumis à la délibération ne peuvent être modifiés au cours de la discussion.
+
 Après le vote de tous les articles, il est procédé à un vote sur l'ensemble.
+
+Il ne peut être présenté de considérations générales sur l'ensemble. Sont seules admises, avant le vote d'ensemble, et s'il y a scrutin public, les explications sommaires de vote n'excédant pas cinq minutes.
 
 Si les dispositions présentées par la commission sont rejetées, le texte primitif des projets et propositions de loi que le Gouvernement ou les auteurs desdites propositions ont déclaré maintenir est repris. Il est soumis aux votes de la Chambre.
 
@@ -724,6 +766,8 @@ Les amendements provenant de l'initiative d'un ou plusieurs membres, indiquent l
 
 Ces amendements sont rédigés par écrit et sommairement motivés sont déposés entre les mains du Président. Ils sont imprimés, distribués et transmis à la commission compétente.
 
+Les amendements ou articles additionnels ne sont recevables que s'ils sont proposés dans le cadre du projet ou de la proposition et s'ils s'appliquent effectivement à l'article qu'ils visent.
+
 Toute la procédure relative aux amendements s'applique aux contre-projets et aux articles additionnels.
 
 ## Article 85
@@ -732,11 +776,27 @@ Tous les amendements concernant un même projet et présentés avant le dépôt 
 
 La commission doit indiquer dans son rapport la suite qu'elle leur a donnée et les raisons de sa décision.
 
-Les amendements présentés après le dépôt et avant la mise à l'ordre du jour du rapport doivent faire l'objet d'un rapport supplémentaire.
-
-Tout auteur d'amendement a le droit d'être entendu par la commission chargée de l'examiner.
+Les amendements présentés après le dépôt du rapport ne sont recevables que dans un délai maximum de six jours francs, à compter de la distribution du rapport ; ils peuvent faire l'objet d'un rapport supplémentaire.
 
 La Chambre ne délibère sur aucun amendement, si, après avoir été régulièrement déposé, il n'est appuyé lors de la discussion.
+
+Sur chaque amendement ne peuvent être entendus que le Gouvernement, le Président de la commission, le Rapporteur et l'un des signataires de l'amendement. L'auteur de l'amendement peut céder son droit de parole.
+
+Les amendements acceptés par la commission ne peuvent être développés en séance, à moins que le rejet n'en soit demandé. En ce cas, le Gouvernement, le Président et le Rapporteur de la commission, l'auteur de la demande de rejet et l'auteur de l'amendement sont seuls entendus.
+
+Si plusieurs amendements identiques sont déposés, seul l'auteur du premier amendement a la parole.
+
+Les orateurs disposent de quinze minutes ; le Président les rappelle au sujet s'ils traitent une question en dehors de l'amendement lui-même.
+
+## Article 85 bis
+
+Sont soumis à la discussion en séance publique les amendements imprimés et déposés dans les conditions des articles 84 et 85. Sont alors seuls recevables en séance publique : 1° Les amendements dont la commission ou le Gouvernement acceptent la discussion ; 20 Les amendements qui reproduisent le texte voté par le Sénat ;
+
+3° Les amendements déposés au nom d'une commission saisie pour avis ;
+
+40 Les amendements qui se rapportent directement à un ou à plusieurs alinéas modifiés par la commission ou par la Chambre au cours de la discussion.
+
+Lors de la discussion, en séance publique, d'un rapport, le renvoi peut, par motion motivée, être prononcé pour une nouvelle lecture en commission.
 
 ## Article 86
 
@@ -940,7 +1000,7 @@ Les interpellations de Député à Député sont interdites.
 
 La Chambre, après avoir entendu un des membres du Gouvernement, fixe, sans débats sur le fond, le jour où l'interpellation sera discutée.
 
-Cette fixation a lieu de plein droit à la fin de la séance.
+Cette fixation a lieu à une séance du vendredi, soit le matin, soit l'après-midi.
 
 Toutefois, sur demande écrite de l'orateur, remise en même temps que l'interpellation, le Président, après avoir informé le Gouvernement, donne, sans délai, connaissance de l'interpellation à la Chambre qui décide par assis et levé, et sans qu'aucun membre puisse prendre la parole, s'il sera procédé immédiatement à la fixation de la date.
 
@@ -961,6 +1021,10 @@ L'orateur inscrit en cette qualité ne peut céder son tour qu'à un autre inter
 L'auteur de l'interpellation a un droit de priorité pour répondre au Gouvernement, en un quart d'heure.
 
 Aucune interpellation ne peut être jointe à la discussion du budget.
+
+## Article 112 bis
+
+La Conférence des Présidents de groupe, prévue à l'article 43 bis, groupera les demandes d'interpellation sur le même objet, en réduira le nombre le cas échéant et fixera la durée de la discussion. Toute la procédure prévue à l'article 43 bis pour la répartition du temps de parole est applicable.
 
 ## Article 113
 
