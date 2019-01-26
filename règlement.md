@@ -114,6 +114,10 @@ Ces commissions prennent les dénominations suivantes :
 
 19.Commission des Travaux publics, des Chemins de fer et des Voies de communication.
 
+## Article 11 bis
+
+Lors du renouvellement annuel, les nouvelles commissions seront saisies de plein droit de tous les travaux dont étaient chargée les commissions qu'elles sont appelées à remplacer.
+
 ## Article 12
 
 Les grandes commissions permanentes sont nommées au scrutin de liste en assemblée générale.
@@ -122,27 +126,23 @@ Elles sont composées chacune de 44 membres.
 
 Cinq jours avant la date fixée pour la nomination de ces commissions, les Bureaux des groupes remettront au Président de la Chambre, pour être publiée à la suite du compte rendu in extenso, la liste électorale de leurs membres.
 
+Les Députés qui n'appartiennent à aucun groupe en aviseront le Président de la Chambre qui les convoquera en un bureau spécial à l'effet de choisir leurs candidats.
+
 Nul ne pourra figurer à la fois sur la liste de deux groupes.
 
 Trois jours avant la date fixée pour la nomination, les bureaux des groupes, après s'être concertés, remettront au Président de la Chambre la liste de candidats qu'ils auront établie conformément à une règle de proportionnalité.
 
 Cette liste sera immédiatement insérée à la suite du compte rendu in extenso.
 
-Toute liste de candidats ainsi déposée sera considérée comme ayant reçu la ratification de la Chambre si, avant le jour fixé pour la nomination, 50 Députés dont les noms seront insérés à la suite du compte rendu in extenso, ne s'y sont pas opposés par une déclaration écrite remise au Président de la Chambre.
+Toute liste de candidats ainsi déposée sera considérée comme ayant reçu la ratification de la Chambre si, avant le jour fixé pour la nomination, 50 Députés ne s'y sont pas opposés par une déclaration écrite remise au Président de la Chambre.
 
 Dans le cas d'opposition, la Chambre procédera à un vote par scrutin de liste.
-
-Lorsque des vacances viendront à se produire dans l'année, par décès, démission au autrement, chaque groupe désignera les candidats appelés à remplacer ses membres sortants et en remettra la liste au Président de la Chambre.
-
-Cette liste sera insérée à la suite du compte rendu in extenso et elle sera considérée comme ratifiée si, dans les trois jours qui suivent son insertion, aucune opposition n'a été remise par écrit au Président de la Chambre. ???
-
-Dans le cas d'opposition, il sera pourvu aux vacances par la même procédure que celle employée pour la nomination annuelle, les bureaux des groupes devant toujours observer, pour la présentation des candidatures, la règle de proportionnalité visée au paragraphe 6 du présent article.
 
 Lorsque, sans congé officiel, un membre d'une commission n'aura pas assisté à cinq séances successives, la vacance sera prononcée, dès le lendemain de la cinquième absence, par le Bureau de la Chambre. Il sera pourvu à la vacance suivant les règles qui ont présidé à la formation primitive de la commission. Le député dont l'absence aura provoqué la vacance ne sera pas immédiatement rééligible.
 
 ## Article 13
 
-Aucun député ne peut faire partie simultanément de plus de trois grandes commissions permanentes.
+Aucun député ne peut faire partie simultanément de plus de deux grandes commissions permanentes.
 
 ## Article 14
 
