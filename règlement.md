@@ -862,6 +862,16 @@ Les interpellations de député à député sont interdites.
 
 La Chambre, après avoir entendu un des membres du Gouvernement, fixe, sans débats sur le fond, le jour où l'interpellation sera faite.
 
+Cette fixation a lieu de plein droit à la fin de la séance.
+
+Toutefois, sur demande écrite de l'auteur de l'interpellation et communiquée par le Président, la Chambre décide par assis et levé, et sans qu'aucun membre puisse prendre la parole, s'il sera procédé immédiatement à la fixation de la date.
+
+En aucun cas les explications sur la date ne pourront durer plus de cinq minutes.
+
+En cas de jonction d'interpellations, la clôture ne peut être réclamée avant que le premier signataire, ou à son défaut l'un des signataires de chaque interpellation ait pu se faire entendre.
+
+Le droit de répondre au Gouvernement ne peut être exercé sur la fixation de la date que pendant cinq minutes.
+
 Les interpellations sur la politique intérieure ne peuvent être renvoyées à plus d'un mois.
 
 Après les trois séances qui suivent celle ou la Chambre a fixé la date de la discussion d'une interpellation ou dès que cette discussion a commencée, aucune jonction d'interpellation nouvelle ne peut être ordonnée.
