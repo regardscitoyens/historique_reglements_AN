@@ -518,7 +518,7 @@ Après le vote d'une loi, la Chambre, sur la proposition d'un député, est cons
 
 ## Article 78
 
-La Chambre vote sur les questions soumises à ses délibérations par assis et levé, au scrutin public, au scrutin secret.
+La Chambre vote sur les questions soumises à ses délibérations par assis et levé, au scrutin public.
 
 ## Article 79
 
@@ -567,20 +567,6 @@ Il y est procédé de la manière suivante :
 Chaque député, après avoir reçu une boule de contrôle des mains d'un secrétaire, dépose son bulletin dans l'urne du vote placée sur la tribune et la boule de contrôle dans l'urne placé sur le bureau des secrétaires de droite.
 
 Il est procédé au dépouillement du scrutin conformément à l'article précédent.
-
-## Article 86
-
-Dans tous les cas où le scrutin public peut ou doit être admis, si cinquante membre réclament le scrutin secret, il doit y être procédé.
-
-Les noms des signataires de la demande sont insérés au Journal officiel.
-
-## Article 87
-
-Le scrutin secret a lieu dans les mêmes formes que le scrutin public à la tribune ; seulement le bulletin de vote est remplacé par une boule blanche ou noire. La boule blanche exprime l'adoption, la boule noire la non-adoption.
-
-Les secrétaires versent dans une corbeille les boules ayant servi au vote ; ils font ostensiblement le compte des boules et séparent les boules blanches des noires ; ils procèdent de la même manière au dépouillement de l'urne de contrôle.
-
-Le résultat du compte est arrêté par quatre secrétaires au moins et proclamé par le Président.
 
 ## Article 88
 
