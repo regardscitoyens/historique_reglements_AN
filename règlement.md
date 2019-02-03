@@ -10,11 +10,11 @@ Ses membres portent le titre de Députés à l'Assemblée nationale.
 
 ## Article 2
 
-Au début d'une législature ainsi qu'à l'ouverture de la première séance de chaque session annuelle de l'Assemblée nationale, le plus âgé des membres présents occupe le fauteuil jusqu'à la proclamation de l'élection du Président.
+Au début d'une législature ainsi qu'à l'ouverture de la première séance de chaque session ordinaire de l'Assemblée nationale, le plus âgé des membres présents prend place au fauteuil jusqu'à la proclamation de l'élection du Président.
 
 Les six plus jeunes Députés présents remplissent les fonctions de Secrétaires jusqu'à l'élection du Bureau définitif.
 
-Aucun débat ne peut avoir lieu sous la présidence du doyen d'âge.
+Aucun débat, à l'exception des débats de validation, ne peut avoir lieu sous la présidence du doyen d'âge.
 
 # CHAPITRE III BUREAUX VERIFICATION DES POUVOIRS DEMISSIONS
 
@@ -252,7 +252,7 @@ Seule, la commission des finances nomme un Rapporteur général.
 
 ## Article 18 bis
 
-Une commission de 22 membres, nommée pour la durée de la session annuelle, suivant la procédure prévue à l'article 16 pour la nomination des commissions générales, examine les questions relatives à l'immunité parlementaire instituée par l'article 22 de la Constitution. Cette commission prend la dénomination de « commission des immunités parlementaires ».
+Une commission de 22 membres titulaires et 22 membres suppléants, nommée au début de la législature ou de la sessio ordinaire, suivant la procédure prévue à l'article 16 pour la nomination des commissions générales, et en même temps que celles-ci, examine les questions relatives à l'immunité parlementaire instituée par l'article 22 de la Constitution. Cette commission prend la dénomination de « commission des immunités parlementaires ».
 
 Le Bureau de cette commission se compose de :
 
@@ -262,27 +262,27 @@ Le Bureau de cette commission se compose de :
 
 1 Secrétaire.
 
-La présence aux réunions de la commission est obligatoire et aucun remplacement n'y est autorisé.
+La présence aux réunions de la commission est obligatoire un membre titulaire ne peut se faire remplacer que par un membre suppléant du même groupe.
 
 La commission ne peut valablement délibérer que si la moitié au moins de ses membres sont présents.
 
 Sont renvoyées à l'examen de la commission :
 
-les demandes en autorisation de poursuites formulées par des Parquets ou par des particuliers à rencontre de membres de l'Assemblée nationale.
+les demandes en autorisation de poursuites formulées par des Parquets ou par des particuliers à l'encontre de membres de l'Assemblée nationale.
 
 les propositions de résolution déposées par les Députés en vue de requérir la suspension des poursuites engagées contre l'un de leurs collègues ou la suspension de sa détention.
 
-Dans les huit jours qui suivent la distribution des documents soumis à l'Assemblée, la commission désigne un rapporteur.
+Dans les quinze jours qui suivent la distribution des documents soumis à l'Assemblée, la commission désigne un rapporteur.
 
-La commission constitue dans son sein des sous-commissions — dont font obligatoirement partie les rapporteurs intéressés — chargées d'étudier les affaires et de lui soumettre des projets de conclusions.
+La commission constitue dans son sein des sous-commissions — dont font obligatoirement partie les rapporteurs intéressés — chargées d'étudier les affaires et de lui soumettre des projets de conclusions. Lorsqu'un membre suppléant a été désigné pour une sous-commission, il doit siéger à cette sous-commission jusqu'à la conclusion de ses travaux.
 
-La sous-commission compétente et la commission elle-même doivent entendre le Député intéressé, lequel peut se faire représenter par l'un de ses collègues.
+La sous-commission compétente doit entendre le Député intéressé, lequel peut se faire représenter par l'un de ses collègues. La commission, à la demande d'un de ses membres, entend le Député ou son représentant.
 
-Le rapport de la commission doit être distribué dans le délai franc de trente jours à compter de la distribution des documents soumis à l'Assemblée.
+Le rapport de la commission doit être distribué dans le délai franc de trente jours à compter de la distribution des documents soumis à l'Assemblée. Un nouveau délai d'égale durée peut être accordé à la commission, sur sa demande, par l'Assemblée.
 
 Le rapport est inscrit, d'office, en tête de l'ordre du jour du premier jour de séance suivant sa distribution.
 
-Si le rapport n'est pas distribué dans le délai précité de trente jours francs, l'examen de l'affaire est inscrit, d'office, en tête de l'ordre du jour du deuxième jour de séance suivant l'expiration dudit délai. L'Assemblée est alors appelée à se prononcer directement, selon le cas, soit sur la mainlevée de l'immunité parlementaire pour les faits visés dans la demande en autorisation de poursuites, soit sur la demande de suspension de la poursuite ou de la détention.
+Si le rapport n'est pas distribué dans les délais précités, l'examen de l'affaire est inscrit, d'office, en tête de l'ordre du jour du deuxième jour de séance suivant l'expiration desdits délais. L'Assemblée est alors appelée à se prononcer directement, selon le cas, soit sur la levée de l'immunité parlementaire pour les faits visés dans la demande en autorisation de poursuites, soit sur la demande de suspension de la poursuite ou de la détention.
 
 Dans les débats ouverts sur les questions d'immunité parlementaire peuvent seuls prendre la parole : le Rapporteur de la commission, le Gouvernement, le Député intéressé ou un membre de l'Assemblée le représentant, un orateur « pour » et un orateur « contre ».
 
@@ -302,15 +302,17 @@ Dans tous les cas ou la représentation de l'Assemblée n'est pas prévue par un
 
 ## Article 20
 
-Les projets de loi présentés au nom du Gouvernement, les propositions de loi ou de résolution présentées par les Députés, dûment authentiqués, sont déposés sur le Bureau de l'Assemblée nationale, imprimés, distribués et renvoyés à l'examen de la commission compétente ou d'une commission spéciale de l'Assemblée.
+Les projets de loi dont le Gouvernement saisit l'Assemblée nationale, les projets ou propositions de loi adoptés ou modifiés par le Conseil de la République, les propositions de loi ou de résolution présentées par les Députés sont déposés sur le Bureau de l'Assemblée nationale, imprimés, distribués et renvoyés à l'examen de la commission compétente ou d'une commission spéciale de l'Assemblée.
 
-Conformément au premier alinéa et à la première phrase du troisième alinéa de l'article 14 de la Constitution, les propositions de loi formulées par les membres du Conseil de la République ne sont recevables sur le Bureau de l'Assemblée nationale que si elles lui ont été transmises sans débat préalable en séance publique ou au sein d'une commission du Conseil de la République. Lorsqu'elles sont recevables, elles sont déposées sur le Bureau de l'Assemblée nationale, imprimées, distribuées et renvoyées à l'examen de la commission compétente ou d'une commission spéciale de l'Assemblée.
+Les projets de loi déposés obligatoirement sur le Bureau de l'Assemblée nationale en vertu de l'article 14 de la Constitution ne peuvent faire l'objet de rectifications de la part du Gouvernement après leur adoption en première lecture.
 
-Les propositions de résolution transmises par le Bureau de l'Assemblée de l'Union française sont transmises par le Présent de l'Assemblée nationale au Président de la commission compétente.
+Les propositions de résolution transmises par le Bureau de l'Assemblée de l'Union française sont transmises par le Président de l'Assemblée nationale au Président de la commission compétente.
 
-La recevabilité des propositions transmises par le Bureau du Conseil de la République ou par le Bureau de l'Assemblée de l'Union française est appréciée, quant à l'application des articles 14 (dernière phrase) et 71 (dernier alinéa) de la Constitution, par le Président de l'Assemblée nationale, lequel, après avis du Bureau de l'Assemblée, peut, en cas de doute, soumettre la question de recevabilité à la décision de cette Assemblée.
+Lorsqu'une proposition de loi, adoptée en premier lieu par le Conseil de la République et transmise à l'Assemblée nationale, apparaît irrecevable à la commission compétente ou à la commission des Finances, en application de l'article 14 (alinéa 3 in fine) de la Constitution, l'Assemblée nationale est appelée à statuer sur la recevabilité par un rapport spécial de l'une ou de l'autre de ces deux commissions. Le rapport au fond ne peut être discuté qu'après la décision prise sur le rapport spécial.
 
-Le débat engagé devant l'Assemblée sur une question de recevabilité ne peut jamais porter sur le fond ; les Présidents des commissions intéressées, un orateur pour et un orateur contre peuvent seuls être entendus.
+La recevabilité des propositions transmises par le Bureau l'Assemblée de l'Union française est appréciée, quant à l'application de l'article 71 (dernier alinéa) de la Constitution, par le Président de l'Assemblée nationale, lequel, après avis du Bureau de l'Assemblée, peut, en cas de doute, soumettre la question de recevabilité à la décision de cette Assemblée.
+
+Les débats sur la recevabilité prévus aux alinéas qui précèdent ne peuvent porter sur le fond ; les Présidents des commissions intéressées, un orateur pour et un orateur contre peuvent seuls être entendus.
 
 Lorsqu'une proposition est déclarée irrecevable, elle est retransmise sans délai par le Bureau de l'Assemblée nationale au Bureau de l'Assemblée dont elle émane.
 
@@ -318,7 +320,7 @@ Lorsqu'il y a lieu à consultation du Conseil Economique ou de l'Assemblée de l
 
 Le Conseil Economique doit donner son avis dans les vingt jours suivant la distribution du projet ou de la proposition, cette distribution devant être faite sans délai, et en même temps, à l'Assemblée nationale et au Conseil Economique.
 
-Lorsque, sur la demande du Gouvernement ou de l'auteur d'une proposition, l'Assemblée nationale a déclaré l'urgence, cette déclaration est immédiatement notifiée par le Président de l'Assemblée nationale au Bureau du Conseil Economique; dans ce cas, le Conseil Economique doit donner son avis dans les deux jours suivant la distribution du projet ou de la proposition ou, si cette distribution a déjà eu lieu, suivant la notification de la déclaration d'urgence au Conseil Economique.
+Lorsque, sur la demande du Gouvernement, d'une commission ou de l'auteur d'une proposition, l'Assemblée nationale a déclaré l'urgence, cette déclaration est immédiatement notifiée par le Président de l'Assemblée nationale au Bureau du Conseil Economique; dans ce cas, le Conseil Economique doit donner son avis dans les deux jours suivant la distribution du projet ou de la proposition ou, si cette distribution a déjà eu lieu, suivant la notification de la déclaration d'urgence au Conseil Economique.
 
 ## Article 21
 
@@ -326,7 +328,7 @@ L' auteur ou le premier signataire d'une proposition peut toujours la retirer m�
 
 ## Article 22
 
-Lorsque, suivant les termes du 2° alinéa de l'article 36 de la Constitution, le Président de la République demande une nouvelle délibération ; le Président de l'Assemblée donne lecture de son message à l'Assemblée nationale.
+Lorsque, suivant les termes du deuxième alinéa de l'article 36 de la Constitution, le Président de la République demande une nouvelle délibération ; le Président de l'Assemblée nationale donne lecture de son message à l'Assemblée nationale qui procède en premier lieu à la nouvelle délibération.
 
 Le texte de la loi est renvoyé à l'examen de la commission compétente, laquelle doit statuer dans le délai imparti par l'Assemblée, qui ne peut, en aucun cas, excéder huit jours.
 
@@ -640,17 +642,19 @@ Lorsque la disjonction d'un article ou d'un amendement est prononcée, il est re
 
 ## Article 49
 
-Lorsque, par application de l'article 49 de la Constitution, le Président du Conseil pose la question de confiance, le vote sur ladite question ne peut intervenir qu'un jour franc après qu'elle a été posée; il a lieu au scrutin public.
+Lorsque, par application de l'article 49 de la Constitution, le Président du Conseil pose la question de confiance, le vote sur ladite question ne peut intervenir que vingt-quatre heures après qu'elle a été posée. En aucun cas le débat ne peut reprendre avant la vingt et unième heure.
 
-La confiance ne peut être refusée au Cabinet qu'à la majorité absolue des Députés à l'Assemblée.
+Le vote a lieu au scrutin public. La confiance est refusée au Cabinet à la majorité absolue des Députés à l'Assemblée.
 
 L'octroi ou le refus de la confiance entraîne, de droit, l'adoption ou le rejet du texte en faveur duquel la question de confiance est posée; il en résulte également, de droit, le rejet ou l'adoption du texte à l'encontre duquel la question de confiance est posée. Toutefois, lorsque l'octroi de la confiance résulte de l'absence de la majorité constitutionnelle requise pour son refus, le texte pour ou contre lequel s'est affirmée la majorité absolue des suffrages exprimés est ou n'est pas adopté.
+
+Lorsque la confiance a été refusée à la majorité absolue des Députés à l'Assemblée, la séance est immédiatement levée. Le Président du Conseil ou les membres du Cabinet ne peuvent reprendre la parole devant l'Assemblée avant d'avoir été invités par le Chef de l'Etat à assurer l'expédition des affaires courantes.
 
 ## Article 50
 
 La motion de censure, prévue par l'article 50 de la Constitution, est remise, signée, au Président, qui la notifie sans délai au Gouvernement. Elle porte obligatoirement l'intitulé « motion de censure ».
 
-Le vote sur la motion de censure ne peut intervenir qu'un jour franc après son dépôt; il a lieu au scrutin public.
+Le vote sur la motion de censure a lieu dans les mêmes conditions et les mêmes formes que le scrutin sur la question de confiance.
 
 La motion de censure ne peut être adoptée qu'à la majorité absolue des Députés à l'Assemblée.
 
@@ -722,7 +726,7 @@ Il ne peut être présenté de considérations générales sur l'ensemble ; sont
 
 ## Article 58
 
-Avant le vote sur l'ensemble, en première lecture, des projets et propositions, l'Assemblée peut décider, sur la demande d'un Député, soit qu'il sera procédé à une seconde délibération, soit que le texte sera renvoyé à la commission saisie du fond pour révision et coordination.
+Avant le vote sur l'ensemble des projets et propositions, l'Assemblée peut décider, sur la demande d'un Député, soit qu'il sera procédé à une seconde délibération, soit que le texte sera renvoyé à la commission saisie au fond pour révision et coordination.
 
 La seconde délibération ou le renvoi est de droit, si la commission le demande ou l'accepte.
 
@@ -732,11 +736,19 @@ Lorsqu'il y a lieu à renvoi à la commission pour révision et coordination, la
 
 ## Article 59
 
-Lorsque le Conseil de la République donne un avis non conforme, en tout ou en partie, au texte adopté par l'Assemblée nationale, l'Assemblée examine le projet ou la proposition de loi en seconde lecture.
+L'Assemblée nationale examine les projets et propositions de loi qui lui sont transmis par le Bureau du Conseil de la République, conformément aux dispositions de l'article 20 de la Constitution.
 
-Elle statue définitivement et souverainement sur les seuls amendements proposés par le Conseil de la République, en les acceptant ou en les rejetant en tout ou en partie.
+A chaque lecture, l'Assemblée nationale statue uniquement sur les articles et chapitres qui n'ont pas été adoptés par les deux Chambres dans un texte identique sauf coordination nécessaire des autres textes votés ou rectification matérielle.
 
-En cas de rejet total ou partiel de ces amendements; le vote en seconde lecture de la loi a lieu au scrutin public et à la majorité absolue des membres composant l'Assemblée nationale; lorsque le vote sur l'ensemble a été émis par le Conseil de la République dans les mêmes Conditions.
+Si l'Assemblée nationale dépasse ou prolonge les délais d'examen dont elle dispose, le délai prévu pour l'accord des deux Chambres est augmenté d'autant.
+
+Les délais prévus au présent article sont suspendus pendant les interruptions de session mais ils continuent à courir Pendant les sessions extraordinaires sous la réserve fixée par l'article 59 bis. Ils peuvent être prolongés par décision de 1'Assemblée nationale.
+
+A défaut d'accord dans un délai de cent jours à compter de la transmission du texte au Conseil de la République pour deuxième lecture, ramené à un mois pour les textes budgétaires et la loi de finances et à quinze fours au cas de procédure applicable aux affaires urgentes, l'Assemblée nationale peut statuer définitivement en reprenant le dernier texte voté par elle ou en le modifiant par l'adoption d'un ou plusieurs des amendements proposés à ce texte par le Conseil de la République.
+
+## Article 59 bis
+
+Au cours des sessions extraordinaires du Parlement réuni, pour un ordre du jour limité, en application de l'article 12 (alinéa 3) de la Constitution, les délais impartis par l'article 20 de la Constitution ne recommencent à courir que poulies seules affaires inscrites à l'ordre du jour de ces sessions extraordinaires.
 
 ## Article 60
 
@@ -824,7 +836,7 @@ Si la commission déclare n'être pas en mesure de présenter sur-le-champ de no
 
 ## Article 66
 
-Lorsque l'Assemblée nationale a décidé l'urgence, le Conseil de la République, conformément à l'article 20 de la Constitution, donne son avis dans le délai maximum de trois jours francs prévu pour les débats de l'Assemblée nationale, par le permier alinéa de l'article 64 ci-dessus.
+Lorsque, dans sa première lecture, l'Assemblée nationale a décidé l'urgence, le Conseil de la République dispose pour sa première lecture d'un délai égal au double de celui prévu pour la première lecture de l'Assemblée nationale par l'article 64 (alinéa 1) ci-dessus.
 
 Les prolongations de délai décidées par l'Assemblée nationale pour ses débats, en application du deuxième alinéa de l'article 64, sont applicables de plein droit au Conseil de la République.
 
@@ -832,21 +844,21 @@ Les délais susvisés courent de la transmission du texte au Conseil de la Répu
 
 La transmission du texte au Conseil de la République indique éventuellement les délais supplémentaires que s'est octroyés l'Assemblée nationale.
 
-Conformément à l'article 20 précité de la Constitution, l'Assemblée peut, par décision spéciale, prolonger le délai imparti au Conseil de la République pour donner son avis et ce délai est en tout état de cause, suspendu pendant les interruptions de session.
+Conformément à l'article 20 de la Constitution, l'Assemblée peut, par décision spéciale, prolonger le délai imparti au Conseil de la République pour donner son avis et ce délai est, en tout état de cause, suspendu pendant les interruptions de session.
 
 ## Article 66 bis
 
-Tout projet ou proposition pour lequel l'urgence a été adoptée en première lecture par l'Assemblée nationale, conserve le bénéfice de la procédure d'urgence pour sa discussion éventuelle en deuxième lecture.
+Tout projet ou proposition de loi pour lequel l'urgence a été adoptée en première lecture par l'Assemblée nationale, conserve le bénéfice de la procédure d'urgence pour ses lectures ultérieures.
 
-Lorsque le Conseil de la République a émis un avis « non conforme » sur une affaire adoptée en première lecture par l'Assemblée avec la procédure d'urgence, cet avis est imprimé et distribué sans délai et renvoyé à la commission précédemment saisie au fond.
+Lorsque le Conseil de la République a modifié dans sa première lecture un projet ou une proposition adopté en première lecture par l'Assemblée avec la procédure d'urgence, le texte du Conseil de la République est imprimé et distribué sans délai et renvoyé à la commission précédemment saisie au fond.
 
 La commission dispose, pour faire distribuer son rapport ou le faire insérer au Journal officiel, d'un délai maximum de huit jours francs à compter de la distribution de l'avis du Conseil de la République.
 
 Dès que le rapport est distribué, la discussion d'urgence, en deuxième lecture, est inscrite d'office en tête de l'ordre du jour de la plus prochaine séance réservée par la Conférence des Présidents aux discussions d'urgence, après, s'il y a lieu, la suite des discussions d'urgence en première lecture déjà commencées.
 
-Toutefois, dans les séances qui précèdent la clôture ou l'interruption de la session, la discussion d'urgence en deuxième lecture du rapport distribue peut, à la demande de la commission, avoir lieu en fin de séance après annonce, affichage et notification au Président du Conseil et aux Présidents des groupes dans les conditions prévues au dernier alinéa de l'article 61 ci-dessus.
+Toutefois, dans les séances tenues par l'Assemblée entre deux réunions de la Conférence des Présidents, ainsi que dans les séances qui précèdent la clôture ou l'interruption de la session, la discussion d'urgence du rapport distribue peut, à la demande de la commission, avoir lieu en fin de séance après annonce, affichage et notification au Président du Conseil et aux Présidents des groupes dans les conditions prévues au dernier alinéa de l'article 61 ci-dessus.
 
-La discussion sur le fond en deuxième lecture ne peut jamais commencer avant la distribution de l'avis du Conseil de la République.
+La discussion sur le fond ne peut jamais commencer avant la distribution du texte modifié en dernier lieu par le Conseil de la République.
 
 ## Article 67
 
@@ -914,7 +926,7 @@ La procédure relative aux amendements est applicable aux contre-projets ainsi q
 
 ## Article 73
 
-Avant l'examen des contre-projets ou de l'article premier, le Gouvernement peut demander la prise en considération de son texte initial régulièrement déposé sur le Bureau de l'Assemblée ; il peut, en cours de discussion, faire la même proposition pour un ou plusieurs articles ou chapitres. Cette demande a la priorité sur les autres contre-projets et amendements.
+Avant l'examen des contre-projets ou de l'article premier, le Gouvernement peut demander la prise en considération de son texte initial régulièrement déposé soit sur le Bureau de l'Assemblée, soit celui du Conseil de la République ; il peut, en cours de discussion, faire la même proposition pour un ou plusieurs articles ou chapitres. Cette demande a la priorité sur les autres contre-projets et amendements.
 
 # CHAPITRE XIII MODES DE VOTATION
 
@@ -978,7 +990,7 @@ Lorsque les votes sont recueillis, le Président prononce la clôture du scrutin
 
 Lorsque, dans le dépouillement d'un scrutin, l'écart entre le nombre des bulletins blancs et celui des bulletins bleus n'est pas supérieur à vingt-cinq, lorsque le nombre des bulletins recueillis dans les urnes est supérieur au nombre des Députés pouvant prendre part au vote, les Secrétaires doivent procéder au pointage des votes émis.
 
-Le pointage est de droit lorsque majorité absolue des membres composant l'Assemblée est requise par les articles 45, 49, 50, 57 et 90 de la Constitution. Il est également de droit, lorsque cette majorité est requise par l'article 20 in fine de la Constitution si l'écart entre la majorité absolue des membres composant l'Assemblée et le nombre des bulletins blancs n'est pas supérieur à vingt-cinq.
+Le pointage est de droit lorsque la majorité absolue des membres composant l'Assemblée est requise par les articles 49, 50, 57 et 90 de la Constitution. Il est également de droit dans le cas prévu par l'article 45 (alinéa 3) de la Constitution.
 
 Il est aussi de droit lorsque, avant la proclamation du scrutin, le Président a été saisi d'une demande signée d'au moins vingt-cinq Députés ou du Président d'un groupe comprenant au moins vingt-cinq membres, y compris les Députés apparentés.
 
@@ -986,7 +998,7 @@ Dans les autres cas, il appartient au Président, après consultation des Secré
 
 Dans le cas de pointage, aucune rectification ne peut, entre l'annonce du pointage et la proclamation de son résultat, être apportée aux votes recueillis en séance.
 
-Lorsqu'un scrutin portant sur une demande de suspension de séance donne lieu à pointage, la séance continue.
+Lorsqu'un scrutin portant sur une demande de suspension de séance ou sur un texte dont l'adoption ou le rejet ne peut pas influer sur la suite de la discussion donne lieu à pointage, la séance continue.
 
 ## Article 83
 
@@ -1038,19 +1050,21 @@ Tout projet ou proposition de loi voté par l'Assemblée nationale est immédiat
 
 ## Article 87
 
-§ 1. — Les projets et propositions de loi amendés par le Conseil de la République et sur lesquels l'Assemblée nationale a statué définitivement en deuxième lecture, sont immédiatement transmis par le Président de l'Assemblée au Gouvernement, aux fins de promulgation.
+Les projets et propositions de loi adoptés ou modifiés par le Conseil de la République, que l'Assemblée nationale a adopté sans modifications, sont immédiatement transmis par le Président de l'Assemblée au Président du Conseil, aux fins de promulgation.
 
-§ 2. — Lorsque le Conseil de la République a émis un avis conforme sur un projet ou une proposition de loi, le Président appelle immédiatement l'Assemblée, si elle tient séance, à prendre acte de cet avis conforme.
+Lorsque le Conseil de la République a adopté sans modifications un projet ou une proposition de loi précedemment adopté par l'Assemblée nationale, le Président appelle immédiatement l'Assemblée, si elle tient séance, à prendre acte de cette adoption conforme.
 
-Dans le cas où l'avis conforme parvient à l'Assemblée dans l'intervalle de deux séances, le Président en prend acte et en informe l'Assemblée au début de sa plus prochaine séance.
+Dans le cas où la notification de l'adoption conforme parvient à l'Assemblée dans l'intervalle de deux séances, le Président en prend acte et en informe l'Assemblée au début de sa plus prochaine séance.
 
-Dès que l'Assemblée ou son Président a pris acte de l'avis conforme, la loi devenue définitive est transmise par le Président de l'Assemblée au Gouvernement, aux fins de promulgation.
+Dès que l'Assemblée ou son Président a pris acte de l'avis conforme, la loi devenue définitive est transmise par le Président de l'Assemblée au Président du Conseil, aux fins de promulgation.
 
-§ 3. - Lorsque le Conseil de la République n'a pas donné son avis dans le délai qui lui était imparti, le Président appelle immédiatement l'Assemblée, si elle tient séance, à prendre acte de l'expiration de ce délai. Si l'Assemblée ne décide pas la prolongation du délai, il transmet sur-le-champ la loi devenue définitive au Gouvernement, aux fins de promulgation.
+Lorsque le Conseil de la République n'a pas procédé à sa première lecture dans les délais prévus aux alinéas 2 et 3 de l'article 20 de la Constitution, le Président de l'Assemblée nationale appelle immédiatement l'Assemblée, si elle tient séance, à prendre acte de l'expiration de ce délai. Si l'Assemblée ne décide pas la prolongation du délai, il transmet sur-le-champ la loi devenue définitive au Gouvernement, aux fins de promulgation.
 
-Lorsque le délai imparti au Conseil de la République vient à expiration dans l'intervalle de deux séances de l'Assemblée nationale, le Président de l'Assemblée, à moins qu'il n'ait été saisi entre temps d'une demande de prolongation du délai, prend acte de l'expiration de ce délai et transmet sur-le-champ la loi devenue définitive au Gouvernement, aux fins de promulgation. Au début de sa plus prochaine séance, l'Assemblée, selon le cas, est ,soit informée de l'expiration du délai imparti au Conseil de la République et de la transmission de la loi au Gouvernement, soit appelée à se prononcer sur la demande de prolongation du délai.
+Lorsque le délai dont dispose Conseil de la République vient à expiration dans l'intervalle de deux séances de l'Assemblée nationale, le Président de l'Assemblée, à moins qu'il n'ait été saisi entre temps d'une demande de prolongation du délai, prend acte de l'expiration de ce délai et transmet sur-le-champ la loi devenue définitive au Président du Conseil, aux fins de promulgation. Au début de sa plus prochaine séance, l'Assemblée, selon le cas, est ,soit informée de l'expiration du délai imparti au Conseil de la République et de la transmission de la loi au Gouvernement, soit appelée à se prononcer sur la demande de prolongation du délai.
 
-§ 4. — A défaut de promulgation par le Président de la République dans le délai de dix jours ou de cinq jours, à compter de la transmission de la loi au Gouvernement, il est pourvu à la promulgation par le Président de l'Assemblée nationale, conformément à l'article 36 in fine de la Constitution.
+Les projets et propositions de loi sur lesquels l'Assemblée nationale a statué définitivement, en application du sixième alinéa de l'article 20 de la Constitution, sont immédiatement transmis par le Président de l'Assemblée nationale au Président du Conseil, aux fins de promulgation.
+
+A défaut de promulgation par le Président de la République dans le délai de dix jours ou de cinq jours, à compter de la transmission de la loi au Président du Conseil, il est pourvu à la promulgation par le Président de l'Assemblée nationale, conformément à l'article 36 in fine de la Constitution.
 
 ## Article 88
 
@@ -1136,9 +1150,9 @@ Dans le cas contraire, le Ministre intéressé ne peut disposer, pour répondre 
 
 ## Article 95
 
-L'Assemblée réserve chaque mois une séance pour les questions orales. En outre, dix questions orales sont inscrites, d'office et dans l'ordre de leur inscription au rôle, en tête de l'ordre du jour de chaque vendredi.
+Dix questions orales sont inscrites, d'office et dans l'ordre de leur inscription au rôle, en tête de l'ordre du jour de chaque vendredi, sauf lorsque l'Assemblée siège au cours d'une session extraordinaire du Parlement, réuni pour un ordre du jour limité, en application de l'article 12 (alinéa 3) de la Constitution.
 
-Ne peuvent être inscrites à l'ordre du jour d'une séance que les questions déposées huit jours au moins avant cette séance.
+Ne peuvent être inscrites à l'ordre du jour d'une séance que les questions déposées deux jours au moins avant cette séance.
 
 ## Article 96
 
