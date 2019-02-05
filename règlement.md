@@ -244,7 +244,11 @@ Ces documents et les procès-verbaux des Bureaux et des commissions restent dép
 
 L'auteur d'une proposition a le droit d'assister, avec voix consultative, aux séances de la commission chargée de l'examiner. Il se retire au moment du vote.
 
-S'il y a plusieurs auteurs d'une même proposition, ils doivent désigner un a entre eux qui les représentera auprès de la commission.
+S'il y a plusieurs auteurs d'une même proposition, ils doivent désigner un d'entre eux qui les représentera auprès de la commission.
+
+Chacune des grandes commissions a le droit de désigner l'un de ses membres à l'effet de participer, avec voix consultative, aux travaux de la Commission des finances pendant l'examen des chapitres du budget ou des cahiers de crédits qui ressortissent à sa compétence.
+
+Les rapporteurs spéciaux de la commission des finances participent de droit, avec voix consultative, aux travaux des commissions dont la compétence correspond au budget particulier dont ils ont le rapport.
 
 ## Article 29
 
