@@ -240,6 +240,14 @@ Le Bureau se compose de :
 
 2 Secrétaires.
 
+Toutefois, le Bureau de la commission des finances et celui de la commission des territoires d'outre-mer se composent de :
+
+1 Président ;
+
+3 Vice-Présidents ;
+
+3 Secrétaires.
+
 Seule, la commission des finances nomme un Rapporteur général.
 
 ## Article 18 bis
