@@ -124,6 +124,10 @@ Ils élisent au scrutin, conformément à l'art. 2. leurs présidents et leurs s
 
 Un tirage spécial des Bureaux aura lieu chaque année pour la nomination des membres de la commission du budget. Le tirage au sort de ces Bureaux ne précèdera que de deux heures leur réunion.
 
+Lorsqu'il y a lieu de réunir d'anciens Bureaux pour compléter une commission existante, les Députés élus postérieurement à leur formation sont appelés à faire partie des Bureaux auxquels appartenaient leurs prédécesseurs.
+
+Les Députés dont les prédécesseurs avaient disparu avant le tirage de ces Bureaux sont inscrits dans ceux qui comptaient le moins de membres.
+
 ## Article 13
 
 Ils doivent se conformer pour leurs travaux aux ordres du jour arrêtés par la Chambre. Il est tenu procès-verbal de leurs délibérations.
