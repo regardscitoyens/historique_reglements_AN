@@ -338,7 +338,11 @@ Le dépouillement des scrutins de nomination a lieu par des scrutateurs désign�
 
 ## Article 59
 
-- La présence de trois cent soixante-seize membres est nécessaire pour la validité des votes de l'Assemblée.
+- La présence de trois-cent soixante-dix membres, majorité absolue du nombre légal des représentants nécessaire pour la validité des votes de l'Assemblée.
+
+Le bureau constate le nombre des membres présents.
+
+La présence de trois cent soixante-seize membres est nécessaire pour la validité des votes de l'Assemblée.
 
 Le bureau constate le nombre des membres présents.
 
@@ -532,6 +536,8 @@ Une pétition apportée ou transmise par un rassemblement formé sur la voie pub
 
 - Les pétitions, dans l'ordre de leur arrivée, sont inscrites sur un rôle général contenant le numéro d'ordre de la pétition, le nom et la demeure du pétitionnaire, ainsi que l'indication sommaire de l'objet de sa demande, et, lorsqu'elle n'aura pas été adressée directement au Président, le nom du représentant qui l'aura déposée.
 
+Ce rôle est imprimé et distribué à l'Assemblée.
+
 ## Article 92
 
 Les pétitions inscrites sur le rôle sont renvoyées à la commission des pétitions.
@@ -724,7 +730,7 @@ La censure est prononcée contre :
 
 3° Qui se sera rendu coupable d'outrages envers l'Assemblée ou une partie de l'Assemblée, ou envers le Président.
 
-## Article 121
+## Article 21
 
 La censure avec exclusion temporaire impose au membre contre lequel elle a été prononcée l'obligation de sortir immédiatement de l'Assemblée, et de s'abstenir d'y reparaître pendant les trois séances suivantes.
 
@@ -796,4 +802,4 @@ Le Bureau informe le Procureur général qu'un délit vient d'être commis dans 
 
 ## Article 131
 
-- Un règlement intérieur, arrêté par le bureau de l'Assemblée, déterminera les règles relatives à la tenue des procès-verbaux et au service intérieur, les attributions respectives des divers officiers et agents de l'Assemblée, et le mode de leur nomination.
+- Un règlement intérieur, arrêté par le bureau de l'Assemblée, déterminera les règles relatives à la tenue des procès-verbaux et au service intérieur, les attributions respectives des divers officiers et agents de l'Assemblée, et le mode de leur nomination. 
