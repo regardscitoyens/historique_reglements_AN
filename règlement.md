@@ -886,9 +886,11 @@ Avant l'examen des contre-projets ou de l'article premier, le Gouvernement peut 
 
 La présence, dans l'enceinte du Palais, de la majorité absolue du nombre des Députés composant l'Assemblée est nécessaire pour la validité des votes, sauf en matière de fixation de l'ordre du jour.
 
+Le Bureau ne peut être appelé à constater le nombre des présents que sur demande signée par au moins cent Députés dont la présence est constatée par appel nominal.
+
 Le vote est valable, quel que soit le nombre des votants, si, avant l'ouverture du scrutin, le Bureau n'a pas été appelé à constater le nombre des présents ou si, ayant été appelé à faire ou ayant fait cette constatation, il a déclaré que l'Assemblée était en nombre pour voter.
 
-Lorsqu'un vote ne peut avoir lieu faute de quorum, le scrutin est reporté à l'ordre du jour de la séance suivante, laquelle ne peut être tenue moins d'une heure après, et le vote est alors valable, quel que soit le nombre des votants.
+Lorsqu'un vote ne peut avoir lieu faute de quorum, la séance est levée, après l'annonce par le Président du report du scrutin à l'ordre du jour de la séance suivante, laquelle ne peut être tenue moins d'un quart d'heure après ; le vote est alors valable, quel que soit le nombre des présents.
 
 ## Article 75
 
