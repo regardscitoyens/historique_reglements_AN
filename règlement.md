@@ -226,7 +226,7 @@ Au cas de vacances dans les commissions, les groupes intéressés remettent au P
 
 Aucun Député ne peut faire partie de plus de deux commissions générales.
 
-La commission de comptabilité n'entre pas en ligne de compte pour l'application de la disposition qui précède.
+La commission de comptabilité et la commission des immunités parlementaires, instituée par l'article 18 bis, n'entrent pas en ligne de compte pour l'application de la disposition qui précède.
 
 ## Article 18
 
@@ -241,6 +241,42 @@ Le Bureau se compose de :
 2 Secrétaires.
 
 Seule, la commission des finances nomme un Rapporteur général.
+
+## Article 18 bis
+
+Une commission de 22 membres, nommée pour la durée de la session annuelle, suivant la procédure prévue à l'article 16 pour la nomination des commissions générales, examine les questions relatives à l'immunité parlementaire instituée par l'article 22 de la Constitution. Cette commission prend la dénomination de « commission des immunités parlementaires ».
+
+Le Bureau de cette commission se compose de :
+
+1 Président,
+
+1 Vice-Président,
+
+1 Secrétaire.
+
+La présence aux réunions de la commission est obligatoire et aucun remplacement n'y est autorisé.
+
+La commission ne peut valablement délibérer que si la moitié au moins de ses membres sont présents.
+
+Sont renvoyées à l'examen de la commission :
+
+les demandes en autorisation de poursuites formulées par des Parquets ou par des particuliers à rencontre de membres de l'Assemblée nationale.
+
+les propositions de résolution déposées par les Députés en vue de requérir la suspension des poursuites engagées contre l'un de leurs collègues ou la suspension de sa détention.
+
+Dans les huit jours qui suivent la distribution des documents soumis à l'Assemblée, la commission désigne un rapporteur.
+
+La commission constitue dans son sein des sous-commissions — dont font obligatoirement partie les rapporteurs intéressés — chargées d'étudier les affaires et de lui soumettre des projets de conclusions.
+
+La sous-commission compétente et la commission elle-même doivent entendre le Député intéressé, lequel peut se faire représenter par l'un de ses collègues.
+
+Le rapport de la commission doit être distribué dans le délai franc de trente jours à compter de la distribution des documents soumis à l'Assemblée.
+
+Le rapport est inscrit, d'office, en tête de l'ordre du jour du premier jour de séance suivant sa distribution.
+
+Si le rapport n'est pas distribué dans le délai précité de trente jours francs, l'examen de l'affaire est inscrit, d'office, en tête de l'ordre du jour du deuxième jour de séance suivant l'expiration dudit délai. L'Assemblée est alors appelée à se prononcer directement, selon le cas, soit sur la mainlevée de l'immunité parlementaire pour les faits visés dans la demande en autorisation de poursuites, soit sur la demande de suspension de la poursuite ou de la détention.
+
+Dans les débats ouverts sur les questions d'immunité parlementaire peuvent seuls prendre la parole : le Rapporteur de la commission, le Gouvernement, le Député intéressé ou un membre de l'Assemblée le représentant, un orateur « pour » et un orateur « contre ».
 
 ## Article 19
 
