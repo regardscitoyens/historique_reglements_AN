@@ -134,6 +134,8 @@ Dans le cas d'opposition, la Chambre procédera à un vote par scrutin de liste.
 
 Il sera pourvu par la même procédure aux vacances qui viendraient à se produire.
 
+Lorsque, sans congé officiel, un membre d'une commission n'aura pas assisté à cinq séances successives, la vacance sera prononcée, dès le lendemain de la cinquième absence, par le Bureau de la Chambre. Il sera pourvu à la vacance suivant les règles qui ont présidé à la formation primitive de la commission. Le député dont l'absence aura provoqué la vacance ne sera pas immédiatement rééligible.
+
 ## Article 13
 
 Aucun député ne peut faire partie simultanément de plus de trois grandes commissions permanentes.
