@@ -836,7 +836,7 @@ La censure, avec exclusion temporaire, entraîne l'interdiction de prendre part 
 
 En cas de désobéissance du Député à l'injonction qui lui est faite par le Président de sortir de la Chambre, la séance est levée. Elle peut être reprise.
 
-Lorsque la censure avec exclusion temporaire est de nouveau appliquée à un Député dans le cours de la même session, l'exclusion s'étend à trente séances.
+Dans le cas prévu par le paragraphe précédent et aussi lorsque la censure avec exclusion temporaire est de nouveau appliquée à un Député dans le cours de la même session, l'exclusion s'étend à trente séances.
 
 ## Article 126
 
