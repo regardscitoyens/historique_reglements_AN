@@ -190,6 +190,8 @@ Ces documents et les procès-verbaux des bureaux et des commissions restent dép
 
 La Chambre consacre un jour par semaine aux travaux des commissions. Toutefois une résolution contraire peut toujours être prise si l'urgence de certaine délibération le commande.
 
+La Chambre consacrera provisoirement, et jusqu'à nouvel ordre, deux jours par semaine aux travaux des commissions. Ces jours seront le mercredi et le vendredi. Toutefois, une résolution contraire peut toujours être prise si l'urgence de certaine délibération le commande.
+
 # CHAPITRE IV PROJETS DE LOI PRESENTES PAR LE GOUVERNEMENT
 
 ## Article 30
