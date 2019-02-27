@@ -128,11 +128,15 @@ Trois jours avant la date fixée pour la nomination, les bureaux des groupes, ap
 
 Cette liste sera immédiatement insérée à la suite du compte rendu in extenso.
 
-Toute liste de candidats ainsi déposée sera considérée comme ayant reçu la ratification de la Chambre si, avant le jour fixé pour la nomination, 50 Députés ne s'y sont pas opposés par une déclaration écrite remise au Président de la Chambre.
+Toute liste de candidats ainsi déposée sera considérée comme ayant reçu la ratification de la Chambre si, avant le jour fixé pour la nomination, 50 Députés dont les noms seront insérés à la suite du compte rendu in extenso, ne s'y sont pas opposés par une déclaration écrite remise au Président de la Chambre.
 
 Dans le cas d'opposition, la Chambre procédera à un vote par scrutin de liste.
 
-Il sera pourvu par la même procédure aux vacances qui viendraient à se produire.
+Lorsque des vacances viendront à se produire dans l'année, par décès, démission au autrement, chaque groupe désignera les candidats appelés à remplacer ses membres sortants et en remettra la liste au Président de la Chambre.
+
+Cette liste sera insérée à la suite du compte rendu in extenso et elle sera considérée comme ratifiée si, dans les trois jours qui suivent son insertion, aucune opposition n'a été remise par écrit au Président de la Chambre. ???
+
+Dans le cas d'opposition, il sera pourvu aux vacances par la même procédure que celle employée pour la nomination annuelle, les bureaux des groupes devant toujours observer, pour la présentation des candidatures, la règle de proportionnalité visée au paragraphe 6 du présent article.
 
 Lorsque, sans congé officiel, un membre d'une commission n'aura pas assisté à cinq séances successives, la vacance sera prononcée, dès le lendemain de la cinquième absence, par le Bureau de la Chambre. Il sera pourvu à la vacance suivant les règles qui ont présidé à la formation primitive de la commission. Le député dont l'absence aura provoqué la vacance ne sera pas immédiatement rééligible.
 
