@@ -1,40 +1,310 @@
-# CHAPITRE PREMIER GROUPES
+
+
+# TITRE PREMIER Organisation et fonctionnement de l'Assemblée.
+
+# CHAPITRE PREMIER BUREAU D'AGE
 
 ## Article 1er
 
-Les députés peuvent s'organiser en groupes par affinités politiques ; aucun groupe ne peut comprendre moins de 3o membres, non compris les députés apparentés dans les conditions prévues à l'alinéa 3 ci-dessous.
+Le doyen d'âge de l'Assemblée nationale préside la première séance de la législature, jusqu'à l'élection du Président.
 
-Les groupes politiques se constituent en remettant à la Présidence une déclaration politique, signée par les membres de leur bureau, de la liste de leurs membres et apparentés. Ces documents sont publiés au Journal officiel.
+Les six plus jeunes députés présents remplissent les fonctions de secrétaires jusqu'à l'élection du Bureau.
 
-Les députés qui n'appartiennent à aucun groupe politique peuvent s'apparenter à un groupe de leur choix, avec l'agrément du bureau de ce groupe.
+Aucun débat ne peut avoir lieu sous la présidence du doyen d'âge.
 
-Les groupes politiques peuvent assurer leur service intérieur par un secrétariat administratif dont ils règlent eux-mêmes le recrutement et le mode de rétribution ; le statut, les conditions d'installation matérielle de ces secrétariats et les droits d'accès et de circulation de leur personnel dans le palais de l'Assemblée sont fixés par le Bureau de l'Assemblée sur proposition des questeurs et des présidents de groupes.
-
-Est interdite la constitution, au sein de l'Assemblée nationale, de groupes tendant à défendre des intérêts particuliers, locaux ou professionnels.
-
-Jusqu'à la mise en application du Règlement définitif, des formations administratives non assujetties au dépôt d'une déclaration politique commune pourront se constituer, sans membres apparentés, dans les mêmes conditions que les groupes et jouir des mêmes droits et prérogatives.
-
-Un député ne peut faire partie que d'un seul groupe politique ou formation administrative.
-
-# CHAPITRE II COMMISSIONS
+# CHAPITRE II ADMISSION DES DEPUTES INVALIDATIONS. - VACANCES
 
 ## Article 2
 
-Les commissions spéciales sont constituées, en application de l'article 43 de la Constitution, à l'initiative soit du Gouvernement, soit de l'Assemblée, pour l'examen des projets et propositions de loi.
-
-Les demandes de commissions spéciales doivent être présentées dans le délai de trois jours francs suivant la distribution du projet ou de la proposition de loi ; elles sont soumises à la plus prochaine conférence des Présidents qui se réunit après expiration de ce délai.
-
-Les commissions spéciales sont nommées par l'Assemblée selon la procédure fixée par l'article 4.
-
-Elles sont composées de 3o membres ; une commission spéciale ne peut comprendre plus de 15 membres appartenant à une même commission permanente.
-
-La présidence d'une commission spéciale ne peut être cumulée avec la présidence d'une commission permanente.
-
-Chaque commission spéciale demeure compétente jusqu'au vote définitif par le Parlement, le retrait ou le rejet, du ou des projets ou propositions de loi qui a provoqué sa création.
+A l'ouverture de la première séance de la législature, le doyen d'âge annonce à l'Assemblée la communication du nom des personnes élues qui lui a été faite par le Gouvernement. Il en ordonne l'affichage immédiat et la publication à la suite du compte rendu intégral de séance.
 
 ## Article 3
 
-L'Assemblée nomme, en séance publique, six commissions permanentes dont la dénomination, la composition et la compétence sont fixées ci-dessous :
+La communication des requêtes en contestation d'élection et des décisions de rejet de ces contestations rendues par le Conseil constitutionnel est faite par le doyen d'âge ou par le Président, dans les conditions fixées à l'article 2, à l'ouverture de la première séance suivant leur réception.
+
+## Article 4
+
+La communication des décisions du Conseil constitutionnel emportant soit réformation de la proclamation faite par la commission de recensement et proclamation du candidat qui a été régulièrement élu, soit annulation d'une élection contestée, est faite à l'ouverture de la première séance qui suit la réception de leur notification et compose l'indication des circonscriptions intéressées et des noms des élus invalidés.
+
+Dans le cas de réformation, le nom du candidat proclamé élu est annoncé immédiatement après la communication de la décision.
+
+Si une décision d'annulation rendue par le Conseil constitutionnel est notifiée au Président dans l'intervalle des sessions de l'Assemblée, le Président en prend acte par un avis inséré au Journal Officiel et en informe l'Assemblée à la première séance de la session suivante.
+
+Les mêmes dispositions sont applicables en cas de déchéance ou de démission d'office constatée par le Conseil constitutionnel.
+
+## Article 5
+
+En cas d'invalidation, toute initiative émanant du député invalidé est considérée comme caduque, à moins d'être reprise en l'état par un membre de l'Assemblée nationale dans un délai de huit jours francs à dater de la communication de l'invalidation à l'Assemblée ou de l'insertion de l'avis prévue par l'article 4, alinéa 3.
+
+## Article 6
+
+Tout député peut se démettre de ses fonctions, soit, si son élection n'a pas été contestée, à l'expiration du délai de dix jours prévu pour le dépôt des requêtes en contestation, soit, si son élection a été contestée, après la notification de la décision de rejet rendue par le Conseil constitutionnel.
+
+Les démissions sont adressées au Président, qui en donne connaissance à l'Assemblée dans la plus prochaine séance et les notifie au Gouvernement.
+
+## Article 7
+
+Le Président informe l'Assemblée, dès qu'il en a connaissance, des vacances survenues pour l'une des causes énumérées à l'article 5 de l'ordonnance n° 58-1065 du 7 novembre 1958 portant loi organique relative à la composition et à la durée des pouvoirs de l'Assemblée nationale. Il notifie, s'il y a lieu, au Gouvernement le nom des députés dont le siège est devenu vacant et lui demande communication du nom des personnes élues pour les remplacer.
+
+Le nom des nouveaux députés proclamés élus par application dudit article est annoncé à l'Assemblée nationale à la première séance suivant la communication qui en est faite par le Gouvernement.
+
+Il en est de même pour les noms des députés élus à la suite d'élections partielles.
+
+Hors session et dans l'attente de l'annonce prévue aux alinéas précédents, le Président prend acte de la communication du nom des nouveaux élus dans les conditions prévues à l'article 4, alinéa 3.
+
+# CHAPITRE III BUREAU DE L'ASSEMBLÉE : COMPOSITION, MODE D'ÉLECTION
+
+## Article 8
+
+Le Bureau de l'Assemblée nationale se compose de :
+
+- 1 président,
+
+- 6 vice-présidents,
+
+- 3 questeurs,
+
+- 12 secrétaires.
+
+## Article 9
+
+Au cours de la première séance de la législature et aussitôt après les communications prévues aux articles 2 et 3, le doyen d'âge invite l'Assemblée nationale à procéder à l'élection de son Président.
+
+Le Président de l'Assemblée nationale est élu au scrutin secret à la tribune. Si la majorité absolue des suffrages exprimés n'a pas été acquise aux deux premiers tours de scrutin, au troisième tour la majorité relative suffit et, en cas d'égalité de suffrages, le plus âgé est élu.
+
+Des scrutateurs, tirés au sort, dépouillent le scrutin dont le doyen d'âge proclame le résultat.
+
+Le doyen d'âge invite le Président à prendre place immédiatement au fauteuil.
+
+## Article 10
+
+Les autres membres du Bureau sont élus, au début de chaque législature, au cours de la séance qui suit l'élection du Président et renouvelés chaque année, à la séance d'ouverture de la première session ordinaire. Le Président est assisté des six plus jeunes membres de l'Assemblée, qui remplissent les fonctions de secrétaires.
+
+L'élection des vice-présidents, des questeurs et des secrétaires a lieu en s'efforçant de reproduire au sein du Bureau la configuration politique de l'Assemblée.
+
+Les vice-présidents, les questeurs et les secrétaires sont nommés au scrutin plurinominal majoritaire. Le scrutin a lieu séparément pour chacune de ces fonctions. Toutefois, pour les postes de secrétaires, si le nombre des candidats n'est pas supérieur à celui des sièges à pourvoir, il est procédé comme il est dit à l'article 26.
+
+Les candidatures doivent être déposées au Secrétariat général de l'Assemblée, au plus tard une heure avant l'heure fixée pour l'ouverture de chaque tour de scrutin.
+
+Les bulletins mis à la disposition des députés ne peuvent comporter plus de noms qu'il n'y a, pour chaque tour de scrutin, de postes à pourvoir.
+
+Sont valables les suffrages exprimés dans les enveloppes ne contenant pas plus de noms qu'il n'y a de postes à pourvoir.
+
+Au premier et au deuxième tours de scrutin sont élus, dans l'ordre des suffrages, les candidats ayant obtenu la majorité absolue.
+
+Toutefois, si, pour un ou plusieurs sièges, des candidats en nombre supérieur au nombre des sièges à pourvoir ont obtenu la majorité absolue et le même nombre de suffrages, il y a lieu à un nouveau scrutin pour lesdits sièges. Au troisième tour, la majorité relative suffit. En cas d'égalité des suffrages, le plus âgé est élu.
+
+Des scrutateurs tirés au sort dépouillent le scrutin et le Président en proclame le résultat.
+
+En cas de vacance, il est pourvu au remplacement selon la même procédure.
+
+## Article 11
+
+Les vice-présidents suppléent le Président en cas d'absence. L'ordre de suppléance est établi par le Bureau.
+
+L'ordre de préséance des vice-présidents et des questeurs est déterminé par la date et le tour de scrutin auquel ils ont été élus et, s'ils ont été élus au même tour de scrutin, par le nombre de suffrages qu'ils ont obtenus. En cas d'égalité de suffrages au même tour de scrutin, la préséance appartient au plus âgé.
+
+## Article 12
+
+Après l'élection du Bureau, le Président de l'Assemblée en notifie la composition au Président de la République, au Premier Ministre et au Président du Sénat.
+
+# CHAPITRE IV BUREAU DE L'ASSEMBLÉE : POUVOIRS
+
+## Article 13
+
+Le Bureau a tous pouvoirs pour présider aux délibérations de l'Assemblée et pour organiser et diriger tous les services dans les conditions déterminées par le présent Règlement.
+
+L'Assemblée jouit de l'autonomie financière en application de l'article 7 de l'ordonnance n° 58-1100 du 17 novembre 1958.
+
+Les questeurs, sous la haute direction du Bureau, sont chargés des services financiers et administratifs. Aucune dépense nouvelle ne peut être engagée sans leur avis préalable.
+
+Le Président et les questeurs habitent le Palais-Bourbon.
+
+## Article 14
+
+Les dépenses de l'Assemblée sont réglées par exercice budgétaire. A l'ouverture de chaque session ordinaire d'octobre, l'Assemblée nomme, à la représentation proportionnelle des groupes selon la procédure prévue par l'article 25, une commission spéciale de quinze membres chargée de vérifier et d'apurer les comptes. Cette commission donne quitus aux questeurs de leur gestion ou rend compte à l'Assemblée.
+
+Les membres du Bureau de l'Assemblée ne peuvent faire partie de cette commission.
+
+Le Bureau déterminera par un règlement intérieur les règles applicables à la comptabilité.
+
+## Article 15
+
+Le Bureau détermine par des règlements intérieurs l'organisation et le fonctionnement des services de l'Assemblée, les modalités d'application, d'interprétation et d'exécution, par les différents services, des dispositions du présent Règlement, ainsi que le statut du personnel et les rapports entre l'administration de l'Assemblée et les organisations professionnelles du personnel.
+
+Les services de l'Assemblée nationale sont assurés exclusivement par un personnel nommé dans les conditions déterminées par le Bureau. Est interdite, en conséquence, la collaboration de caractère permanent de tout fonctionnaire relevant d'une administration extérieure à l'Assemblée a 1'exception des personnels civils et militaires mis par le Gouvernement à la disposition de la commission de la défense nationale et des forces armées et de la commission des finances, de l'économie générale et du plan.
+
+## Article 16
+
+Le Président est chargé de veiller à la sûreté intérieure et extérieure de l'Assemblée. A cet effet, il fixe l'importance des forces militaires qu'il juge nécessaires; elles sont placées sous ses ordres.
+
+## Article 17
+
+Les communications de l'Assemblée nationale sont faites par le Président.
+
+Les communications au Gouvernement sont adressées au Premier Ministre.
+
+## Article 18
+
+Les députations de l'Assemblée sont composées de députés tirés au sort par les questeurs, qui en déterminent l'effectif.
+
+# CHAPITRE V GROUPES
+
+## Article 19
+
+Les députés peuvent se grouper par affinités politiques; aucun groupe ne peut comprendre moins de 30 membres, non compris les députés apparentés dans les conditions prévues à l'alinéa 4 ci-dessous.
+
+Les groupes se constituent en remettant à la présidence une déclaration politique signée de leurs membres, accompagnée de la liste de ces membres et des députés apparentés et du nom du président du groupe. Ces documents sont publiés au Journal Officiel.
+
+Un député ne peut faire partie que d'un seul groupe.
+
+Les députés qui n'appartiennent à aucun groupe peuvent s'apparenter à un groupe de leur choix, avec l'agrément du bureau de ce groupe. Ils comptent pour le calcul des sièges accordés aux groupes dans les commissions par les articles 33 et 37.
+
+## Article 20
+
+Les groupes constitués conformément à l'article précédent peuvent assurer leur service intérieur par un secrétariat administratif dont ils règlent eux-mêmes le recrutement et le mode de rétribution; le statut, les conditions d'installation matérielle de ces secrétariats et les droits d'accès et de circulation de leur personnel dans le Palais de 1'Assemblée sont fixés par le Bureau de l'Assemblée sur proposition des questeurs et des présidents de groupes.
+
+## Article 21
+
+Les modifications à la composition d'un groupe sont portées à la connaissance du Président de l'Assemblée sous la signature du député intéressé s'il s'agit d'une démission, sous la signature du président de groupe s'il s'agit d'une radiation et sous la double signature du député et du président de groupe s'il s'agit d'une adhésion ou d'un apparentement. Elles sont publiées au Journal officiel.
+
+## Article 22
+
+Après constitution des groupes, le Président de l'Assemblée réunit leurs représentants en vue de procéder à la division de la salle des séances en autant de secteurs qu'il y a de groupes, et de déterminer la place des députés non-inscrits, par rapport aux groupes.
+
+## Article 23
+
+Est interdite la constitution, dans les formes prévues à l'article 19, de groupes de défense d'intérêts particuliers, locaux ou professionnels.
+
+Sont, d'autre part, interdites la constitution au sein de l'Assemblée nationale et la réunion dans l'enceinte du Palais de groupements permanents, quelle que soit leur dénomination, tendant à la défense des mêmes intérêts et entraînant pour leurs membres l'acceptation d'un mandat impératif.
+
+Il est interdit à tout député, sous les peines disciplinaires prévues au chapitre XIV du présent titre, d'adhérer à une association ou à un groupement de défense d'intérêts particuliers, locaux ou professionnels ou de souscrire à son égard des engagements concernant sa propre activité parlementaire, lorsque cette adhésion ou ces engagements impliquent l'acceptation d'un mandat impératif.
+
+# CHAPITRE VI NOMINATIONS PERSONNELLES MODALITÉS GÉNÉRALES
+
+## Article 24
+
+Lorsqu'en vertu de dispositions constitutionnelles, légales ou réglementaires, l'Assemblée doit fonctionner comme un corps électoral d'une autre Assemblée, d'une commission, d'un organisme ou de membres d'un organisme quelconque, il est procédé à ces nominations personnelles, sauf dispositions contraires du texte constitutif et sous réserve des modalités premières prévues par celui-ci, dans les conditions prévues au présent chapitre.
+
+## Article 25
+
+Lorsque le texte constitutif impose la représentation proportionnelle des candidats par des commissions de l'Assemblée, le Président de l'Assemblée invite les présidents des groupes ou des commissions intéressées à lui faire connaître, dans un délai qu'il fixe, les noms des candidats proposés par ceux-ci.
+
+A l'expiration du délai, les candidatures transmises au Président de l'Assemblée sont publiées au Journal Officiel et affichées.
+
+Au cours de la séance à l'ordre du jour de laquelle figure la nomination, le Président donne avis de cet affichage à l'Assemblée.
+
+Pendant un délai d'une heure après cet avis, il peut être fait opposition à une liste de candidats; cette opposition doit être motivée, rédigée et signée par 30 députés au moins, dont les noms sont publiés au Journal officiel à la suite du compte rendu intégral; elle ne peut porter que sur l'inobservation des règles fixées par le texte constitutif ou de la règle de la proportionnalité.
+
+Si, à l'expiration du délai d'une heure, aucune opposition n'a été formulée, les listes de candidates sont considérées comme ratifiées par l'Assemblée.
+
+Si une opposition est formulée, le Président consulte l'Assemblée sur sa prise en considération; l'Assemblée statue après un débat au cours duquel peuvent seuls être entendus l'un des signataires de l'opposition et un orateur d'opinion contraire, chaque intervention ne devant pas dépasser cinq minutes.
+
+Si l'Assemblée ne prend pas l'opposition en considération, les listes de candidats présentées sont ratifiées.
+
+Si l'Assemblée prend l'opposition en considération, la liste de candidats frappée d'opposition est annulée et une nouvelle liste doit être établie dans les conditions prévues au premier alinéa du présent article.
+
+La nouvelle liste est remise au Président qui informe sans délai l'Assemblée de son dépôt et la fait immédiatement afficher. Il est alors procédé dans les conditions du présent article.
+
+## Article 26
+
+Dans les cas autres que ceux prévus à l'article 25, le Président de l'Assemblée l'informe des nominations auxquelles il doit être procédé et fixe un délai pour le dépôt des candidatures.
+
+Si, à l'expiration de ce délai, le nombre des candidats n'est pas supérieur au nombre des sièges à pourvoir, il est fait application des alinéas 2, 3 et 5 de l'article 25.
+
+Si, à l'expiration du délai fixé pour le dépôt des candidatures, le nombre des candidats est supérieur au nombre des sièges à pourvoir, ou si, avant la nomination, une opposition a été formulée par 30 députés au moins, l'Assemblée procède, à la date fixée par elle, à la nomination par un vote au scrutin uninominal ou plurinominal, suivant le cas, soit à la tribune, soit dans les salles voisines de la salle des séances.
+
+Des bulletins portant les noms ou les listes des candidats sont distribués par les soins de la Présidence.
+
+Sont valables les suffrages exprimés dans les enveloppes ne contenant pas plus de noms qu'il n'y a de membres à nommer.
+
+La majorité absolue est requise aux deux premiers tours de scrutin ; au troisième tour la majorité relative suffit et, en cas d'égalité de suffrages, le plus âgé est nommé.
+
+## Article 27
+
+Lorsque le texte constitutif prévoit la nomination par une commission de l'Assemblée, le Président de l'Assemblée, saisi par l'autorité intéressée, transmet la demande de désignation à la commission compétente.
+
+Les noms des députés désignés sont portés à la connaissance de l'autorité intéressée par l'intermédiaire du Président de l'Assemblée.
+
+# CHAPITRE VII NOMINATIONS PERSONNELLES: MODALITÉS SPÉCIALES AU SÉNAT DE LA COMMUNAUTÉ ET AUX ASSEMBLÉES EUROPÉENNES
+
+## Article 28
+
+L'Assemblée nationale élit en son sein 93 membres du Sénat de la Communauté, dont 77 pris parmi les députés élus par les départements métropolitains, 12 parmi les députés élus par les départements d'Algérie, des Oasis et de la Saoura, et 4 parmi les députés élus par les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, ainsi que par les territoires d'outre-mer de la République.
+
+Par accord entre l'Assemblée nationale et le Sénat, un double tirage au sort, effectué avant la première élection, sous l'autorité des Bureaux des deux Assemblées, déterminera les départements, parmi ceux de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, puis les territoires dont la représentation sera assurée par l'Assemblée nationale respectivement pour 2 et 2 sièges et par le Sénat respectivement pour 2 et 3 sièges.
+
+L'élection a lieu au scrutin majoritaire, conformément aux dispositions de 1'article 26, en s'efforçant d'assurer à chaque groupe une représentation équitable.
+
+II n'est procédé qu'à un seul vote par tour de scrutin. Sont nuls les suffrages exprimés dans les enveloppes contenant plus de 77 noms de députés des départements métropolitains ou plus de 12 noms de députés des départements d'Algérie, des Oasis et de la Saoura ou plus de 4 noms de députés des autres départements et territoires dont la représentation au Sénat de la Communauté incombe à l'Assemblée nationale en vertu de l'alinéa 2 du présent article.
+
+Ne peuvent être proclamés élus, quel que soit le nombre de voix obtenues respectivement, plus de 77 députés des départements métropolitains ou plus de 12 noms de députés des départements d'Algérie, des Oasis et de la Saoura ou plus de 4 députés des autres départements et territoires de la République, chacun de ces quatre derniers devant représenter un département ou un territoire différent.
+
+Les noms des députés élus sénateurs de la Communauté sont communiqués par le Président de l'Assemblée au Président de la Communauté et au Premier Ministre de la République.
+
+En cas de vacance, le remplacement a lieu conformément aux dispositions des alinéas 2 et 3 en respectant la répartition fixée à l'alinéa 1 du présent article.
+
+## Article 29
+
+Les représentants de l'Assemblée nationale à l'Assemblée parlementaire des Communautés européennes et à l'Assemblée consultative du Conseil de l'Europe sont désignés suivant la procédure prévue à l'article 26. I1 est procédé, pour les membres titulaires et suppléants de l'Assemblée consultative du Conseil de l'Europe, par scrutins séparés et successifs
+
+A titre transitoire, les sièges occupés précédemment dans ces Assemblées par des députés représentant les anciens territoires d'outre-mer de la République ayant opté pour le statut d'Etats de la Communauté seront attribués à des représentants de ces Etats désignés par le Sénat de la Communauté.
+
+# CHAPITRE VIII COMMISSIONS SPECIALES : COMPOSITION ET MODE D'ELECTION
+
+## Article 30
+
+Les commissions spéciales sont constituées, en application de l'article 43 de la Constitution à l'initiative soit du Gouvernement, soit de 1'Assemblée, pour l'examen des projets et propositions.
+
+La constitution d'une commission spéciale est de droit lorsqu'elle est demandée par le Gouvernement. Cette demande doit être formulée pour les projets de loi au moment de leur dépôt et pour les propositions dans le délai de deux jours francs suivant leur distribution.
+
+## Article 31
+
+La constitution d'une commission spéciale peut être décidée par l'Assemblée sur la demande, soit d'une commission permanente, soit d'un groupe, soit de 30 députés. Cette demande doit être présentée dans le délai de deux jours francs suivant la distribution du projet ou de la proposition de loi. En cas de déclaration d'urgence par le Gouvernement d'un projet de loi, ce délai est réduit à un jour franc à compter de son dépôt.
+
+La demande est aussitôt affichée et notifiée au Gouvernement et aux présidents des groupes et des commissions permanentes.
+
+Elle est considérée comme adoptée si, avant la deuxième séance qui suit cet affichage, le Président de l'Assemblée n'a été saisi d'aucune opposition par le Gouvernement, le président d'une commission permanente, le président d'un groupe ou 30 députés.
+
+Si une opposition a été formulée dans les conditions prévues au précédent alinéa, l'Assemblée statue après un débat au cours duquel peuvent seuls prendre la parole le Gouvernement et, pour une durée n'excédant pas cinq minutes, l'auteur ou le premier signataire de l'opposition, l'auteur ou le premier signataire de la demande et les présidents des commissions permanentes intéressées.
+
+## Article 32
+
+La constitution d'une commission spéciale à l'initiative de l'Assemblée est de droit si deux commissions permanentes ont demandé, dans les quinze jours suivant la distribution, à se saisir pour avis d'un projet ou d'une proposition de loi renvoyé à une autre commission permanente qui n'a pas encore statué sur l'ensemble, sauf s'il s'agit d'un projet de loi de finances. La commission spéciale doit comprendre au moins trois membres de chacune des commissions permanentes qui ont demandé à être saisies pour avis.
+
+## Article 33
+
+Les commissions spéciales se composent de 3o membres désignés à la représentation proportionnelle des groupes suivant la procédure prévue à l'article 34.
+
+Elles ne peuvent comprendre plus de 15 membres appartenant à une même commission permanente.
+
+Elles peuvent s'adjoindre au plus 3 membres choisis à raison de leur compétence parmi les députés n'appartenant à aucun groupe.
+
+## Article 34
+
+Lorsqu'aux termes des articles 3o à 32, il y a lieu de constituer une commission spéciale, le Président de l'Assemblée fait afficher et notifier aux présidents des groupes la demande du Gouvernement ou la décision de l'Assemblée tendant à la constitution de cette commission, en indiquant avec précision le projet ou la proposition de loi dont elle est saisie.
+
+II fixe aux présidents des groupes le délai dans lequel ils doivent faire connaître les noms des candidats proposés par eux. Ce délai ne peut être supérieur à deux jours francs en session, à cinq jours francs en dehors des sessions.
+
+Les propositions des présidents des groupes sont affichées à l'expiration du délai fixé par le Président. Elles sont considérées comme ratifiées par l'Assemblée si aucune opposition signée de 30 députés au moins n'a été déposée dans le délai d'un jour franc après cet affichage. Les oppositions ne sont recevables que si elles portent sur le respect des règles prévues à l'article 33.
+
+Pendant les intersessions, l'affichage prévu aux deux alinéas ci-dessus est complété par une publication au Journal officiel et le délai d'opposition est de trois jours francs après cette publication.
+
+Le Bureau se prononce sur les oppositions; s'il les estimes fondées, il demande de nouvelles propositions au président du ou des groupes intéressés.
+
+Il est ensuite procédé de nouveau comme il est dit ci-dessus.
+
+## Article 35
+
+Chaque commission spéciale demeure compétente jusqu'à ce que le projet ou la proposition ayant provoqué sa création ait fait l'objet d'une décision définitive.
+
+# CHAPITRE IX COMMISSIONS PERMANENTES: COMPOSITION ET MODE D'ÉLECTION
+
+## Article 36
+
+L'Assemblée nomme en séance publique six commissions permanentes.
+
+Leur dénomination, leur compétence et leur effectif maximum sont fixés comme suit :
 
 1° commission des affaires culturelles, familiales et sociales (120 membres) :
 
@@ -48,273 +318,203 @@ Enseignement, arts et lettres, jeunesse et sports, rayonnement culturel ; popula
 
 5° commission des lois constitutionnelles, de la législation et de l'administration générale de la République (90 membres) :
 
-Lois constitutionnelles, organiques et électorales ; règlement ; organisation judiciaire ; législation civile, administrative et criminelle; pétitions; administration générale des territoires de la République et des collectivités locales ;
+Lois constitutionnelles, organiques et électorales ; règlement ; organisation judiciaire ; législation civile, administrative et pénale; pétitions; administration générale des territoires de la République et des collectivités locales ;
 
 6° commission de la production et des échanges (120 membres) :
 
 Agriculture, pèches, commerce, industrie et production de l'énergie, sous toutes leurs formes; moyens de communication de tous ordres et tourisme ; équipement et travaux publics; aménagement du territoire, urbanisme, logement et construction ; reconstruction et réparation des dommages de guerre.
 
-Les commissions permanentes examinent les projets et les propositions qui ne sont pas renvoyés à une commission spéciale. Les commissions permanentes sont les organes qui assurent l'information du Parlement pour lui permettre d'exercer son contrôle.
+## Article 37
 
-## Article 4
+Lors la nomination des commissions, les groupes régulièrement constitués dans les conditions fixées à l'article 1 9 disposent, dans chaque commission permanente, d'un nombre de sièges proportionnel à leur importance numérique par rapport à l'effectif maximum de l'ensemble des commissions tel qu'il est prévu à l'article 36.
 
-Les groupes régulièrement constitués dans les conditions fixées à l'article premier disposent, dans chaque commission permanente, d'un nombre de sièges proportionnel à leur importance numérique. Ils font connaître à la Présidence de l'Assemblée les noms des candidats qu'ils proposent. La liste de ces candidats est affichée vingt-quatre heures avant la séance publique où elle sera proclamée, sauf opposition signée par trente députés au moins. Les oppositions ne sont recevables que si elles portent sur le respect de la proportionnalité.
+Les membres des commissions sont nommés par l'Assemblée au début de la législature et, chaque année, à la deuxième séance de la session ordinaire d'octobre, suivant la procédure fixée à l'article 25.
 
-Dans les désignations intervenant avant la mise en application du Règlement définitif, les députés n'appartenant a aucun groupe pourront faire acte de candidature aux sièges restant vacants après application de la procédure prévue à l'alinéa précédent. Les nominations sont faites par l'Assemblée au scrutin majoritaire à deux tours, la majorité relative étant suffisante au troisième tour.
+Les commissions permanentes peuvent compléter l'effectif maximum prévu à l'article 36 par l'adjonction de membres choisis parmi les députés n'appartenant à aucun groupe, dans la limite d'un par fraction de trente membres de cet effectif.
 
-## Article 5
+## Article 38
 
-Un député ne peut faire partie que d'une seule commission permanente.
+Un député ne peut être membre que d'une seule commission permanente.
 
-En cas de vacance, il est pourvu au remplacement selon la procédure prévue à l'article 4 ci-dessus.
+Les députés appartenant aux Assemblées européennes ou au Sénat de la Communauté, ainsi que les députés membres d'une commission spéciale peuvent, sur leur demande, et pour la durée des travaux desdites Assemblées, de leurs commissions ou de la commission spéciale, être dispensés de la présence à la commission permanente à laquelle ils appartiennent. Ils se font, en ce cas, suppléer par un autre membre de la commission.
 
-Cesse de plein droit d'appartenir aux commissions :
+Le député qui cesse d'appartenir au groupe dont il faisait partie lors de sa nomination comme membre d'une commission permanente cesse de plein droit d'appartenir à celle-ci.
 
-1° le député qui n'appartient plus au groupe ou à la formation auquel ou à laquelle il appartenait lors de sa nomination ;
+Il peut être pourvu au remplacement des sièges devenus vacants, pour quelque cause que ce soit, selon la procédure prévue à l'article 25.
 
-2° le député chargé d'une mission temporaire en application de l'article 13 de l'ordonnance du 24 octobre 1958 portant loi organique relative aux conditions d'éligibilité et aux incompatibilités parlementaires.
+# CHAPITRE X TRAVAUX DES COMMISSIONS
 
-## Article 6
-
-I. — Il est constitué, pour chaque demande de levée de l'immunité parlementaire d'un député ou chaque demande de suspension de poursuites déjà engagées, une commission ad hoc de 15 membres nommés selon la procédure prévue à l'article 4.
-
-La commission doit entendre le député intéressé, lequel peut se faire représenter par un de ses collègues.
-
-Dans les débats ouverts par l'Assemblée, en séance publique, sur les questions d'immunité parlementaire, peuvent seuls prendre la parole le rapporteur de la commission, le Gouvernement, le député intéressé ou un membre de l'Assemblée le représentant, un orateur pour et un orateur contre.
-
-II — Après la clôture de l'exercice budgétaire, les Questeurs déposent un rapport sur l'exécution du budget de l'Assemblée. Dans les quinze jours suivant le dépôt de ce rapport, l'Assemblée nomme une commission des comptes composée de 15 membres nommés selon la procédure prévue à l'article 4.
-
-Les membres du Bureau de l'Assemblée ne peuvent faire partie de cette commission.
-
-La commission des comptes apure les comptes de l'Assemblée. Elle dépose un rapport sur ses opérations dans le mois au plus qui suit sa nomination et, en tout état de cause, dans un délai tel que l'Assemblée en soit saisie en même temps que du projet de loi portant règlement définitif du budget général de l'exercice en cause.
-
-III. — En vue de préparer et de soumettre à l'Assemblée, au début de la session ordinaire d'avril 1959, un projet de règlement définitif, il sera procédé au cours de la session extraordinaire de janvier i959 à la nomination d'une commission spéciale du règlement.
-
-Cette commission sera composée de 3o membres titulaires et de 3o membres suppléants nommés selon la procédure prévue à l'article 4, ainsi que des Questeurs de l'Assemblée.
-
-## Article 7
-
-Dans les vingt-quatre heures suivant l'adoption du présent règlement provisoire, les groupes politiques et les formations administratives devront se constituer dans les conditions prévues à l'article premier ci-dessus.
-
-Dans les trois jours suivant la publication de leur constitution, les listes de candidats aux commissions permanentes et à la commission spéciale du règlement devront être établies dans les conditions fixées par les articles 4, 5 et 6, § III, et remises à la Présidence.
-
-La nomination des commissions sera inscrite a l'ordre du jour de la séance que tiendra l'Assemblée vingt-quatre heures après la publication des listes de candidats.
-
-## Article 8
+## Article 39
 
 Dès leur nomination, toutes les commissions sont convoquées par le Président de l'Assemblée nationale en vue de procéder à la nomination de leur bureau.
 
-Le bureau des commissions permanentes comprend, outre le président, un vice-président et un secrétaire par fraction de 3o membres composant la commission. Toutefois, le nombre des vice-présidents ne peut être inférieur à trois. Seule, la commission des finances, de l'économie générale et du plan nomme un rapporteur général.
+Le bureau des commissions permanentes comprend, outre le président, un vice-président et un secrétaire, par fraction de 30 membres de l'effectif maximum. La commission des finances, de l'économie générale et du plan nomme un rapporteur général. Toutefois, le nombre des vice-présidents ne peut être inférieur à trois.
 
-Le bureau des autres commissions comprend :
-
-1 président,
-
-1 vice-président
-
-et 1 secrétaire.
+Le bureau des autres commissions comprend : 1 président, 1 vice-président et 1 secrétaire.
 
 Les bureaux des commissions sont élus au scrutin secret par catégorie de fonction.
 
-Si la majorité absolue n'a pas été acquise aux deux premiers tours de scrutin, la majorité relative suffit au troisième tour et, en cas d'égalité de suffrages, le plus âgé est nommé.
+Si la majorité absolue n'a pas été acquise aux deux premiers tours de scrutin la majorité relative suffit au troisième tour, et en cas d'égalité de suffrages, le plus âgé est nommé.
 
-## Article 9
+II n'existe aucune préséance entre les vice-présidents. L'ordre de suppléance est déterminé par le président de la commission.
 
-I — Lorsqu'on vertu de dispositions constitutionnelles, légales ou réglementaires, l'Assemblée nationale doit fonctionner comme un corps électoral d'une autre Assemblée ou d'un organisme quelconque, il est procédé à ces nominations personnelles, sauf dispositions contraires du texte constitutif, dans les conditions ci-après :
+La présidence d'une commission spéciale ne peut être cumulée avec la présidence d'une commission permanente.
 
-A - Lorsque le texte constitutif impose la représentation proportionnelle des groupes ou la présentation des candidats par des commissions intéressées à présenter leurs candidats.
+## Article 40
 
-Les candidatures transmises au Président de l'Assemblée sont publiées au Journal officiel et affichées dans le plus bref délai.
+Les commissions sont convoquées à la diligence du Président de l'Assemblée nationale lorsque le Gouvernement le demande.
 
-Au cours de la séance prévue pour la nomination, le Président donne avis de cet affichage à l'Assemblée.
+En cours de session, elles sont également convoquées par leur président.
 
-Pendant un délai d'une heure après cet avis, il peut être fait opposition à une liste de candidats ; signée par 30 députés au moins, dont les noms sont publiés au Journal officiel à la suite du compte rendu intégral.
+En dehors des sessions, leur président peut les convoquer à l'initiative de leur bureau. Toutefois, la réunion est annulée ou reportée si plus de la moitié des membres d'une commission le demande, au moins quarante-huit heures avant le jour fixé par la convocation.
 
-A l'expiration d'un délai d'une heure et s'il n'y a pas d'opposition, les listes de candidats sont considérées comme ratifiées par l'Assemblée.
+En cours de session, les commissions doivent être convoquées quarante-huit heures au moins avant leur réunion ; elles peuvent être exceptionnellement réunies dans un délai plus bref si l'ordre du jour de l'Assemblée l'exige. Le délai de quarante-huit heures est porté à une semaine hors session. Les convocations doivent préciser l'ordre du jour.
 
-Dans le cas où une opposition est formulée, le président consulte l'Assemblée sur sa prise en considération ; l'Assemblée statue après un débat au cours duquel peuvent seuls être entendus l'un des signataires et un orateur contre.
+Sous réserve des règles fixées par la Constitution, les lois organiques et le présent Règlement chaque commission est maîtresse de ses travaux.
 
-Si l'Assemblée ne prend pas l'opposition en considération, les listes de candidats présentées sont ratifiées.
+## Article 41
 
-Si l'Assemblée prend l'opposition en considération, la liste de candidats frappée d'opposition est annulée et une nouvelle liste doit être établie dans les conditions prévues au premier alinéa du présent paragraphe.
+Pendant les sessions, les matinées des mardi, mercredi, jeudi et vendredi de chaque semaine sont réservées aux travaux des commissions.
 
-La nouvelle liste est remise au Président qui informe sans délai l'Assemblée de son dépôt et la fait immédiatement afficher.
+Quand l'Assemblée tient séance, les commissions ne peuvent se réunir que pour délibérer sur les affaires qui leur sont renvoyées par l'Assemblée en vue d'un examen immédiat ou sur les affaires inscrites à l'ordre du jour de l'Assemblée.
 
-L'Assemblée se prononce alors dans les conditions fixées dans les alinéas précédents.
-
-B. — Dans les autres cas, le Président de l'Assemblée l'informe des nominations auxquelles il doit être procédé et fixe un délai pour le dépôt des candidatures.
-
-Si, à l'expiration de ce délai, le nombre des candidats n'est pas supérieur au nombre des sièges à pourvoir, il est fait application des alinéas 2 à 5 du paragraphe A ci-dessus. Si, à l'expiration du délai pour le dépôt des candidatures, le nombre des candidats est supérieur au nombre des sièges à pourvoir ou si, avant la nomination, une opposition a été déposée, l'Assemblée procède, à une date qu'elle est appelée à fixer, à la nomination par un vote au scrutin uninominal, ou plurinominal, suivant le cas, soit à la tribune, soit dans les salles voisines de la salle des séances.
-
-Pour ces scrutins, sont distribués par les soins de la Présidence les bulletins portant les noms ou la liste des candidats. Sont valables les suffrages exprimés dans les enveloppes ne contenant pas plus de noms qu'il y a de membres à nommer.
-
-La majorité absolue est requise aux deux premiers tours de scrutin ; la majorité relative suffit au troisième tour et, en cas d'égalité des suffrages, le plus âgé est nommé.
-
-II. - Lorsqu'en vertu d'un décret ou d'un arrêté ministériel, l'Assemblée doit nommer des membres d'un organisme extraparlementaire, le Président de l'Assemblée transmet la demande de désignation émanant du Gouvernement à la commission compétente. Celle-ci fait part de sa décision au ministère intéressé par l'intermédiaire du Président de l'Assemblée.
-
-# CHAPITRE III TRAVAUX DES COMMISSIONS
-
-## Article 10
-
-L'Assemblée siégeant dans les conditions fixées par l'article 24, les matinées des mardi, mercredi, jeudi et vendredi de chaque semaine sont réservées aux travaux des commissions.
-
-Quand l'Assemblée tient séance, elles ne peuvent se réunir en dehors des quatre demi-journées précitées que pour délibérer sur les affaires qui leur sont renvoyées par l'Assemblée en vue d'un examen immédiat ou sur les affaires inscrites à l'ordre du jour de l'Assemblée.
-
-Les commissions sont convoquées à la diligence du Président de l'Assemblée à la demande du Gouvernement. Elles sont également convoquées par leur président, soit de son initiative en cours de session, soit à l'initiative de leur Bureau en dehors des sessions.
-
-Les commissions doivent cire convoquées quarante-huit heures au moins avant leur réunion. Ce délai est porte à une semaine pendant l'intervalle des sessions. Toutefois, elles peuvent exceptionnellement être réunies dans un délai plus bref si l'ordre du jour de l'Assemblée l'exige.
-
-Les convocations doivent préciser l'ordre du jour.
-
-Chaque commission détermine elle-même ses méthodes de travail.
-
-## Article 11
+## Article 42
 
 La présence des commissaires aux réunions des commissions est obligatoire.
 
-Les noms des commissaires présents ou valablement excusés, aux termes de l'ordonnance n° 58-1066 du 7 novembre 1958, ou se trouvant dans un cas d'empêchement insurmontable, sont publiés au Journal officiel le lendemain de chaque réunion de commission, le report d'un vote faute de quorum y est également mentionné.
+Les noms des commissaires présents, ainsi que les noms de ceux qui se sont excusés, soit pour l'un des motifs prévus par l'ordonnance n° 58-1066 du 7 novembre 1958, soit en raison d'un empêchement insurmontable, ou de ceux qui ont été valablement suppléés, sont publiés au Journal officiel le lendemain de chaque réunion de commission ; le report d'un vote faute de quorum y est également mentionné.
 
-En cas de trois absences consécutives non justifiées d'un commissaire, le bureau de la commission en informe le Président de l'Assemblée qui constate la démission de ce commissaire, lequel ne peut être remplacé en cours d'année et dont l'indemnité de fonction est réduite d'un tiers jusqu'à l'ouverture de la session ordinaire d'octobre.
+Lorsqu'un commissaire a été absent à plus du tiers des séances de la commission au cours d'une même session ordinaire et ne s'est ni excusé en invoquant l'un des motifs visés à l'alinéa précédent, ni fait suppléer aux termes de l'article 38, le bureau de la commission en informe le Président de l'Assemblée, qui constate la démission de ce commissaire. Celui-ci est remplacé et ne peut faire partie d'une autre commission en cours d'année ; son indemnité de fonction est réduite d'un tiers jusqu'à l'ouverture de la session ordinaire suivante.
 
-## Article 12
+## Article 43
 
-Les ministres ont accès dans les commissions lorsqu'ils le demandent. Le président de chaque commission peut demander l'audition d'un membre du Gouvernement ; sa demande est transmise par le Président de l'Assemblée au Premier Ministre. Les ministres peuvent répondre aux questions qui leur sont posées. Ils n'assistent ni aux délibérations ni aux votes.
+Dans l'intervalle des sessions, le quorum, c'est-à-dire la présence de la majorité des membres en exercice est nécessaire pour la tenue des réunions des commissions, sauf dans le cas où celles-ci sont tenues à la demande du Gouvernement.
 
-Chaque commission peut demander, par l'entremise du Président de l'Assemblée, l'audition d'un rapporteur du Conseil économique et social. L'auteur d'une proposition ou d'un amendement doit, s'il en fait la demande au président de la commission, être convoqué aux séances de la commission consacrées à l'examen de son texte ; il se retire au moment du vote.
-
-Toute commission peut désigner un ou plusieurs de ses membres à l'effet de participer, avec voix consultative, aux travaux de la commission des finances, de l'économie générale et du plan, pendant l'examen des articles de loi ou des chapitres de crédits ressortissant à sa compétence : ce ou ces délégués doivent être convoqués par la commission des finances, de l'économie générale et du plan.
-
-Les rapporteurs spéciaux de la commission des finances, de l'économie générale et du plan doivent être convoqués en vue de participer, avec voix consultative, aux travaux des commissions dont la compétence correspond au budget particulier dont ils ont le rapport.
-
-## Article 13
-
-I. — A la diligence du Président de l'Assemblée, les commissions permanentes sont saisies d'initiatives déposées sur le bureau de l'Assemblé qui rentrent dans leur compétence et dont l'examen n'a pas été renvoyé à une commission spéciale.
-
-Dans le cas où une commission permanente se déclare incompétente ou en cas de conflit de compétence entre deux ou plusieurs de ces commissions, le Président, après un débat où sont seuls entendus l'auteur de l'initiative et les présidents des commissions intéressées, propose par priorité à l'Assemblée la création d'une commission spéciale ; si cette proposition est rejetée, le Président soumet à l'Assemblée la question de compétence.
-
-II. - Toute commission permanente qui s'estime compétente pour donner son avis sur une affaire renvoyée à une autre commission, permanente ou spéciale, informe le Président de l'Assemblée de sa demande d'avis qui est communiquée à l'Assemblée pour décision.
-
-Lorsqu'un projet ou une proposition a été l'objet d'un renvoi pour avis, la commission saisie désigne un rapporteur qui a le droit de participer, avec voix consultative, aux travaux de la commission saisie au fond. Réciproquement, le rapporteur de la commission saisie au fond a le droit de participer, avec voix consultative, aux travaux de la commission saisie pour avis.
-
-Les avis sont imprimés et distribués.
-
-Le défaut de dépôt ou de distribution d'un avis ne peut faire obstacle à la discussion d'une affaire, la commission qui a demandé à donner son avis pouvant toujours le donner verbalement au jour fixé pour la discussion du fond.
-
-## Article 14
-
-Les rapporteurs des commissions doivent être désignés et leurs rapports doivent être déposés, imprimés et distribués dans un délai tel que l'Assemblée nationale soit en mesure de procéder à la discussion des projets et propositions conformément à la Constitution.
-
-Les rapports faits sur des projets de loi soumis en premier lieu à l'Assemblée nationale ou sur des textes transmis par le Sénat concluent à l'adoption, au rejet ou à des amendements.
-
-En annexe des rapports doivent être insérés les amendements soumis à la commission, qu'ils lui aient été transmis par la Présidence de l'Assemblée ou directement présentés par leurs auteurs avant le dépôt du rapport.
-
-Les rapports faits sur les propositions de loi ou la résolution concluent par un texte d'ensemble
-
-## Article 15
-
-Dans l'intervalle des sessions, le quorum, c'est-à-dire la présence de la majorité des membres en exercice, est nécessaire pour la tenue des réunions des commissions, sauf dans le cas où celles-ci sont tenues à la demande du Gouvernement.
-
-## Article 16
+## Article 44
 
 Dans tous les cas, le quorum est nécessaire à la validité des votes si le tiers des membres présents le demande.
 
 Lorsqu'un vote ne peut avoir lieu faute de quorum, il a lieu valablement, quel que soit le nombre des membres présents, dans la séance suivante, laquelle ne peut être tenue moins de trois heures après.
 
-Les votes en commission sont personnels.
+Les votes en commission ont lieu à main levée ou par scrutin.
 
-Le vote par scrutin est de droit lorsqu'il est demandé soit par le dixième au moins des membres d'une commission.
+Le vote par scrutin est de droit lorsqu'il est demandé soit par le dixième au moins des membres d'une commission, soit par un membre de la commission s'il s'agit d'une désignation personnelle.
 
-Les commissaires ne peuvent déléguer leur droit de vote dans les scrutins qu'à un autre membre de la même commission et seulement dans les cas et les conditions prévus par l'ordonnance n° 58-1066 du 7 novembre 1958. Les délégations doivent alors être notifiées au président de la commission. Les dispositions de l'article 39 leur sont applicables.
+Sous réserve des dispositions de l'article 38, les commissaires ne peuvent déléguer leur droit de vote dans les scrutins qu'à un autre membre de la même commission et seulement dans les cas et les conditions prévus par l'ordonnance n° 58-1066 du 7 novembre 1958. Les délégations doivent alors être notifiées au président de la commission. Les dispositions de l'article 62 leur sont applicables.
 
 Les présidents des commissions n'ont pas voix prépondérante. En cas de partage égal des voix, la disposition mise aux voix n'est pas adoptée.
 
-## Article 17
+## Article 45
 
-I. — Il est dressé un procès-verbal des séances des commissions.
+Les ministres ont accès dans les commissions ; ils doivent être entendus quand ils le demandent. Ils ne peuvent assister aux votes.
 
-Les procès-verbaux ont un caractère confidentiel qui ne doit pas être transgressé par les communiqués à la presse éventuellement publiés par les commissions à l'issue de leurs réunions.
+Le Président de chaque commission peut demander l'audition d'un membre du Gouvernement ; sa demande est transmise par le Président de l'Assemblée au Premier Ministre.
+
+Chaque commission peut demander, par l'entremise du Président de l'Assemblée, l'audition d'un rapporteur du Conseil économique et social sur les textes sur lesquels il a été appelé à donner un avis.
+
+## Article 46
+
+Il est dressé un procès-verbal des séances des commissions. Les procès-verbaux ont un caractère confidentiel qui ne doit pas être transgressé par les communiqués de presse éventuellement publiés par les commissions à l'issue de leurs réunions.
 
 Les membres de l'Assemblée peuvent prendre communication, sans déplacement, des procès-verbaux des commissions ainsi que des documents qui leur ont été remis.
 
 Les procès-verbaux et documents sont déposés aux archives de l'Assemblée en fin de législature.
 
-II. — Il est publié chaque semaine un Bulletin des commissions dans lequel sont insérés les résultats des votes intervenus dans la semaine au sein des commissions, les noms des votants, ainsi que tous autres renseignements relatifs aux travaux des commissions et dont le détail est fixé par le bureau de chacune d'elles.
+Il est publié chaque semaine un Bulletin des commissions dans lequel sont insérés les résultats des votes intervenus dans la semaine au sein des commissions, les noms des votants, ainsi que tous autres renseignements relatifs aux travaux des commissions et dont le détail est fixé par le bureau de chacune d'elles.
 
-# CHAPITRE IV DEPOT DES PROJETS ET PROPOSITIONS
+# CHAPITRE XI ORDRE DU JOUR DE L'ASSEMBLÉE ORGANISATION DES DÉBATS
 
-## Article 18
+## Article 47
 
-Les projets de loi, les propositions de loi transmises par le Sénat et les propositions de loi présentées par les députés sont enregistrés à la Présidence. Le dépôt des projets de loi et des propositions transmises par le Sénat est toujours annoncé en séance publique. Le dépôt des propositions de loi présentées par les députés n'est annoncé en séance publique que si elles sont recevables au sens de l'article 40 de la Constitution.
+L'ordre du jour de l'Assemblée comprend :
 
-Selon que la recevabilité ou l'irrecevabilité d'une proposition de loi est évidente, le Président en accepte ou en refuse le dépôt.
+- les projets et propositions de loi inscrits par priorité dans les conditions prévues à l'article 89
 
-Les propositions de loi dont l'adoption pourrait avoir l'une des conséquences prévues par l'article 40 de la Constitution sont soumises, par le Président de l'Assemblée, au bureau de la commission des finances pour appréciation de leur recevabilité. Le bureau de la commission des finances doit donner son avis dans le délai de trois jours francs suivant la demande d'avis du Président de l'Assemblée et, en tout état de cause, avant le commencement de la discussion des propositions.
+- les questions orales inscrites dans les conditions prévues à l'article 134 ;
 
-La recevabilité ou l'irrecevabilité sont de droit si elles sont reconnues par le bureau de la commission des finances. Dans le cas où le bureau de la commission des finances n'a pas statué dans le délai précité, le président saisit le Bureau de l'Assemblée nationale qui statue en temps utile.
+- les autres affaires inscrites dans les conditions prévues à l'article suivant.
 
-La même procédure et la même sanction seront appliquées aux propositions de résolution tendant a suggérer au Gouvernement des mesures qui auraient pour objet la création ou l'aggravation d'une charge publique ou la diminution de ressources publiques.
+## Article 48
 
-Tout texte déposé est imprimé, distribué et renvoyé à l'examen d'une commission spéciale de l'Assemblée ou, à défaut, à l'examen de la commission permanente compétente.
+Les vice-présidents de l'Assemblée, les présidents des commissions permanentes, le rapporteur général de la commission des finances, de l'économie générale et du plan, les présidents des commissions spéciales intéressées et les présidents des groupes sont convoqués chaque semaine s'il y a lieu par le Président au jour et à l'heure fixés par lui, en vue d'examiner l'ordre des travaux de l'Assemblée et de faire toutes propositions concernant le règlement de l'ordre du jour, en complément des discussions fixées par priorité par le Gouvernement.
 
-Dans l'intervalle des sessions, les projets de loi peuvent être, à la demande du Gouvernement, renvoyés à l'examen de la commission permanente compétente.
+Le Gouvernement est avisé par le Président du jour et de l'heure de la conférence. Il peut y déléguer un représentant.
 
-## Article 19
+A l'ouverture de la session, ou après la formation d'un Gouvernement, la Conférence arrête l'ordre du jour qu'elle propose pour les deux premières semaines en complément des affaires inscrites par priorité en application des dispositions de l'article 48 de la Constitution ; dans sa réunion suivante, elle l'établit pour la troisième semaine et procède de même dans chacune de ses réunions hebdomadaires ultérieures.
 
-Le Bureau de l'Assemblée nationale saisi par le Président, soit à son initiative, soit à la demande du Gouvernement, peut déclarer irrecevables les propositions de résolution dont l'adoption mettrait en jeu la responsabilité du Gouvernement en dehors des formes prévues par l'article 49 de la Constitution.
+Dans les votes émis au sein de la Conférence sur proposions qui lui sont soumises par ses membres, il est attribué aux présidents de groupes un nombre de voix égal au nombre des membres de leur groupe après défalcation des autres membres de la Conférence.
 
-## Article 20
+L'ordre du jour établi par la Conférence est immédiatement affiché et notifié au Gouvernement et aux présidents de groupes.
 
-Les projets de loi peuvent être retirés par le Gouvernement à tout moment jusqu'à leur adoption définitive par le Parlement.
+Au début de la séance suivant la réunion de la Conférence, le Président soumet ces propositions à l'Assemblée. Aucun amendement n'est recevable. L'Assemblée ne se prononce que sur leur ensemble. Seuls peuvent intervenir le Gouvernement et, pour une explication de vote de cinq minutes au maximum, les présidents des commissions ou leur délégué ayant assisté à la Conférence, ainsi qu'un orateur par groupe.
 
-L'auteur ou le premier signataire d'une proposition peut la retirer à tout moment avant son adoption en première lecture. Si le retrait a lieu en cours de discussion en séance publique et si un autre député la reprend, la discussion continue.
+L'ordre du jour réglé par l'Assemblée ne peut être ultérieurement modifié, sous réserve des dispositions de l'article 50, qu'en ce qui concerne l'inscription prioritaire décidée en application de l'article 48 de la Constitution, dans les conditions prévues à l'article 89. Il peut être exceptionnellement aménagé après une nouvelle Conférence des Présidents.
 
-Les propositions repoussées par l'Assemblée ne peuvent être reproduites avant un délai de trois mois.
+## Article 49
 
-# CHAPITRE V INSCRIPTION A L'ORDRE DU JOUR DE L'ASSEMBLÉE ORGANISATION DES DÉBATS
+L'organisation d'une discussion peut être décidée par la Conférence des Présidents. A défaut, elle peut être demandée, soit au moment de l'inscription à l'ordre du jour, soit au début de la discussion. L'Assemblée est appelée à voter, sans débat, sur cette initiative.
 
-## Article 21
+Si l'organisation de la discussion est décidée, les vice-présidents de l'Assemblée, les présidents de groupes, les présidents et les rapporteurs des commissions saisies au fond ou pour avis, les orateurs inscrits et un membre du Gouvernement sont réunis par le Président de l'Assemblée en Conférence des Présidents.
 
-L'ordre du jour de l'Assemblée est établi par une conférence hebdomadaire dont la convocation constitue une prérogative du Président.
-
-Cette conférence est composée du Président et des Vice-Présidents de l'Assemblée, des présidents des commissions permanentes, du rapporteur général de la commission des finances, des présidents des groupes et des présidents des formations administratives. Les présidents des autres commissions y sont convoqués lorsqu'une affaire examinée par leur commission est susceptible d'être inscrite à l'ordre du jour.
-
-Le Gouvernement est avisé par le Président du jour et de l'heure de la conférence; il peut y déléguer un représentant.
-
-A l'ouverture de la session ou après la formation d'un Gouvernement, la conférence établit l'ordre du jour pour la durée de deux semaines; dans sa réunion suivante, elle l'établit pour la troisième semaine et procède de même dans chacune de ses réunions hebdomadaires ultérieures.
-
-La conférence des Présidents est informée par le Gouvernement des affaires dont il demande la discussion; celles-ci sont inscrites d'office à l'ordre du jour dans l'ordre et aux dates fixés par le Gouvernement.
-
-Dans le cadre des séances dont elle décide la tenue, la conférence fait des propositions complémentaires à soumettre à l'Assemblée.
-
-Dans les votes émis au sein de la conférence sur les propositions qui lui sont soumises par ses membres, il est attribué aux présidents des groupes un nombre de voix égal au nombre des membres de leur groupe après défalcation des autres membres de la conférence.
-
-L'ordre du jour établi par la conférence est immédiatement affiché et notifié au Gouvernement et aux présidents de groupes.
-
-Au début de la séance suivant la réunion de la conférence, le Président informe l'Assemblée des discussions inscrites à l'ordres du jour sur demande du Gouvernement et il lui soumet les propositions de la conférence.
-
-Aucun amendement n'est recevable à ces dernières propositions. L'Assemblée ne se prononce que sur leur ensemble. Seuls peuvent intervenir le Gouvernement et, pour une explication de vote de cinq minutes au maximum, les présidents des commissions ou leur délégué ayant assisté à la conférence, ainsi qu'un orateur par groupe ou par formation administrative.
-
-L'ordre du jour ainsi établi par l'Assemblée ne peut plus être modifié. Sous réserve des dispositions de l'article 24, il ne peut être aménagé qu'exceptionnellement, après une nouvelle réunion de la conférence des Présidents.
-
-## Article 22
-
-L'organisation d'une discussion peut être décidée par la conférence des Présidents. A défaut, elle peut être demandée, soit au moment de l'inscription à l'ordre du jour, soit au début de la discussion. L'Assemblée est appelée à voter, sans débat, sur cette initiative.
-
-Si l'organisation de la discussion est décidée, la conférence des Présidents est réunie par le Président qui en avise le Gouvernement.
-
-Elle peut éventuellement entendre les rapporteurs des commissions saisies au fond et pour avis.
-
-Elle répartit le temps de parole dans le cadre des séances prévues.
-
-Si ces séances n'ont pas été prévues, elle en fixe le nombre et la date.
+Cette Conférence répartit le temps de parole dans le cadre des séances prévues par l'ordre du jour.
 
 Elle peut fixer l'heure limite à laquelle auront lieu les votes.
 
-## Article 23
+# CHAPITRE XII TENUE DES SÉANCES PLÉNIÈRES
 
-Dans tous les débats pour lesquels le temps de parole est limité, les orateurs ne doivent, en aucun cas, excéder leur temps de parole ou le temps de parole attribué à leur groupe.
+## Article 50
 
-Si le temps de parole est dépassé, le Président, après un avertissement, décide que les paroles de de l'orateur ne figureront pas au Journal officiel. Si, malgré cette décision, l'orateur persiste à occuper la tribune, le Président peut lui faire application de peines disciplinaires dans les conditions prévues au chapitre XV ci-après.
+L'Assemblée se réunit chaque semaine en séance publique dans l'après-midi des mardi, mercredi, jeudi et vendredi, sur proposition de la Conférence des Présidents.
+
+L'Assemblée peut à tout moment décider que les dispositions de l'alinéa 1 sont suspendues.
+
+Si l'examen de l'ordre du jour l'exige, la Conférence des Présidents peut proposer à l'Assemblée de tenir d'autres séances, à l'exception des matinées des mardi, mercredi, jeudi et vendredi, réservées aux réunions des commissions.
+
+La tenue de ces séances est de droit à la demande du Premier Ministre.
+
+Pour continuer le débat en cours, le Président de séance ou le président de la commission saisie au fond peuvent faire la même demande. Dans ce dernier cas, l'Assemblée se prononce, après un débat ou seuls peuvent intervenir l'auteur de l'initiative, un orateur d'opinion contraire, le Gouvernement et le président ou le rapporteur de la commission saisie au fond.
+
+Pour l'application des articles 18, 35, 36 et 49 de la Constitution, pour la discussion de la loi de finances ou pendant les sessions extraordinaires, l'Assemblée peut tenir séance les matinées des mardi, mercredi, jeudi et vendredi.
+
+## Article 51
+
+L'Assemblée peut décider de siéger en comité secret par un vote exprès et sans débat émis à la demande soit du Premier Ministre, soit d'un dixième de ses membres. Le dixième des membres est calculé sur le nombre des sièges effectivement pourvus. En cas de fraction, le nombre est arrondi au chiffre immédiatement supérieur.
+
+Lorsque le motif qui a donné lieu au comité secret a cessé, le Président consulte l'Assemblée sur la reprise de la séance publique.
+
+L'Assemblée décide ultérieurement de la publication éventuelle du compte rendu intégral des débats en comité secret. A la demande du Gouvernement, cette décision est prise en comité secret.
+
+## Article 52
+
+Le Président ouvre la séance, dirige les délibérations, fait observer le règlement et maintient l'ordre ; il peut, à tout moment, suspendre ou lever la séance.
+
+La police de l'Assemblée est exercée, en son nom, par le Président.
+
+Les secrétaires surveillent la rédaction du procès-verbal, constatent les votes à main levée, par assis et levé ou par appel nominal et le résultat des scrutins ; ils contrôlent les délégations de vote ; la présence d'au moins deux d'entre eux au bureau est obligatoire. A défaut de cette double présence, ou en cas de partage égal de leurs avis, le Président décide.
+
+## Article 53
+
+Avant de passer à l'ordre du jour, le Président donne connaissance à l'Assemblée des communications qui la concernent ; l'Assemblée peut en ordonner l'impression.
+
+## Article 54
+
+Aucun membre de l'Assemblée ne peut parler qu'après avoir demandé la parole au Président et l'avoir obtenue, même s'il est autorisé exceptionnellement par un orateur à l'interrompre. En ce dernier cas, l'interruption ne peut dépasser cinq minutes.
+
+Les députés qui désirent intervenir s'inscrivent auprès du Président qui détermine l'ordre dans lequel ils sont appelés à prendre la parole.
+
+Hormis les débats limités par le règlement, le Président peut autoriser des explications de vote de cinq minutes chacune, à raison d'un orateur par groupe.
+
+L'orateur parle à la tribune ou de sa place; le Président peut l'inviter à monter à la tribune.
+
+Quand le Président juge l'Assemblée suffisamment informée, il peut inviter l'orateur à conclure.
+
+L'orateur ne doit pas s'écarter de la question sinon le Président l'y rappelle. S'il ne défère pas à ce rappel, de même que si un orateur parle sans en avoir obtenu l'autorisation ou prétend poursuivre son intervention après avoir été invité à conclure ou lit un discours, le Président peut lui retirer la parole. Dans ce cas, le Président ordonne que ses paroles ne figureront plus au procès-verbal et ce sans préjudice de l'application des peines disciplinaires prévues au chapitre XIV du présent titre.
+
+## Article 55
+
+Dans tous les débats pour lesquels le temps d parole est limité, les orateurs ne doivent, en aucun cas, excéder le temps de parole attribué à leur groupe.
+
+Si le temps de parole est dépassé, le Président fait application de l'article 54, alinéas 5 et 6.
 
 Lorsqu'un groupe a épuisé son temps de parole, celle-ci doit être refusée à ses membres.
 
@@ -324,69 +524,7 @@ Le président d'un groupe qui a épuisé son temps de parole ne peut plus demand
 
 Si, au cours d'un débat organisé, il devient manifeste que les temps de parole sont devenus insuffisants, l'Assemblée, sur proposition de son Président, peut décider, sans débat, d'augmenter pour une durée déterminée les temps de parole.
 
-# CHAPITRE VI TENUE DES SÉANCES
-
-## Article 24
-
-L'Assemblée se réunit chaque semaine en séance publique dans l'après-midi des mardi, mercredi, jeudi et vendredi, sur proposition de la conférence des Présidents.
-
-L'Assemblée peut à tout moment décider que les dispositions de l'alinéa 1 sont suspendues.
-
-Si l'examen de l'ordre du jour qu'elle établit l'exige, la conférence des Présidents peut proposer à l'Assemblée de tenir d'autres séances, à l'exception des matinées des mardi, mercredi, jeudi et vendredi, réservées aux réunions des commissions.
-
-La tenue de ces séances est de droit à la demande du Premier Ministre.
-
-Pour continuer le débat en cours, le Président de séance ou le président de la commission saisie au fond peuvent faire la même demande. Dans ce dernier cas, l'Assemblée se prononce, après un débat où seuls peuvent intervenir l'auteur de l'initiative, un orateur d'opinion contraire, le Gouvernement et le président ou le rapporteur de la commission saisie au fond.
-
-Pour l'application des articles 18, 35, 36 et 49 de la Constitution, ou pendant les sessions extraordinaires, l'Assemblée peut tenir séance les matinées des mardi, mercredi, jeudi et vendredi.
-
-L'Assemblée siège de droit en comité secret à la demande du Premier Ministre. Elle peut décider de siéger en comité secret par un vote exprès et sans débat émis à la demande d'un dixième de ses membres. Le dixième des membres est calculé sur le nombre des sièges effectivement pourvus. En cas de fraction, le nombre est arrondi au chiffre immédiatement supérieur.
-
-Lorsque le motif qui a donné lieu au comité secret a cessé, le Président consulte l'Assemblée sur la reprise de la séance publique.
-
-L'Assemblée décide ultérieurement de la publication éventuelle du compte rendu intégral des débats en comité secret, sauf opposition du Gouvernement lorsque le comité secret a été tenu à sa demande.
-
-## Article 25
-
-Le Président ouvre la séance, dirige les délibérations, fait observer le règlement et maintient l'ordre ; il peut, à tout moment, suspendre ou lever la séance.
-
-Les secrétaires surveillent la rédaction du procès-verbal, constatent les votes à mains levée, par assis et levé ou par appel nominal et dépouillent les scrutins ; ils contrôlent les délégations de vote ; la présence d'au moins deux d'entre eux au bureau est obligatoire. A défaut de cette bouble présence, ou en cas de partage égal de leurs avis, le Président décide.
-
-Au début de chaque séance, le Président soumet à l'adoption de l'Assemblée le procès-verbal de la séance précédente ; le procès-verbal de la dernière séance d'une session est soumis à l'approbation de l'Assemblée avant que cette séance soit levée. Les observations sur le procès-verbal ne peuvent excéder cinq minutes.
-
-Si le procès-verbal donne lieu à contestation et si cette contestation est prise en considération par l'Assemblée, la séance est suspendue pour permettre au Bureau d'examiner les propositions de modification du procès-verbal ; à la reprise de la séance, le Président fait connaître la décision du Bureau et, si la contestation est maintenue, il est procédé, pour l'adoption du procès-verbal, à un vote sans débat par scrutin public.
-
-Après son adoption, le procès-verbal est revêtu de la signature du président ou du vice-président qui a présidé la séance et de celles de deux secrétaires.
-
-En cas de rejet du procès-verbal, la séance continue; la discussion du procès-verbal rejeté est inscrite en tête de l'ordre du jour de la séance suivante; dans ce cas, le compte rendu intégral signé du Président et contresigné de deux secrétaires fait foi pour la validité des textes adoptés au cours de la séance.
-
-## Article 26
-
-Avant de passer à l'ordre du jour, le Président donne connaissance à l'Assemblée des communications qui la concernent; l'Assemblée peut en ordonner l'impression, si elle le juge utile.
-
-## Article 27
-
-Aucun membre de l'Assemblée ne peut parler qu'après avoir demandé la parole au Président et l'avoir obtenue, même s'il est autorisé exceptionnellement par un orateur à l'interrompre. En ce cas, l'interruption ne peut dépasser cinq minutes.
-
-Les députés qui désirent intervenir s'inscrivent auprès du Président qui détermine l'ordre dans lequel ils sont appelés à prendre la parole.
-
-Tout député inscrit peut céder son tour de parole à l'un de ses collègues ou, d'accord avec lui, faire intervertir l'ordre de leurs inscriptions.
-
-A l'exception des débats limités par le règlement, le Président peut autoriser des explications de vote dans la limite d'un orateur par groupe et d'une durée de cinq minutes chacun.
-
-L'orateur parle à la tribune ou de sa place; le Président peut l'inviter à monter à la tribune.
-
-Quand le Président juge l'Assemblée suffisamment informée, il peut inviter l'orateur à conclure.
-
-La lecture de discours est interdite; toutefois, l'orateur peut se référer à des notes.
-
-Si un orateur parle sans en avoir obtenu l'autorisation, s'il prétend poursuivre son intervention après avoir été invité à conclure, s'il lit un discours, s'il s'écarte de la question, le Président, après, s'il y a lieu, un avertissement, lui retire la parole.
-
-Si l'orateur ne se conforme pas à cette décision, le Président ordonne que ses paroles ne figureront pas au procès-verbal.
-
-S'il y a persistance dans le refus, application peut être faite des peines disciplinaires dans les conditions prévues au chapitre XV ci-après.
-
-## Article 28
+## Article 56
 
 Les ministres, les présidents et les rapporteurs des commissions intéressées obtiennent la parole quand ils la demandent.
 
@@ -398,135 +536,49 @@ Le Président peut autoriser un orateur à répondre au Gouvernement ou à la co
 
 Les présidents et les rapporteurs des commissions peuvent se faire assister, lors des discussions en séance publique, d'un fonctionnaire de l'Assemblée choisi par eux.
 
-## Article 29
+## Article 57
 
-Lorsqu'au moins deux orateurs d'avis contraire sont intervenus dans la discussion générale, dans la discussion d'un article ou dans des explications de vote, la clôture immédiate de cette phase de la discussion peut être soit décidée par le Président, soit proposée par un membre de l'Assemblée.
+En dehors des débats organisés conformément à l'article 49, et lorsqu'au moins deux orateurs d'avis contraire sont intervenus dans la discussion générale, dans la discussion générale, dans la discussion d'un article ou dans les explications de vote, la clôture immédiate de cette phase de la discussion peut être soit décidée par le Président, soit proposée par un membre de l'Assemblée. Toutefois, la clôture des explications de vote sur l'ensemble d'un texte ne peut être prononcée que lorsqu'un orateur par groupe a eu la faculté de prendre la parole.
 
-Dans cette dernière hypothèse et lorsqu'il s'agit de la discussion générale, si la parole est demandée contre la clôture, elle ne peut être accordée qu'à un seul orateur, qui ne peut la garder pendant plus de cinq minutes. Le premier des orateurs demeurant inscrits dans la discussion et, à son défaut, l'un des inscrits dans l'ordre d'inscription, s'il demande la parole contre la clôture, a la priorité; à défaut d'orateurs inscrits, la parole contre la clôture est donnée au député qui l'a demandée le premier.
+Si la clôture de la discussion générale est proposée par un membre de l'Assemblée, la parole ne peut être accordée que contre la clôture et à un seul orateur, pour une durée n'excédant pas cinq minutes. Le premier des orateurs demeurant inscrits dans la discussion ou, à son défaut, l'un des inscrits dans l'ordre d'inscription, s'il demande la parole contre la clôture, a la priorité; à défaut d'orateurs inscrits, la parole contre la clôture est donnée au député qui l'a demandée le premier.
 
 Lorsque la clôture est demandée en dehors de la discussion générale, l'Assemblée est appelée à se prononcer sans débat.
 
 Le vote au scrutin public ne peut être demandé dans les questions de clôture. Le Président consulte l'Assemblée à main levée. S'il y a doute sur le vote de l'Assemblée, elle est consultée par assis et levé. Si le doute persiste, la discussion continue.
 
-## Article 30
+## Article 58
 
-Les rappels au règlement et les demandes touchant au déroulement de la séance ont toujours priorité sur la question principale; ils en suspendent la discussion ; ils ne peuvent se produire tant que l'orateur n'a pas achevé son discours ; sous cette réserve, la parole est accordée sur-le-champ à tout député qui la demande à cet effet.
+Les rappels au règlement et des demandes touchant au déroulement de la séance ont toujours priorité sur la question principale ; ils en suspendent la discussion. La parole est accordée à tout député qui la demande à cet effet soit sur-le-champ, soit, si un orateur a la parole, à la fin de son intervention.
 
-Si, manifestement, son intervention n'a aucun rapport avec le règlement ou le déroulement de la séance, le Président lut retire la parole.
+Si, manifestement, son intervention n'a aucun rapport avec le règlement ou le déroulement de la séance, ou si elle tend à remettre en question l'ordre du jour fixé, le Président lui retire la parole.
 
 Lorsqu'un député demande la parole pour un fait personnel, elle ne lui est accordée qu'en fin de séance.
 
 Dans les deux cas prévus au présent article, la parole ne peut être conservée plus de cinq minutes.
 
-Toute attaque personnelle, toute interpellation de député à député, toute manifestation ou interruption troublant l'ordre sont interdites.
+Toute attaque personnelle, tout interpellation de député à député, toute manifestation ou interruption troublant l'ordre sont interdites.
 
-## Article 31
+## Article 59
 
 Avant de lever la séance, le Président fait part à l'Assemblée de la date et de l'ordre du jour de la séance suivante.
 
-Il est établi, pour chaque séance publique un compte rendu analytique officiel et un compte rendu intégral, qui est publié au Journal officiel.
+Il est établi, pour chaque séance publique, un compte rendu analytique officiel, affiché et distribué et un compte rendu intégral publié au Journal officiel.
 
-# CHAPITRE VII DISCUSSION DES PROJETS ET DES PROPOSITIONS
+Le compte rendu intégral est le procès-verbal de la séance. Il devient définitif si le Président de l'Assemblée n'a été saisi par écrit d'aucune opposition ou d'aucune demande de rectification vingt-quatre heures après sa publication au Journal officiel. Les contestations sont soumises au Bureau de l'Assemblée qui statue sur leur prise en considération après que l'auteur ait été entendu par l'Assemblée pour une durée qui ne dépasse pas cinq minutes.
 
-## Article 32
+Si la contestation est prise en considération par le Bureau, la rectification du procès-verbal est soumise par le Président, au début de la première séance suivant la décision du Bureau, à l'Assemblée qui statue sans débat.
 
-A l'exception des motions de censure, des questions préalables, des motions de renvoi à la commission ou de réserve visées à l'article 33 et des amendements, aucun texte ou proposition quelconque, quels que soient leur objet et la qualification qui leur est donnée par leurs auteurs, ne peut être mise en discussion et aux voix s'il n'a fait, au préalable, l'objet d'un rapport de la commission compétente dans les conditions réglementaires.
+## Article 60
 
-## Article 33
+Le Président constate la clôture de la première session ordinaire annuelle à la fin de la dernière séance du troisième vendredi de décembre et au plus tard à minuit.
 
-Les projets et propositions sont discutés dans les conditions ci-après.
+Il constate la clôture de la deuxième session ordinaire annuelle à la fin de la dernière séance fixée sur proposition de la Conférence des Présidents et au plus tard le jour de l'expiration du délai de trois mois suivant le dernier mardi d'avril, à minuit. Le délai de trois mois se compte de quantième en quantième.
 
-Après l'audition éventuelle du Gouvernement, du rapporteur et des rapporteurs pour avis, il ne peut être mis en discussion et aux voix qu'une seule question préalable, dont l'objet est de faire décider qu'il n'y a pas lieu à délibérer, et dont l'effet, en cas d'adoption, est d'entraîner le rejet du texte à l'encontre duquel elle a été soulevée. Dans la discussion de cette question préalable, peuvent seuls intervenir l'auteur, un orateur d'opinion contraire, le Gouvernement et le président ou le rapporteur de la commission saisie au fond.
+Après la lecture du décret de clôture d'une session extraordinaire intervenue dans les conditions prévues aux articles 29, alinéa 2 et 30 de la Constitution, le Président ne peut donner la parole à aucun orateur et lève sur-le-champ la séance.
 
-La parole est ensuite donnée aux orateurs qui se sont fait inscrire dans la discussion générale.
+# CHAPITRE XIII MODES DE VOTATION
 
-Après la clôture de la discussion générale, il ne peut être mis en discussion et aux voix qu'une seule motion tendant au renvoi à la commission saisie au fond de l'ensemble du texte en discussion, et dont l'effet, en cas d'adoption, est de suspendre le débat jusqu'à présentation par la commission d'un nouveau rapport. La discussion de cette motion a lieu dans les conditions prévues à l'alinéa 2.
-
-Si la motion de renvoi est adoptée, le projet ou la proposition ne peut être réinscrit à l'ordre du jour que par la conférence des Présidents.
-
-Si la motion est rejetée ou s'il n'en est pas présenté, le passage à la discussion des articles du projet ou, s'il s'agit d'une proposition, du texte de la commission, est de droit.
-
-Les dispositions des alinéas 4 à 6 ci-dessus ne peuvent faire échec à la priorité de discussion découlant de l'article 48 de la Constitution.
-
-Lorsqu'une commission saisie d'une proposition conclut au rejet de la proposition ou ne présente pas de conclusion, le Président, immédiatement après la clôture de la discussion générale, appelle l'Assemblée à se prononcer, soit sur les conclusions de rejet de la commission, soit sur le passage à la discussion des articles du texte initial de la proposition. Dans ce dernier cas, et si l'Assemblée décide de ne pas passer à la discussion des articles, la Président déclare que la proposition n'est pas adoptée.
-
-La discussion des articles porte successivement sur chacun d'eux qui est mis aux voix séparément; sur chaque article, les amendements sont mis successivement en discussion et aux voix dans les conditions fixées par l'article 36.
-
-La réserve d'un article ou d'un amendement, dont l'objet est de modifier l'ordre de la discussion, peut toujours être demandée.
-
-Elle est de droit à la demande du Gouvernement ou de la commission saisie au fond. Dans les autres cas, le Président décide.
-
-Dans l'intérêt de la discussion, le Président peut décider le renvoi d'un article et des amendements qui s'y rapportent à la commission.
-
-Il précise les conditions dans lesquelles la discussion sera poursuivie.
-
-Si le Gouvernement le demande, l'Assemblée se prononce par un seul vote sur tout ou partie du texte en discussion en ne retenant que les amendements proposés ou acceptés par le Gouvernement.
-
-Après le vote du dernier article ou article additionnel proposé par voie d'amendement, il est procédé au vote sur l'ensemble du projet ou de la proposition.
-
-Lorsque, avant le vote sur l'article unique d'un projet ou d'une proposition, il n'a pas été présenté d'article additionnel, ce vote équivaut à un vote sur l'ensemble; aucun article additionnel n'est recevable après que ce vote est intervenu.
-
-## Article 34
-
-Le Gouvernement, les commissions saisies au fond des projets de loi, les commissions saisies pour avis et les députés ont le droit de présenter des amendements aux textes déposés sur le bureau de l'Assemblée.
-
-En séance, il n'est d'amendements que ceux rédigés par écrit, signés par l'un des auteurs et déposés sur le bureau de l'Assemblée ou présentés en commission.
-
-Les amendements doivent être sommairement motivés; ils sont communiqués par la Présidence à la commission saisie au fond, imprimés et distribués; toutefois, le défaut d'impression et de distribution d'un amendement ne peut faire obstacle à sa discussion en séance publique.
-
-Les contre-projets sont interdits ; les amendements ne sont recevables que s'ils portent sur un seul article. Les sous-amendements ne sont recevables que dans la mesure où ils ne contredisent pas le sens de l'amendement. Les sous-amendements ne peuvent être amendés. La recevabilité des amendements au sens du présent alinéa, est appréciée par le Président.
-
-Les amendements et les sous-amendements ne sont recevables que s'ils s'appliquent effectivement au texte qu'ils visent ou, s'agissant d'articles additionnels, s'ils sont proposés dans le cadre du projet ou de la proposition ; dans les cas litigieux, la question de leur recevabilité est soumise, avant leur discussion, à la décision de l'Assemblée. Seul l'auteur de l'amendement, un orateur « contre », la commission et le Gouvernement peuvent intervenir.
-
-S'il apparaît évident que l'adoption d'un amendement aurait les conséquences prévues par l'article 40 de la Constitution, le Président en refuse le dépôt. En cas de doute, le Président décide après avoir consulté le président ou le rapporteur général de la commission des finances, de 1'économie générale et du plan ; à défaut d'avis, le Président peut saisir le Bureau de l'Assemblée.
-
-## Article 35
-
-Des amendements peuvent être présentés par les députés aux textes servant de base à la discussion dans un délai de quatre jours de séance suivant la distribution du rapport.
-
-Après expiration de ce délai sont seuls recevables en séance publique :
-
-1° Les amendements dont le Gouvernement ou la commission saisie au fond acceptent la discussion ;
-
-2° Les amendements déposés au nom d'une commission saisie pour avis ;
-
-3° Les amendements aux textes nouveaux proposés par la commission saisie au fond en cours de discussion.
-
-4° Les amendements se rapportant directement à des textes modifiés par l'Assemblée en cours de discussion.
-
-Les dispositions du présent article ne s'appliquent qu'aux discussions en première lecture des projets et propositions de loi.
-
-## Article 36
-
-Les amendements sont mis en discussion par priorité sur le texte auquel ils se rapportent et, d'une manière générale, avant la question principale.
-
-Le Président ne met en discussion que les amendements déposés sur le bureau de l'Assemblée.
-
-L'Assemblée ne délibère pas sur les amendements qui ne sont pas soutenus en séance, ni sur les amendements qui n'ont pas été soumis à la commission avant l'ouverture du débat, lorsque le Gouvernement s'oppose à leur examen en application de l'article 44 (alinéa 2) de la Constitution.
-
-Lorsqu'ils viennent en concurrence, 1es amendements sont mis en discussion dans l'ordre ci-après: amendements de suppression et ensuite les autres amendements en commençant par ceux qui s'écartent le plus du texte proposé et dans l'ordre où ils s'y opposent, s'y intercalent ou s'y ajoutent.
-
-Les amendements présentés par le Gouvernement ou par la commission saisie au fond ont priorité de discussion sur les amendements des députés ayant un objet identique. Dans ce cas la parole est donnée à tous les auteurs d'amendements et il est procédé à un seul vote sur l'ensemble de ces amendements.
-
-Lorsque plusieurs amendements, exclusifs l'un de l'autre, sont en concurrence, le Président peut les soumettre à une discussion commune dans laquelle les auteurs obtiennent successivement la parole avant la mise aux voix, également successive, de leurs amendements.
-
-Sur chaque amendement, ne peuvent être entendus, outre l'un des auteurs, que le Gouvernement, le président ou le rapporteur de la commission saisie au fond et un orateur d'opinion contraire.
-
-L'Assemblée ne se prononce que sur le fond des amendements à l'exclusion de toute prise en considération.
-
-## Article 37
-
-Lorsqu'avant le commencement de la discussion en séance publique d'une proposition ou d'un amendement, le Gouvernement leur oppose l'irrecevabilité tirée de l'article 41 (alinéa 1) de la Constitution, le Président de l'Assemblée peut, après consultation éventuelle du Bureau de l'Assemblée, admettre l'irrecevabilité. Dans le cas contraire, il saisit le Conseil constitutionnel.
-
-Lorsque l'irrecevabilité est opposée au cours de la discussion, le Président de l'Assemblée, lorsqu'il préside la séance, peut statuer sur-le-champ.
-
-Si ie Président de l'Assemblée ne préside pas la séance ou s'il désire demander l'avis du Bureau de l'Assemblée, la séance est suspendue.
-
-En cas de désaccord entre le Gouvernement et le Président de l'Assemblée, la discussion de la proposition ou de l'amendement est suspendue.
-
-# CHAPITRE VIII MODES DE VOTATION
-
-## Article 38
+## Article 61
 
 L'Assemblée est toujours en nombre pour délibérer et pour régler son ordre du jour.
 
@@ -534,31 +586,29 @@ Les votes émis par l'Assemblée sont valables, quel que soit le nombre des pré
 
 Lorsqu'un vote ne peut avoir lieu faute de quorum, la séance est levée après l'annonce par le Président du report du scrutin à l'ordre du jour de la séance suivante, laquelle ne peut être tenue moins d'une heure après ; le vote est alors valable, quel que soit le nombre des présents.
 
-Lorsqu'un scrutin a été reporté en application de l'alinéa précédent, le quorum n'est pas exigé pour l'adoption du procès-verbal de la séance précédemment levée.
-
-## Article 39
+## Article 62
 
 Le vote des députés est personnel.
 
-Toutefois, leur droit de vote dans les scrutins publics peut être délégué par eux dans les conditions fixées par l'ordonnance n° 58-1066 du 7 novembre 1958 portant loi organique autorisant exceptionnellement les parlementaires à déléguer leur droit de vote.
+Toutefois, leur droit de vote dans les scrutins publics peut être délégué par eux dans les conditions fixées par l'ordonnance n°58-1066 du 7 novembre 1958 portant loi organique autorisant exceptionnellement les parlementaires à déléguer leur droit de vote.
 
-La délégation de vote est toujours personnelle, rédigée au nom d'un seul député nommément désigné et ne peut être transférée, même avec l'accord préalable du délégant, à un autre bénéficiaire. Elle doit être notifiée au Président avant l'ouverture du scrutin ou du premier des scrutins auxquels elle s'applique.
+La délégation de vote est toujours personnelle, rédigée au nom d'un seul député nommément désigné. Elle peut être transférée avec l'accord préalable du délégant à un autre délégué également désigné. Elle doit être notifiée au Président avant l'ouverture du scrutin ou du premier des scrutins auxquels elle s'applique.
 
 Lorsque la durée de la délégation n'est pas précisée, elle expire de plein droit à l'issue d'un délai de huit jours francs à compter de sa réception.
 
 Les délégations et notifications peuvent être effectuées en cas d'urgence par télégramme du délégant transmis au délégué et notifiées au Président de l'Assemblée par une autorité officielle. Cette notification doit être accompagnée de la certification, par la même autorité, de l'envoi de la confirmation prévue par l'ordonnance visée à l'alinéa 2 ci-dessus.
 
-## Article 40
+## Article 63
 
 Les votes s'expriment, soit à main levée, soit par assis et levé, soit au scrutin public ordinaire, soit au scrutin public à la tribune.
 
-Toutefois, lorsque l'Assemblée doit procéder, par scrutin, à des nominations personnelles en assemblée générale ou dans les commissions, le scrutin est secret.
+Toutefois, lorsque l'Assemblée doit procéder, par scrutin, à des nominations personnelles, le scrutin est secret.
 
-Dans les questions complexes, le vote d'un texte par division peut toujours être demandé. L'auteur de la demande de vote par division doit préciser les parties du texte sur lesquelles il demande des votes séparés.
+Dans les questions complexes et sauf dans les cas prévus aux articles 44 et 49 de la Constitution, le vote d'un texte par division peut toujours être demandé. L'auteur de la demande doit préciser les parties du texte sur lesquelles il demande des votes séparés.
 
 Le vote d'un texte par division est de droit lorsqu'il est demandé par le Gouvernement ou la commission saisie au fond. Dans les autres cas, le président de séance, après consultation éventuelle du Gouvernement ou de la commission, décide s'il y a lieu ou non de voter par division.
 
-## Article 41
+## Article 64
 
 L'Assemblée vote normalement à main levée en toutes matières, sauf pour les nominations personnelles.
 
@@ -568,65 +618,47 @@ Toutefois, lorsque la première épreuve à main levée est déclarée douteuse,
 
 Nul ne peut obtenir la parole entre les différentes épreuves du vote.
 
-## Article 42
+## Article 65
 
-Le vote par scrutin public est de droit:
+Le vote par scrutin public est de droit :
 
 1° Sur décision du Président de l'Assemblée ou sur demande du Gouvernement ou de la commission saisie au fond ;
 
-2° Sur demande émanant personnellement soit du président d'un groupe, soit de son délégué dont il a préalablement donné le nom au Président de l'Assemblée ;
+2° Sur demande écrite émanant personnellement soit du président d'un groupe, soit de son délégué dont il a préalablement notifié le nom au Président de l'Assemblée ;
 
 3° Lorsque la Constitution exige une majorité qualifiée ou lorsque la responsabilité du Gouvernement est engagée.
 
 Il est procédé au scrutin public en la forme ordinaire lorsqu'il a lieu en application des paragraphes 1° et 2° ou à la tribune, lorsqu'il a lieu en application du paragraphe 3° ci-dessus.
 
-## Article 43
+## Article 66
 
-Lorsqu'il y a lieu à scrutin public, l'annonce en est faite dans l'ensemble des locaux du Palais. Cinq minutes après cette annonce, le Président invite éventuellement les députés à regagner leurs places. Il déclare ensuite le scrutin ouvert.
+Lorsqu'il y a lieu à scrutin public, l'annonce en est faite dans l'ensemble des locaux du Palais. Elle interrompt tout débat. Cinq minutes après cette annonce, le Président invite éventuellement les députés à regagner leurs places. Il déclare ensuite le scrutin ouvert.
 
-I. — Pour un scrutin public ordinaire, chaque député dépose personnellement dans l'urne qui lui est présentée par les huissiers un bulletin de vote à son nom, blanc s'il est pour l'adoption, bleu s'il est contre, rouge s'il entend s'abstenir.
+I. — Pour un scrutin public ordinaire, le vote a lieu par procédé électronique.
 
-Les députés disposant d'une délégation de vote émettent le vote de leur délégant en déposant dans l'urne une note écrite indiquant le nom du délégant, le sens du vote et portant le nom et la signature du délégataire.
+Dans le cas où l'appareillage électronique ne fonctionne pas, le vote a lieu par bulletins. Chaque député dépose personnellement dans l'urne qui lui est présentée par les huissiers un bulletin de vote à son nom, blanc s'il est pour l'adoption, bleu s'il est contre, rouge s'il entend s'abstenir. Il est interdit de déposer plus d'un bulletin dans l'urne pour quelque cause que ce soit.
 
-Il est interdit de déposer plus d'un bulletin dans l'urne pour quelque cause que ce soit.
+Lorsque personne ne demande plus à voter, le Président prononce la clôture du scrutin. Les urnes sont éventuellement apportées à la tribune. Le Président proclame le résultat du scrutin constaté par les secrétaires.
 
-Lorsque tous les votes sont recueillis, le Président prononce la clôture du scrutin. Les urnes sont apportées à la tribune. Le Président proclame le résultat du scrutin dépouillépar les secrétaires.
+II. - Pour un scrutin public à la tribune, tous les députés sont appelés nominalement par les huissiers. Sont appelés les premiers ceux dont le nom commence par une lettre préalablement tirée au sort. Il est procédé à l'émargement des noms des votants.
 
-II. - Pour un scrutin public à la tribune, tous les députés sont appelés nominalement par les huissiers. Sont appelés les premiers ceux dont le nom commence par une lettre préalablement tirée au sort.
+Le vote a lieu par procédé électronique. Dans le cas où l'appareillage électronique ne fonctionne pas, le vote a lieu par bulletins. Chaque député remet son bulletin à l'un des secrétaires qui le dépose dans une urne placée sur la tribune.
 
-Chaque député remet son bulletin à l'un des secrétaires qui le dépose dans une urne placée sur la tribune. Il est procédé à l'émargement des noms des votants au fur et à mesure des votes émis.
+Le scrutin reste ouvert pendant quarante-cinq minutes. Le résultat est constaté par les secrétaires et proclamé par le Président.
 
-Le scrutin reste ouvert pendant quarante-cinq minutes ; il est dépouillé par les secrétaires et son résultat est proclamé par le Président.
+III- — Les modalités du vote électronique et de l'exercice des délégations de vote sont réglées par une instruction du Bureau.
 
-## Article 44
+## Article 67
 
-Le Président, après consultation des secrétaires, décide s'il y a lieu ou non à pointage d'un scrutin public ordinaire.
+Il n'y a lieu à pointage d'un scrutin que si le vote n'a pas été émis par procédé électronique.
 
-Le pointage est de droit en matière de scrutin public à la tribune ou lorsque l'écart entre le nombre des bulletins blancs et celui des bulletins bleus n'est pas supérieur à dix.
+Le pointage est de droit dans un scrutin public à la tribune par bulletins. Il est également de droit en matière de scrutin public ordinaire lorsque l'écart entre le nombre des bulletins blancs et celui des bulletins bleus n'est pas supérieur à dix.
 
-Dans le cas de pointage, aucune modification ne peut, entre l'annonce du pointage et la proclamation de son résultat, être apportée aux votes recueillis en séance.
+Le Président peut également décider, après consultation des secrétaires, qu'il y a lieu à pointage d'un scrutin public ordinaire.
 
-Lorsqu'il y a lieu à pointage d'un scrutin portant sur une demande de suspension de séance ou sur un texte dont l'adoption ou le rejet ne peut influer sur la suite de la discussion, la séance continue.
+Lorsqu'il y a lieu à pointage d'un scrutin portant sur une demande de suspension de séance ou sur un texte dont l'adoption ou le rejet ne peut pas influer sur la suite de la discussion, la séance continue.
 
-## Article 45
-
-Les scrutins secrets pour des nominations personnelles en assemblée générale ont lieu,  soit en séance, soit dans les salles voisines dans les conditions ci-après :
-
-I. - Lorsque le scrutin à lieu en séance, il y est procédé dans les conditions prévues à l'article 43, paragraphe II.
-
-II. - Lorsque le scrutin a lieu dans les salles voisines de la salle des séances, le Président en indique l'heure d'ouverture.
-
-Des scrutateurs tirés au sort procèdent à l'émargement des listes de votants.
-
-Pendant le cours de la séance, qui n'est pas suspendue du fait du vote, chaque député dépose son bulletin dans une urne placée sous la surveillance de l'un des secrétaires du Bureau.
-
-Le scrutin reste ouvert pendant quarante-cinq minutes.
-
-Les secrétaires font le dépouillement du scrutin et le Président en proclame le résultat.
-
-III. - Pour les nominations personnelles, et sauf stipulations contraire, la majorité absolue est requise aux deux premiers tours de scrutin ; au troisième tour, la majorité relative suffit et, en cas d'égalité des suffrages, le plus âgé est nommé.
-
-## Article 46
+## Article 68
 
 Sous réserve de l'application de l'article 49 de la Constitution, les questions mises aux voix ne sont déclarées adoptées que si elles ont obtenu la majorité des suffrages exprimés. Toutefois, lorsque la Constitution exige pour une adoption la majorité absolue des membres composant l'Assemblée, cette majorité est calculée sur le nombre de sièges effectivement pourvus.
 
@@ -634,45 +666,757 @@ En cas d'égalité de suffrages, la question mise aux voix n'est pas adoptée.
 
 Le résultat des délibérations de l'Assemblée est proclamé par le Président en ces termes : «L'Assemblée a adopté » ou « l'Assemblée n'a pas adopté ».
 
-Aucune rectification de vote n'est admise.
+Aucune rectification de vote n'est admise après la clôture du scrutin.
 
-# CHAPITRE IX RAPPORTS DE L'ASSEMBLÉE NATIONALE AVEC LE SENAT ET AVEC LE GOUVERNEMENT
+## Article 69
 
-## Article 47
+Les scrutins secrets auxquels procède l'Assemblée pour les nominations personnelles ont lieu soit à la tribune, dans les conditions prévues à l'article 66, paragraphe II, soit dans les salles voisines de la salle des séances.
 
-Au cours des deuxièmes lectures et des lectures ultérieures des projets et des propositions de loi, la discussion a lieu conformément au chapitre VII ci-dessus, sous les réserves suivantes.
+Dans ce dernier cas, le Président en indique en séance l'heure d'ouverture et l'heure de clôture. Des scrutateurs tirés au sort procèdent à l'émargement des listes de votants. Pendant le cours de la séance, qui n'est pas suspendue du fait du vote, chaque député dépose son bulletin dans une urne placée sous la surveillance de l'un des secrétaires du Bureau. Les secrétaires dépouillent le scrutin et le Président en proclame le résultat en séance.
+
+La durée de tous les scrutins prévus au présent article est fixée à quarante-cinq minutes.
+
+# CHAPITRE XIV DISCIPLINE ET IMMUNITÉ
+
+## Article 70
+
+Les peines disciplinaires applicables aux membres de l'Assemblée sont :
+
+le rappel à l'ordre ;
+
+le rappel à l'ordre avec inscription au procès-verbal ;
+
+la censure ;
+
+la censure avec exclusion temporaire.
+
+## Article 71
+
+Le Président seul rappelle à l'ordre.
+
+Est rappelé à l'ordre tout orateur qui trouble cet ordre.
+
+Tout député qui, n'étant pas autorisé à parler, s'est fait rappeler à l'ordre, n'obtient la parole pour se justifier qu'à la fin de la séance, à moins que le Président n'en décide autrement.
+
+Est rappelé à l'ordre avec inscription au procès-verbal tout député qui, dans la même séance, a encouru un premier rappel à l'ordre.
+
+Est également rappelé à l'ordre aves inscription au procès-verbal, tout député qui a adressé à un ou plusieurs de ses collègues des injures, provocations ou menaces.
+
+Le rappel à l'ordre avec inscription au procès-verbal comporte de droit la privation, pendant un mois, du quart de l'indemnité parlementaire allouée aux députes.
+
+## Article 72
+
+La censure est prononcée contre tout député :
+
+1° qui, après un rappel à l'ordre avec inscription au procès-verbal, n'a pas déféré aux injonctions du Président ;
+
+2° qui, dans l'Assemblée, a provoqué une scène tumultueuse.
+
+## Article 73
+
+La censure avec exclusion temporaire du Palais de 1'Assemblée est prononcée contre tout député :
+
+1° qui a résisté à la censure simple ou qui a subi deux fois cette sanction ;
+
+2° qui, en séance publique, a fait appel à la violence ;
+
+3° qui s'est rendu coupable d'outrages envers l'Assemblée ou envers son président ;
+
+4° qui s'est rendu coupable d'injures, provocations ou menaces envers le Président de la République, le Premier Ministre, les membres du Gouvernement et les Assemblées prévues par la Constitution.
+
+La censure avec exclusion temporaire entraîne l'interdiction de prendre part aux travaux de l'Assemblée et de reparaître dans le Palais de l'Assemblée jusqu'à l'expiration du quinzième jour de séance qui suit celui où la mesure a été prononcée.
+
+En cas de refus du député de se conformer à l'injonction qui lui est faite par le Président de sortir de l'Assemblée, la séance est suspendue. Dans ce cas et aussi dans le cas où la censure avec exclusion temporaire est appliquée pour la deuxième fois à un député, l'exclusion s'étend à trente jours de séance.
+
+## Article 74
+
+En cas de voie de fait d'un membre de l'Assemblée à l'égard d'un de ses collègues, le Président peut proposer au Bureau la peine de la censure avec exclusion temporaire. A défaut du Président, elle peut être demandée par écrit au Bureau par un député.
+
+Lorsque la censure avec exclusion temporaire est, dans ces conditions, proposée contre un député, le Président convoque le Bureau qui entend ce député. Le Bureau peut appliquer une des peines prévues à l'article 70. Le Président communique au député la décision du Bureau. Si le Bureau conclut à la censure avec exclusion temporaire, le député est reconduit jusqu'à la porte du Palais par le chef des huissiers.
+
+## Article 75
+
+La censure simple et la censure avec exclusion temporaire sont prononcées par l'Assemblée, par assis et levé et sans débat, sur la proposition du Président.
+
+Le député contre qui l'une ou l'autre de ces peines disciplinaires est demandée a toujours le droit d'être entendu ou de faire entendre en son nom un de ses collègues.
+
+## Article 76
+
+La censure simple emporte, de droit, la privation, pendant un mois, de la moitié de l'indemnité allouée au député.
+
+La censure avec exclusion temporaire emporte, de droit, la privation de la moitié de l'indemnité pendant deux mois.
+
+## Article 77
+
+Lorsqu'un député entreprend de paralyser la liberté des délibérations et des votes de l'Assemblée et, après s'être livré à des agressions contre un ou plusieurs de ses collègues, refuse d'obtempérer aux rappels à l'ordre du Président, celui-ci lève la séance et convoque le Bureau.
+
+Le Bureau peut proposer à l'Assemblée de prononcer la peine de la censure avec exclusion temporaire, la privation de la moitié de l'indemnité parlementaire prévue par l'article précédent s'étendant dans ce cas à six mois.
+
+Si, au cours des séances qui ont motivé cette sanction, des voies de fait graves ont été commises, le Président saisit sur l'heure le procureur général.
+
+Les sanctions prévues au présent article sont applicables au député qui s'est rendu coupable de fraude dans les scrutins, notamment en ce qui concerne le caractère personnel du vote.
+
+## Article 78
+
+Si un fait délictueux est commis par un député dans l'enceinte du Palais pendant que l'Assemblée est en séance, la délibération en cours est suspendue.
+
+Séance tenante, le Président porte le fait à la connaissance de l'Assemblée.
+
+Si le fait visé à l'alinéa 1 est commis pendant une suspension ou après la levée de la séance, le Président porte le fait à la connaissance de l'Assemblée à la reprise de la séance ou au début de la séance suivante.
+
+Le député est admis à s'expliquer, s'il le demande. Sur l'ordre du Président, il est tenu de quitter la salle des séances et retenu dans 1e Palais.
+
+En cas de résistance du député ou de tumulte dans l'Assemblée, le Président lève à l'instant 1a séance.
+
+Le Bureau informe, sur-le-champ, le procureur général qu'un délit vient d'être commis dans le Palais de l'Assemblée.
+
+## Article 79
+
+Indépendamment des cas prévus par l'article 19 de l'ordonnance n°58-998 du 24 octobre 1958 portant loi organique relative aux incompatibilités parlementaires et sanctionnés par l'article 20 de ladite ordonnance, il est interdit à tout député, sous les peines disciplinaires prévues aux articles 70 et 76, d'exciper ou de laisser user de sa qualité dans des entreprises financières, industrielles ou commerciales ou dans l'exercice des professions libérales ou autres, d'adhérer dans les conditions prévues à l'article 23 à une association ou à un groupement de défense d'intérêts particuliers locaux ou professionnels, ou de prendre les engagements visés audit article et, d'une façon générale, d'user de son titre pour d'autres motifs que pour l'exercice de son mandat.
+
+## Article 80
+
+Il est constitué, pour chaque demande de levée de l'immunité parlementaire d'un député ou chaque demande de suspension de poursuites déjà engagées, une commission ad hoc de quinze membres nommés selon la procédure prévue à l'article 25.
+
+La commission doit entendre le député intéressé, lequel peut se faire représenter par un de ses collègues.
+
+Dans les débats ouverts par l'Assemblée, en séance publique, sur les questions d'immunité parlementaire, peuvent seuls prendre la parole le rapporteur de la commission, le Gouvernement le député intéressé ou un membre de l'Assemblée le représentant, un orateur pour et un orateur contre.
+
+# TITRE II Procédure législative. PREMIÈRE PARTIE : PROCÉDURE LÉGISLATIVE ORDINAIRE
+
+# CHAPITRE PREMIER DÉPÔT DES PROJETS ET PROPOSITIONS
+
+## Article 81
+
+Les projets de loi, les propositions de loi transmises par le Sénat et les propositions de loi présentées par les députés sont enregistrés à la Présidence.
+
+Le dépôt des projets de loi et des propositions transmises par le Sénat est toujours annoncé en séance publique.
+
+Les propositions de loi présentées par les députés sont transmises au Bureau de l'Assemblée ou à certains de ses membres délégués par lui à cet effet lorsque leur irrecevabilité au sens de l'article 40 de la Constitution est évidente, le dépôt en est refusé. Dans les autres cas, le dépôt est annoncé en séance publique.
+
+## Article 82
+
+Hormis les cas prévus expressément par les textes constitutionnels ou organiques, les propositions de résolution ne sont recevables que si elles formulent des mesures et décisions d'ordre intérieur qui, ayant trait au fonctionnement et à la discipline de l'Assemblée, relèvent de sa compétence exclusive.
+
+Elles sont déposées, examinées et discutées suivant la procédure applicable en première lecture aux propositions de loi, à l'exception des dispositions faisant application à ces dernières des articles 34, 40 et 41 de la Constitution.
+
+## Article 83
+
+Tout texte déposé est imprimé, distribué et renvoyé à l'examen d'une commission spéciale de l'Assemblée ou, à défaut, à l'examen de la commission permanente compétente.
+
+Dans l'intervalle des sessions, les projets de loi peuvent être, à la demande du Gouvernement, renvoyés à l'examen d'une commission permanente ou spéciale.
+
+## Article 84
+
+Les projets de loi peuvent être retirés par le Gouvernement à tout moment jusqu'à leur adoption définitive par le Parlement.
+
+L'auteur ou le premier signataire d'une proposition peut la retirer à tout moment avant son adoption en première lecture. Si le retrait a lieu en cours de discussion en séance publique et si un autre député la reprend, la discussion continue.
+
+Les propositions repoussées par l'Assemblée ne peuvent être reproduites avant un délai d'un an.
+
+# CHAPITRE II TRAVAUX LÉGISLATIFS DES COMMISSIONS
+
+## Article 85
+
+Le Président de l'Assemblée saisit la commission spéciale désignée à cet effet, ou la commission permanente compétente, de tout projet ou proposition déposé sur le bureau de l'Assemblée.
+
+Dans le cas où une commission permanente se déclare incompétente ou en cas de conflit de compétence entre deux ou plusieurs de ces commissions, le Président, après un débat où sont seuls entendus le Gouvernement ou l'auteur de la proposition et les présidents des commissions intéressées, propose par priorité à l'Assemblée la création d'une commission spéciale. Si cette proposition est rejetée, le Président soumet à l'Assemblée la question de compétence.
+
+## Article 86
+
+Les rapporteurs des commissions doivent être désignés et leurs rapports doivent être déposes et distribués dans un délai tel que l'Assemblée nationale soit en mesure de procéder à la discussion des projets et propositions conformément à la Constitution.
+
+Les rapports faits sur des projets de loi soumis en premier lieu à l'Assemblée nationale ou sur des textes transmis par le Sénat concluent à l'adoption, au rejet ou à des amendements. En annexe des rapports doivent être insérés les amendements soumis à la commission, qu'ils aient été transmis par la Présidence de l'Assemblée ou directement présentés par leurs auteurs avant le dépôt du rapport.
+
+Les rapports faits sur les propositions de loi concluent par un texte d'ensemble.
+
+Les amendements présentés en commission et les modifications proposées par la commission au texte dont elle avait été initialement saisie ne sont pas recevables lorsqu'ils comportent des conséquences définies par l'article 40 de la Constitution. L'irrecevabilité des amendements est appréciée par le président de la commission en cas de doute, par son bureau. L'irrecevabilité des modifications proposées par la commission est appréciée suivant la procédure instituée par l'article 92.
+
+L'auteur d'une proposition ou d'un amendement peut, s'il en fait la demande au président de la commission, être convoqué aux séances de la commission consacrées à l'examen de son texte; il se retire au moment du vote.
+
+## Article 87
+
+Toute commission permanente qui s'estime compétente pour donner son avis sur un projet ou une proposition renvoyé à une autre commission permanente ou spéciale constituée à l'initiative de l'Assemblée informe le Président de l'Assemblée de sa demande d'avis qui est communiquée à l'Assemblée pour décision, sous réserve des dispositions de l'article 32.
+
+Lorsqu'un projet ou une proposition a été l'objet d'un renvoi pour avis, la commission saisie désigne un rapporteur qui a le droit de participer, avec voix consultative, aux travaux de la commission saisie au fond. Réciproquement le rapporteur de la commission saisie au fond a le droit de participer, avec voix consultative, aux travaux de la commission saisie pour avis.
+
+La commission saisie pour avis d'un texte renvoyé au fond à une commission spéciale constituée à l'initiative de l'Assemblée désigne parmi ceux de ses membres appartenant à cette dernière commission un rapporteur chargé de la tenir au courant des travaux de celle-ci. Ce rapporteur peut déposer et défendre devant la commission spéciale les amendements adoptés par la commission permanente saisie pour avis. Si ceux-ci ne sont pas adoptés par la commission spéciale, ou si la commission permanente saisie pour avis ne les a pas présentés en temps utile pour qu'ils puissent être discutés par la commission spéciale, le rapporteur peut les déposer et les défendre en séance au nom de la commission saisie pour avis. Le dépôt de ces amendements constitue l'avis de la commission permanente.
+
+Les avis sont imprimés et distribués.
+
+Le défaut de dépôt ou de distribution d'un avis ne peut faire obstacle à la discussion d'une affaire, la commission qui a demandé à donner son avis pouvant toujours le donner verbalement au jour fixé pour la discussion du fond.
+
+## Article 88
+
+Le jour de la séance à laquelle est inscrit l'examen d'un projet ou d'une proposition, la commission saisie au fond se réunit pour examiner les amendements déposés.
+
+Elle délibère au fond sur les amendements déposés avant l'expiration du délai prévu à l'article 99 et les repousse ou les accepte sans les incorporer à ses propositions, ni présenter de rapport supplémentaire.
+
+Elle examine les amendements postérieurs pour déterminer si elle en acceptera la discussion en séance. Dans l'affirmative, elle délibère sur le fond conformément à l'alinéa précédent.
+
+Sous réserve des dispositions de l'article 44, alinéa 2, de la Constitution, le président et le rapporteur de la commission ont qualité pour accepter ou refuser la discussion en séance des amendements qui n'ont pas été antérieurement soumis à la commission. En cas de désaccord, ils consultent la commission. S'ils acceptent la discussion de l'amendement, ils peuvent donner, au nom de la commission, leur avis sur celui-ci.
+
+# CHAPITRE III INSCRIPTION A L'ORDRE DU JOUR DE L'ASSEMBLÉE
+
+## Article 89
+
+Les projets de loi et les propositions sont inscrits à l'ordre du jour de l'Assemblée, soit en application des dispositions de l'article 48, alinéa 1, de la Constitution, soit dans les conditions prévues à l'article 48 du présent Règlement.
+
+Les demandes d'inscription prioritaire du Gouvernement sont adressées par le Premier Ministre au Président de l'Assemblée qui en informe les présidents des commissions compétentes et les notifie à la plus prochaine Conférence des Présidents.
+
+Si, à titre exceptionnel, le Gouvernement, en vertu des pouvoirs qu'il tient de l'article 48 de la Constitution, demande une modification de l'ordre du jour par l'adjonction, le retrait ou l'interversion d'un ou plusieurs textes prioritaires, le Président en donne immédiatement connaissance à l'Assemblée.
+
+Les demandes d'inscription d'une proposition à l'ordre du jour complémentaire sont formulées à la Conférence des Présidents par le président de la commission saisie au fond ou par un président de groupe.
+
+# CHAPITRE IV DISCUSSION DES PROJETS ET PROPOSITIONS EN PREMIÈRE LECTURE
+
+## Article 90
+
+Hormis les cas expressément prévus par le présent Règlement, et notamment les motions de censure, les exceptions d'irrecevabilité, les questions préalables, les motions tendant à soumettre un projet de loi au référendum, les motions de renvoi à la commission visées à l'article 91 ou de réserve visées à l'article 95 et les amendements, aucun texte ou proposition quelconque, quels que soient son objet et la qualification qui lui est donnée par ses auteurs, ne peut être mis en discussion et aux voix s'il n'a fait, au préalable, l'objet d'un rapport de la commission compétente dans les conditions réglementaires.
+
+## Article 91
+
+La discussion des projets et propositions s'engage par l'audition éventuelle du Gouvernement, par la présentation du rapport de la commission saisie au fond et, s'il y a lieu, du rapport de la ou des commissions saisies pour avis.
+
+Un membre du Conseil économique et social peut également être entendu dans les conditions fixées à l'article 97.
+
+Il ne peut ensuite être mis en discussion et aux voix qu'une seule exception d'irrecevabilité dont l'objet est de faire reconnaître que le texte proposé est contraire à une ou plusieurs dispositions constitutionnelles et une seule question préalable, dont l'objet est de faire décider qu'il n'y a pas lieu à délibérer. L'adoption de l'une ou l'autre de ces propositions entraîne le rejet du texte à l'encontre duquel elle a été soulevée. Dans la discussion de chacune d'elles, peuvent seuls intervenir l'auteur, un orateur d'opinion contraire, le Gouvernement et le président ou le rapporteur de la commission saisie au fond.
+
+La parole est ensuite donnée aux orateurs qui se sont fait inscrire dans la discussion générale. L'auteur ou le premier signataire d'une proposition a priorité.
+
+Après la clôture de la discussion générale, il ne peut être mis en discussion et aux voix qu'une seule motion tendant au renvoi à la commission saisie au fond de l'ensemble du texte en discussion, et dont l'effet, en cas d'adoption est de suspendre le débat jusqu'à présentation par la commission d'un nouveau rapport. La discussion de cette motion a lieu dans les conditions prévues à l'alinéa 3.
+
+Si la motion de renvoi est adoptée, le Gouvernement, lorsqu'il s'agit d'un texte prioritaire aux termes de l'article 48, alinéa 1, de la Constitution, l'Assemblée, lorsqu'il s'agit d'un texte non prioritaire, fixe la date et l'heure auxquelles la commission devra présenter son nouveau rapport. Le Gouvernement peut demander que ce texte conserve sa priorité sur les autres affaires inscrites à l'ordre du jour.
+
+Si la motion est rejetée ou s'il n'en est pas présenté, le passage à la discussion des articles du projet ou, s'il s'agit d'une proposition, du texte de la commission, est de droit.
+
+## Article 92
+
+Les dispositions de l'article40 de la Constitution peuvent être opposées à tout moment aux propositions, rapports et amendements par le Gouvernement ou par tout député.
+
+Pour les propositions ou rapports, l'irrecevabilité est appréciée par le bureau de la commission des finances, de l'économie générale et du plan. Celui-ci peut également, à tout moment, opposer de sa propre initiative cette irrecevabilité.
+
+La procédure législative est suspendue en l'état jusqu'à la décision du bureau de la commission des finances qui entend l'auteur de la proposition ou du rapport et peut demander à entendre le Gouvernement en ses observations.
+
+Pour les amendements, l'irrecevabilité est appréciée dans les conditions prévues au dernier alinéa de l'article 98.
+
+Sont opposables dans les mêmes conditions, les dispositions de la loi organique relative aux lois de finances.
+
+## Article 93
+
+Lorsqu'avant le commencement de la discussion en séance publique d'une proposition ou d'un amendement, le Gouvernement leur oppose l'irrecevabilité tirée de l'article 41, alinéa 1, de la Constitution, le Président de l'Assemblée peut, après consultation éventuelle du Bureau de l'Assemblée, admettre l'irrecevabilité. Dans le cas contraire, il saisit le Conseil constitutionnel.
+
+Lorsque l'irrecevabilité est opposée au cours de la discussion, le Président de l'Assemblée, lorsqu'il préside la séance, peut statuer sur-le-champ.
+
+Si le Président de l'Assemblée ne préside pas la séance ou s'il désire demander l'avis du Bureau de l'Assemblée, la séance est suspendue.
+
+En cas de désaccord entre le Gouvernement et le Président de l'Assemblée, la discussion de la proposition ou de l'amendement est suspendue.
+
+## Article 94
+
+Lorsqu'une commission saisie au fond d'une proposition conclut au rejet de la proposition ou ne présente pas de conclusions, le Président, immédiatement après la clôture de la discussion générale, appelle l'Assemblée à se prononcer.
+
+Dans le premier cas, l'Assemblée vote sur les conclusions de rejet; si ses conclusions ne sont pas adoptées, la discussion s'engage sur les articles de la proposition ou, en cas de pluralité, de la première proposition déposée.
+
+Dans le second cas, l'Assemblée statue sur le passage à la discussion des articles du texte initial de la proposition ou, en cas de pluralité, de la première proposition déposée. Si l'Assemblée décide de ne pas passer à la discussion des articles, la Président déclare que la proposition n'est pas adoptée.
+
+## Article 95
+
+La discussion des articles porte successivement sur chacun d'eux qui est mis aux voix séparément; sur chaque article, les amendements sont mis successivement en discussion et aux voix dans les conditions fixées par l'article 100.
+
+La réserve d'un article ou d'un amendement, dont l'objet est de modifier l'ordre de la discussion, peut toujours être demandée.
+
+Elle est de droit à la demande du Gouvernement ou de la commission saisie au fond. Dans les autres cas, le Président décide.
+
+Dans l'intérêt de la discussion, le Président peut décider le renvoi d'un article et des amendements qui s'y rapportent à la commission.
+
+Il précise les conditions dans lesquelles la discussion sera poursuivie.
+
+## Article 96
+
+Si le Gouvernement le demande, l'Assemblée se prononce par un seul vote sur tout ou partie du texte en discussion en ne retenant que les amendements proposés ou acceptés par le Gouvernement.
+
+Après le vote du dernier article additionnel proposé par voie d'amendement, il est procédé au vote sur l'ensemble du projet ou de la proposition.
+
+Lorsque, avant le vote sur l'article unique d'un projet ou d'une proposition, il n'a pas été présenté d'article additionnel, ce vote équivaut à un vote sur l'ensemble; aucun article additionnel n'est recevable après que ce vote est intervenu.
+
+## Article 97
+
+Lorsqu'en application de l'article 69 de la Constitution, le Conseil économique et social désigne un de ses membres pour exposer devant l'Assemblée nationale l'avis du Conseil sur un projet ou une proposition qui lui a été soumis, le Président du Conseil économique et social en avertit le Président de l'Assemblée nationale.
+
+Le membre du Conseil économique et social est entendu après les rapporteurs des commissions compétentes de l'Assemblée nationale.
+
+A l'heure fixée pour son audition, il est introduit dans l'hémicycle par le chef des huissiers, sur l'ordre du Président qui lui donne aussitôt la parole. Son exposé terminé, il est reconduit hors de l'hémicycle avec le même cérémonial.
+
+## Article 98
+
+Le Gouvernement, les commissions saisies au fond des projets de loi, les commissions saisies pour avis et les députés ont le droit de présenter des amendements aux textes déposés sur le bureau de l'Assemblée.
+
+Il n'est d'amendements que ceux formulés par écrit, signés par l'un au moins des auteurs et déposés sur le bureau de l'Assemblée ou présentés en commission.
+
+Les amendements doivent être sommairement motivés; ils sont communiqués par la Présidence à la commission saisie au fond, imprimés et distribués; toutefois, le défaut d'impression et de distribution d'un amendement ne peut faire obstacle à sa discussion en séance publique.
+
+Les amendements ne sont recevables que s'ils portent sur un seul article. Les contre-projets sont présentés sous forme d'amendements, article par article, au texte en discussion. Les sous-amendements ne sont recevables que dans la mesure où ils ne contredisent pas le sens de l'amendement. Les sous-amendements ne peuvent être amendés. La recevabilité des amendements, contre-projets et sous-amendements, au sens du présent alinéa, est appréciée par le Président.
+
+Les amendements et les sous-amendements ne sont recevables que s'ils s'appliquent effectivement au texte qu'ils visent ou, s'agissant d'articles additionnels, s'ils sont proposés dans le cadre du projet ou de la proposition ; dans les cas litigieux, la question de leur recevabilité est soumise, avant leur discussion, à la décision de l'Assemblée. Seul l'auteur de l'amendement, un orateur contre, la commission et le Gouvernement peuvent intervenir.
+
+S'il apparaît évident que l'adoption d'un amendement aurait les conséquences prévues par l'article 40 de la Constitution, le Président en refuse le dépôt. En cas de doute, le Président décide après avoir consulté le président ou le rapporteur général de la commission des finances, de 1'économie générale et du plan ou un membre du bureau désigné à cet effet ; à défaut d'avis, le Président peut saisir le Bureau de l'Assemblée.
+
+## Article 99
+
+Des amendements peuvent être présentés par les députés aux textes servant de base à la discussion dans un délai de quatre jours de séance suivant la distribution du rapport.
+
+Après l'expiration de ce délai, sont seuls recevables :
+
+1° Les amendements déposés par le Gouvernement ou la commission saisie au fond, ou ceux dont l'un ou l'autre accepte la discussion ;
+
+2° Les amendements déposés au nom d'une commission saisie pour avis ;
+
+3° Les amendements aux textes nouveaux proposés par la commission saisie au fond en cours de discussion.
+
+40 Les amendements se rapportant directement à des textes modifiés par l'Assemblée en cours de discussion.
+
+## Article 100
+
+Les amendements sont mis en discussion après la discussion du texte auquel ils se rapportent et aux voix avant le vote sur ce texte et, d'une manière générale, avant la question principale.
+
+Le Président ne met en discussion que les amendements déposés sur le bureau de l'Assemblée.
+
+L'Assemblée ne délibère pas sur les amendements qui ne sont pas soutenus en séance, ni sur les amendements qui n'ont pas été soumis à la commission avant l'ouverture du débat, lorsque le Gouvernement s'oppose à leur examen en application de l'article 44, alinéa 2 de la Constitution.
+
+Lorsqu'ils viennent en concurrence, 1es amendements sont mis en discussion dans l'ordre ci-après: amendements de suppression et ensuite les autres amendements en commençant par ceux qui s'écartent le plus du texte proposé et dans l'ordre où ils s'y opposent, s'y intercalent ou s'y ajoutent.
+
+Les amendements présentés par le Gouvernement ou par la commission saisie au fond ont priorité de discussion sur les amendements des députés ayant un objet identique. Dans ce cas la parole est donnée à tous les auteurs d'amendements et il est procédé à un seul vote sur l'ensemble de ces amendements.
+
+Lorsque plusieurs amendements, exclusifs l'un de l'autre, sont en concurrence, le Président peut les soumettre à une discussion commune dans laquelle les auteurs obtiennent successivement la parole avant la mise aux voix, également successive, de leurs amendements.
+
+Sur chaque amendement, ne peuvent être entendus outre l'un des auteurs, que le Gouvernement, le président ou le rapporteur de la commission saisie au fond et un orateur d'opinion contraire.
+
+L'Assemblée ne se prononce que sur le fond des amendements à l'exclusion de toute prise en considération.
+
+## Article 101
+
+Avant le vote sur l'ensemble des projets et propositions, l'Assemblée peut décider, sur la demande du Gouvernement ou d'un député, qu'il sera procédé à une seconde délibération de tout ou partie du texte.
+
+La seconde délibération est de droit à la demande du Gouvernement ou de la commission saisie au fond, ou si celle-ci l'accepte.
+
+Les textes qui font l'objet de la seconde délibération sont renvoyés à la commission, qui doit présenter, par écrit ou verbalement, un nouveau rapport; dans sa deuxième délibération, l'Assemblée n'est appelée à statuer que sur les nouvelles propositions de la commission ou du Gouvernement.
+
+## Article 102
+
+Le Gouvernement peut déclarer l'urgence, en vertu de l'article 45 de la Constitution, jusqu'à la clôture de la discussion générale, par une communication adressée au Président. Celui-ci en donne immédiatement connaissance à l'Assemblée.
+
+# CHAPITRE V PROCÉDURES ABRÉGÉES : VOTE SANS DÉBAT ET DÉBAT RESTREINT
+
+## Article 103
+
+Le Gouvernement ou la commission saisie au fond peut demander le vote sans débat d'un projet ou d'une proposition. Cette demande est adressée au Président de l'Assemblée qui la notifie immédiatement suivant le cas à la commission ou au Gouvernement.
+
+Lorsque le Gouvernement et la commission saisie au fond sont d'accord pour le vote sans débat d'un projet ou d'une proposition, cet accord est immédiatement notifié au Gouvernement, à la commission compétente, aux présidents des groupes et affiché.
+
+Le projet ou la proposition peut alors être inscrit soit par le Gouvernement dans l'ordre du jour prioritaire, soit par la Conférence des Présidents en tête de l'ordre du jour complémentaire; le texte ne peut toutefois être voté sans débat que trois jours francs au moins après l'affichage prévu à l'alinéa 2 ci-dessus ou après la distribution du rapport, si celle-ci est postérieure à cet affichage.
+
+## Article 104
+
+Tout député peut faire une opposition à un vote sans débat, soit en la motivant par écrit avant l'ouverture de la séance à l'ordre du jour de laquelle le texte est inscrit, soit en déposant un amendement dans les conditions prévues à l'article 99. L'opposition est immédiatement communiquée au Gouvernement et à la commission saisie au fond.
+
+Lorsque l'opposition porte sur un texte inscrit dans l'ordre du jour prioritaire, ce texte est examiné au rang primitivement fixé, soit avec débat restreint, soit avec débat, si, à l'ouverture de la séance à l'ordre du jour de laquelle il est inscrit, le Gouvernement n'a pas fait connaître au Président de l'Assemblée qu'il le retire de l'ordre du jour prioritaire.
+
+Lorsque l'opposition porte sur un texte inscrit à l'ordre du jour complémentaire, ce texte est retiré de l'ordre du jour.
+
+Le projet ou la proposition retiré, soit de l'ordre du jour prioritaire par le Gouvernement, soit de l'ordre du jour complémentaire par application de l'alinéa précédent est renvoyé à la commission qui entend 1'auteur de l'opposition et dépose un rapport supplémentaire. Si l'auteur de l'opposition ne répond pas à deux convocations, la commission en prend acte dans ce rapport. La discussion de 1'affaire est inscrite à l'ordre du jour avec débat restreint, dans les conditions fixées par l'article 107.
+
+## Article 105
+
+Si la ou les oppositions au vote sans débat d'un texte inscrit dans l'ordre du jour prioritaire sont retirées par leurs auteurs lors de l'appel du texte, celui-ci fait l'objet d'un vote sans débat.
+
+Si la ou les oppositions au vote sans débat d'un texte renvoyé à la commission en vertu de l'article précédent sont retirées avant que la commission ait déposé son rapport supplémentaire, le vote sans débat peut être réinscrit soit par le Gouvernement dans l'ordre du jour prioritaire, soit par la Conférence des Présidents en tête de l'ordre du jour complémentaire et au plus tôt le deuxième jour de séance suivant le retrait.
+
+Après le retrait des oppositions, aucune opposition nouvelle ne peut être formulée à une affaire inscrite sans débat.
+
+## Article 106
+
+Lorsqu'aucune opposition n'a été formulée à un vote sans débat ou qu'une affaire a été réinscrite à l'ordre du jour pour un vote sans débat sans les conditions prévues à l'article précédent, le Président met aux voix l'ensemble du texte soit dans la rédaction du Gouvernement s'il s'agit d'un projet examiné en première lecture, soit dans la rédaction élaborée par la commission s'il s'agit d'une proposition examinée en première lecture, soit dans la rédaction transmise par le Sénat s'il s'agit d'un projet ou d'une proposition de loi transmis par cette Assemblée.
+
+## Article 107
+
+Dans les affaires où, aux termes des articles précédents, ne peut intervenir un vote sans débat, le Gouvernement ou la commission saisie au fond, peut demander le débat restreint, à l'expiration du délai prévu à l'article 99.
+
+Si le débat restreint est demandé pour un texte inscrit dans l'ordre du jour prioritaire, il est ordonné d'office, à moins que le Gouvernement ou la commission saisie au fond ne s'y oppose. En cas d'opposition, l'affaire est appelée suivant la procédure ordinaire, au rang fixé par le Gouvernement, sauf si celui-ci la retire de l'ordre du jour.
+
+Si le débat restreint est demandé pour un texte inscrit dans l'ordre du jour non prioritaire, la Conférence des Présidents peut, si le Gouvernement ou la commission ne s'y oppose pas, inscrire l'affaire en tête de l'ordre du jour complémentaire pour être appelée avec débat restreint.
+
+Peuvent seuls intervenir, au cours d'un débat restreint, les auteurs des amendements déposés dans les conditions prévues à l'article 99, le Gouvernement, le président et le rapporteur des commissions saisies. Avant le vote sur l'ensemble, la parole peut être accordée à un représentant de chaque groupe. La durée de chaque intervention ne peut excéder cinq minutes.
+
+Sous réserve des dispositions de l'article 44, alinéa 3, de la Constitution, le Président ne met aux voix que les amendements, les articles et l'ensemble du projet ou de la proposition.
+
+# CHAPITRE VI RAPPORTS DE L'ASSEMBLÉE NATIONALE AVEC LE SÉNAT
+
+## Article 108
+
+Au cours des deuxièmes lectures et des lectures ultérieures par l'Assemblée nationale des projets et des propositions de loi, la discussion a lieu conformément au chapitre IV du présent titre, sous les réserves suivantes.
 
 La discussion des articles est limitée à ceux pour lesquels les deux Assemblées du Parlement n'ont pu parvenir à un texte identique.
 
-En conséquence, il ne peut être reçu ni rectification de texte des projets, ni amendements qui remettraient en cause, soit directement, soit par des additions incompatibles, des articles votés par l'une et l'autre Assemblées dans un texte identique.
+En conséquence, les articles votés par l'une et l'autre Assemblée dans un texte identique ne peuvent faire l'objet d'amendements qui remettraient en cause, soit directement, soit par des additions incompatibles, les dispositions adoptées.
 
 II ne peut être fait exception aux règles ci-dessus édictées qu'en vue d'assurer la coordination des dispositions adoptées ou de procéder à une rectification matérielle.
 
-## Article 48
+## Article 109
 
-En accord entre l'Assemblée nationale et le Sénat, le nombre des représentants de chaque Assemblée dans les commissions mixtes paritaires prévues par le deuxième alinéa de l'article 45 de la Constitution est fixé à sept.
+Le rejet de l'ensemble d'un texte au cours de ses examens successifs devant les deux Assemblées du Parlement n'interrompt pas les procédures fixées par l'article 45 de la Constitution.
 
-Les représentants de l'Assemblée nationale dans ces commissions sont nommés par un vote au scrutin plurinominal, en assemblée plénière.
+## Article 110
 
-Une liste de candidats est établie par la commission compétente.
+La décision du Gouvernement de provoquer la réunion d'une commission mixte paritaire dans les conditions de l'article 45 de la Constitution est communiquée au Président de l'Assemblée qui la notifie immédiatement à l'Assemblée nationale. Si la discussion du texte est en cours devant l'Assemblée nationale, elle est immédiatement interrompue.
 
-Les autres candidatures doivent faire l'objet d'une déclaration à la Présidence.
+## Article 111
 
-Il est procédé à ces nominations conformément à l'article 9, paragraphe I-B, ci-dessus.
+En accord entre l'Assemblée nationale et le Sénat, le nombre des représentants de chaque Assemblée dans les commissions mixtes paritaires est fixé à sept.
 
-## Article 49
+Dans les mêmes conditions, sont désignés sept suppléants. Ceux-ci ne sont appelés à voter que dans la mesure nécessaire au maintien de la parité entre les deux Assemblées. L'ordre d'appel est celui de leur élection.
 
-Les communications de l'Assemblée nationale au Gouvernement sont faites par le Président de l'Assemblée nationale au Premier Ministre.
+Une liste de candidats par catégorie est établie dans les vingt-quatre heures par la commission compétente.
 
-Les projets de loi adoptés par l'Assemblée nationale sont transmis par le Président de l'Assemblée nationale au Gouvernement. Le rejet des projets par l'Assemblée nationale est notifié au Gouvernement.
+Les autres candidatures doivent faire l'objet dans le même délai d'une déclaration à la Présidence.
 
-Les propositions de loi adoptées par l'Assemblée nationale non définitivement sont directement transmises par le Président de l'Assemblée nationale au Président du Sénat. Le Gouvernement est avisé de cet envoi.
+Au début de la première séance qui suit l'expiration de ce délai, il est procédé à la désignation conformément à l'article 26.
 
-Si l'Assemblée nationale adopte sans modification les propositions de loi adoptées ou modifiées par le Sénat, le Président de l'Assemblée nationale les transmet au Gouvernement.
+## Article 112
 
-# CHAPITRE X DEBAT SUR LE PROGRAMME OU SUR UNE DECLARATION DE POLITIQUE GENERALE DU GOUVERNEMENT MOTIONS DE CENSURE
+Les commissions mixtes paritaires se réunissent, sur convocation de leur doyen d'âge, alternativement par affaire dans les locaux de l'Assemblée nationale et du Sénat.
 
-## Article 50
+Elles élisent leur bureau, dont elles fixent la composition.
+
+Elles examinent les textes dont elles sont saisies suivant la procédure ordinaire des commissions prévue par le Règlement de l'Assemblée dans les locaux de laquelle elles siègent.
+
+Les conclusions des travaux des commissions mixtes paritaires font l'objet de rapports imprimés, distribués dans chacune des deux Assemblées et communiqués officiellement, par les soins de leurs Présidents, au Premier Ministre.
+
+## Article 113
+
+Si le Gouvernement n'a pas soumis le texte élaboré par la commission mixte paritaire à l'approbation du Parlement dans les quinze jours du dépôt du rapport de la commission mixte, l'Assemblée qui, avant la réunion de la commission, était saisie en dernier lieu du texte en discussion, peut en reprendre l'examen conformément à l'article 45, alinéa 1, de la Constitution.
+
+Lorsque l'Assemblée est saisie du texte élaboré par la commission mixte paritaire, les amendements déposés sont soumis au Gouvernement avant leur distribution et ne sont distribués que s'ils ont recueilli son accord.
+
+L'Assemblée statue d'abord sur les amendements. Après leur adoption ou leur rejet, ou s'il n'en a pas été déposé, elle statue par un vote unique sur l'ensemble du texte.
+
+## Article 114
+
+L'Assemblée nationale n'est valablement saisie suivant la procédure prévue à l'article 45, alinéa 4, de la Constitution, que si elle a préalablement examiné le texte de la commission mixte paritaire et si celui-ci n'a pas été adopté dans les conditions prévues à l'article 45, alinéa 3, de la Constitution, ou si la commission mixte paritaire n'est pas parvenue à l'adoption d'un texte commun.
+
+Lorsque l'Assemblée nationale procède, dans les conditions prévues à l'article 45, alinéa 4, de la Constitution, à une nouvelle lecture, celle-ci a lieu sur le dernier texte dont l'Assemblée était saisie avant la création de la commission mixte.
+
+Lorsqu'après cette nouvelle lecture l'Assemblée nationale est saisie par le Gouvernement d'une demande tendant à ce qu'elle statue définitivement, la commission saisie au fond détermine dans quel ordre sont appelés respectivement le texte de la commission mixte et le dernier texte voté par l'Assemblée nationale, modifié, le cas échéant, par un ou plusieurs des amendements votés par le Sénat. En cas de rejet de l'un de ces deux textes, l'autre est immédiatement mis aux voix. Au cas de rejet des deux textes, le projet ou la proposition est définitivement repoussé.
+
+Si le Gouvernement n'a pas demandé à l'Assemblée de statuer définitivement dans les 15 jours de la transmission du texte adopté en nouvelle lecture par le Sénat, l'Assemblée peut reprendre l'examen du texte suivant la procédure de l'article 45, alinéa 1, de la Constitution. La procédure prévue par l'alinéa 4 dudit article ne peut plus recevoir d'application après la reprise de cet examen.
+
+## Article 115
+
+Tout projet de loi voté par l'Assemblée nationale et non devenu définitif est transmis sans délai par le Président de l'Assemblée nationale au Gouvernement. En cas de rejet d'un projet de loi, le Président en avise le Gouvernement.
+
+Toute proposition de loi votée par l'Assemblée nationale et non devenue définitive est transmise sans délai par le Président de l'Assemblée nationale au Président du Sénat. Le Gouvernement est avisé de cet envoi. En cas de rejet d'une proposition de loi transmise par le Sénat, le Président en avise le Président du Sénat et le Gouvernement.
+
+Lorsque l'Assemblée nationale adopte sans modification un projet ou une proposition de loi votés par le Sénat, le Président de l'Assemblée nationale en transmet le texte définitif au Président de la République, aux fins de promulgation, par l'intermédiaire du Secrétariat général du Gouvernement. Le Président du Sénat est avisé de cette transmission.
+
+# CHAPITRE VII NOUVELLE DÉLIBÉRATION DE LA LOI DEMANDÉE PAR LE PRÉSIDENT DE LA RÉPUBLIQUE
+
+## Article 116
+
+Lorsque, suivant les termes de l'article 10, alinéa 2, de la Constitution, le Président de la République demande une nouvelle délibération de la loi ou de certains de ses articles, le Président de l'Assemblée nationale en informe l'Assemblée.
+
+Il la consulte pour savoir si elle désire renvoyer le texte de la loi devant une commission autre que celle qui a en été précédemment saisie ; dans la négative, le texte est renvoyé à la commission qui avait eu à en connaître.
+
+La commission compétente doit statuer dans le délai imparti par l'Assemblée qui ne peut, en aucun cas, excéder quinze jours. L'inscription de l'affaire à l'ordre du jour de l'Assemblée a lieu conformément aux dispositions des articles 47, 48 et 89.
+
+DEUXIÈME PARTIE : PROCÉDURE DE DISCUSSION DES DE FINANCES
+
+# CHAPITRE VIII DISCUSSION DES LOIS DE FINANCES EN COMMISSION
+
+## Article 117
+
+Sous réserve des dispositions de l'article 43 alinéa 1, de la Constitution, la commission des finances, de l'économie générale et du plan procède à l'examen des lois de finances dans les conditions prévues au chapitre II du présent titre.
+
+Toute commission peut désigner un ou plusieurs de ses membres à l'effet de participer, avec voix consultative, aux travaux de la commission des finances pendant l'examen des articles de loi ou des crédits ressortissant à sa compétence.
+
+Avant l'examen de chaque budget particulier, le rapporteur spécial de la commission des finances peut être convoqué devant la commission dont la compétence correspond à ce budget, afin d'y présenter un exposé de ses dispositions. Il doit mentionner dans son rapport les observations présentées par les membres de cette dernière commission. Il peut, en outre, suivre avec voix consultative l'ensemble des travaux de cette commission, aux séances de laquelle il doit être convoqué.
+
+# CHAPITRE IX DISCUSSION DES LOIS DE FINANCES EN SEANCE
+
+## Article 118
+
+La discussion des lois de finances s'effectue selon la procédure législative prévue par le présent Règlement et les dispositions particulières de la Constitution, de la loi organique relative aux lois de finances et des articles 119 et 120.
+
+## Article 119
+
+Tout article ou amendement contenant des dispositions autres que celles prévues par la loi organique relative aux lois de finances, doit être retiré de la loi de finances et faire l'objet d'un débat distinct, si la commission permanente qui aurait été compétente pour en connaître au fond au cas où cette disposition aurait fait l'objet d'un projet ou d'une proposition de loi, le demande, et si le président ou le rapporteur général ou un membre du bureau spécialement désigné à cet effet, de la commission des finances, de l'économie générale et du plan l'accepte.
+
+Ce débat est inscrit d'office à l'ordre du jour de l'Assemblée à la suite de la discussion de la loi de finances s'il s'agit d'un article du projet de loi de finances.
+
+## Article 120
+
+Les crédits dont la modification n'est pas demandée, soit par le Gouvernement, soit par la commission, soit par un amendement régulièrement déposé, ne peuvent être l'objet que d'un débat sommaire. Chaque orateur ne peut parler qu'une fois par titre et par ministère, sauf la faculté de réponse aux ministres et aux rapporteurs. La durée de cette réponse ne peut, en aucun cas, excéder dix minutes.
+
+## Article 121
+
+Les articles additionnels et amendements contraires aux dispositions de l'article 42 de la loi organique n°59-2 du 2 janvier 1959 relative aux lois de finances, sont déclarés irrecevables dans les conditions prévues aux articles 92 et 98.
+
+# TROISIEME PARTIE : PROCEDURES LEGISLATIVES SPECIALES
+
+# CHAPITRE X PROPOSITIONS DE REFERENDUM
+
+## Article 122
+
+Lors des débats sur les projets de loi visés à l'article 11 de la Constitution, il ne peut être présenté qu'une seule motion tendant à proposer de soumettre au référendum le projet en discussion.
+
+Ladite motion doit être signée par un dixième au moins des membres de l'Assemblée. Elle ne peut être assortie d'aucune condition ou réserve, ni comporter d'amendement au texte déposé par le Gouvernement.
+
+Cette motion est discutée immédiatement avant la discussion générale du projet ou, si la discussion générale est commencée, dès son dépôt. Elle n'est appelée que si la présence effective en séance des signataires est constatée au moment de l'appel. Elle a priorité, le cas échéant, sur la question préalable.
+
+La clôture de la discussion peut être prononcée dans les conditions prévues par l'article 37. Après la clôture de la discussion, la parole peut être accordée pour des explications de vote. Le Président met ensuite aux voix la motion.
+
+## Article 123
+
+L'adoption de la motion suspend la discussion du projet de loi. La motion adoptée par l'Assemblée est immédiatement transmise au Sénat, accompagnée du texte auquel elle se rapporte.
+
+Si le Sénat n'adopte pas la motion dans le délai de trente jours à compter de cette transmission, la discussion du projet reprend devant l'Assemblée au point où elle avait été interrompue. Aucune nouvelle motion tendant à proposer un référendum n'est alors recevable.
+
+Ce délai est suspendu entre les sessions ordinaires ou lorsque l'inscription de la discussion de la motion à l'ordre du jour du Sénat a été empêchée par la mise en œuvre de la priorité prévue à l'article 48, alinéa 1, de la Constitution.
+
+## Article 124
+
+Lorsque l'Assemblée est saisie par le Sénat d'une motion tendant à proposer de soumettre au référendum un projet de loi en discussion devant ladite Assemblée, cette motion est immédiatement renvoyée en commission. Elle est inscrite de droit en tête de l'ordre du jour complémentaire de l'Assemblée, si le Gouvernement n'en demande pas l'inscription à l'ordre du jour prioritaire.
+
+L'Assemblée doit statuer dans un délai de trente jours à compter de la transmission qui lui est faite par le Sénat. Ce délai est suspendu entre les sessions ordinaires ou lorsque l'inscription de la discussion de la motion à l'ordre du jour de l'Assemblée a été empêchée par la mise en oeuvre de la priorité prévue à l'article 48, alinéa 1, de la Constitution.
+
+En cas d'adoption de la motion, le Président de l'Assemblée en informe le Président du Sénat. Il notifie au Président de la République le texte de la motion conjointement adoptée par les deux Assemblées. Celle-ci est publiée au Journal officiel.
+
+En cas de rejet de la motion, le Président de l'Assemblée en informe le Président du Sénat.
+
+L'Assemblée passe à la suite de 1'ordre du jour. Aucune motion tendant à soumettre le projet au référendum n'est plus recevable devant l'Assemblée.
+
+## Article 125
+
+Lorsque le Président de la République, sur proposition du Gouvernement, décide de soumettre au référendum un projet de loi dont l'Assemblée nationale est saisie, la discussion du texte est immédiatement interrompue.
+
+# CHAPITRE XI REVISION DE LA CONSTITUTION
+
+## Article 126
+
+Les projets et propositions de loi portant révision de la Constitution sont examinés, discutés et votés selon la procédure législative ordinaire, sous réserve des dispositions de l'alinéa 2 de l'article 89 de la Constitution. Toutefois, ils ne peuvent faire l'objet d'une procédure abrégée de discussion.
+
+Lorsque l'Assemblée nationale a adopté en des termes identiques le texte voté par le Sénat, celui-ci est transmis au Président de la République.
+
+S'il s'agit d'un projet ou d'une proposition de révision des dispositions du Titre XII de la Constitution concernant le fonctionnement des institutions communes, le texte définitivement adopté par l'Assemblée nationale selon la procédure législative ordinaire est transmis au Président de la République, Président de la Communauté.
+
+# CHAPITRE XII PROCEDURE DE DISCUSSION DES LOIS ORGANIQUES
+
+## Article 127
+
+Les projets et propositions de loi tendant à modifier une loi organique ou portant sur une matière à laquelle la Constitution confère un caractère organique doivent comporter dans leur intitulé la mention expresse de ce caractère. Elles ne peuvent contenir de dispositions d'une autre nature.
+
+La discussion des projets et propositions de lois organiques en séance publique ne peut intervenir avant l'expiration d'un délai de quinze jours suivant le dépôt effectif du texte.
+
+Il ne peut être présenté aucun amendement ou article additionnel tendant à introduire dans le projet ou la proposition des dispositions ne revêtant pas le caractère organique.
+
+Aucune disposition législative de caractère organique ne peut être introduite dans un projet ou une proposition de loi qui n'a pas été présenté sous la forme prévue à l'alinéa 1 ci-dessus.
+
+Les projets et propositions de lois organiques sont examinés, discutés et votés selon la procédure législative ordinaire, sous réserve des dispositions des alinéas 3 et 4 de l'article 46 de la Constitution. Ils ne peuvent toutefois faire l'objet d'une procédure abrégée de discussion.
+
+# CHAPITRE XIII TRAITÉS ET ACCORDS INTERNATIONAUX
+
+## Article 128
+
+Lorsque l'Assemblée est saisie d'un projet de loi autorisant la ratification d'un traité ou l'approbation d'un accord international non soumis à ratification, il n'est pas voté sur les articles contenus dans ces actes et il ne peut être présenté d'amendement.
+
+L'Assemblée conclut à l'adoption, au rejet ou à l'ajournement du projet de loi. L'ajournement peut être motivé.
+
+## Article 129
+
+Lorsque le Conseil constitutionnel a été saisi, dans les conditions prévues à l'article 54 de la Constitution, du point de savoir si un engagement international comporte une clause contraire à la Constitution, le projet de loi autorisant sa ratification ou son approbation ne peut être mis en discussion.
+
+La saisine du Conseil constitutionnel intervenue au cours de la procédure législative suspend cette procédure.
+
+La discussion ne peut être commencée ou reprise hors des formes prévues pour une révision de la Constitution qu'après publication au Journal officiel de la déclaration du Conseil constitutionnel portant que l'engagement ne contient aucune clause contraire à la Constitution.
+
+# CHAPITRE XIV ACCORDS DE COMMUNAUTÉ
+
+## Article 130
+
+Les dispositions des articles 128 et 129 du chapitre XIII sont applicables à l'approbation des accords de Communauté.
+
+# CHAPITRE XV DECLARATION DE GUERRE ET ETAT DE SIEGE
+
+## Article 131
+
+Les autorisations prévues aux articles 35 et 36 de la Constitution ne peuvent résulter, en ce qui concerne l'Assemblée nationale, que d'un vote sur un texte exprès d'initiative gouvernementale se référant auxdits articles.
+
+# TITRE III Contrôle parlementaire. PREMIÈRE PARTIE. - PROCÉDURES D'INFORMATION ET DE CONTROLE DE L'ASSEMBLÉE
+
+# CHAPITRE PREMIER COMMUNICATIONS DU GOUVERNEMENT
+
+## Article 132
+
+En dehors des déclarations prévues à l'article 49 de la Constitution, le Gouvernement peut demander à faire devant l'Assemblée des déclarations sans débat.
+
+Lorsque le Gouvernement a fait connaître que sa déclaration pouvait comporter un débat, le Président, après avoir recueilli les inscriptions des orateurs qui désirent intervenir, organise le débat ou convoque, à cet effet, s'il le juge utile, la Conférence des Présidents. Le Premier Ministre ou un membre du Gouvernement prend la parole le dernier pour répondre aux orateurs qui sont intervenus.
+
+Dans le cas contraire, le Président peut autoriser un seul orateur à répondre au Gouvernement.
+
+Aucun vote, de quelque nature qu'il soit, ne peut avoir lieu à l'occasion des déclarations prévues au présent article.
+
+# CHAPITRE II QUESTIONS ORALES
+
+## Article 133
+
+Les questions orales sont posées par un député à un ministre ; celles qui portent sur la politique générale du Gouvernement sont posées au Premier Ministre.
+
+Les questions orales doivent être sommairement rédigées et se limiter aux éléments strictement indispensables à la compréhension de la question. Elles peuvent être posées sous la forme de questions orales avec débat ou de questions orales sans débat.
+
+Tout député qui désire poser une question orale en remet le texte au Président de l'Assemblée qui le notifie au Gouvernement.
+
+Les questions orales sont publiées, durant les sessions et hors session, au Journal officiel.
+
+Au fur et à mesure de leur dépôt, les questions orales sont inscrites par la Présidence au rôle des questions orales avec débat ou au rôle des questions orales sans débat.
+
+Dans le cas où une question écrite est transformée en question orale, en application de l'article 138, son rang au rôle des questions orales sans débat est déterminé d'après sa publication comme question écrite.
+
+## Article 134
+
+La séance du vendredi après-midi est réservée par priorité aux questions orales; la première partie de la séance est consacrée aux questions orales sans débat.
+
+L'inscription des questions orales à l'ordre du jour de cette séance est décidée par la Conférence des Présidents au vu des deux rôles de ces questions arrêtés la veille de sa réunion.
+
+La Conférence des Présidents peut seule décider la jonction des questions orales sur des sujets identiques ou connexes.
+
+Elle peut transférer une question orale d'un rôle à l'autre ou renvoyer une question orale au rôle des questions écrites. Elle a toujours la faculté d'inscrire une question orale quel que soit le rang d'inscription de cette question.
+
+## Article 135
+
+La question orale avec débat est appelée par le Président qui fixe le temps de parole imparti à son auteur, entre quinze minutes minimum et trente minutes maximum.
+
+Le ministre compétent y répond. Il peut différer cette réponse en annonçant pour l'un des deux prochains jours de séance une communication du Gouvernement avec débat sur le même sujet. Cette annonce interrompt le débat sur la question orale. La communication du Gouvernement est inscrite d'office en tête de l'ordre du jour de la séance choisie par le Gouvernement. A cette séance, le débat se déroule suivant les dispositions du chapitre premier du présent titre.
+
+Après la réponse du ministre, le Président organise le débat au vu de la liste des orateurs inscrits et peut donner la parole à chacun d'eux pour le temps de parole qui lui a été imparti. Le ministre peut répliquer lorsqu'il le juge utile.
+
+Après l'audition du dernier orateur, le Président passe à la suite de l'ordre du jour.
+
+## Article 136
+
+La question orale sans débat est appelée par le Président. Le ministre compétent y répond. L'auteur de la question dispose ensuite de la parole pendant cinq minutes. Le ministre peut répliquer.
+
+Aucune autre intervention ne peut avoir lieu.
+
+## Article 137
+
+Lorsque l'auteur d'une question orale avec ou sans débat ne peut assister à la séance, il peut, s'il se trouve dans l'un des cas prévus par l'ordonnance n° 58-1066 du 7 novembre 1958, se faire suppléer par l'un de ses collègues. A défaut, sa question est rayée du rôle.
+
+Seuls peuvent répondre aux questions le Premier Ministre et les ministres compétents.
+
+Lorsqu'un ministre intéressé est absent, la question est reportée d'office au vendredi suivant, en tête de son rôle et le Président de l'Assemblée en informe le Premier Ministre.
+
+# CHAPITRE III QUESTIONS ÉCRITES
+
+## Article 138
+
+Les questions sont rédigées, notifiées et publiées dans les conditions fixées par l'article 133. En outre, elles ne doivent contenir aucune imputation d'ordre personnel à l'égard de tiers nommément désignés.
+
+Les réponses des ministres doivent être publiées dans le mois suivant la publication des questions. Ce délai ne comporte aucune interruption.
+
+Dans ce délai, les ministres ont toutefois la faculté, soit de déclarer par écrit que l'intérêt public ne leur permet pas de répondre, soit, à titre exceptionnel, de demander, pour rassembler les éléments de leur réponse, un délai supplémentaire qui ne peut excéder un mois.
+
+Lorsqu'une question écrite n'a pas obtenu de réponse dans les délais susvisés, son auteur est invité par le Président de l'Assemblée à lui faire connaître s'il entend ou non la convertir en question orale. Dans la négative, le ministre compétent dispose d'un délai supplémentaire d'un mois.
+
+Dans le cas où la question écrite est transformée en question orale, celle-ci prend rang dans les conditions prévues au dernier alinéa de l'article 133.
+
+Font l'objet d'un rappel publié au Journal officiel les questions écrites auxquelles il n'a pas été répondu dans les délais prévus aux alinéas 2, 3 et 4 du présent article.
+
+Le texte des questions écrites est reproduit dans les rappels. Il est communiqué aux auteurs des questions en même temps que le rappel leur est notifié.
+
+# CHAPITRE IV COMMISSIONS D'ENQUÊTE ET DE CONTRÔLE
+
+## Article 139
+
+La création d'une commission d'enquête ou de contrôle par l'Assemblée résulte du vote d'une proposition de résolution déposée, examinée et discutée dans les conditions fixées par le présent Règlement. Cette proposition doit déterminer avec précision, soit les faits qui donnent lieu à enquête, soit les services publics ou les entreprises nationales dont la commission de contrôle doit examiner la gestion.
+
+Les commission d'enquête et de contrôle ne peuvent comprendre plus de 30 députés. Les dispositions de l'article 26 du Règlement sont applicables à la désignation de leurs membres.
+
+Ne peuvent être désignés comme membres d'une commission d'enquête ou de contrôle les députés ayant été l'objet d'une sanction pénale ou disciplinaire pour manquement à l'obligation du secret à l'occasion des travaux d'une commission constituée au cours de la même législature.
+
+## Article 140
+
+Le dépôt d'une proposition de résolution tendant à la création d'une commission d'enquête est notifié par le Président de l'Assemblée au Garde des Sceaux, ministre de la justice.
+
+Si le Garde des Sceaux fait connaître que des poursuites judiciaires sont en cours sur les faits ayant motivé le dépôt de la proposition, celle-ci ne peut être mise en discussion. Si la discussion est déjà commencée, elle est immédiatement interrompue.
+
+Lorsqu'une information judiciaire est ouverte après la création de la commission, le Président de l'Assemblée, saisi par le Garde des Sceaux, en informe le président de la commission. Celle-ci met immédiatement fin à ses travaux.
+
+## Article 141
+
+A l'expiration du délai de quatre mois prévu par l'article 6, alinéa 5, de l'ordonnance n°58-1100 du 17 novembre 1958 relative au fonctionnement des Assemblées parlementaires, et si la commission n'a pas déposé son rapport, le président de la commission remet au Président de l'Assemblée nationale les documents en sa possession. Ceux-ci ne peuvent donner lieu à aucune publication ni à aucun débat.
+
+## Article 142
+
+Le rapport établi par une commission d'enquête ou de contrôle est remis au Président de l'Assemblée.
+
+La publication de tout ou partie du rapport peut être décidée par l'Assemblée sur proposition de son Président ou de la commission ; l'Assemblée se prononce sans débat à la suite d'un exposé succint du rapporteur indiquant les arguments pour ou contre la publication.
+
+L'Assemblée ne peut ouvrir un débat sur la publication du rapport que si elle s'est auparavant constituée en comité secret dans les conditions prévues à l'article 51 du Règlement.
+
+## Article 143
+
+Le Président de l'Assemblée déclare irrecevable toute proposition de résolution ayant pour effet la reconstitution d'une commission d'enquête ou de contrôle avec le même objet qu'une commission antérieure, avant l'expiration d'un délai de douze mois à compter de la fin de la mission de celle-ci.
+
+S'il y a doute, le Président statue après avis du Bureau de l'Assemblée.
+
+# CHAPITRE V ROLE D'INFORMATION DES COMMISSIONS PERMANENTES
+
+## Article 144
+
+Sans préjudice des dispositions les concernant contenues au Titre II, les commissions permanentes assurent l'information de l'Assemblée pour lui permettre d'exercer son contrôle sur la politique du Gouvernement.
+
+# CHAPITRE VI CONTROLE BUDGÉTAIRE
+
+## Article 145
+
+Les documents et les renseignements destinés à permettre l'exercice du contrôle du budget des départements ministériels ou la vérification des I comptes des entreprises nationales et des sociétés d'économie mixte sont communiqués par les autorités compétentes au rapporteur spécial de la commission des finances, de l'économie générale et du plan, chargé du budget du département ministériel dont il s'agit ou auquel se rattachent les entreprises nationales et les sociétés d'économie mixte intéressées.
+
+Le rapporteur spécial peut demander à la commission des finances, de l'économie générale et du plan de lui adjoindre un de ses membres pour l'exercice de ce contrôle. Il communique les documents dont il est saisi aux rapporteurs pour avis du même budget désignés par les autres commissions permanentes.
+
+Les travaux des rapporteurs ne peuvent faire l'objet de rapports d'information. Ils ne peuvent être utilisés que pour les rapports faits par les commissions sur la loi de finances et la loi de règlement.
+
+# CHAPITRE VII PÉTITIONS
+
+## Article 146
+
+Les pétitions doivent être adressées au Président de l'Assemblée. Elles peuvent également être déposées par un député, qui fait, en marge, mention du dépôt et signe cette mention.
+
+Une pétition apportée ou transmise par un rassemblement formé sur la voie publique, ne peut être reçue par le Président, ni déposée sur le bureau.
+
+Toute pétition doit indiquer la demeure du pétitionnaire et être revêtue de sa signature.
+
+## Article 147
+
+Les pétitions sont inscrites sur un rôle général dans l'ordre de leur arrivée.
+
+Le Président les renvoie à la commission chargée des pétitions.
+
+La commission décide, suivant le cas, soit de les renvoyer à un ministre ou à une autre commission de l'Assemblée, soit de les soumettre à l'Assemblée, soit de les classer purement et simplement.
+
+Avis est donné au pétitionnaire du numéro donné à sa pétition et de la décision le concernant.
+
+## Article 148
+
+Un feuilleton mensuel portant l'indication sommaire des pétitions et des décisions les concernant est distribué aux membres de l'Assemblée.
+
+Dans les huit jours de sa distribution, tout député peut demander le rapport en séance publique d'une pétition. Cette demande est transmise à la Conférence des Présidents, qui statue.
+
+Passé ce délai, ou en cas de refus par la Conférence des Présidents d'accepter ce rapport en séance publique, les décisions de la commission sont définitives et elles sont publiées au Journal officiel.
+
+# DEUXIEME PARTIE. - MISE EN JEU DE LA RESPONSABILITÉ GOUVERNEMENTALE
+
+# CHAPITRE VIII DEBAT SUR LE PROGRAMME OU SUR UNE DECLARATION DE POLITIQUE GENERALE DU GOUVERNEMENT
+
+## Article 149
 
 Lorsque, par application du premier alinéa de l'article 49 de la Constitution, le Premier Ministre engage la responsabilité du Gouvernement sur son programme ou sur une déclaration de politique générale, il est procédé au débat dans les conditions suivantes.
 
@@ -690,266 +1434,108 @@ Le Président met aux voix l'approbation du programme ou de la déclaration du G
 
 Le vote est émis à la majorité absolue des suffrages exprimés.
 
-## Article 51
+# CHAPITRE IX MOTIONS DE CENSURE ET INTERPELLATIONS
 
-Le dépôt des motions de censure est constaté par la remise au Président de l'Assemblée, au cours d'une séance publique, d'un document portant l'intitulé « Motion de censure » suivi de la liste des signatures du dixième au moins des membres de l'Assemblée. Ce dixième est calculé sur le nombre des sièges effectivement pourvus avec, en cas de fraction, arrondissement au chiffre immédiatement supérieur.
+## Article 150
 
-Le même député ne peut signer, plusieurs motions de censure à la fois.
+Le dépôt des motions de censure est constaté par la remise au Président de l'Assemblée, au cours d'une séance publique, d'un document portant l'intitulé “Motion de censure” suivi de la liste des signatures du dixième au moins des membres de l'Assemblée. Ce dixième est calculé sur le nombre des sièges effectivement pourvus avec, en cas de fraction, arrondissement au chiffre immédiatement supérieur.
+
+Le même député ne peut signer plusieurs motions de censure à la fois.
 
 Les motions de censure peuvent être motivées.
 
-A partir du dépôt, aucune signature ne peut être retirée ni ajoutée. Le Président notifie la motion de censure au Gouvernement et en donne connaissance à l'Assemblée. La liste ne varietur des signataires est publiée au compte rendu intégral.
+A partir du dépôt, aucune signature ne peut être retirée ni ajoutée. Le Président notifie la motion de censure au Gouvernement, en donne connaissance à l'Assemblée et la fait afficher. La liste ne varietur des signataires est publiée au compte rendu intégral.
 
-La conférence des Présidents fixe la date de discussion des motions de censure qui doit avoir lieu au plus tard le troisième jour de séance suivant l'expiration du délai constitutionnel de quarante-huit heures consécutif au dépôt.
+## Article 151
 
-Le débat est organisé. S'il y a plusieurs motions, la conférence peut décider qu'elles seront discutées en commun sous réserve qu'il soit procédé pour chacune à un vote séparé.
+La Conférence des Présidents fixe la date de discussion des motions de censure, qui doit avoir lieu au plus tard le troisième jour de séance suivant l'expiration du délai constitutionnel de quarante-huit heures consécutif au dépôt.
+
+Le débat est organisé. S'il y a plusieurs motions, la Conférence peut décider qu'elles seront discutées en commun sous réserve qu'il soit procédé pour chacune à un vote séparé.
 
 Aucun retrait d'une motion de censure n'est possible après sa mise en discussion. Lorsque la discussion est engagée, elle doit être poursuivie jusqu'au vote.
 
-Après une discussion générale, la parole peut être accordée pour des explications de vote de cinq minutes. Les dispositions relatives à la clôture, prévues aux alinéas 5 et 6 de l'article 50, sont applicables.
+Après une discussion générale, la parole peut être accordée pour des explications de vote de cinq minutes. Les dispositions relatives à la clôture leur sont applicables.
 
 Il ne peut être présenté d'amendement à une motion de censure.
 
-Seuls les députés favorables à la motion de censure participent au vote en remettant un bulletin blanc à l'un des secrétaires qui le dépose dans une urne placée sur la tribune. Il est procédé à l'émargement des listes de votants au fur et à mesure des votes émis.
+Seuls les députés favorables à la motion de censure participent au scrutin, qui a lieu conformément aux dispositions de l'article 66, paragraphe II.
 
-## Article 52
+## Article 152
 
-Lorsqu'en application au troisième alinéa de l'article 49 de la Constitution, le Premier Ministre engage la responsabilité du Gouvernement sur le vote d'un texte, le débat est immédiatement suspendu durant vingt-quatre heures.
+Lorsqu'en application du troisième alinéa de l'article 49 de la Constitution, le Premier Ministre engage la responsabilité du Gouvernement sur le vote d'un texte, le débat est immédiatement suspendu durant vingt-quatre heures.
 
-Dans ce délai et par dérogation à la disposition de l'alinéa 1 de l'article précédent, une motion de censure, répondant aux conditions fixées par cet article, peut être déposée. Dans ce cas, le libellé de la motion doit préciser qu'elle est déposée en application de l'article 49 (alinéa 3) de la Constitution.
+Dans ce délai, une motion de censure, répondant aux conditions prévues par l'article 150 peut être remise au Président de l'Assemblée, même si l'Assemblée ne tient pas séance. Le libellé de la motion doit viser l'article 49, alinéa 3, de la Constitution. La motion est immédiatement affichée.
 
-L'Assemblée se réunit à l'expiration du délai précité pour prendre acte soit de l'adoption du texte soit du dépôt d'une motion de censure.
+L'Assemblée se réunit à l'expiration du délai précité pour prendre acte, soit de l'adoption du texte, soit du dépôt d'une motion de censure.
 
-Il est procédé à la notification, à l'inscription à l'ordre du jour, à la discussion et au vote de cette motion dans les conditions prévues à l'article précédent.
+Il est procédé à la notification, à 1'inscription à l'ordre du jour, à la discussion et au vote de cette motion dans les conditions prévues au présent chapitre.
 
-# CHAPITRE XI INTERPELLATIONS
+## Article 153
 
-## Article 53
+Le député qui désire interpeller le Gouvernement en informe le Président de l'Assemblée au cours d'une séance publique en joignant à sa demande une motion de censure répondant aux conditions fixées par l'article 150.
 
-Le député qui désire interpeller le Gouvernement en informe le Président de l'Assemblée au cours d'une séance publique en joignant à sa demande une motion de censure répondant aux conditions fixées par l'article 51.
+La notification, l'affichage, l'inscription à l'ordre du jour, la discussion et le vote sur la motion de censure ont lieu dans les conditions prévues aux articles 150 et i5i. Dans la discussion l'auteur de l'interpellation a la parole par priorité.
 
-La notification, l'inscription à l'ordre du jour, la discussion et le vote sur la motion de censure ont lieu dans les conditions prévues audit article. Dans la discussion, l'auteur de l'interpellation a la parole par priorité.
+Troisième partie. - Responsabilité pénale du président de la république et des membres du gouvernement
 
-# CHAPITRE XII QUESTIONS ORALES
+# CHAPITRE X ÉLECTION DES MEMBRES DE LA HAUTE COUR DE JUSTICE
 
-## Article 54
+## Article 154
 
-Les questions orales sont posées par un député à un ministre ; celles qui portent sur la politique générale du Gouvernement sont posées au Premier Ministre.
+Au début de la législature, dans le mois qui suit sa première réunion, l'Assemblée nationale élit douze juges titulaires et six juges suppléants de la Haute Cour de justice.
 
-Les questions orales doivent être sommairement rédigées et se limiter aux éléments strictement indispensables à la compréhension de la question. Elles peuvent être posées sous la forme de questions orales avec débat ou de questions orales sans débat.
+Il est procédé, d'abord, à l'élection des titulaires, puis des suppléants, au scrutin secret, plurinominal.
 
-Tout député qui désire poser une question orale en remet le texte au Président de l'Assemblée qui le notifie au Gouvernement.
+Les dispositions de l'article 26, concernant le dépôt des candidatures, la distribution des bulletins et la validité des votes sont applicables à cette élection.
 
-Les questions orales sont publiées, durant les sessions et hors session, au Journal officiel.
+Sont élus, à chaque tour de scrutin, dans l'ordre des suffrages, les candidats ayant obtenu un nombre de voix au moins égal à la majorité absolue des membres composant l'Assemblée nationale. Pour chaque catégorie, il est procédé à autant de tours de scrutin qu'il est nécessaire, jusqu'à ce que tous les sièges soient pourvus. En cas d'égalité des voix pour les derniers sièges à pourvoir, les candidats sont proclamés élus dans l'ordre d'âge, en commençant par le plus âgé, jusqu'à ce que tous les sièges soient pourvus.
 
-Au fur et à mesure de leur dépôt, les questions orales sont inscrites par la Présidence au rôle des questions orales avec débat ou au rôle des questions orales sans débat.
+## Article 155
 
-Dans le cas où une question écrite est transformée en question orale, en application de l'article 60 ci-après, son rang au rôle des questions orales sans débat est déterminé d'après sa publication comme question écrite.
+Aucune proposition de résolution portant mise en accusation devant la Haute Cour de justice n'est recevable, si elle n'est signée par le dixième au moins des députés.
 
-## Article 55
+## Article 156
 
-La séance du vendredi après-midi est réservée par priorité aux questions orales.
+Le Bureau de l'Assemblée nationale prononce d'office l'irrecevabilité des propositions de résolution contraires aux dispositions de l'article précèdent ou de l'article 18 de l'ordonnance n° 59-1 du 2 janvier 1959 portant loi organique sur la Haute Cour de justice.
 
-L'inscription à l'ordre du jour de cette séance est décidée par la conférence des Présidents au vu des deux rôles de questions orales arrêtés ia veille de sa réunion ; la première partie de la séance est réservée par priorité aux questions orales avec débat.
+## Article 157
 
-La conférence des Présidents peut transférer une question orale d'un rôle à l'autre ou renvoyer une question orale au rôle des questions écrites. Elle a toujours la faculté d'inscrire une question orale avec débat à l'ordre du jour de la séance la plus proche, quel que soit le rang d'inscription de cette question.
+Les propositions de résolution déclarées recevables par le Bureau et celles transmises par le Président du Sénat sont renvoyées à une commission élue spécialement pour leur examen, en la forme prévue par l'article 80. Les députés appartenant à la Haute Cour de justice ne peuvent être désignés comme membres d'une telle commission.
 
-## Article 56
+## Article 158
 
-La question orale avec débat est appelée par le Président. Son auteur la développe une demi-heure Le ministre interrogé y répond. Le Président peut donner ensuite la parole aux députés qui la demandent pour une durée qui ne peut dépasser quinze minutes. Le ministre peut répliquer lorsqu'il le juge utile. La clôture peut alors être demandée. Elle peut être aussi décidée par le Président.
+L'Assemblée statue sur le rapport de la commission après un débat organisé conformément à l'article 80.
 
-## Article 57
+# Dispositions diverses
 
-Après la clôture de la discussion générale d'une question orale avec débat, il est donné lecture des propositions de résolution consécutives à la question orale qui sont discutées séance tenante sans renvoi à la commission compétente ; s'il n'est pas déposé de proposition de résolution, le Président constate qu'il y a lieu de passer à la suite de l'ordre du jour.
-
-Ces propositions de résolution sont remises au Président. Elles sont immédiatement distribuées et le Président en donne lecture, dès la clôture de la discussion générale.
-
-Une modification ou addition de signature ou de texte à une proposition de résolution n'est recevable que si elle a été déposée avant que le Président ait donné lecture de ladite proposition. Il en est de même des amendements à cette proposition.
-
-Le passage pur et simple à la suite de l'ordre du jour, s'il est proposé, a toujours priorité.
-
-La priorité est ensuite de droit pour les propositions de résolution tendant à la nomination d'une commission d'enquête consécutive à la question orale.
-
-Le Président soumet ces propositions de résolution au vote de l'Assemblée qui statue, s'il y a lieu, sur les questions de priorité.
-
-Seuls peuvent prendre la parole sur les propositions de résolution, en dehors de l'un des signataires, chaque président de groupe ou son délégué, le gouvernement et, éventuellement, le président de la commission intéressée ou l'un de ses membres qu'elle aura mendaté.
-
-## Article 58
-
-La question orale sans débat est appelée par le Président ; le ministre interrogé y répond. L'auteur de la question dispose ensuite de la parole pendant cinq minutes. Le ministre peut répliquer.
-
-Aucune autre intervention ne peut avoir lieu.
-
-## Article 59
-
-Lorsque l'auteur d'une question orale avec ou sans débat ne peut assister à la séance, il peut s'il se trouve dans l'un des cas prévus par l'ordonnance n° 58-1066 du 7 novembre 1958 se faire suppléer par l'un de ses collègues. A défaut sa question est rayée du rôle.
-
-Seuls le Premier Ministre et les ministres auxquels sont posées les questions ont la parole. Lorsqu'un ministre est absent, le Premier Ministre en est informé par le Président de l'Assemblée et la question est reportée d'office au vendredi suivant, en tête de l'ordre du jour.
-
-# CHAPITRE XIII Questions ECRITES
-
-## Article 60
-
-Les questions sont rédigées, notifiées et publiées dans les conditions fixées par l'article 54. En outre, elles ne doivent contenir aucune imputation d'ordre personnel à l'égard de tiers nommément désignés.
-
-Les réponses des ministres doivent être publiées dans le mois suivant la publication des questions.
-
-Dans ce délai, les ministres ont toutefois la faculté, soit de déclarer par écrit que l'intérêt public ne leur permet pas de répondre, soit, à titre exceptionnel, de demander, pour rassembler les éléments de leur réponse, un délai supplémentaire qui ne peut excéder un mois.
-
-Lorsqu'une question écrite n'a pas obtenu de réponse dans les délais susvisés, son auteur est invité par le Président de l'Assemblée à lui faire connaître s'il entend ou non la convertir en question orale. Dans la négative, le ministre compétent dispose d'un délai supplémentaire d'un mois.
-
-Dans le cas où la question écrite est transformée en question orale, celle-ci prend rang au rôle des questions orales sans débat dans les conditions prévues au dernier alinéa de l'article 54.
-
-Font l'objet d'un rappel publié au Journal officiel les questions écrites auxquelles il n'a pas été répondu dans les délais prévus aux alinéas 2°, 3° et 4° du présent article.
-
-Le texte des questions écrites est reproduit dans les rappels. Il est communiqué aux auteurs des questions en même temps que le rappel leur est notifié.
-
-# CHAPITRE XIV POLICE INTÉRIEURE ET EXTERIEUR DE L'ASSEMBLÉE
-
-## Article 61
-
-Le Président est chargé de veiller à la sûreté intérieure et extérieure de l'Assemblée. A cet effet, il fixe l'importance des forces militaires qu'il juge nécessaires; elles sont placées sous ses ordres.
-
-La police de l'Assemblée est exercée, en son nom, par le Président.
-
-A l'exception des porteurs de cartes régulièrement délivrées à cet effet par le Président, et du personnel qui y est appelé à faire son service, nul ne peut, sous aucun prétexte, pénétrer dans la salle des séances.
-
-Le public admis dans les tribunes se tient assis, découvert et en silence.
-
-Toute personne donnant des marques d'approbation ou d'improbation est exclue sur-le-champ par les huissiers chargés de maintenir l'ordre.
-
-Toute personne troublant les débats est traduite sur-le-champ, s'il y a lieu, devant l'autorité compétente.
-
-# CHAPITRE XV DISCIPLINE
-
-## Article 62
-
-Les peines disciplinaires applicables aux membres de l'Assemblée sont :
-
-Le rappel à l'ordre ;
-
-Le rappel à l'ordre avec inscription au procès-verbal ;
-
-La censure ;
-
-La censure avec exclusion temporaire.
-
-## Article 63
-
-Le Président seul rappelle à l'ordre. Est rappelé à l'ordre tout orateur qui trouble cet ordre.
-
-Tout député qui, n'étant pas autorisé à parler, s'est fait rappeler à l'ordre, n'obtient la parole pour se justifier qu'à la fin de la séance, à moins que le Président n'en décide autrement.
-
-Est rappelé à l'ordre avec inscription au procès-verbal tout député qui, dans la même séance, a encouru un premier rappel à l'ordre.
-
-Est également rappelé à l'ordre avec inscription au procès-verbal, tout député qui a adressé à un ou plusieurs de ses collègues des injures, provocations ou menaces.
-
-Le rappel à l'ordre avec inscription au procès-verbal comporte de droit la privation, pendant un mois, du quart de l'indemnité parlementaire allouée aux députés.
-
-## Article 64
-
-La censure est prononcée contre tout député :
-
-1° Qui, après un rappel à l'ordre avec inscription au procès-verbal, n'a pas déféré aux injonctions du Président ;
-
-2° Qui, dans l'Assemblée, a provoqué une scène tumultueuse.
-
-3° Qui a adressé à un ou plusieurs de ses collègues des injures, provocations ou menaces.
-
-## Article 65
-
-La censure avec exclusion temporaire du Palais de 1'Assemblée est prononcée contre tout député :
-
-1° qui a résisté à la censure simple ou qui a subi deux fois cette sanction ;
-
-2° qui, en séance publique, a fait appel à la violence ;
-
-3° qui s'est rendu coupable d'outrages envers l'Assemblée ou envers son président ;
-
-4° qui s'est rendu coupable d'injures, provocations ou menaces envers le Président de la République, le Premier Ministre, les membres du Gouvernement et les Assemblées prévues par la Constitution.
-
-La censure avec exclusion temporaire entraîne l'interdiction de prendre part aux travaux de l'Assemblée et de reparaître dans le Palais de l'Assemblée jusqu'à l'expiration du quinzième jour de séance qui suit celui où la mesure a été prononcée.
-
-En cas de refus du député de se conformer à l'injonction qui lui est faite par le Président de sortir de l'Assemblée, la séance est suspendue. Dans ce cas et aussi dans le cas où la censure avec exclusion temporaire est appliquée pour la deuxième fois à un député, l'exclusion s'étend à trente jours de séance.
-
-## Article 66
-
-En cas de voie de fait d'un membre de l'Assemblée à l'égard d'un de ses collègues, le Président peut proposer au Bureau la peine de la censure avec exclusion temporaire. A défaut du Président, elle peut être demandée par écrit au Bureau par un député.
-
-Lorsque la censure avec exclusion temporaire est, dans ces conditions, proposée contre un député, le Président convoque le Bureau qui entend ce député. Le Bureau peut appliquer une des peines prévues à l'article 62. Le Président communique au député la décision du Bureau. Si le Bureau conclut à la censure avec exclusion temporaire, le député est reconduit jusqu'à la porte du Palais par le chef des huissiers.
-
-## Article 67
-
-La censure simple et la censure avec exclusion temporaire sont prononcées par l'Assemblée, par assis et levé et sans débat, sur la proposition du Président.
-
-Le député contre qui l'une ou l'autre de ces peines disciplinaires est demandée a toujours le droit d'être entendu ou de faire entendre en son nom un de ses collègues.
-
-## Article 68
-
-La censure simple emporte, de droit, la privation, pendant un mois, de la moitié de l'indemnité allouée au député.
-
-La censure avec exclusion temporaire emporte, de droit, la privation de la moitié de l'indemnité pendant deux mois.
-
-## Article 69
-
-Lorsqu'un député entreprend de paralyser la liberté des délibérations et des votes de l'Assemblée et, après s'être livré à des agressions contre un ou plusieurs de ses collègues, refuse d'obtempérer aux rappels à l'ordre du Président, celui-ci lève la séance et convoque le Bureau.
-
-Le Bureau peut proposer à l'Assemblée de prononcer la peine de la censure avec exclusion temporaire, la privation de la moitié de l'indemnité parlementaire prévue par l'article précédent s'étendant dans ce cas à six mois.
-
-Si, au cours des séances qui ont motivé cette sanction, des voies de fait graves ont été commises, le Président saisit sur l'heure le Procureur général.
-
-Les dispositions du présent article sont applicables au député qui s'est rendu coupable de fraude dans les scrutins, notamment en ce qui concerne le caractère personnel du vote.
-
-## Article 70
-
-Si un fait délictueux est commis par un député dans l'enceinte du Palais pendant que l'Assemblée est en séance, la délibération en cours est suspendue.
-
-Séance tenante, le Président porte le fait à la connaissance de l'Assemblée.
-
-Si le fait visé à l'alinéa 1 est commis pendant une suspension ou après la levée de la séance, le Président porte le fait à la connaissance de l'Assemblée à la reprise de la séance ou au début de la séance suivante.
-
-Le député est admis à s'expliquer, s'il le demande. Sur l'ordre du Président, il est tenu de quitter la salle des séances et retenu dans 1e Palais.
-
-En cas de résistance du député ou de tumulte dans l'Assemblée, le Président lève à l'instant 1a séance.
-
-Le Bureau informe, sur-le-champ, le procureur général qu'un délit vient d'être commis dans le Palais de l'Assemblée.
-
-# CHAPITRE XVI SERVICES ET COMPTABILITÉ DE L'ASSEMBLÉE
-
-## Article 71
-
-Le Bureau a tous pouvoirs pour présider aux délibérations de l'Assemblée et pour organiser et diriger tous les services dans les conditions déterminées par le présent Règlement.
-
-L'Assemblée jouit de l'autonomie financière en application de l'article 7 de l'ordonnance n° 58-1100 du 17 novembre 1958.
-
-Les Questeurs, sous la haute direction du Bureau, sont chargés des services financiers et administratifs. Aucune dépense nouvelle ne peut être engagée sans leur avis préalable.
-
-Le Président et les questeurs habitent le Palais-Bourbon.
-
-## Article 72
-
-Le Bureau détermine par des règlements intérieurs l'organisation et le fonctionnement des services de l'Assemblée, les modalités d'application, d'interprétation et d'exécution, par les différents services, des dispositions du présent Règlement, ainsi que le statut du personnel et les rapports entre l'administration de l'Assemblée et les organisations professionnelles du personnel.
-
-Les services de l'Assemblée nationale sont assurés exclusivement par un personnel nommé dans les conditions déterminées par le Bureau. Est interdite, en conséquence, la collaboration, de caractère permanent, de tout fonctionnaire relevant d'une administration extérieure à l'Assemblée, à l'exception des personnels civils et militaires mis par le Gouvernement à la disposition de la commission de la défense nationale et des forces armées et de la commission des finances, de l'économie générale et du plan.
-
-# CHAPITRE XVII DISPOSITIONS DIVERSES
-
-## Article 73
-
-I. - En dehors des démissions d'office édictées par la loi organique sur les incompatibilités parlementaires, les démissions sont adressées au Président qui en donne connaissance à l'Assemblée dans la plus prochaine séance.
-
-La démission acceptée par l'Assemblée est immédiatement notifiée au ministre intéressé.
-
-II. - Les députations de l'Assemblée sont composées de vingt-quatre députés tirés au sort par les Questeurs.
-
-## Article 74
-
-Après constitution des groupes politiques et des formations administratives, le Président de l'Assemblée réunit leurs représentants en vue de procéder à la division de la salle des séances en autant de secteurs qu'il y a de groupes ou formations.
-
-Vingt-quatre heures au moins avant cette réunion, les membres de l'Assemblée qui n'ont adhéré ou ne se sont apparentés à aucun groupe politique ou qui ne font partie d'aucune formation administrative doivent faire connaître au Président de l'Assemblée à la suite de quel groupe ou formation, en allant de gauche à droite, ils désirent siéger.
-
-## Article 75
+## Article 159
 
 L'indemnité de fonction instituée par l'article 2 de l'ordonnance n° 58-1210 du 13 décembre 1958 est payable mensuellement, sur sa base annuelle, compte non tenu de la durée des sessions, à tous les députés qui prennent part régulièrement aux travaux de l'Assemblée.
 
-Compte tenu des cas où la délégation de vote eût été possible ou a été donnée, conformément à l'ordonnance n° 58-1066 du 7 novembre 1958, le fait d'avoir pris part à moins des deux tiers des scrutins publics intervenus dans le mois, en séance publique, entraîne une retenue du tiers de l'indemnité mensuelle de fonction ; si le même député a pris part à moins de la moitié des scrutins, cette retenue est doublée. 
+Les députés peuvent s'excuser de ne pouvoir assister à une séance déterminée. Ces excuses ne peuvent être accordées pour plus de trois jours par session ordinaire. Les demandes doivent faire l'objet d'une déclaration écrite, motivée et adressée au Président. Les congés sont, sur ces demandes, accordés ou refusés par les questeurs.
+
+Compte tenu des cas où la délégation de vote eût été possible ou a été donnée, conformément à l'ordonnance n° 58-1066 du 7 novembre 1958, des votes sur les motions de censure et des congés accordés en vertu de l'alinéa précédent, le fait d'avoir pris part à moins des deux tiers-des scrutins publics intervenus pendant une-session, en séance publique, entraîne une retenue du tiers de l'indemnité de fonction pour une-durée égale à celle de la session; si le même député a pris part à moins de la moitié des scrutins, cette retenue est doublée.
+
+## Article 160
+
+Des insignes sont portés par les députés lorsqu'ils sont en mission, dans les cérémonies publiques et en toutes circonstances où ils ont à faire connaître leur qualité.
+
+La nature de ces insignes est déterminée par le Bureau de l'Assemblée.
+
+## Article 161
+
+Il est établi, au début de chaque législature, par les soins du secrétariat général de l'Assemblée nationale, un recueil des textes authentiques des programmes et engagements électoraux des députés proclamés élus à la suite des élections générales.
+
+Au cas où quelque difficulté se présenterait dans la confection du recueil, le Bureau de l'Assemblée nationale en serait saisi.
+
+# Dispositions transitoires
+
+## Article 162
+
+Les groupes prévus par l'article 19 du Règlement devront, pour participer à la désignation des membres des commissions permanentes prévue par l'article 37 être constitués avant le 6 octobre 1959 à 19 heures. Les groupes politiques et les formations administratives antérieurement constitués jouiront jusqu'à cette date de tous les droits et prérogatives attribués aux groupes par le Règlement définitif.
+
+Les commissions spéciales constituées conformément aux Règles provisoires demeureront compétentes pour l'examen des projets et propositions ayant motivé leur création.
+
+Les commissions permanentes constituées conformément aux Règles provisoires demeureront en fonction jusqu'à la deuxième séance de la session ordinaire d'octobre 1959.
+
+Les désignations prévues aux articles 28 et 154 auront lieu dans le mois qui suivra la mise en application du Règlement définitif. 
