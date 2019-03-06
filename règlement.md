@@ -188,13 +188,13 @@ Lorsqu'en vertu de dispositions constitutionnelles, légales ou réglementaires,
 
 ## Article 25
 
-Lorsque le texte constitutif impose la représentation proportionnelle des candidats par des commissions de l'Assemblée, le Président de l'Assemblée invite les présidents des groupes ou des commissions intéressées à lui faire connaître, dans un délai qu'il fixe, les noms des candidats proposés par ceux-ci.
+Lorsque le texte constitutif impose la représentation proportionnelle des groupes ou la présentation des candidats par des commissions de l'Assemblée, le Président de l'Assemblée invite les présidents de groupes ou des commissions intéressées à lui faire connaître, dans un délai qu'il fixe, les noms des candidats proposés par ceux-ci.
 
-A l'expiration du délai, les candidatures transmises au Président de l'Assemblée sont publiées au Journal Officiel et affichées.
+A l'expiration du délai, les candidatures transmises au Président de l'Assemblée sont publiées au Journal officiel et affichées.
 
 Au cours de la séance à l'ordre du jour de laquelle figure la nomination, le Président donne avis de cet affichage à l'Assemblée.
 
-Pendant un délai d'une heure après cet avis, il peut être fait opposition à une liste de candidats; cette opposition doit être motivée, rédigée et signée par 30 députés au moins, dont les noms sont publiés au Journal officiel à la suite du compte rendu intégral; elle ne peut porter que sur l'inobservation des règles fixées par le texte constitutif ou de la règle de la proportionnalité.
+Pendant un délai d'une heure après cet avis, il peut être fait opposition à une liste de candidats ; cette opposition doit être motivée, rédifée et signée par 30 députés au moins, dont la liste ne varietur est publiée au Journal officiel à la suite du compte rendu intégral ; elle ne peut porter sur l'inobservation des règles fixés par le texte constitutif ou de la règle de la proportionnalité.
 
 Si, à l'expiration du délai d'une heure, aucune opposition n'a été formulée, les listes de candidates sont considérées comme ratifiées par l'Assemblée.
 
@@ -212,7 +212,7 @@ Dans les cas autres que ceux prévus à l'article 25, le Président de l'Assembl
 
 Si, à l'expiration de ce délai, le nombre des candidats n'est pas supérieur au nombre des sièges à pourvoir, il est fait application des alinéas 2, 3 et 5 de l'article 25.
 
-Si, à l'expiration du délai fixé pour le dépôt des candidatures, le nombre des candidats est supérieur au nombre des sièges à pourvoir, ou si, avant la nomination, une opposition a été formulée par 30 députés au moins, l'Assemblée procède, à la date fixée par elle, à la nomination par un vote au scrutin uninominal ou plurinominal, suivant le cas, soit à la tribune, soit dans les salles voisines de la salle des séances.
+Si, à l'expiration du délai fixé pour le dépôt des candidatures, le nombre des candidats est supérieur au nombre des sièges à pourvoir, ou si, avant la nomination, une opposition a été formulée par 30 députés au moins, dans les conditions fixées à l'alinéa 4 de l'article 25, l'Assemblée procède, à la date fixée par elle, à la nomination par un vote au scrutin uninominal ou plurinominal, suivant le cas, soit à la tribune, soit dans les salles voisines de la salle des séances.
 
 Des bulletins portant les noms ou les listes des candidats sont distribués par les soins de la Présidence.
 
@@ -260,7 +260,7 @@ La constitution d'une commission spéciale est de droit lorsqu'elle est demandé
 
 ## Article 31
 
-La constitution d'une commission spéciale peut être décidée par l'Assemblée sur la demande, soit d'une commission permanente, soit d'un groupe, soit de 30 députés. Cette demande doit être présentée dans le délai de deux jours francs suivant la distribution du projet ou de la proposition de loi. En cas de déclaration d'urgence par le Gouvernement d'un projet de loi, ce délai est réduit à un jour franc à compter de son dépôt.
+La constitution d'une commission spéciale peut être décidée par l'Assemblée sur la demande, soit d'une commission permanente, soit d'un groupe, soit de 30 députés dont la liste ne varietur est publiée au Journal officiel à la suite du compte rendu intégral. Cette demande doit être présentée dans le délai de deux jours francs suivant la distribution du projet ou de la proposition de loi. En cas de déclaration d'urgence par le Gouvernement d'un projet de loi, ce délai est réduit à un jour franc à compter de son dépôt.
 
 La demande est aussitôt affichée et notifiée au Gouvernement et aux présidents des groupes et des commissions permanentes.
 
@@ -286,7 +286,7 @@ Lorsqu'aux termes des articles 3o à 32, il y a lieu de constituer une commissio
 
 II fixe aux présidents des groupes le délai dans lequel ils doivent faire connaître les noms des candidats proposés par eux. Ce délai ne peut être supérieur à deux jours francs en session, à cinq jours francs en dehors des sessions.
 
-Les propositions des présidents des groupes sont affichées à l'expiration du délai fixé par le Président. Elles sont considérées comme ratifiées par l'Assemblée si aucune opposition signée de 30 députés au moins n'a été déposée dans le délai d'un jour franc après cet affichage. Les oppositions ne sont recevables que si elles portent sur le respect des règles prévues à l'article 33.
+Les propositions des présidents des groupes sont affichées à l'expiration du délai fixé par le Président. Elles sont considérées comme ratifiées par l'Assemblée si aucune opposition signée de 30 députés au moins, dont la liste ne varietur est publiée au Journal officiel à la suite du compte rendu intégral, n'a été déposée dans le délai d'un jour franc après cet affichage. Les oppositions ne sont recevables que si elles portent sur le respect des règles prévues à l'article 33.
 
 Pendant les intersessions, l'affichage prévu aux deux alinéas ci-dessus est complété par une publication au Journal officiel et le délai d'opposition est de trois jours francs après cette publication.
 
@@ -478,7 +478,7 @@ Pour l'application des articles 18, 35, 36 et 49 de la Constitution, pour la dis
 
 ## Article 51
 
-L'Assemblée peut décider de siéger en comité secret par un vote exprès et sans débat émis à la demande soit du Premier Ministre, soit d'un dixième de ses membres. Le dixième des membres est calculé sur le nombre des sièges effectivement pourvus. En cas de fraction, le nombre est arrondi au chiffre immédiatement supérieur.
+L'Assemblée peut décider de siéger en comité secret par un vote exprès et sans débat émis à la demande soit du Premier Ministre, soit d'un dixième de ses membres. Le dixième des membres est calculé sur le nombre des sièges effectivement pourvus. En cas de fraction, le nombre est arrondi au chiffre immédiatement supérieur. Les signatures doivent figurer sur une liste unique. A partir du dépôt de cette liste, aucune signature ne peut être retirée ni ajoutée et la procédure doit suivre son cours jusqu'à la décision de l'Assemblée. La liste ne varietur des signataires est publiée au Journal officiel à la suite du compte rendu intégral.
 
 Lorsque le motif qui a donné lieu au comité secret a cessé, le Président consulte l'Assemblée sur la reprise de la séance publique.
 
@@ -622,9 +622,9 @@ Nul ne peut obtenir la parole entre les différentes épreuves du vote.
 
 Le vote par scrutin public est de droit :
 
-1° Sur décision du Président de l'Assemblée ou sur demande du Gouvernement ou de la commission saisie au fond ;
+1° Sur décision du Président ou sur demande du Gouvernement ou de la commission saisie au fond ;
 
-2° Sur demande écrite émanant personnellement soit du président d'un groupe, soit de son délégué dont il a préalablement notifié le nom au Président de l'Assemblée ;
+2° Sur demande écrite émanant personnellement soit du président d'un groupe, soit de son délégué dont il a préalablement notifié le nom au Président ;
 
 3° Lorsque la Constitution exige une majorité qualifiée ou lorsque la responsabilité du Gouvernement est engagée.
 
@@ -788,7 +788,7 @@ Les demandes de levée d'immunité parlementaire sont inscrites à l'ordre du jo
 
 Pour permettre à l'Assemblée de requérir, conformément à l'article 26 de la Constitution, la suspension de la détention ou de la poursuite d'un de ses membres, les demandes tendant à cet effet sont inscrites d'office par la Conférence des Présidents, dès la distribution du rapport de la commission ad hoc à la plus prochaine séance réservée par priorité par l'article 48, alinéa 2, de la Constitution aux questions des membres du Parlement et aux réponses du Gouvernement, à la suite desdites questions et réponses. La Conférence des Présidents aménage en conséquence l'ordre du jour des questions orales. Si le rapport n'a pas été distribué dans un délai de vingt jours de session à compter du dépôt de la demande, l'affaire peut être inscrite d'office par la Conférence des Présidents à la plus prochaine séance réservée par priorité par l'article 48, alinéa 2, de la Constitution aux questions des membres du Parlement et aux réponses du Gouvernement, à la suite desdites questions et réponses.
 
-La discussion en séance publique porte sur la demande de levée d'immunité parlementaire faite par le Parquet ou la partie lésée. Aucun amendement n'est recevable. Dans les autres cas, la discussion porte sur les conclusions de la commission ou, si elle n'en présente pas, sur la demande dont l'Assemblée est saisie. Une motion de renvoi à la commission peut être présentée et discutée dans les conditions prévues à l'article 91. En cas de rejet des conclusions de la commission ad hoc tendant à rejeter la demande, celle-ci est considérée comme adoptée.
+La discussion en séance publique porte sur les conclusions de la commission formulées en une proposition de résolution. S'il s'agit d'une demande de levée de l'immunité parlementaire, la proposition de résolution est limitée aux seuls faits visés dans ladite demande. Sont seuls recevables les amendements portant sur ces faits. Dans tous les cas, si la commission ne présente pas de conclusions, la discussion porte sur la demande dont l'Assemblée est saisie. Une motion de renvoi à la commission peut être présentée et discutée dans les conditions prévues à l'article 91. En cas de rejet des conclusions de la commission ad hoc tendant à rejeter la demande, celle-ci est considérée comme adoptée.
 
 L'Assemblée statue sur le fond après un débat auquel peuvent seuls prendre part le rapporteur de la commission, le Gouvernement, le député intéressé ou un membre de l'Assemblée le représentant, un orateur pour et un orateur contre.
 
@@ -808,7 +808,7 @@ Les projets de loi, les propositions de loi transmises par le Sénat et les prop
 
 Le dépôt des projets de loi et des propositions transmises par le Sénat est toujours annoncé en séance publique.
 
-Les propositions de loi présentées par les députés sont transmise sau Bureau de l'Assemblée ou à certains de ses membres délégués par lui à cet effet lorsque leur irrecevabilité au sens de l'article 40 de la Constitution est évidente, le dépôt en est refusé. Dans les autres cas, le dépôt est annoncé en séance publique.
+Les propositions de loi présentées par les députés sont transmises au Bureau de l'Assemblée ou à certains de ses membres délégués par lui à cet effet lorsque leur irrecevabilité au sens de l'article 40 de la Constitution est évidente, le dépôt en est refusé. Dans les autres cas, le dépôt est annoncé en séance publique.
 
 ## Article 82
 
@@ -840,7 +840,7 @@ Dans le cas où une commission permanente se déclare incompétente ou en cas de
 
 ## Article 86
 
-Les rapporteurs des commissions doivent être désignés et leurs rapports doivent être déposes et distribués dans un délai tel que l'Assemblée nationale soit en mesure de procéder à la discussion des projets et propositions conformément à la Constitution.
+Les rapporteurs des commissions doivent être désignés et leurs rapports doivent être déposes et distribués dans un délai tel que l'Assemblée nationale soit en mesure de procéder à la discussion des projets et propositions conformément à la Constitution. Les rapports peuvent, en outre, être publiés en annexe au compte rendu intégral de la séance au cours de laquelle ils sont discutés sur décision du Bureau de l'Assemblée nationale.
 
 Les rapports faits sur des projets de loi soumis en premier lieu à l'Assemblée nationale ou sur des textes transmis par le Sénat concluent à l'adoption, au rejet ou à des amendements. En annexe des rapports doivent être insérés les amendements soumis à la commission, qu'ils aient été transmis par la Présidence de l'Assemblée ou directement présentés par leurs auteurs avant le dépôt du rapport.
 
@@ -858,7 +858,7 @@ Lorsqu'un projet ou une proposition a été l'objet d'un renvoi pour avis, la co
 
 La commission saisie pour avis d'un texte renvoyé au fond à une commission spéciale constituée à l'initiative de l'Assemblée désigne parmi ceux de ses membres appartenant à cette dernière commission un rapporteur chargé de la tenir au courant des travaux de celle-ci. Ce rapporteur peut déposer et défendre devant la commission spéciale les amendements adoptés par la commission permanente saisie pour avis. Si ceux-ci ne sont pas adoptés par la commission spéciale, ou si la commission permanente saisie pour avis ne les a pas présentés en temps utile pour qu'ils puissent être discutés par la commission spéciale, le rapporteur peut les déposer et les défendre en séance au nom de la commission saisie pour avis. Le dépôt de ces amendements constitue l'avis de la commission permanente.
 
-Les avis sont imprimés et distribués.
+Les avis sont imprimés et distribués. Ils peuvent en outre, être publiés en annexe au compte rendu intégral de la séance au cours de laquelle ils sont discutés sur décision du Bureau de l'Assemblée nationale.
 
 Le défaut de dépôt ou de distribution d'un avis ne peut faire obstacle à la discussion d'une affaire, la commission qui a demandé à donner son avis pouvant toujours le donner verbalement au jour fixé pour la discussion du fond.
 
@@ -926,7 +926,7 @@ Lorsque l'irrecevabilité est opposée au cours de la discussion, le Président 
 
 Si le Président de l'Assemblée ne préside pas la séance ou s'il désire demander l'avis du Bureau de l'Assemblée, la séance est suspendue.
 
-En cas de désaccord entre le Gouvernement et le Président de l'Assemblée, la discussion de la proposition ou de l'amendement est suspendue.
+En cas de désaccord entre le Gouvernement et le Président de l'Assemblée, la discussion de la proposition ou de l'amendement est suspendue et le président de l'Assemblée saisit le Conseil constitutionnel.
 
 ## Article 94
 
@@ -1055,6 +1055,8 @@ Après le retrait des oppositions, aucune opposition nouvelle ne peut être form
 ## Article 106
 
 Lorsqu'aucune opposition n'a été formulée à un vote sans débat ou qu'une affaire a été réinscrite à l'ordre du jour pour un vote sans débat sans les conditions prévues à l'article précédent, le Président met aux voix l'ensemble du texte soit dans la rédaction du Gouvernement s'il s'agit d'un projet examiné en première lecture, soit dans la rédaction élaborée par la commission s'il s'agit d'une proposition examinée en première lecture, soit dans la rédaction transmise par le Sénat s'il s'agit d'un projet ou d'une proposition de loi transmis par cette Assemblée.
+
+Lorsque le Gouvernement donne son accord au vote sans débat soit d'un projet, soit d'un texte transmis par le Sénat, exclusivement amendé par la commission saisie au fond, dont il accepte l'ensemble des amendements, le texte ainsi amendé est mis aux voix dans les conditions prévues à l'alinéa précédent.
 
 ## Article 107
 
@@ -1188,7 +1190,7 @@ Les articles additionnels et amendements contraires aux dispositions de l'articl
 
 Lors des débats sur les projets de loi visés à l'article 11 de la Constitution, il ne peut être présenté qu'une seule motion tendant à proposer de soumettre au référendum le projet en discussion.
 
-Ladite motion doit être signée par un dixième au moins des membres de l'Assemblée. Elle ne peut être assortie d'aucune condition ou réserve, ni comporter d'amendement au texte déposé par le Gouvernement.
+Ladite motion doit être signée par un dixième au moins des membres de l'Assemblée. Elle ne peut être assortie d'aucune condition ou réserve, ni comporter d'amendement au texte déposé par le Gouvernement. La procédure fixée par l'article 51, alinéa 1, est applicable.
 
 Cette motion est discutée immédiatement avant la discussion générale du projet ou, si la discussion générale est commencée, dès son dépôt. Elle n'est appelée que si la présence effective en séance des signataires est constatée au moment de l'appel. Elle a priorité, le cas échéant, sur la question préalable.
 
@@ -1294,7 +1296,7 @@ Les questions orales doivent être sommairement rédigées et se limiter aux él
 
 Tout député qui désire poser une question orale en remet le texte au Président de l'Assemblée qui le notifie au Gouvernement.
 
-Les questions orales sont publiée, durant les sessions et hors session, au Journal officiel.
+Les questions orales sont publiées, durant les sessions et hors session, au Journal officiel.
 
 Au fur et à mesure de leur dépôt, les questions orales sont inscrites par la Présidence au rôle des questions orales avec débat ou au rôle des questions orales sans débat.
 
@@ -1512,7 +1514,7 @@ Sont élus, à chaque tour de scrutin, dans l'ordre des suffrages, les candidats
 
 ## Article 155
 
-Aucune proposition de résolution portant mise en accusation devant la Haute Cour de justice n'est recevable, si elle n'est signée par le dixième au moins des députés.
+Aucune proposition de résolution portant mise en accusation devant la Haute Cour de justice n'est recevable, si elle n'est signée par le dixième au moins des députés. La procédure fixée par l'article 51, alinéa 1, est applicable.
 
 ## Article 156
 
