@@ -446,7 +446,7 @@ L'Assemblée se réunit dans ses bureaux, et nomme une commission, sur le rappor
 
 ## Article 74
 
-- Toute proposition faite par un représentant nest formulée par écrit. Elle est remise au Président qui, après en avoir donné connaissance à l'Assemblée, la renvoie à l'examen de la commission spéciale pour les propositions.
+- Toute proposition faite par un représentant est formulée par écrit. Elle est remise au Président qui, après en avoir donné connaissance à l'Assemblée, la renvoie à l'examen de la commission spéciale pour les propositions.
 
 ## Article 75
 
