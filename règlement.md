@@ -1100,7 +1100,7 @@ Les services de la Chambre des Députés sont placés sous les ordres d Secréta
 
 ## Article 132
 
-Les Bureaux, au commencement de chaque session ordinaire, nomment pour l'année entière une commission de onze membres, chargée de la comptabilité des fonds alloués pour les dépenses de la Chambre.
+Au début de chaque législature, et chaque année au mois de juin, la Chambre des Députés nomme, suivant les règles fixées par l'article 12, une commission de 11 membres, chargée du contrôle de la comptabilité des fonds alloués pour les dépenses de la Chambre.
 
 ## Article 133
 
