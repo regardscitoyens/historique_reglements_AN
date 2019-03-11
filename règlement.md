@@ -296,6 +296,8 @@ Tout projet ou proposition de loi ou de résolution, ou tout amendement disjoint
 
 Dans toute commission, la présence de la moitié des membres est nécessaire pour la validité des votes. Le vote par scrutin peut être demandé par trois membres en toute matière lorsque le quorum prescrit à l'alinéa précédent est atteint. Il est de droit. Le résultat du vote est alors publié au Bulletin des commissions. La publication au Bulletin des commissions des noms des membres qui ont demandé le scrutin et de ceux des votants peut être demandée. Elle est de droit et les noms des auteurs de cette dernière demande sont également publiés.
 
+Au cas d'impossibilité d'un vote par défaut du quorum fixé au paragraphe 1, le scrutin explicitement porté à l'ordre du jour de la séance suivante est valable à cette séance, quel que soit le nombre des membres présents.
+
 Le lendemain de chaque séance des commissions, les noms des membres présents, excusés et absents sont insérés au Journal officiel ; en cas d'impossibilité d'un vote par défaut de quorum, mention en est également faite.
 
 Lorsque, sans congé officiel, un membre d'une commission n'aura pas assisté à cinq séances successives – et s'il s'est écoulé un mois depuis la première absence - le Bureau de la Chambre, dûment avisé, prononcera la vacance. Il sera pourvu à la vacance suivant les règles qui ont présidé à la formation primitive de la commission. Le député dont l'absence aura provoqué la vacance ne sera pas immédiatement rééligible.
