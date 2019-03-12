@@ -604,6 +604,8 @@ Chaque député remet son bulletin à l'un des Secrétaires, qui le dépose dans
 
 Il est procédé à l'émargement des noms des votants au fur et à mesure des votes émis.
 
+Le scrutin restera ouvert pendant une heure.
+
 ## Article 77
 
 Lorsque le scrutin public est demandé en matière de vérification de pouvoirs, il a lieu de plein droit à la tribune.
@@ -620,7 +622,7 @@ Une urne automatique enregistrant les suffrages reçus à l'aide d'un numéroteu
 
 ## Article 80
 
-La présence de la majorité absolue du nombre légal des Députés est nécessaire pour la validité des votes (actuellement 302 membres).
+La présence de la majorité absolue du nombre réel des Députés en fonction est nécessaire pour la validité des votes.
 
 Si, au moment du vote, la demande en est faite, le Bureau constate le nombre des membres présents.
 
