@@ -348,6 +348,12 @@ Ces amendements sont rédigés par écrit et déposés entre les mains du Prési
 
 La Chambre ne délibère sur aucun amendement, si, après avoir été développé, il n'est appuyé.
 
+En ce qui touche la loi du budget, aucun amendement ou article additionnel tendant à augmenter les dépenses ne peut être déposé après les trois séances qui suivent la distribution du rapport dans lequel figure le chapitre visé.
+
+## Article 51 bis
+
+Aucune proposition tendant, soit à des augmentations de traitements, d'indemnités ou de pensions, soit à des créations de services, d'emplois, de pensions, ou à leur extension en dehors des limites prévues par les lois en vigueur, ne peut être faite sous forme d'amendement ou d'article additionnel au budget.
+
 ## Article 52
 
 Tout amendement présenté et non soumis au vote dans le cours de la séance, est imprimé et distribué avant la séance suivante.
