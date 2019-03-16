@@ -394,9 +394,9 @@ Les Vice-Présidents de l'Assemblée, les Présidents des commissions et les Pr�
 
 Le Gouvernement est avisé par le Président du jour et de l'heure de la Conférence ; il peut y déléguer un représentant.
 
-A la fin de la séance suivant la réunion de la Conférence, le Président soumet les propositions de la Conférence à l'approbation de l'Assemblée.
+A la fin de la séance suivant la réunion de la Conférence, le Président soumet les propositions de la Conférence à l'approbation de l'Assemblée. La parole peut être accordée à un représentant de chaque groupe pour une durée maximum de cinq minutes.
 
-L'ordre du jour réglé par l'Assemblée ne peut être ultérieurement modifié que par un vote émis soit sur l'initiative du Gouvernement ou d'une commission, soit sur une demande signée par 50 membres, dont la présence doit être constatée par appel nominal.
+L'ordre du jour réglé par l'Assemblée ne peut être ultérieurement modifié qu'en fin de séance pour les séances suivantes, à la suite d'un vote émis, au scrutin public et à la majorité absolue des membres composant l'Assemblée, soit sur l'initiative du Gouvernement ou d'une commission, soit sur une demande signée par 3o membres appartenant au moins à trois groupes organisés dont la présence doit être constatée par appel nominal. Seuls, l'auteur de la proposition de modification et un orateur de chaque groupe peuvent prendre la parole pour une durée de cinq minutes chacun.
 
 ## Article 35
 
