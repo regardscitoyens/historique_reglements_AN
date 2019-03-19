@@ -414,6 +414,24 @@ Les amendements nouveaux présentés après la clôture de la seconde délibéra
 
 - Le résultat des délibérations de l'Assemblée est proclamé par le Président en ces termes : l'Assemblée nationale a adopté, ou l'Assemblée nationale n'a pas adopté.
 
+## Article 72 bis
+
+- Lorsque l'Assemblée est saisie d'un projet de loi par lequel le Gouvernement, conformément à l'art. 83 de la Constitution, lui demande l'approbation d'un traité conclu avec une puissance étrangère, il n'est pas voté sur les articles du traité, et il ne peut être présenté d'amendements à son texte.
+
+Si, dans le cours des deux premières délibérations, il y a opposition à quelques-unes des clauses du traité, elle se produit sous forme de demande de renvoi à la commission, imprimée et distribuée au moins vingt-quatre heures à l'avance.
+
+Si, après débat, l'Assemblée prend en considération, elle prononce le renvoi.
+
+Lors de la troisième délibération, la commission fait un rapport d'ensemble, qui doit être imprimé et distribué sur les différentes clauses contestées et renvoyées à son examen. Elle conclut à l'adoption au rejet ou à l'ajournement du projet de loi.
+
+L'ajournement est motivé en ces termes :
+
+« L'Assemblée, appelant de nouveau l'attention du Gouvernement sur telle ou telle clause du traité (relater en entier les clauses sur lesquelles se fonde l'ajournement) surseoit à donner l'autorisation de ratifier. »
+
+Lorsque l'urgence a été déclarée, la commission présente son rapport sur les clauses renvoyées à son examen, après la clôture de la discussion sur les articles non contestés.
+
+Les dispositions de l'art. 70 ne sont pas applicables aux traités.
+
 ## Article 73
 
 - Lorsqne: en vertu de l'art. 58 de la constitution, le Président de la République demande une nouvelle délibération de l'Assemblée, le message motivé est imprimé et distribué.
