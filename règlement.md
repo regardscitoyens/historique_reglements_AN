@@ -1,833 +1,697 @@
+REGLEMENT DU CORPS LEGISLATIF
 
-
-# CHAPITRE PREMIER Du bureau provisoire de l'Assemblée, et de la vérification des pouvoirs.
+# TITRE PREMIER Du Conseil d'État
 
 ## Article 1er
 
-A la séance d'ouverture de l'Assemblée nationale, le doyen d'âge occupe le fauteuil.
-
-Les six plus jeunes représentants remplissent les fonctions de secrétaires.
+Les projets de lois et de sénatus-consultes, les règlements d'administration publique préparés par les différents départements ministériels sont soumis à l'Empereur, qui les remet directement ou les fait adresser par le Ministre d'Etat au Ministre présidant le Conseil d'État.
 
 ## Article 2
 
-Il est procédé immédiatement, en séance publique, par scrutin séparé et à la majorité absolue, à la nomination d'un président et d'un vice-président provisoires.
-
-Après deux tours de scrutin, et en cas de ballotage, la majorité relative suffit.
-
-En cas d'égalité de suffrages, le plus âgé nommé.
+Les ordres du jour des séances du Conseil d'État sont envoyés à l'avance au Ministre d'État, et le Président du Conseil d'État pourvoit à ce que ce Ministre soit toujours avisé en temps utile de tout ce qui concerne l'examen ou la discussion des projets de lois, des sénatus-consultes et des règlements d'administration publique envoyés à l'élaboration du Conseil.
 
 ## Article 3
 
-- Les procès-verbaux d'élection sont, avec les pièces justificatives, répartis entre les bureaux, par ordre alphabétique de départements, et examinés par des commissions de conq membres, formés dans chaque bureau par la voie du sort.
+Les projets de lois ou de sénatus-consultes, après avoir été élaborés au Conseil d'État, conformément à l'article 50 de la Constitution (p. 47), sont remis à l'Empereur par le Ministre présidant le Conseil d'Etat, qui y joint les noms des commissaires qu'il propose pour en soutenir la discussion devant le Corps Législatif ou le Sénat.
 
 ## Article 4
 
-- L'Assemblée prononce sur la validité des élections, et le Président proclame représentants ceux dont les pouvoirs ont été déclarés valides.
+Un décret de l'Empereur ordonne la présentation du projet de loi au Corps Législatif ou du sénatus-consulte au Sénat, et nomme les commissaires du Gouvernement ou les conseillers d'Etat chargés d'en soutenir la discussion, conjointement avec le Ministre d'État, le Ministre présidant le Conseil d'État, les Vice-Président et Présidents de section du Conseil d'État.
 
-# CHAPITRE II. Du bureau définitif de l'Assemblée.
+Les Ministres peuvent recevoir, par décret impérial, une délégation spéciale pour représenter le Gouvernement devant le Sénat ou le Corps Législatif.
 
 ## Article 5
 
-- Après la vérification des pouvoirs, nonobstant soit l'ajournement de plusieurs élections, soit des retards dans l'arrivée des procès-verbaux ou dans le dépôt des rapports, l'Assemblée forme son bureau définitif.
+Ampliation de ces décrets est transmise, avec le projet de loi ou de sénatus-consulte, au Corps Législatif ou au Sénat par le Ministre d'Etat.
 
-II se compose d'un président, de quatre vice-présidents, de six secrétaires et de trois questeurs.
+# TITRE II Du Sénat
+
+# CHAPITRE PREMIER Réunion du Sénat; formation des Bureaux.
 
 ## Article 6
 
-Le Président, les vice-présidents et les secrétaires sont élus pour trois mois. Les questeurs sont élus pour un an. Les membres du bureau sont toujours rééligibles.
+- Pendant la durée des sessions, le Sénat se réunit sur la convocation de son Président.
+
+Quand la session est close, les réunions du Sénat ne peuvent avoir lieu qu'en vertu d'un décret de l'Empereur
 
 ## Article 7
 
-L'élection a lieu dans les formes déterminées par l'art. 2.
+- Le Sénat se divise, par la voie du sort en cinq bureaux.
 
-Les vice-présidents, secrétaires et questeurs sont nommés au scrutin de liste.
+Ces bureaux examinent les propositions qui leur sont renvoyées et élisent les commissions qu'il y a lieu de nommer.
+
+Le Président du Sénat préside de droit le bureau dont il fait partie.
+
+Il a la faculté de prendre part aux travaux des commissions et de les présider.
+
+# CHAPITRE II Des projets de lois.
 
 ## Article 8
 
-Le droit de prendre part aux votes de l'Assemblée est suspendu pour tout représentant dont l'admission a été ajournée par décision de l'Assemblée.
-
-# CHAPITRE III. Des bureaux et commissions.
+- Les projets de loi adoptés par le Corps Législatif, et qui doivent être soumis au Sénat, en exécution de l'article 25 de la Constitution (page 34), sont, avec les décrets qui délèguent spécialement les Ministres ou nomment les Conseillers d'État chargés de soutenir la dicussion, transmis par le Ministre d'État au Président du Sénat, qui en donne Communication en séance générale.
 
 ## Article 9
 
-L'Assemblée se partage en quinze bureaux, renouvelés chaque mois par la voie du sort.
-
-Chaque bureau nomme, à la majorité absolue des votants, son président et son secrétaire.
+Le Sénat décide immédiatement, par assis et levé, s'il est nécessaire de renvoyer le projet de loi à la discussion des bureaux et à l'examen d'une commission, ou s'il peut être, sans cet examen préliminaire, passé outre à la délibération en séance générale.
 
 ## Article 10
 
-- Les bureaux sont tenus de se conformer, pour l'ordre de leurs travaux, aux ordres du jour arrêtés par l'Assemblée.
+Le Sénat, n'ayant à statuer que sur la promulgation, aucune autre question que la question constitutionnelle ne peut être discutée, et le vote du Sénat ne comporte la présentation d'aucun amendement.
 
 ## Article 11
 
-- Chacun d'eux discute séparément les questions renvoyées à leur examen.
-
-Sauf urgence déclarée, la discussion ne peut s'ouvrir dans les bureaux que vingt-quatre heures au plus tôt après la distribution des projets de lois et propositions.
+Au jour indiqué pour la délibération en séance générale, le Sénat, après la clôture de la discussion prononcée par le Président, vote sur la question de savoir s'il y a lieu de s'opposer à la promulgation.
 
 ## Article 12
 
-Lorsque la discussion est terminée, chaque bureau nomme un commissaire, à la majorité absolue des votants.
+Le vote n'est pas secret.
+
+Il est pris à la majorité absolue, par un nombre de votants supérieur au tiers de celui des membres du Sénat; sinon, il est nul et doit être recommencé.
 
 ## Article 13
 
-Aucun membre de l'Assemblée- nationale faisant partie de deux commissions, autres que la commission de comptabilité et celle des congés, ne peut être appelé à faire partie d'une troisième, jusqu'à ce que l'une des deux premières ait déposé son rapport.
-
-Tout membre élu commissaire est tenu de déclarer devant le bureau s'il est libre, aux termes du règlement, d'accepter cette mission.
-
-Dans le cas de la négative, il est immédiatement procédé à son remplacement.
+Le vote est recensé par le Secrétaire du Sénat, assisté de deux Secrétaires élus pour chaque session.
 
 ## Article 14
 
-Lors du renvoi d'un projet de loi ou d'une proposition à l'examen des bureaux, l'Assemblée peut, sur la demande d'un de ses membres, décider que la nomination sera faite par scrutin de liste, et à la majorité relative, soit en assemblée générale, soit dans les bureaux.
-
-Cette décision est prise par assis et levé, sans débats.
-
-Dans le cas où la nomination est renvoyée aux bureaux, les scrutins sont ouverts et dépouillés dans chaque bureau. Le recensement général est opéré par le premier bureau, et transmis au Président de l'Assemblée qui proclame le résultat.
+Le Président du Sénat proclame en ces termes le résultat du scrutin : Le Sénat s'oppose, ou le Sénat ne s'oppose pas à la promulgation.
 
 ## Article 15
 
-L'Assemblée peut aussi, si elle le juge convenable, renvoyer à une commission déjà formée l'examen des projets ou propositions qui lui sont soumis.
+Le résultat de la délibération est transmis au Ministre d'État par le Président du Sénat.
+
+# CHAPITRE III Des sénatus-consultes.
 
 ## Article 16
 
-Les commissions, convoquées sans retard nomment, à la majorité absolue des votants, un président et un secrétaire.
-
-Elles choisissent en outre, dans les mêmes formes, un rapporteur chargé de rendre compte à l'Assemblée du résultat de leurs travaux.
+L'Empereur propose les sénatus-consultes réglant les objets énumérés à l'article 27 (page 85) de la Constitution ; l'initiative de la proposition peut aussi être prise par un ou plusieurs Sénateurs.
 
 ## Article 17
 
-- L'auteur d'une proposition a droit d'assister, avec voix consultative, aux séances de la commission chargée d'en faire l'examen.
+Les projets de sénatus-consultes proposés par l'Empereur seront portés et lus au Sénat par le Ministre d'État, le Ministre présidant le Conseil d'État ou les conseillers d'Etat à ce commis, discutés dans les bureaux et examinés par une commission qui en fera rapport en séance générale.
 
-S'il y a plusieurs auteurs d'une même proposition, ils doivent désigner un d'entre eux qui les représentera an près de la commission.
+Ceux provenant de l'initiative des Sénateurs ne seront lus en séance générale qu'autant que la prise en considération en aura été autorisée par trois au moins des cinq bureaux.
+
+Dans ce cas, le texte en sera immédiatement transmis, par le Président du Sénat, au Ministre d'État, et une commission sera nommée, comme il est dit dans le § 1 du présent article.
 
 ## Article 18
 
-- Le Président envoie aux bureaux et commissions toutes les pièces relatives aux objets qui doivent y être discutés.
+Les amendements proposés sur le projet de sénatus-con-sulte seront, jusqu'à l'ouverture de la délibération en séance générale, renvoyés par le Président du Sénat à la commission qui exprimera son avis, soit dans son rapport principal, soit dans un rapport supplémentaire.
 
-Ces pièces sont déposées aux archives par les rapporteurs après le vote de l'Assemblée.
+Les amendements produits pendant la délibération en séance générale ne seront lus et développés qu'autant qu'ils seront appuyés par cinq membres.
+
+Le texte en sera toujours, et à l'avance, communiqué aux Commissaires du Gouvernement.
+
+La commission a le droit, qui appartient également aux Commissaires du Gouvernement, de demander qu'avant le vote l'amendement lui soit renvoyé.
 
 ## Article 19
 
-- Les commissions communiquent directement avec les ministres par leur président, ou par ceux de leurs membres qu'elles auront désignés.
+Le vote, soit sur les articles du projet de sénatus-consulte,soit sur son ensemble, a lieu conformément aux articles 12 et 13 du présent décret.
+
+Le Président en proclame le résultat en ces termes :
+
+Le sénat a adopté, ou Le Sénat n'a pas adopté.
 
 ## Article 20
 
-- Une commission de quinze membres, renouvelée chaque mois dans les bureaux, est chargée de l'examen des projets de lois relatifs à des intérêts communaux et départementaux.
+- Le résultat de la délibération est porté à l'Empereur par le Président du Sénat ou par deux Vice-Présidents qu'il délègue.
 
-## Article 20 bis
-
-- Une commission de quinze membres, renouvelée chaque année dans les bureaux, est chargée de l'examen des projets de loi affectant des immeubles nationaux aux services publics.
+# CHAPITRE IV Actes dénoncés au Sénat comme inconstitutionnels.
 
 ## Article 21
 
-- Une commission de quinze membres, renouvelée chaque mois dans les bureaux, est chargée de l'examen des pétitions.
+Lorsqu'un acte est déféré, comme inconstitutionnel, par le Gouvernement au Sénat, le décret qui saisit le Sénat et qui délègue les Ministres ou nomme les Conseillers d'État devant prendre part à la discussion est transmis par le Ministre d'État au Président du Sénat.
+
+Les bureaux examinent cette demande et nomment une commission sur le rapport de laquelle il est procédé au vote conformément aux articles 12 et 13 du présent décret.
+
+Le Président proclame le résultat en ces termes :
+
+Le Sénat maintient ou annule.
 
 ## Article 22
 
-Une commission de trente membres, renouvelée chaque mois dans les bureaux, est chargée d'examiner les propositions émanant de l'initiative parlementaire, et de donner son avis sur la prise en considération.
+Si l'inconstitutionnalité est dénoncée par une pétition, cette pétition est renvoyée à la commission: des pétitions qui propose, dans un rapport sommaire, la question préalable ou le renvoi dans les bureaux.
+
+Si la question préalable est admise, le Président prononce qu'il n'y a lieu à plus ample informé. Si la question préalable n'est pas admise, le Président du Sénat en avise le Ministre d'État, et la pétition est renvoyée dans les bureaux, qui nomment une commission spéciale, sur le rapport de laquelle il est procédé an vote définitif, conformément à l'article 21.
 
 ## Article 23
 
-Une commission de trente membres, nommée par les bureaux, est chargée de l'examen de la loi des recettes et des dépenses.
+- La décision du Sénat est transmise, par les soins du Président, au Ministre d'État.
+
+# CHAPITRE V Rapports à l'Empereur sur les bases des projets de lois d'un grand intérêt national.
 
 ## Article 24
 
-Sont renvoyés à l'examen de cette commission :
+Tout Sénateur peut proposer de présenter à l'Empereur un rapport posant les bases d'un projet de loi d'un grand intérêt national.
 
-1° Tous projets de lois portant demande de crédits supplémentaires ou extraordinaires afférents aux exercices courants, clos ou périmés;
-
-2° Tous projets de lois ou propositions qui peuvent avoir pour effet de modifier les recettes ou les dépenses de l'Etat.
-
-Lors de la présentation des projets de lois de crédits supplémentaires ou extraordinaires, ces projets sont dévolus à la commission sur le rapport de laquelle la dernière loi des recettes et des dépenses a été votée.
+La proposition est motivée par écrit, remise au Président du Sénat, imprimée, distribuée et renvoyée dans les bureaux.
 
 ## Article 25
 
-L'Assemblée peut toujours renvoyer à une commission spéciale l'examen des projets de lois et propositions énoncés en l'article précédent.
+Si trois bureaux au moins sont d'avis de la prise en considération, le Président du Sénat en avise le Ministre d'État.
+
+Une commission est nommée dans les bureaux, et cette commission rédige le projet de rapport à envoyer à l'Empereur.
 
 ## Article 26
 
-Toute commission spéciale chargée de l'examen d'un projet de loi ou d'une proposition affectant les recettes on les dépenses de l'Etat, fait un rapport sur l'ensemble du projet, sans pouvoir proposer d'imputation de crédits.
+Ce projet de rapport, imprimé, distribué et transmis à l'avance au Ministre d'État, est discuté en séance générale.
 
-Si les conclusions sont favorables au projet, elle est tenue de les communiquer à la commission du budget.
-
-Celle-ci, dans les dix jours, donne son avis sur l'imputation des crédits.
-
-Cet avis motivé est imprimé et annexé au rapport principal.
-
-Ces dispositions ne sont pas applicables au cas d'urgence.
-
-# CHAPITRE IV De la tenue des séances.
+Il peut être amendé dans les formes prévues par l'art. 18 du présent décret.
 
 ## Article 27
 
-- Le Président ouvre la séance.
+Le vote sur l'adoption ou le rejet du projet de rapport a lieu conformément aux articles 12 et 13 du présent décret.
 
-Il dirige les délibérations, fait observer le règlement, et maintient l'ordre.
+Le Président du Sénat proclame le résultat en ces termes :
+
+Le rapport est adopté, ou le rapport n'est pas adopté.
 
 ## Article 28
 
-- Les secrétaires surveillent la rédaction du procès-verbal.
+- S'il y a adoption, le rapport est envoyé, par le Président du Sénat, au Ministre d'Etat.
 
-Un d'eux en donne lecture à l'ouverture de chaque séance.
-
-Le procès-verbal adopté par l'Assemblée est signé par le président ou le vice-président qui a tenu la séance, et par deux secrétaires au moins.
+# CHAPITRE VI Des Propositions de modification à la Constitution.
 
 ## Article 29
 
-Avant de passer à l'ordre du jour, le Président donne connaissance à l'Assemblée des communications qui la concernent.
+Toute proposition de modification à la Constitution, autorisée par l'article 31 de la Constitution (p. 37), ne peut être déposée par des membres du Sénat qu'autant qu'elle est signée par dix Sénateurs au moins.
+
+Quand une proposition est déposée dans ces conditions, il est procédé, conformément aux articles 17, deuxième et troisième paragraphes, 18 et 19 du présent décret.
+
+Le résultat de la délibération est porté par le Président du Sénat à l'Empereur, qui avise, conformément à l'article 31 de la Constitution.
+
+# CHAPITRE VII Des Pétitions.
 
 ## Article 30
 
-Les pièces communiquées à l'Assemblée sont déposées sur le bureau ou adressées au Président. L'Assemblée peut en ordonner l'impression, si elle le juge utile.
+- Les pétitions adressées au Sénat, conformément à l'article 45 de la Constitution (page 45), sont examinées par des commissions nommées chaque mois dans les bureaux.
+
+Le feuilleton des pétitions est toujours communiqué à l'avance au Ministre d'État
+
+Il est fait rapport des pétitions en séance générale, et le vote porte sur la question préalable, l'ordre du jour pur et simple, le dépôt au bureau des renseignements ou le renvoi au Ministre compétent.
+
+La question préalable peut être proposée, soit par la commission, soit par un membre du Sénat.
+
+Si le renvoi au Ministre compétent est prononcé, la pétition et un extrait de la délibération sont, par les ordres du Président du Sénat, transmis au Ministre d'État.
 
 ## Article 31
 
-Aucun membre de l'Assemblée ne peut parler qu'après avoir demandé la parole au Président et l'avoir obtenue.
+Lorsqu'une pétition adressée au Sénat est reconnue par la commission des pétitions avoir pour objet une modification quelconque ou une interprétation de la Constitution, elle est transmise, avec un rapport sommaire, au Président et communiquée par lui aux bureaux du Sénat.
+
+Dans le cas où la majorité des bureaux décide qu'il n'y a pas lieu de l'examiner, elle est regardée comme non avenue.
+
+Dans le cas où la prise en considération est autorisée par trois au moins des cinq bureaux, ceux-ci nomment une commission spéciale dont le rapport est fait en séance générale.
+
+Le vote porte sur la question préalable, l'ordre du jour pur et simple, le dépôt au bureau des renseignements ou le renvoi au Gouvernement.
+
+Si la question préalable est admise, le Président prononce qu'il n'y a lieu à plus ample informé.
+
+Si la question préalable n'est pas admise ou si l'ordre du jour n'est pas adopté, le résultat de la délibération est transmis au Ministre d'Etat par le Président du Sénat.
+
+Dans le cas où une pétition rapportée serait reconnue avoir pour objet une modification ou une interprétation de la Constitution, le renvoi aux bureaux est prononcé par le Président du Sénat sur la demande du Gouvernement ou d'un Sénateur.
+
+# CHAPITRE VIII Proclamations de l'Empereur au Sénat.
 
 ## Article 32
 
-Les secrétaires inscrivent pour la parole les représentants, suivant l'ordre de leur demande.
+- Les proclamations de l'Empereur portant ajournement, prorogation ou clôture de la session sont portées au Sénat par les Ministres ou les Conseillers d'État à ce commis; elles sont lues toute affaire cessante, et le Sénat se sépare à l'instant.
+
+# CHAPITRE IX Dispositions communes aux chapitres précédents.
 
 ## Article 33
 
-Dans les discussions, les orateurs parlent alternativement pour et contre.
+Dans toutes délibérations du Sénat, le Gouvernement a le droit d'être représenté par le Ministre d'État, le Ministre présidant le Conseil d'Etat, les ministres délégués spécialement par l'Empereur, le Vice-Président et les Présidents de section du Conseil d'Etat ou par les Conseillers d'État à ce commis par des décrets spéciaux.
+
+Les ordres du jour des séances sont toujours envoyés a l'avance au Ministre d'État, et le Président du Sénat veille ce que tous les avis et communications nécessaires lui soient transmis en temps utile.
 
 ## Article 34
 
-L'orateur ne parle qu'à la tribune, à moins que le Président ne l'autorise à parler de sa place.
+Les Ministres et les Commissaires du Gouvernement ne sont point assujettis au tour de parole.
+
+Ils obtiennent la parole quand ils la demandent.
+
+# CHAPITRE X Des demandes d'interpellations.
 
 ## Article 35
 
-L'orateur doit se renfermer dans la question ; s'il s'en écarte, le Président l'y rappelle.
-
-Aucun membre de l'Assemblée ne peut obtenir la parole sur le rappel à la question.
+Toute demande d'interpellation au Gouvernement est formulée par écrit et signée de cinq membres. Elle explique sommairement l'objet des interpellations; elle est remise au Président du Sénat, qui la communique au Ministre d'État et la renvoie à l'examen des bureaux, qu'il convoque à cet effet au plus tard dans les trois jours qui suivent la remise de la demande.
 
 ## Article 36
 
-Lorsqu'un orateur a été rappelé deux fois à la question dans le même discours, l'Assemblée peut, sur la proposition du Président, lui interdire la parole sur la même question pour le reste de la séance.
-
-L''Assemblée prononce par assis et levé, sans débats.
+- Si deux bureaux du Sénat émettent l'avis que les interpellations peuvent avoir lieu, le Président donne lecture de la demande d'interpellations en assemblée générale, et le Sénat fixe le jour de la discussion.
 
 ## Article 37
 
-- Nul ne parle plus de deux fois sur la même question, à moins que l'Assemblée n'en décide autrement.
+Après la clôture de la discussion, le Sénat prononce sur l'ordre du jour pur et simple ou le renvoi au Gouvernement.
 
 ## Article 38
 
-- Toute interruption, toute personnalité, tout applaudissements et signes d'improbation sont interdits.
+L'ordre du jour pur et simple a toujours la priorité.
 
 ## Article 39
 
-- La question préalable, c'est-à-dire la déclaration qu'il n'y a lieu à délibérer, peut toujours être proposée.
+Si l'ordre du jour pur et simple est écarté, le Sénat vote sur le renvoi au Gouvernement, et ce vote clôt la délibération.
 
-# CHAPITRE V Des Votations.
+Le renvoi au Gouvernement ne peut être prononcé que dans les termes suivants :
+
+Le Sénat appelle l'attention du Gouvernement sur l'objet des interpellations.
+
+Dans ce cas, un extrait de la délibération est transmis au Ministre d'Etat.
+
+# CHAPITRE XI Administration du Sénat.
 
 ## Article 40
 
-- Les réclamations d'ordre du jour, de priorité et de rappel au règlement ont la préférence sur la question principale ; elles en suspendent la discussion sans que l'orateur puisse être interrompu.
+Le Président du Sénat le représente dans ses rapports avec l'Empereur et dans les cérémonies publiques.
+
+Il préside les séances du Sénat.
 
 ## Article 41
 
-- Les amendements sont mis aux voix avant la question principale.
+En cas d'absence du Président du Sénat, la présidence est exercée par le premier Vice-Président.
 
 ## Article 42
 
-- Les projets de lois et propositions sont votés par articles. La délibération est toujours terminée par un vote sur l'ensemble.
+Le Grand Référendaire est, sous l'autorité du Président, chargé de la direction des services administratifs et de la comptabilité. Il est le chef du personnel des employés ; il veille au maintien de l'ordre intérieur et de la sûreté.
+
+Il délivre les certificats de vie et les passe-ports.
+
+Il fait expédier les convocations pour les cérémonies.
 
 ## Article 43
 
-- Dans les question complexes, la division a lieu de droit, lorsqu'elle est demandée.
+Le Secrétaire du Sénat est, sous l'autorité du Président, chargé du service législatif.
+
+Il dirige la rédaction des procès-verbaux, dont il est responsable, et qu'il présente, après chaque séance, à la signature du Président ou du Vice-Président qui aura tenu la séance.
+
+Il a la garde du sceau du Sénat et l'appose d'après les ordres du Président.
+
+Il est chargé de l'ampliation officielle des sénatus-consultes et autres décisions du Sénat, et de l'enregistrement des décrets de l'Empereur portant nomination de Sénateurs.
+
+Il expédie les convocations pour les séances.
+
+Il transmet aux commissions élues pour les examiner les pétitions adressées au Sénat.
 
 ## Article 44
 
-- La parole est accordée à tout membre qui la demande pour un fait personnel.
+Le Président nomme les employés supérieurs du Sénat.
+
+Le Grand Référendaire présente à la nomination du Président les employés du service administratif; le Secrétaire du Sénat, ceux du service législatif.
+
+Le Grand Référendaire nomme tous les gens de service.
 
 ## Article 45
 
-Avant de prononcer la clôture de la discussion, le Président consulte l'Assemblée.
+Les palais du petit et du grand Luxembourg, la maison du boulevard Saint-Michel, n° 64, et la maison de la rue de Vaugirard, n° 36, le mobilier qui les garnit, les jardins et la bibliothèque sont affectés au Sénat.
 
-Si la parole est demandée contre la clôture, elle ne peut être accordée qu'à un seul orateur.
+Le service du commandant militaire du palais, les adjudants et surveillants, ainsi que le service des jardins ouverts au public, sont sous les ordres du Grand Référendaire.
 
-S'il y a doute sur le vote de l'assemblée, après une seconde épreuve, la discussion continue.
-
-La clôture prononcée, la parole n'est plus accordée que sur la position de la question.
+# CHAPITRE XII Dispositions concernant l'administration financière et la comptabilité du Sénat.
 
 ## Article 46
 
-Le Président, avant de prononcer la clôture de la séance, règle, après avoir consulté l'Assemblée, l'ordre du jour de la séance suivante.
-
-L'ordre du jour ainsi réglé est affiché dans la salle des séances, et publié dans le Moniteur.
+La dotation du Sénat prend place dans le budget de l'Etat, à la suite des dépenses de la dette publique.
 
 ## Article 47
 
-L'Assemblée vote sur les questions soumises à ses délibérations, par assis et levé, an scrutin public, au scrutin secret.
+Le Grand Référendaire propose chaque année, au Président du Sénat, le projet de budget des dépenses du Sénat.
+
+Ce projet est approuvé par le Président et transmis à la commission de comptabilité.
 
 ## Article 48
 
-Le vote par assis et levé est de droit sur toutes les questions sauf les exceptions prévues par les art. 50, 51 et 55 du présent règlement.
+Cette commission examine et discute les dépenses proposées et rédige un rapport qu'elle présente à l'Assemblée.
 
 ## Article 49
 
-- Le Vote par assis et levé est constaté par le Président et les secrétaires. S'ils décident qu'il y a doute l'épreuve est renouvelée.
-
-Nul ne peut obtenir la parole entre les deux épreuves, entre la deuxième épreuve et le vote au scrutin.
+Le Sénat délibère sur les crédits applicables aux besoins de chaque exercice et vote l'ensemble du budget.
 
 ## Article 50
 
-- Le vote au scrutin public est de droit :
-
-1° Après deux épreuves douteuses ;
-
-2° Sur tous projets de lois portant ouverture de crédits, autres que ceux, d'intérêt local.
+Le Grand Référendaire mandate les dépenses sur les crédits qui lui sont ouverts par les ordonnances de délégation du Ministre des finances. Ces mandats sont acquittés dans les formes et avec les justifications prescrites par les lois de règlements de la comptabilité publique.
 
 ## Article 51
 
-- Le vote au scrutin public peut être demandé en toute matière.
+- Le compte de chaque exercice est présenté par le Grand Référendaire au Président du Sénat, qui le transmet à la commission de comptabilité; celle-ci le vérifie et fait un rapport qu'elle présente au Sénat, qui l'arrête définitivement.
 
-Sont exceptées les questions de fixation d'ordre du jour, de rappel au règlement, de priorité, d'ajournement de renvoi, de clôture de la discussion, et la prise en considération de la proposition d'urgence.
+# TITRE III Du Corps Législatif
 
-Ait. 52. — Le scrutin public peut être demandé, soit avant toute épreuve par assis et levé, soit après une première épreuve douteuse.
+# CHAPITRE PREMIER Réunion du Corps Législatif ; formation et organisation des bureaux ; vérification des pouvoirs ; élection des secrétaires.
 
-Il peut aussi être demandé, même après le vote par assis et levé, s'il s'agit de statuer sur l'ensemble d'un projet de loi ou d'une proposition.
+## Article 52
+
+- Le Corps Législatif se réunit au jour indiqué par le décret de convocation.
+
+Dans toute délibération du Corps Législatif, le Gouvernement est représenté par le Ministre d'État, le Ministre présidant le Conseil d'État, les Ministres délégués par l'Empereur, les Vice-Président et Présidents de sections du Conseil d'Etat ou par des Conseillers à ce commis par des décrets spéciaux.
 
 ## Article 53
 
-- La demande du scrutin public doit être faite par écrit, signée de 20 membres au moins, et déposée entre les mains du Président.
+- A l'ouverture de la première séance, le Président du Corps Législatif, assisté des quatre plus jeunes membres présents, lesquels remplissent les fonctions de secrétaires jusqu'à l'élection des six secrétaires définitifs, procède, par la voie du tirage au sort, à la division de l'Assemblée en neuf bureaux.
 
-Les noms des signataires et ceux des votants sont insérés au Moniteur.
+Les bureaux ainsi formés se renouvellent chaque mois, pendant la session, par la voie du tirage au sort.
+
+Ils élisent leurs Présidents et leurs Secrétaires.
+
+Le Président du Corps Législatif préside de droit le bureau dont il fait partie.
+
+Il a la faculté de prendre part aux travaux des commissions et de les présider.
 
 ## Article 54
 
-- Il est procédé au scrutin public dans les formes suivantes :
-
-Le Président invite les représentants à prendre leurs places. Chaque représentant a deux bulletins de vote sur lesquels son nom est imprimé. Les bulletins blancs expriment l'adoption, les bulletins bleus la non-adoption. Les huissiers présentent à chaque membre de l'Assemblée une urne dans laquelle il dépose son bulletin. Lorsque les votes sont recueillis, le Président prononce la clôture du scrutin. Les urnes sont immédiatement apportées sur la tribune. Les Secrétaires en font le dépouillement, et le
-
-Président proclame le résultat du vote.
-
-Si vingt membres demandent que le scrutin ait lieu à la tribune, l'Assemblée prononce par assis et levé, sans débats.
+Les bureaux procèdent sans délai à l'examen des procès-verbaux d'élection qui leur sont répartis par le président du Corps Législatif et chargent un ou plusieurs de leurs membres d'en faire le rapport en séance publique.
 
 ## Article 55
 
-Dans tous les cas où le scrutin public peut ou doit être admis, si quarante membres réclament le scrutin secret, il doit y être procédé.
+L'Assemblée statue sur ce rapport; si l'élection est déclarée valable, l'élu prête, séance tenante, ou, s'il est absent, à la première séance à laquelle il assiste, le serment prescrit par l'article 14 de la Constitution (p. 26), et l'article 16 du sénatus-consulte du 25 décembre 1582 (p. 67), et le Président du Corps Législatif prononce ensuite son admission.
 
-Les formes prescrites pour la demande du scrutin public sont observées pour celle du scrutin secret.
+Le député qui n'a pas prêté serment dans la quinzaine du jour où son élection a été déclarée valable est réputé démissionnaire.
 
-Les noms des signataires de la demande sont insérés au Moniteur.
+En cas d'absence, le serment peut être prêté par écrit, et doit être, en ce cas, adressé par le Député au Président du Corps Législatif dans le délai ci-dessus déterminé.
 
 ## Article 56
 
-En cas de scrutin secret, si l'appel nominal est réclamé, l'Assemblée prononce par assis et levé, sans débats.
+Après la vérification des pouvoirs, et sans attendre qu'il ait été statué sur les élections contestées ou ajournées, le Corps législatif élit parmi ses membres, pour la durée de la session, six secrétaires dont quatre, à tour de rôle, siègent au bureau pendant les séances publiques.
 
-L'appel nominal est fait par un des secrétaires; il est immédiatement suivi d'un réappel pour les représentants qui n'ont pas encore voté.
+L'élection a lieu en séance publique, au scrutin de liste et à la majorité absolue des suffrages.
+
+Après deux tours de scrutin, et en cas de ballottage, la majorité relative suffit.
+
+En cas d'égalité de suffrages, le plus âgé est nommé.
+
+Tout billet de ballottage qui contient moins de noms qu'il n'y a de nominations à faire est nul.
+
+Les secrétaires provisoires vérifient le nombre des votants; des scrutateurs tirés au sort dépouillent le scrutin, et le Président en proclame le résultat.
 
 ## Article 57
 
-- Il est procédé au scrutin dans les formes suivantes :
-
-Chaque représentant reçoit une boule blanche et une boule noire ; il dépose dans l'urne placée sur la tribune la boule qui exprime son vote ; il met dans une autre urne, placée sur le bureau des secrétaires, la boule dont il n'a pas fait l'usage. La boule blanche exprime l'adoption, la noire la non-adoption.
-
-Les secrètaires versent les boules dans une corbeille. Ils en font ostensiblement le compte, et séparent les boules blanches des noires.
-
-Le résultat de ce compte est arrêté par deux secrétaires au moins, et proclamé par le Président.
-
-Après avoir voté, chaque membre de l'Assemblée reprend sa place.
+Après l'élection des secrétaires, le Président fait connaître à l'Empereur que le Corps Législatif est constitué.
 
 ## Article 58
 
-- Les nominations en assemblée générale, dans les bureaux et commissions, se font au scrutin secret.
+Les démissions de députés sont adressées au Président du Corps Législatif, qui en envoie copie au Ministre d'État.
 
-En assemblée générale, le contrôle des votes se fait par le compte des boules que chaque votant dépose dans l'urne placée sur le bureau des secrétaires.
+Les lettres de démission sont inscrites, à leur date d'arrivée à la présidence du Corps Législatif, sur le livre de correspondance tenu au secrétariat général.
 
-Le dépouillement des scrutins de nomination a lieu par des scrutateurs désignés par le sort, au nombre de cinq pour chaque table de dépouillement.
+# CHAPITRE II Présentation, discussion, vote des projets de lois.
 
 ## Article 59
 
-- La présence de trois-cent soixante-dix membres, majorité absolue du nombre légal des représentants nécessaire pour la validité des votes de l'Assemblée.
-
-Le bureau constate le nombre des membres présents.
-
-La présence de trois cent soixante-seize membres est nécessaire pour la validité des votes de l'Assemblée.
-
-Le bureau constate le nombre des membres présents.
-
-Si le bureau n'est pas unanime, il est procédé au scrutin public.
+Les projets de lois présentés par l'Empereur sont apportés et lus au Corps Législatif par les représentants du Gouvernement désignés dans l'article 52, ou transmis, sur les ordres de l'Empereur, par le Ministre d'État, au Président du Corps Législatif, qui en donne communication en séance publique.
 
 ## Article 60
 
-Sur la demande de cinq membres l'Assemblée, par assis et levé, sans débats, décide si elle se formera en Comité secret.
-
-# CHAPITRE VI. Des projets de lois présentés à l'Assemblée.
+Les projets de lois sont imprimés, distribués et mis à l'ordre du jour des bureaux, qui les discutent et nomment au scrutin secret, à la majorité, une commission de neuf membres, chargée d'en faire le rapport.
 
 ## Article 61
 
-Les projets de lois présentés an nom du Gouvernement sont déposés par un des ministres sur le bureau de l'Assemblée, après lecture, s'il y a lieu.
-
-Ces projets sont imprimés avec l'exposé des motifs, et distribués.
-
-Ils sont transmis dans les bureaux par le Président, pour être discutés suivant la forme réglée au chapitre III.
-
-Les projets de lois portant demande de crédits supplémentaires ou extraordinaires et renfermant les énonciations prescrites à l'art. 3 de la loi du 16 mai 1851, sont déposés par le ministre des finances.
+Suivant la nature des projets à examiner, le Corps Législatif peut décider que les commissions à nommer par les bureaux seront de dix-huit membres au lieu de neuf.
 
 ## Article 62
 
-- Les rapports des commissions sont déposés sur le bureau de l'Assemblée, après lecture, s'il y a lieu. Le Président propose, et l'Assemblée fixe le jour de la discussion.
+Les projets de lois d'intérêt local et ceux pour lesquels l'urgence aura été déclarée sont envoyés à l'examen des bureaux aussitôt qu'ils auront été imprimés et distribués.
 
 ## Article 63
 
-- Les rapports, sauf les cas d'urgence, sont imprimés et distribués. La discussion ne peut s'ouvrir en assemblée générale, que vingt-quatre heures au moins après la distribution.
+Aucun membre du Corps Législatif faisant partie de deux commissions autres que les commissions chargées d'examiner les projets de lois d'intérêts communaux ou départementaux, ne peut être appelé à faire partie d'une troisième commission jusqu'à ce que l'une des deux premières ait nommé son rapporteur et que cette nomination ait été insérée au feuilleton des ordres du jour.
 
 ## Article 64
 
-Aucun projet de loi, sauf les cas d'urgence n'est voté définitivement qu'après trois délibérations, à des intervalles qui ne peuvent pas être moindres de cinq jours.
+Tout amendement provenant de l'initiative d'un ou plusieurs membres est remis au Président et transmis par lui à la commission.
 
-La première délibération porte spécialement sur l'ensemble du projet. L'Assemblée est consultée pour savoir si elle veut passer à la deuxième délibération.
-
-A la deuxième délibération, il est procédé au vote de chaque article, et des amendements qui s'y rapportent. L'Assemblée décide si elle doit passer à la troisième délibération.
-
-A la suite de la troisième délibération, qui comprend l'ensemble et les dispositions particulières du projet, il est procédé au vote définitif.
+Aucun amendement n'est reçu après que le projet de loi a été mis à l'ordre du jour de la séance publique.
 
 ## Article 65
 
-Les amendements sont rédigés par écrit, et remis au Président.
-
-L'Assemblée ne délibère sur aucun amendement, si, après avoir été développé, il n'est appuyé.
+- Les auteurs de l'amendement ont droit d'être entendus dans la commission.
 
 ## Article 66
 
-Tout amendement présenté, et non soumis au vote dans le cours de la séance, est imprimé et distribué avant la séance suivante.
+- Si l'amendement est adopté par la commission, elle en transmet la teneur au Président du Corps Législatif, qui le renvoie au Conseil d'État, et il est sursis an rapport de la commission jusqu'à ce que le Conseil d'Etat ait émis son avis.
 
 ## Article 67
 
-Tout amendement proposé pendant la deuxième délibération est renvoyé de droit à l'examen de la commission, si le rapporteur le demande.
+- La commission peut déléguer trois de ses membres pour faire connaître au Conseil d'Etat les motifs qui ont déterminé son vote. Le Président du Corps Législatif assiste, quand il le juge convenable, les délégués des commissions.
 
 ## Article 68
 
-Les amendements nouveaux présentés après la clôture de la seconde délibération doivent être communiqués à la commission, imprimés, distribués un jour au moins avant l'ouverture de la troisième.
+Si l'avis du Conseil d'État, transmis à la commission par l'intermédiaire du Président du Corps Législatif, est favorable, ou qu'une nouvelle rédaction admise au Conseil d'État soit adoptée par la commission, le texte du projet de loi à discuter en séance publique sera modifié conformément à la nouvelle rédaction adoptée.
+
+Si cet avis est défavorable ou que la nouvelle rédaction admise au Conseil d'Etat ne soit pas adoptée par la commission, l'amendement sera regardé comme non avenu.
 
 ## Article 69
 
-- S'il en est présenté dans le cours même de cette délibération, ils sont motivés sommairement à la tribune. L'Assemblée, consultée, décide, par assis et levé, sans débats, si elle les prends en considération ; dans ce cas, ils sont renvoyés à l'examen de la commission.
+Le rapport de la commission sur le projet de loi par elle examiné est déposé en séance publique; il en est donné lecture si la Chambre le décide. Ce rapport est imprimé et distribué vingt-quatre heures au moins avant la discussion, sauf le cas d'urgence déclaré par le Corps Législatif, sur la proposition du Président. Dans ce cas, il est donné lecture du rapport, et l'Assemblée fixe le moment de la discussion.
 
 ## Article 70
 
-- Si, après une des trois délibérations, le projet est repoussé, il ne peut être reproduit avant le délai de trois mois.
+A la séance fixée par l'ordre du jour, la discussion s'ouvre et porte d'abord sur l'ensemble de la loi, puis sur les divers articles.
+
+Avant de prononcer la clôture de la discussion, le Président consulte l'Assemblée. Si la parole est demandée contre la clôture, elle ne peut être accordée qu'à un seul orateur. S'il y a doute sur le vote de l'Assemblée, après une seconde épreuve, la discussion continue. La clôture de la discussion prononcée, la parole n'est plus accordée que sur la position de la question.
 
 ## Article 71
 
-- Les prescriptions relatives aux trois délibérations ne s'appliquent pas au budget des recettes et des dépenses, aux lois des comptes, aux lois portant demandes de crédits spéciaux, aux lois d'intérêt local. Pour le vote de ces lois, une seule délibération suffit ; elle a lieu suivant les formes déterminées par les art. 85, 86, 87 et 88 pour les cas où l'urgence a été déclarée.
+Il n'y a jamais lieu de délibérer sur la question de savoir si l'on passera à la discussion des articles ; mais les articles sont successivement mis aux voix par le Président.
 
-Néanmoins, s'il est présenté dans le cours de la délibération des amendements ou articles additionnels, ils sont soumis aux formalités prescrites par l'art. 69.
-
-S'ils sont pris en considération, ils doivent être imprimés et distribués. Ils ne peuvent être votés le jour même où ils ont été présentés.
+Le vote a lieu par assis et levé; si le Bureau déclare l'épreuve douteuse, il est procédé au scrutin public.
 
 ## Article 72
 
-- Le résultat des délibérations de l'Assemblée est proclamé par le Président en ces termes : l'Assemblée nationale a adopté, ou l'Assemblée nationale n'a pas adopté.
+Si, lors de la discussion en séance publique, le Corps Législatif prend en considération des amendements, conformément au deuxième paragraphe de l'art. 3 du sénatus-consulte du 18 juillet 1866, les amendements et l'article du projet de loi auquel ils se rapportent sont renvoyés à la commission. Chaque député peut alors, dans la forme prévue par les articles 64 et suivants du présent décret, présenter tel amendement qu'il juge convenable.
 
-## Article 72 bis
-
-- Lorsque l'Assemblée est saisie d'un projet de loi par lequel le Gouvernement, conformément à l'art. 83 de la Constitution, lui demande l'approbation d'un traité conclu avec une puissance étrangère, il n'est pas voté sur les articles du traité, et il ne peut être présenté d'amendements à son texte.
-
-Si, dans le cours des deux premières délibérations, il y a opposition à quelques-unes des clauses du traité, elle se produit sous forme de demande de renvoi à la commission, imprimée et distribuée au moins vingt-quatre heures à l'avance.
-
-Si, après débat, l'Assemblée prend en considération, elle prononce le renvoi.
-
-Lors de la troisième délibération, la commission fait un rapport d'ensemble, qui doit être imprimé et distribué sur les différentes clauses contestées et renvoyées à son examen. Elle conclut à l'adoption au rejet ou à l'ajournement du projet de loi.
-
-L'ajournement est motivé en ces termes :
-
-« L'Assemblée, appelant de nouveau l'attention du Gouvernement sur telle ou telle clause du traité (relater en entier les clauses sur lesquelles se fonde l'ajournement) surseoit à donner l'autorisation de ratifier. »
-
-Lorsque l'urgence a été déclarée, la commission présente son rapport sur les clauses renvoyées à son examen, après la clôture de la discussion sur les articles non contestés.
-
-Les dispositions de l'art. 70 ne sont pas applicables aux traités.
+Si la commission est d'avis qu'il y ait lieu de faire une proposition nouvelle, elle en transmet la teneur au Président du Corps Législatif, qui la renvoie au Conseil d'État. Il est alors procédé conformément aux articles 66 et suivants du présent décret, et le vote qui intervient au scrutin public est définitif.
 
 ## Article 73
 
-- Lorsqne: en vertu de l'art. 58 de la constitution, le Président de la République demande une nouvelle délibération de l'Assemblée, le message motivé est imprimé et distribué.
-
-L'Assemblée se réunit dans ses bureaux, et nomme une commission, sur le rapport de laquelle il est procédé à la nouvelle délibération.
-
-# CHAPITRE VII. Des propositions et des demandes d'interpellations.
+Dans le cours de la discussion, un article de loi peut être renvoyé à un nouvel examen de la commission. En cas de renvoi, l'article peut être amendé conformément aux règles prescrites par l'article précédent.
 
 ## Article 74
 
-- Toute proposition faite par un représentatnest formulée par écrit. Elle est remise au Président qui, après en avoir donné connaissance à l'Assemblée, la renvoie à l'examen de la commission spéciale pour les propositions.
+Après le vote sur les articles, il est procédé au vote sur l'ensemble du projet de loi.
+
+Le vote a lieu au scrutin public et à la majorité absolue.
+
+Le scrutin est dépouillé par les secrétaires et proclamé par le Président
+
+La présence de la majorité des députés est nécessaire pour la validité du vote.
+
+Si le nombre des votants n'atteint pas cette majorité, le Président déclare le scrutin nul et ordonne qu'il y soit procédé de nouveau.
+
+Les propositions de lois relatives à des intérêts communaux ou départementaux, qui ne donnent lieu à aucune réclamation, seront votées par assis et levé.
 
 ## Article 75
 
-- Dans les dix jours, cette commission présente un rapport sommaire de chacune des propositions renvoyées à son examen. Ce rapport conclut au rejet pur et simple ou à la prise en considération de la proposition.
-
-Néanmoins, lorsqu'elle aura reconnu qu'une proposition rentre dans les travaux d'une commission déjà chargée de l'examen d'une autre proposition ou d'un projet de loi, elle pourra, sur rapport verbal à l'Assemblée, en demander purement et simplement le renvoi à cette commission.
+Toutes les fois qu'il y a lieu de voter par assis et levé, il est procédé au scrutin public si dix membres au moins en font la demande.
 
 ## Article 76
 
-Au jour fixé pour la discussion, l'Assemblée délibère sur la prise en considération.
+Le Corps Législatif ne motive ni son acceptation ni son refus; sa décision ne s'exprime que par l'une de ces deux formules :
 
-Si la prise en considération est prononcée, il est donné suite à la proposition, selon les formes déterminées au chapitre VI à l'égard des projets de lois.
+Le Corps Législatif a adopté, ou Le Corps Législatif n'a pas adopté.
 
 ## Article 77
 
-L'auteur d'une proposition, même quand la discussion est ouverte, peut toujours la retirer. Mais si un autre membre la reprend, la discussion continue.
+La minute du projet de loi adopté par le Corps Législatif est signée par le Président et les secrétaires et déposée dans les archives.
+
+Une expédition, revêtue des mêmes signatures, est portée à l'Empereur par le Président.
+
+# CHAPITRE III Messages et proclamations adressés au Corps Législatif par l'Empereur.
 
 ## Article 78
 
-- Les propositions rejetées par l'Assemblée ne peuvent être représentées avant un délai de trois mois, si elles ont été prises en considération ; avant un délai de six mois, si elles ont été repoussées au premier vote.
+Les messages et proclamations que l'Empereur adresse au Corps Législatif sont apportés et lus en séance par les Ministres ou les Conseillers d'État commis à cet effet.
+
+Ces messages et proclamations ne peuvent être l'objet d'aucune discussion ni d'aucun vote, à moins qu'ils ne contiennent une proposition sur laquelle il doive être voté.
 
 ## Article 79
 
-- Tout représentant qui veut faire des interpellations en remet la demande écrite au Président.
+Les proclamations de l'Empereur portant ajournement, prorogation ou dissolution du Corps Législatif sont lues en séance publique, toute affaire cessante, et le Corps Législatif se sépare à l'instant.
 
-Cette demande explique sommairement l'objet des interpellations: le Président en donne lecture à l'Assemblée.
-
-Les interpellations de représentant à représentant sont interdites.
+# CHAPITRE IV Tenue des séances.
 
 ## Article 80
 
-- L'Assemblée après avoir entendu un des membres du Gouvernement fixe, par assis et levé, sans débats, le jour où les interpellations seront faites.
-
-Après les interpellations et la clôture de la discussion l'Assemblée reprend son ordre du jour.
+Le Président du Corps Législatif fait l'ouverture et annonce la clôture des séances. Il indique, à la fin de chacune, après avoir consulté l'Assemblée, l'heure d'ouverture de la séance suivante et l'ordre du jour, lequel sera affiché dans la salle. Cet ordre du jour est immédiatement envoyé au Ministre d'État, et le Président du Corps Législatif veille à ce que tous les avis et communications nécessaires lui soient transmis en temps utile.
 
 ## Article 81
 
-- Aucun ordre du jour motivé ne peut être présenté, s'il n'est rédigé par écrit et déposé sur le bureau du Président, qui en donne lecture.
-
-L'ordre du jour pur et simple, s'il est réclamé, a toujours la priorité.
+Aucun membre ne peut parler qu'après avoir demandé, de sa place, la parole au Président et l'avoir obtenue. Il parle à la tribune, à moins que le Président ne l'autorise à parler de sa place.
 
 ## Article 82
 
-- Si l'ordre du jour pur et simple est écarté, l'Assemblée décide, par assis et levé, sans débats, si elle renverra dans les bureaux l'examen de l'ordre du jour motivé.
-
-En cas de renvoi dans les bureaux, l'Assemblée, sur le rapport d'une commission, statue comme en matière d'urgence.
-
-# CHAPITRE VIII. De la déclaration d'urgence.
+Les représentants du Gouvernement désignés dans l'art. 52 et les Conseillers d'État chargés de soutenir la discussion des projets de lois ne sont point assujettis au tour d'inscription et obtiennent la parole quand ils la réclament.
 
 ## Article 83
 
-- Lors de la présentation d'un projet de loi ou d'une proposition, l'urgence peut être demandée.
+Le membre rappelé à l'ordre pour avoir interrompu ne peut obtenir la parole.
 
-Elle peut l'être par le Gouvernement, par l'auteur de la proposition, par tout membre de l'Assemblée.
+Sî l'orateur s'écarte de la question, le Président l'y rappelle. Le Président ne peut accorder la parole sur le rappel à la question.
 
-## Article 84
+Si l'orateur rappelé deux fois à la question, dans le même discours, continue à s'en écarter, le Président consulte l'Assemblée pour savoir si la parole ne sera pas interdite à l'orateur pour le reste de la séance sur la même question. La décision a lieu par assis et levé, sans débats.
 
-La demande ayant pour objet de faire déclarer l'urgence est précédée d'un exposé des motifs. L'Assemblée, consultée, décide s'il y a lieu de donner suite à la demande d'urgence.
+Aht. 84.—Le Président rappelle seul à l'ordre l'orateur qui s'en écarte. La parole est accordée à celui qui, rappelé à l'ordre, s'y est soumis et demande à se justifier : il obtient seul la parole.
+
+Lorsqu'un orateur a été rappelé deux fois à l'ordre dans le même discours, le Président, après lui avoir accordé la parole pour se justifier, s'il le demande, consulte l'Assemblée pour savoir si la parole ne sera pas interdite à l'orateur pour le reste de la séance, sur la même question. La décision a lieu par assis et levé et sans débats.
 
 ## Article 85
 
-Si la demande d'urgence est prise en considération, l'Assemblée renvoie dans les bureaux, et fixe le moment où le rapport sur l'urgence sera présenté.
-
-Sur ce rapport, si l'Assemblée reconnaît l'urgence, elle le déclare, et passe immédiatement à la délibération.
-
-Elle peut aussi prononcer le renvoi, soit à la même commission soit aux bureaux. Dans ce cas, elle fixe le moment où le rapport lui sera présenté et où la discussion s'ouvrira.
+Toute personnalité, tout signe d'approbation ou d'improbation sont interdits.
 
 ## Article 86
 
-La délibération porte d'abord sur l'ensemble du projet ou de la proposition.
-
-Le Président consulte l'Assemblée pour savoir si elle entend passer à la discussion des articles.
+Si un membre du Corps Législatif trouble l'ordre, il y est rappelé nominativement par le Président; s'il persiste, le Président ordonne d'inscrire au procès-verbal le rappel à l'ordre. En cas de résistance, l'Assemblée, sur la proposition du Président, prononce, sans débats, l'exclusion de la salle des séances pendant un temps qui ne peut excéder cinq jours. L'affiche de cette décision, dans le département où a été élu le membre qu'elle concerne peut être ordonnée.
 
 ## Article 87
 
-- Si l'Assemblée refuse de passer à la discussion des articles, le projet ou la proposition sont rejetés.
-
-Dans le cas contraire, la discussion continue, et porte exclusivement sur chacun des articles et sur les amendements qui s'y rapportent.
+Si l'Assemblée devient tumultueuse, et si le Président ne peut la calmer, il se couvre- Si le trouble continue, il annonce qu'il va suspendre la séance. Si le calme ne se rétablit pas, il suspend la séance pendant une heure, durant laquelle les députés se réunissent dans leurs bureaux respectifs. L'heure expirée, la séance est reprise; mais si le tumulte renaît, le Président lève la séance et la renvoie au lendemain.
 
 ## Article 88
 
-Après le vote des articles, il est procédé au vote sur l'ensemble de la proposition.
+Les réclamations d'ordre du jour, de priorité et de rappel au règlement ont la préférence sur la question principale et en suspendent la discussion.
 
-Toutefois, l'Assemblée, avant ce dernier vote, peut renvoyer le projet à la commission, afin qu'il soit révisé et coordonné. Ce renvoi est de droit, si la commission le demande.
+Les votes d'ordre du jour ne sont jamais motivés.
 
-La commission présente sans délai son travail. Lecture en est donnée, et la discussion qui s'ouvre porte exclusivement sur la rédaction.
+La question préalable, c'est-à-dire celle qu'il n'y a lieu à délibérer, est mise aux voix avant la question principale. Elle ne peut être demandée sur les propositions faites par l'Empereur.
 
 ## Article 89
 
-Si l'Assemblée s'est prononcée contre l'urgence, le projet ou la proposition est examiné et voté dans les formes ordinaires.
-
-# CHAPITRE IX Des pétitions.
+Les demandes de comité secret, autorisées par l'article 41 de la Constitution, sont signées par les membres qui les font, et remises aux mains du Président, qui en donne lecture, y fait droit et les fait consigner au procès- verbal.
 
 ## Article 90
 
-Toute pétition doit être rédigée par écrit et signée; elle doit, en outre, indiquer la demeure du pétitionnaire ou de l'un d'eux si elle est revêtue de plusieurs signatures.
+Lorsque l'autorisation exigée par l'article 11 de la loi du 2 février 1852 sera demandée, le Président indiquera seulement l'objet de la demande et renverra immédiatement dans les bureaux, qui nommeront une commission pour examiner s'il y a lieu d'autoriser les poursuites.
 
-Les signatures des pétitionnaires doivent être légalisées.
-
-Si la légalisation était refusée, le pétitionnaire ferait mention de ce refus à la suite de la pétition.
-
-Les pétitions doivent être adressées au Président de l'Assemblée.
-
-Elles peuvent également être déposées par un représentant, qui fait, en marge, mention du dépôt, et signe cette mention.
-
-Une pétition apportée ou transmise par un rassemblement formé sur la voie publique, ne pourra être reçue par le Président, ni déposée sur le bureau.
+# CHAPITRE V Procès-verbaux et comptes-rendus.
 
 ## Article 91
 
-- Les pétitions, dans l'ordre de leur arrivée, sont inscrites sur un rôle général contenant le numéro d'ordre de la pétition, le nom et la demeure du pétitionnaire, ainsi que l'indication sommaire de l'objet de sa demande, et, lorsqu'elle n'aura pas été adressée directement au Président, le nom du représentant qui l'aura déposée.
-
-Ce rôle est imprimé et distribué à l'Assemblée.
+La rédaction des procès-verbaux des séances, la reproduction in extenso des débats et les comptes rendus prescrits par le sénatus-consulte du 2 février 1861 sont placés sous la haute direction du Président du Corps Législatif et confiés à des rédacteurs spéciaux nommés par lui et qu'il peut révoquer.
 
 ## Article 92
 
-Les pétitions inscrites sur le rôle sont renvoyées à la commission des pétitions.
-
-Néanmoins, celles relatives à une proposition actuellement soumise à l'examen d'une commission spéciale sont directement renvoyées à cette commission par le président de l'Assemblée.
-
-Ce renvoi peut être également ordonné par la commission des pétitions.
-
-Tout membre de l'Assemblée pourra prendre communication des pétitions en s'adressant au Président de la commission chargée de leur examen.
+Le procès-verbal de chaque séance constate seulement les opérations et les votes du Corps Législatif. Il est signé du Président et lu par l'un des secrétaires à la séance suivante.
 
 ## Article 93
 
-- Chaque pétition est, dans la commission, l'objet d'un rapport et d'une résolution.
-
-Avis est donné au pétitionnaire de la résolution adoptée ou du renvoi prononcé, avec l'indication du numéro d'ordre de sa pétition.
-
-La commission rapporte, en séance publique, les pétitions sur lesquelles elles conclut au renvoi à un Ministre et celles qu'elle juge utile de soumettre à l'examen de l'Assemblée.
-
-La priorité ou l'urgence peut être demandée pour l'examen d'une pétition ; l'Assemblée décide, dans ce cas, par assis et levé, sans débats.
+Les procès-verbaux des séances, après leur approbation par l'Assemblée, sont transcrits sur deux registres signés par le Président.
 
 ## Article 94
 
-Un feuilleton, distribué chaque semaine, aux membres de l'Assemblée, mentionne le nom et le domicile du pétitionnaire, l'indication sommaire de l'objet de la pétition, le nom du rapporteur, enfin la résolution adoptée par la commission avec le résumé succinct de ses motifs.
-
-Toutefois, la commission peut, lorsqu'à l'unanimité des membres présents elle l'a jugé convenable, ne faire figurer la pétition au feuilleton que par son numéro d'ordre, et le nom de son auteur avec indication de la résolution adoptée.
-
-Si, dans le mois de la distribution du feuilleton, un représentant demande le rapport d'une pétition en séance publique, ce rapport sera fait de plein droit.
-
-Cette demande devra être adressée par écrit au Président de l'Assemblée.
+Les comptes rendus prescrits par le sénatus-consulte du 2 février 1861 contiennent les noms des membres qui ont pris la parole dans la séance et le résumé de leurs opinions.
 
 ## Article 95
 
-- Après l'expiration du délai ci-dessus indiqué, les résolutions de la commission deviennent définitives à l'égard des pétitions qui ne doivent pas être l'objet d'un rapport public et sont mentionnées au Journal officiel.
-
-Les commissions spéciales auxquelles des pétitions auront été renvoyées devront en faire mention dans leurs rapports.
-
-Dans un délai de six mois, les ministres feront connaître, par une mention portée au feuilleton distribué aux membres de l'Assemblée, la suite qu'ils ont donnée aux, pétitions qui leur ont été respectivement renvoyées.
-
-# CHAPITRE X Des congés.
+Un arrêté spécial du Président du Corps Législatif règle la manière dont les comptes rendus des séances seront mis à la disposition des journaux, conformément aux prescriptions du sénatus-consulte du 2 février 1861.
 
 ## Article 96
 
--Nul représentant ne peut s'absenter sans un congé de l'Assemblée.
+- Tout membre peut faire imprimer et distribuer, à ses frais, le discours qu'il aura prononcé et qui aura été reproduit par la sténographie officielle, après en avoir obtenu l'autorisation d'une commission composée du Président du Corps Législatif et des Présidents de chaque bureau.
+
+Cette autorisation doit être approuvée par le Corps Législatif.
+
+L'impression et la distribution faites en contravention des dispositions qui précèdent seront punies d'une amende de 500 à 5,000 francs contre les imprimeurs, et de 5 à 500 francs contre les distributeurs.
+
+# CHAPITRE VI Des demandes d'interpellations.
 
 ## Article 97
 
-- Le Président peut néanmoins, en cas d'urgence, accorder un congé ; il en rend compte à l'Assemblée.
+Toute demande d'interpellations au Gouvernement est formulée par écrit et signée de cinq membres. Elle explique sommairement l'objet des interpellations ; elle est remise au Président du Corps Législatif, qui la communique au Ministre d'État et la renvoie à l'examen des bureaux, qu'il convoque à cet effet au plus tard dans les trois jours qui suivent la remise de la demande.
 
 ## Article 98
 
-Les demandes de congés sont renvoyées à l'examen d'une commission, qui donne son avis sur chaque demande.
+Si quatre bureaux du Corps Législatif émettent l'avis que les interpellations peuvent avoir lieu, le Président donne lecture de la demande d'interpellations en séance publique, et le Corps Législatif fixe le jour de la discussion.
 
 ## Article 99
 
-Cette commission, composée de quinze membres, est renouvelée chaque mois dans les bureaux.
+Après la clôture de la discussion, le Corps Législatif se prononce sur l'ordre du jour pur et simple ou le renvoi au Gouvernement.
 
 ## Article 100
 
--En soumettant les demandes de congés à l'Assemblée, le président fera connaître l'avis de la commission sur chaque demande.
+L'ordre du jour pur et simple a toujours la priorité.
 
 ## Article 101
 
-L'indemnité cesse de droit pour tout représentant absent sans congé, ou qui prolonge son absence au delà du terme du congé qui lui a été accordé.
+Si l'ordre du jour pur et simple est écarté, le Corps Législatif vote sur le renvoi au Gouvernement, et ce vote clôt la délibération.
+
+Le renvoi au Gouvernement ne peut être prononcé que dans les termes suivants :
+
+Le Corps Législatif appelle l'attention du Gouvernement sur l'objet des interpellations.
+
+Dans ce cas, un extrait de la délibération est transmis au Ministre d'État.
+
+# CHAPITRE VII Installation et administration intérieure.
 
 ## Article 102
 
-Est réputé absent sans congé le représentant qui, pendant trois séances consécutives, n'aura point répondu aux appels nominaux, ou n'aura pris part ni aux scrutins publics ni aux discussions de tribune.
-
-L'absence est constatée à la questure par le relevé des appels nominaux et des votes publiés au Moniteur.
-
-A défaut de motifs valables qui justifient son abstention, le représentant est inscrit nominativement au Moniteur comme absent sans congé.
-
-Les réclamations sont portées au bureaui de l'Assemblée, qui prononce après avoir pris l'avis de la commission des congés.
-
-# CHAPITRE XI De la comptabilité.
+Le palais Bourbon et l'hôtel de la Présidence, avec leurs mobilier et dépendances, restent affectés au Corps Législatif.
 
 ## Article 103
 
-Une commission est chargée de l'examen de la comptabilité des fonds alloués pour les dépenses administratives de l'Assemblée.
-
-Cette commission, composée de quinze membres, nommée par les bureaux pour la durée d'un exercice.
+Le Président du Corps Législatif a la haute administration de ce Corps; il habite le Palais.
 
 ## Article 104
 
-Elle vérifie et apure les comptes, même les comptes antérieurs non réglés.
-
-Elle fait un recolement général du mobilier appartenant à l'Assemblée.
-
-Elle dresse le budget de l'Assemblée, et le soumet à son approbation.
-
-Les dépenses de l'Assemblée sont réglées par exercice comme le budget de l'Etat.
+Il règle, par des arrêtés spéciaux, l'organisation de tous les services et l'emploi des fonds affectés aux dépenses du Corps Législatif.
 
 ## Article 105
 
-- A la fin de chaque exercice, la commission de comptabilité rend compte à l'Assemblée de l'exécution du mandat qui lui a été confié.
+Il est assisté de deux questeurs nommés pour l'année par l'Empereur.
+
+Les Questeurs ordonnancent, conformément aux arrêtés pris par le Président et sur la délégation de crédits faite par le Ministre des Finances, les dépenses du personnel et du matériel. Le Président peut leur déléguer tout ou partie de ses pouvoirs administratifs. Les Questeurs habitent au Palais Législatif et reçoivent un traitement.
 
 ## Article 106
 
-- Un des questeurs de l'Assemblée est spécialement chargé de la comptabilité de ses dépenses.
-
-Pour qu'ils soient valablement payables par le trésorier de l'Assemblée, les mandats délivrés pour l'acquittement des dépenses doivent être imputables sur un crédit ouvert au budget, accompagnés des pièces exigées par le règlement de comptabilité, et revêtus de la signature du questeur délégué.
-
-# CHAPITRE XII. De la police intérieure et extérieure de l'Assemblée nationale. — Des droits du Président.
+Le Président du Corps Législatif pourvoit à tous les emplois et prononce les révocations quand il y a lieu.
 
 ## Article 107
 
-La police de l'Assemblée est exercée en son nom par le Président. Il habite dans l'intérieur du palais législatif.
+Une commission de neuf membres nommés par les bureaux à chaque session annuelle procède à l'apurement et au jugement des comptes du trésorier du Corps Législatif et transmet son arrêt au Président de ce Corps, qui en assure l'exécution.
+
+# CHAPITRE VIII De la police intérieure du Corps Législatif.
 
 ## Article 108
 
-Nul étranger ne peut, sous aucun prétexte, s'introduire dans l'enceinte où siègent les membres de l'Assemblée.
+- Le Président du Corps Législatif a la police des séances et celle de l'enceinte du Palais.
 
 ## Article 109
 
-Pendant tout le cours de la séance, les personnes placées dans les tribunes se tiennent assises, découvertes, et en silence.
+Nul étranger ne peut, sons aucun prétexte, s'introduira dans l'enceinte où siègent les députés.
 
 ## Article 110
 
-Toute personne qui donne des marques d'approbation ou d'improbation est sur-le-champ exclue des tribunes par les huissiers chargés d'y maintenir l'ordre.
+Toute personne qui donne des marques d'approbation ou d'improbation, ou qui trouble l'ordre, est sur-le-champ exclue des tribunes par les huissiers et traduite, s'il y a lieu, devant l'autorité compétente.
+
+# CHAPITRE IX Congés.
 
 ## Article 111
 
-Tout individu qui trouble les délibéra tions est traduit sans délai, s'il y a lieu, devant l'autorité compétente.
+Aucun membre du Corps Législatif ne peut s'absenter sans obtenir un congé de l'Assemblée.
+
+Les passe-ports sont signés par le Président du Corps Législatif, qui, sauf les cas d'urgence, ne peut les délivrer qu'après le congé obtenu.
+
+# CHAPITRE X dispositions générales.
 
 ## Article 112
 
-Le Président est chargé de veiller à la sûreté intérieure et extérieure de l'Assemblée nationale.
-
-A cet effet, il exerce, au nom de l'Assemblée, le droit conféré au pouvoir législatif par l'article 32 de la Constitution, de fixer l'importance des forces militaires établies pour sa sûreté, et d'en disposer.
-
-# CHAPITRE XIII De la discipline.
+La dotation du Corps Législatif est inscrite au budget immédiatement après celle du Sénat.
 
 ## Article 113
 
-- Les peines disciplinaires applicables aux membres de l'Assemblée sont:
+Le Président pourvoit, par des arrêtés réglementaires, à tous les détails de la police et de l'administration du Corps Législatif.
 
-Le rappel à l'ordre,
-
-Le rappel à l'ordre avec inscription au procès-verbal,
-
-La censure,
-
-La censure avec exclusion temporaire du lieu des séances.
+# TITRE IV Garde militaire du Sénat et du Corps Législatif.
 
 ## Article 114
 
-Est rappelé à l'ordre tout orateur qui s'en! écarte, tout membre qui trouble l'ordre par une des infractions au règlement prévues dans l'article 38, ou de toute antre manière.
+La garde militaire du Sénat et du Corps Législatif est sous les ordres du Ministre de la Guerre, qui s'entend à ce sujet avec le Président du Sénat et avec le Président du Corps Législatif.
+
+Pendant la session, une garde d'honneur rend les honneurs militaires aux présidents de ces deux Corps lorsqu'ils se rendent aux séances.
 
 ## Article 115
 
-- Est rappelé à l'ordre, avec inscription au procès-verbal tout représentant qui, dans les trente jours, aura été deux fois rappelé à l'ordre.
+Le décret du 3 février 1861 est et demeure abrogé.
+
+Sont pareillement abrogées les dispositions des décrets antérieurs contraires au présent décret.
 
 ## Article 116
 
-- Le rappel à l'ordre, avec inscription au procès-verbal, emporte de plein droit la privation pendant quinze jours de moitié de l'indemnité allouée au représentant.
-
-## Article 117
-
-Le Président seul rappelle à l'ordre. La parole est accordée à l'orateur qui rappelé à l'ordre se soumet à l'autorité du Président et demande à se justifier.
-
-Tout membre qui, n'étant pas autorisé à parler, s'est fait rappeler à l'ordre, n'obtient la parole pour se justifier qu'à la fin de la séance, à moins que le Président n'en décide autrement.
-
-Si le rappel à l'ordre est maintenu par le Président, il en est tenu note par les secrétaires.
-
-## Article 118
-
-Lorsqu'un orateur a été rappelé deux fois à l'ordre dans la même séance, l'Assemblée peut, sur la proposition du Président, lui interdire la parole pour le reste de la séance.
-
-L'Assemblée prononce par assis et levé, sans débats.
-
-## Article 119
-
-La censure est prononcée contre :
-
-1° Tout membre qui, après le rappel à l'ordre avec inscription au procès-verbal, ne sera pas rentré dans le devoir ;
-
-2° Tout membre qui, dans l'espace de trente jours, aura encouru trois fois le rappel à l'ordre ;
-
-3° Tout membre qui, dans l'Assemblée, aura donné le signal d'une scène tumultueuse ou d'une abstention collective de prendre part aux travaux législatifs ;
-
-4° Tout représentant' qui aura adressé à un ou plusieurs de ses collègues des injures, provocations ou menaces.
-
-## Article 120
-
-- La censure avec exclusion temporaire du lieu des séances est prononcée contre tout membre :
-
-1° Qui aura résisté à la censure simple ;
-
-2° Qui aura, en séance publique, fait appel à la violence ou provoque à la guerre civile ;
-
-3° Qui se sera rendu coupable d'outrages envers l'Assemblée ou une partie de l'Assemblée, ou envers le Président.
-
-## Article 21
-
-La censure avec exclusion temporaire impose au membre contre lequel elle a été prononcée l'obligation de sortir immédiatement de l'Assemblée, et de s'abstenir d'y reparaître pendant les trois séances suivantes.
-
-En cas de désobéissance du représentant à l'injonction qui lui est faite par le Président de sortir de l'Assemblée la séance est levée ; elle peut être reprise.
-
-## Article 122
-
-- Si le membre reparaît à l'Assemblée avant l'expiration du délai fixé dans l'article précédent, sa pr ésence est constatée par le bureau. Le Président lève la séance, et, sur son ordre, le représentant est arrêté et conduit dans un local préparé à cet effet par les soins des questeurs, ou il garde les arrêts pendant trois jours.
-
-## Article 123
-
-- La censure simple et la censure avec exclusion temporaire sont prononcées par l'Assemblée, sans débats, et par assis et levé, sur la proposition du Président.
-
-Le représentant contre qui l'une ou l'autre de ces peines disciplinaires est demandée, a toujours le droit d'être entendu, ou de faire entendre, en son nom, un de ses collègues.
-
-La décision de l'Assemblée prononçant soit la censure simple, soit la censure avec exclusion temporaire, est inscrite au procès-verbal.
-
-## Article 124
-
-La censure simple et la censure avec exclusion temporaire emportent de droit :
-
-1° La privation pendant un mois de moitié de l'indemnité allouée au représentant ;
-
-2° L'impression et l'affiche à mille exemplaires, aux frais du représentant, de l'extrait du procès-verbal mentionnant la censure.
-
-Les affiches seront apposées dans toutes les communes du département par lequel le représentant a été élu.
-
-## Article 125
-
-Si l'Assemblée devient tumultueuse, et si le Président ne peut parvenir à y rétablir le calme, il annonce qu'il va suspendre la séance.
-
-Après un second avertissement demeuré sans effet, il se couvre, et la séance est suspendue pendant une demi-heure.
-
-Les représentants sont tenus de se retirer dans leurs bureaux respectifs. — La demi-heure expirée, la séance et la discussion sont reprises de droit.
-
-Si le tumulte se produit de nouveau, le Président, après avoir averti l'Assemblée, peut prononcer la clôture de la discussion.
-
-Il est immédiatement procédé au vote, s'il y a lieu.
-
-## Article 126
-
-- Si un délit vient à être commis dans l'enceinte du palais législatif par un représentant, toute délibération est suspendue.
-
-Le Président porte le fait à la connaissance de l'Assemblée, séance tenante.
-
-Le représentant est admis à s'expliquer, s'il le demande. Sur l'ordre du Président, il est tenu de quitter la salle des séances et de se rendre dans le local indiqué à l'article 122.
-
-En cas de résistance du représentant, ou de tumulte dans l'Assemblée, le Président lève à l'instant la séance.
-
-Le Bureau informe le Procureur général qu'un délit vient d'être commis dans le palais de l'Assemblée nationale.
-
-# CHAPITRE XIV DISPOSITIONS DIVERSES (Députéations. - Insignes. - Apostilles. — Règlement intérieur).
-
-## Article 127
-
-- Les députations sont nommées par la voie du sort. Le nombre des membres qui les composent est déterminé par l'Assemblée.
-
-## Article 128
-
-- Un vice-président et deux secrétaires font nécessairement partie des députations.
-
-## Article 129
-
-- Les insignes des représentants consistent en un ruban rouge, à liseré bleu et blanc, orné des faisceaux de la République surmontés de la main de justice, et en une écharpe tricolore à franges d'or, en sautoir.
-
-## Article 130
-
-- L'Assemblée nationale interdit formellement à ses membres toutes apostilles, recommandations ou sollicitations concernant des intérêts privés.
-
-## Article 131
-
-- Un règlement intérieur, arrêté par le bureau de l'Assemblée, déterminera les règles relatives à la tenue des procès-verbaux et au service intérieur, les attributions respectives des divers officiers et agents de l'Assemblée, et le mode de leur nomination. 
+Notre Ministre d'État est chargé de l'exécution du présent décret. 
