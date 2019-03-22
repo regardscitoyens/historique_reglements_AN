@@ -56,11 +56,19 @@ Le Sénat décide immédiatement, par assis et levé, s'il est nécessaire de re
 
 ## Article 10
 
-Le Sénat, n'ayant à statuer que sur la promulgation, aucune autre question que la question constitutionnelle ne peut être discutée, et le vote du Sénat ne comporte la présentation d'aucun amendement.
+Au jour indiqué pour la délibération en séance générale d'une loi votée par le Corps Législatif, le Sénat statue d'abord sur la question de savoir s'il y a lieu de soumettre la loi à nouvelle délibération du Corps Législatif.
+
+En cas d'affirmative, il se prononce sur la question d'urgence et il formule son opinion pur uns résolution motivée.
+
+En cas de négative, il vote sur la question de savoir s'il y a lieu de s'opposer à la promulgation.
+
+Lorsque la discussion porte sur une loi adoptée sans changement par le Corps Législatif aprés une seconde délibération, le Sénat vote uniquement sur la question constitutionnelle.
+
+Le vote du Sénat ne comporte la présentation ou l'adoption d aucun amendement à la loi.
 
 ## Article 11
 
-Au jour indiqué pour la délibération en séance générale, le Sénat, après la clôture de la discussion prononcée par le Président, vote sur la question de savoir s'il y a lieu de s'opposer à la promulgation.
+Le Sénat statue, soit sur un rapport de la commission à laquelle l'examen de la loi a été renvoyé , soit sur la proposition d'un sénateur.
 
 ## Article 12
 
@@ -74,7 +82,11 @@ Le vote est recensé par le Secrétaire du Sénat, assisté de deux Secrétaires
 
 ## Article 14
 
-Le Président du Sénat proclame en ces termes le résultat du scrutin : Le Sénat s'oppose, ou le Sénat ne s'oppose pas à la promulgation.
+Si le renvoi de la loi à une nouvelle délibération du Corps Législatif est adopté, le Président proclame en ces termes le résultat du scrutin : « Le Sénat déclare qu'il y a lieu de soumettre la loi à une nouvelle délibération.
+
+Si l'urgence a été votée par le Sénat, le Président la proclame en ces termes : « II y a urgence. »
+
+Si le renvoi n'est pas demandé ou s'il n'est pas adopté, ou s'il s'agit d'une loi adoptée sans changement par le Corps Législatif après une seconde délibération, le président proclame, en ces termes, le résultat du scrutin : « Le Sénat s'oppose ou ne s'oppose pas à la promulgation. »
 
 ## Article 15
 
@@ -209,8 +221,6 @@ Si la question préalable est admise, le Président prononce qu'il n'y a lieu à
 Si la question préalable n'est pas admise ou si l'ordre du jour n'est pas adopté, le résultat de la délibération est transmis au Ministre d'Etat par le Président du Sénat.
 
 Dans le cas où une pétition rapportée serait reconnue avoir pour objet une modification ou une interprétation de la Constitution, le renvoi aux bureaux est prononcé par le Président du Sénat sur la demande du Gouvernement ou d'un Sénateur.
-
-Une pétition ayant pour objet une modification quelconque ou une interprétation de la Constitution ne peut être rapportée en séance générale que si l'examen en a été autorisé par trois au moins des cinq bureaux du Sénat.
 
 # CHAPITRE VIII Proclamations de l'Empereur au Sénat.
 
