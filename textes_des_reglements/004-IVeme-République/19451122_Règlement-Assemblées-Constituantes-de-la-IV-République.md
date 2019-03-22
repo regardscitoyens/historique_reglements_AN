@@ -290,7 +290,7 @@ Lorsqu'un projet ou une proposition a été l'objet d'un renvoi pour avis, la co
 
 Dans les huit jours qui suivent la distribution d'un projet ou d'une proposition ou la disjonction d'un amendement, la commission désigne un Rapporteur.
 
-Sauf dans le cas de nouvelle délibération prévu à l'article 23, le rapport doit être déposé, imprimé et distribué dans le délai fixé par l'Assemblée et, au plus~ ~tard, dans le mois suivant la distribution du projet ou de la proposition ou la disjonction de l'amendement.
+Sauf dans le cas de nouvelle délibération prévu à l'article 23, le rapport doit être déposé, imprimé et distribué dans le délai fixé par l'Assemblée et, au plus tard, dans le mois suivant la distribution du projet ou de la proposition ou la disjonction de l'amendement.
 
 En cas d'urgence, le rapport est publié au Journal officiel.
 
