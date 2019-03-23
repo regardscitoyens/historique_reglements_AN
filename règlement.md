@@ -18,9 +18,15 @@ Lorsque l'auteur d'une protestation a annoncé l'envoi de pièces justificatives
 
 ## Article 3
 
-La Chambre prononce sur la validité des élections, et le Président proclame le nom des députés dont les pouvoirs ont été déclarés valides.
+La Chambre prononce sur la validité des élections et le Président proclame le nom des députés dont les pouvoirs ont été déclarés valides.
 
 Toutes les vérifications d'élection doivent être inscrites à l'ordre du jour et les rapports les concernant publiés à la suite du compte rendu in extenso avant que la Chambre soit appelée à statuer.
+
+Lorsque le rapport du Bureau compétent est favorable, la validation d'un Député ne peut être retirée de l'ordre du jour de la Chambre que sur demande du Président ou du Rapporteur du Bureau compétent ou sur une demande signée par cinquante Députés. Les protestataires ayant désigné l'un d'eux, celui-ci sera entendu par la commission prévue à l'article premier et, en cas de désaccord, par le Bureau compétent. Si le désaccord persiste, le débat sera porté devant la Chambre.
+
+## Article 3 bis
+
+Quand la Chambre aura ordonné une enquête sur une élection contestée, le Député enquêté désignera, pour être adjoint aux onze commissaires nommés par les Bureaux, un membre de la Chambre qui fera partie de la commission avec voix consultative seulement.
 
 ## Article 4
 
@@ -36,7 +42,7 @@ Tout député dont les pouvoirs ont été vérifiés peut se démettre de ses fo
 
 La démission donnée par un député avant la vérification de ses pouvoirs ne dessaisit par la Chambre des Députés du droit de procéder à cette vérification.
 
-Les démissions sont adressées au Président de la Chambre qui en envoie immédiatement copie au Ministre de l'Intérieur.
+En dehors des démissions d'offices édictées par les lois sur les incompatibilités parlementaires, les démissions sont adressées au Président qui, après en avoir donné connaissance à la Chambre dans la plus prochaine séance, en envoie immédiatement copie au Ministre de l'Intérieur.
 
 ## Article 6
 
@@ -50,15 +56,25 @@ A l'ouverture de la première séance de chaque session ordinaire, le plus âgé
 
 ## Article 8
 
-Après l'installation du Président d'âge, et, si l'on est au début de la législature, après que les pouvoirs de la moitié plus un des membres de la Chambre ont été vérifiés, il est procédé immédiatement, en séance publique, et à la majorité absolue, à la nomination du Bureau définitif, composé d'un Président, de quatre Vice-Présidents, de huit Secrétaires et trois Questeurs.
+Après l'installation du Président d'âge, et, si l'on est au début de la législature, après que les pouvoirs de la moitié plus un des membres de la Chambre ont été vérifiés, il est procédé immédiatement, en séance publique, à la nomination du Bureau définitif, composé d'un Président, de quatre Vice-Présidents, de douze Secrétaires et trois Questeurs.
 
 Les Vice-présidents, les Secrétaires et les Questeurs sont nommés au scrutin de liste. Le scrutin a lieu séparément pour chacune de ces fonctions.
 
 Pour les élections prévues au paragraphe précédent, la Chambre peut décider qu'il y sera procédé conformément aux dispositions de l'article 79. En cas de renouvellement intégral du Bureau, cette décision doit être prise avant l'ouverture de la session ordinaire ; elle n'est pas applicable au début d'une législature.
 
-Après deux tours de scrutin, et en cas de ballottage, la majorité relative suffit.
+Seuls pourront être placés dans la salle de vote, sur les tables disposées à cet effet, les bulletins ayant fait l'objet d'un dépôt au Secrétariat général de la Chambre.
 
-S'il y a égalité de suffrages, le plus âgé est nommé.
+Les deux exemplaires ayant servi à opérer ce dépôt porteront le visa du Député ou du groupe ayant présenté la ou les candidatures. L'un de ces exemplaires sera affiché aux abords de la salle de vote.
+
+Les bulletins mis à la disposition des Députés ne devront pas porter plus de noms qu'il n'y a, pour chaque scrutin, de postes à pourvoir.
+
+Au premier et au deuxième tour de scrutin sont élus, dans l'ordre des suffrages, les candidats ayant obtenu la majorité absolue.
+
+Toutefois si, pour un ou plusieurs sièges, des candidats en nombre supérieur au nombre des sièges à pourvoir ont obtenu la majorité absolue et le même nombre de suffrages, il y a lieu à un nouveau scrutin pour lesdits sièges.
+
+Au troisième tour, la majorité relative suffit.
+
+En cas d'égalité de suffrages, le plus âgé est élu
 
 Des scrutateurs tirés au sort dépouillent le scrutin, et le doyen d'âge en proclame le résultat.
 
@@ -74,7 +90,7 @@ Après l'élection du Bureau définitif, le Président fait connaître au Sénat
 
 ## Article 11
 
-Au début de chaque législature et de chaque session ordinaire, la Chambre des Députés nomme vingt grandes commissions permanentes, sans préjudice des autres commissions spéciales ou permanentes dont elle pourra décider la constitution. Toutefois, les grandes commissions permanentes nommées au début de la session ordinaire de l'année qui précède l'expiration des pouvoirs de la Chambre resteront en fonctions jusqu'à la date fixée pour cette expiration.
+Au début de chaque législature et de chaque année au mois de juin, la Chambre des Députés nomme vingt grandes commissions permanentes, sans préjudice des autres commissions spéciales ou permanentes dont elle pourra décider la constitution.
 
 Ces commissions prennent les dénominations suivantes :
 
@@ -82,41 +98,41 @@ Ces commissions prennent les dénominations suivantes :
 
 2° commission des Affaires étrangères;
 
-3° commission de l'agriculture;
+3° commission de l'aéronautique ;
 
-4° commission de l'Algérie, des colonies et des protectorats ;
+4° commission de l'agriculture;
 
-5° commission de l'Alsace-Lorraine ;
+5° commission de l'Algérie, des colonies et des protectorats ;
 
-6° commission de l'armée;
+6° commission de l'Alsace-Lorraine ;
 
-7° commission d'assurance et de prévoyance sociales;
+7° commission de l'armée;
 
-8° commission du commerce et de l'industrie;
+8° commission d'assurance et de prévoyance sociales;
 
-9° commission des comptes définitifs et des économies ;
+9° commission du commerce et de l'industrie;
 
-10° commission des douanes et des conventions commerciales ;
+10° commission des comptes définitifs et des économies ;
 
-11° commission de l'enseignement et des beaux-arts ;
+11° commission des douanes et des conventions commerciales ;
 
-12° commission des finances ;
+12° commission de l'enseignement et des beaux-arts ;
 
-13° commission de l'hygiène;
+13° commission des finances ;
 
-14° commission de la législation civile et criminelle;
+14° commission de l'hygiène;
 
-15° commission de la marine marchande ;
+15° commission de la législation civile et criminelle;
 
-16° commission de la marine militaire ;
+16° commission de la marine marchande ;
 
-17° commission des mines et de la force motrice ;
+17° commission de la marine militaire ;
 
-18° commission des régions libérées
+18° commission des mines et de la force motrice ;
 
 19° commission du Travail;
 
-20° commission des travaux publics et des voies de communication.
+20° commission des travaux publics et des moyens de communication.
 
 ## Article 11 bis
 
@@ -152,7 +168,7 @@ Aucun député ne peut faire partie simultanément de plus de deux grandes commi
 
 ## Article 14
 
-Les grandes commissions permanentes visées à l'article 11 nomment, conformément aux règles déterminées par l'article 8 : un président, quatre vice-présidents et six secrétaires.
+Les grandes commissions permanentes visées à l'article 11 nomment, conformément aux règles déterminées par l'article 8 : leur président, leurs vice-présidents et leurs secrétaires.
 
 ## Article 15
 
@@ -171,6 +187,8 @@ Les grandes commission visées à l'article 11 sont pourvues d'un personnel et d
 Lorsqu'il y a lieu de diviser la Chambre en onze Bureaux, pour les vérifications de pouvoirs ou la nomination de commissaires, le Président procède à cette opération en séance publique par la voie du sort. La liste en est aussitôt affichée dans les couloirs.
 
 Les Bureaux ne peuvent procéder à aucun vote si le tiers au moins de leur membre est présent.
+
+En cas d'impossibilité d'un vote par le défaut du quorum fixé au paragraphe précédent, le scrutin, explicitement porté à l'ordre du jour de la séance suivante, est valable à cette séance, quel que soit le nombre des membres présents.
 
 Chaque Bureau est présidé par le plus âgé des membres présents. Le plus jeune est appelé à remplir les fonctions de Secrétaire.
 
@@ -268,13 +286,13 @@ Tout projet ou proposition de loi ou de résolution renvoyé à une commission d
 
 ## Article 30
 
-Dans toute commission, la présence du quart des membres est nécessaire pour la validité des votes.
+Dans toute commission, la présence de la moitié des membres est nécessaire pour la validité des votes.
 
 Au cas d'impossibilité d'un vote par le défaut du quorum fixé au paragraphe précédent, le scrutin explicitement porté à l'ordre du jour de la séance suivante est valable à cette séance, quel que soit le nombre des membres présents.
 
-Le lendemain de chaque séance des grandes commissions permanentes, les noms des membres présents, excusés et absents sont insérés au Journal officiel.
+Le lendemain de chaque séance des commissions, les noms des membres présents, excusés et absents sont insérés au Journal officiel ; en cas d'impossibilité d'un vote par défaut de quorum, mention en est également faite.
 
-Lorsque, sans congé officiel, un membre d'une commission n'aura pas assisté à cinq séances successives, la vacance sera prononcée, dès le lendemain de la cinquième absence, par le Bureau de la Chambre. Il sera pourvu à la vacance suivant les règles qui ont présidé à la formation primitive de la commission. Le député dont l'absence aura provoqué la vacance ne sera pas immédiatement rééligible.
+Lorsque, sans congé officiel, un membre d'une commission n'aura pas assisté à cinq séances successives – et s'il s'est écoulé un mois depuis la première absence - le Bureau de la Chambre, dûment avisé, prononcera la vacance. Il sera pourvu à la vacance suivant les règles qui ont présidé à la formation primitive de la commission. Le député dont l'absence aura provoqué la vacance ne sera pas immédiatement rééligible.
 
 ## Article 31
 
@@ -308,15 +326,13 @@ L'avis d'une commission sur un projet de loi ou sur une proposition est déposé
 
 ## Article 34
 
-Lorsque la Chambre est saisie d'un rapport par une commission, tout Député peut demander des précisions ou formuler des objections aux conclusions de ce rapport par une note écrite remise au Président de la Chambre et insérée à la suite du compte rendu in extenso.
-
-La commission répondra à cette note soit par la même voie, soit par un rapport supplémentaire.
-
 Tout Député a le droit de faire parvenir directement à une commission des observations écrites sur les projets ou propositions dont elle est saisie.
+
+La commission répond à ces observations soit dans son rapport, soit dans un rapport supplémentaire.
 
 ## Article 35
 
-Il est établi, au moins deux fois par an, par les soins du Secrétariat général de la Présidence, un état des travaux de chaque grande commission permanente, lequel doit mentionner les noms des rapporteurs désignés pour chaque question. Cet état est inséré au Journal officiel après sa distribution à la Chambre.
+Il est établi, au moins une fois par an, par les soins du Secrétariat général de la Chambre, un état des travaux de chaque grande commission permanente, lequel doit mentionner les noms des rapporteurs désignés pour chaque question.
 
 ## Article 36
 
@@ -334,13 +350,27 @@ Le Président ouvre la séance.
 
 Il dirige les délibérations ; il fait observer le règlement et il maintient l'ordre.
 
+Il peut suspendre et lever la séance.
+
 ## Article 38
 
-Les Secrétaires, dont deux au moins doivent siéger à tour de rôle pendant les séances publiques, surveillent la rédaction du procès-verbal.
+Les Secrétaires siègent à tour de rôle, deux au moins sont constamment présents pendant les séances publiques, ils surveillent la rédaction du procès-verbal.
 
 Au début de chaque séance, le Président soumet à l'adoption de la Chambre le procès-verbal de la séance précédente.
 
 Ce procès-verbal est revêtu, après son adoption, de la signature du Président ou du Vice-Président qui a présidé la séance. Il est, en outre, contresigné par deux Secrétaires.
+
+## Article 38 bis
+
+Le procès-verbal de la dernière séance d'une session doit être soumis à 1'approbation de la Chambre avant que cette séance ne soit levée.
+
+Si le procès-verbal donne lieu à contestation, la séance est suspendue pour permettre au Bureau d'examiner les propositions de modification du procès-verbal.
+
+A la reprise de la séance, la Président fait connaître la décision du Bureau. Il est procédé alors, pour l'adoption du procès-verbal, à un vote sans débat et par scrutin public.
+
+En cas de rejet, la discussion sur le procès-verbal est inscrite en tête de l'ordre du jour de la prochaine session.
+
+Le Journal officiel signé du Président de séance et contresigné par deux Secrétaires fait alors foi pour la validité des textes législatifs adoptés au cours de la séance.
 
 ## Article 39
 
@@ -359,20 +389,6 @@ Aucun membre de la Chambre ne peut parler qu'après avoir demandé la parole au 
 Il parle à la tribune ou de sa place. Le Président peut l'inviter à monter à la tribune.
 
 S'il parle sans avoir obtenu la parole ou s'il prétend la conserver après que le Président la lui a retirée, le Président peut déclarer que ses paroles ne figureront pas au Compte rendu officiel.
-
-Parlent seuls sans, durée limitée, les membres du Gouvernement et les commissaires du Gouvernement.
-
-Ne peuvent garder la parole pendant plus d'une heure : 1° les Présidents et Rapporteurs des commissions; 2° les auteurs d'interpellation; 3° le premier signataire d'une proposition de loi ou de résolution; 4° les orateurs mandatés à cet effet par le groupe auquel ils appartiennent et dont le nom aura été désigné au Président de la Chambre par le Président du groupe. Les groupes dont le nombre dépasse 50 membres ont la faculté de désigner un orateur par 50 membres ou fraction de 50.
-
-Ne peuvent garder la parole pendant plus d'une demi-heure : les auteurs d'amendements.
-
-La durée de l'intervention des autres membres de la Chambre est limitée à un quart d'heure.
-
-Tout membre de l'Assemblée à qui la parole est donnée avec le consentement de l'orateur ne pourra la garder pendant un temps supérieur à cinq minutes. Cette disposition est applicable également aux membres du Gouvernement et aux Commissaires du Gouvernement.
-
-Les orateurs désignés par les groupes ont la priorité. Entre eux, le tour de parole est déterminé par l'ordre d'inscription.
-
-La Chambre conserve dans tous les cas le droit de prononcer la clôture.
 
 ## Article 42
 
@@ -404,7 +420,7 @@ La parole ne peut être accordée sur le rapport à la question.
 
 Si l'orateur, rappelé deux fois à la question dans le même discours, continue à s'en écarter, le Président consulte la Chambre pour savoir si la parole ne sera pas interdite à l'orateur pendant le reste de la séance, sur le même sujet.
 
-La décision a lieu, sans débats, à mains levées; en cas de doute, la parole n'est pas interdite à l'orateur.
+La décision est prise, sans débat, à mains levées; en cas de doute, la parole n'est pas interdite à l'orateur.
 
 ## Article 47
 
@@ -426,13 +442,13 @@ La clôture prononcée, la parole n'est plus accordée que sur la position de la
 
 La question préalable, tendant à faire déclarer qu'il n'y a pas lieu à délibérer, peut toujours être proposée.
 
-Elle ne peut être soutenue que par son auteur et combattue que par un seul orateur. Ils disposent chacun d'une demi-heure. Si, après qu'ils ont parlé, le Gouvernement intervient, le Député usant du droit de répondre à un Ministre dispose d'une demi-heure.
+Elle ne peut être soutenue que par son auteur et combattue que par un seul orateur. Ces derniers disposent chacun d'une demi-heure. Si, après qu'ils ont parlé, le Gouvernement intervient, le Député usant du droit de répondre à un Ministre dispose d'une demi-heure. Le Président ou le Rapporteur de la commission compétente peut être entendu.
 
 Elle est mise aux voix avant la question principale.
 
 ## Article 49 bis
 
-Lorsqu'une motion est présentée sur l'ordre des débats, tendant soit au retrait de l'ordre du jour du projet ou de la proposition, soit à son renvoi, après une certaine date, après un vote de la Chambre, ou après un événement quelconque, soit à une modification dans l'ordre d'examen des articles tel qu'il résulte de leur numérotage, soit au renvoi de l'article à la commission, soit à tout autre objet, seul l'auteur de la motion, un orateur contre, le Rapporteur, le Président de la commission et le Gouvernement pourront prendre la parole. L'auteur de la motion ne peut parler plus de dix minutes pour la justifier et cinq minutes pour la justifier et cinq minutes en cas de réplique. Il peut céder son tour de parler ou de répliquer à un de ses collègues.
+Lorsque, en cours de discussion,'une motion est présentée sur l'ordre des débats, tendant soit au retrait de l'ordre du jour du projet ou de la proposition, soit à son renvoi, après une certaine date, après un vote de la Chambre, ou après un événement quelconque, soit à une modification dans l'ordre d'examen des articles tel qu'il résulte de leur numérotage, soit au renvoi de l'article à la commission, soit à tout autre objet, seul l'auteur de la motion, un orateur contre, le Rapporteur, le Président de la commission et le Gouvernement pourront prendre la parole. L'auteur de la motionet l'orateur contre ne peuvent parler plus de dix minutes. En cas de réplique, l'auteur de la motion dispose de cinq minutes. L'auteur de la motion et un orateur contre peuvent céder son tour de parole à un de leurs collègues.
 
 ## Article 50
 
@@ -445,6 +461,8 @@ Seul l'auteur de la proposition et un orateur contre elle peuvent parler pendant
 ## Article 51
 
 Les amendements sont mis aux voix avant le texte de la commission et, d'une manière générale, avant la question principale.
+
+Cette disposition est applicable aux textes adoptés par le Sénat, modifiés ou disjoints par la commission compétente de la Chambre et repris sous forme d'amendement par un Député.
 
 ## Article 52
 
@@ -532,17 +550,17 @@ La censure avec exclusion temporaire du Palais de l'Assemblée est prononcée co
 
 ## Article 63
 
-La censure, avec exclusion temporaire, entraîne l'interdiction de prendre part aux travaux de la Chambre et de reparaître dans le Palais législatif jusqu'à l'expiration du jour de la quinzième séance qui suivra celle où la mesure aura été prononcée.
+La censure, avec exclusion temporaire, entraîne l'interdiction de prendre part aux travaux de la Chambre et de reparaître dans le Palais législatif jusqu'à l'expiration du quinzième jour de séance qui suit celui où la mesure a été prononcée.
 
-En cas de désobéissance du Député à l'injonction qui lui est faite par le Président de sortir de la Chambre, la séance est levée ; elle peut être reprise.
+En cas de désobéissance du Député à l'injonction qui lui est faite par le Président de sortir de la Chambre, la séance est suspendue.
 
-Dans le cas prévu par le paragraphe précédent et aussi lorsque la censure avec exclusion temporaire est de nouveau appliquée à un Député dans le cours de la même session, l'exclusion s'étend à trente séances.
+Dans le cas prévu par le paragraphe précédent et aussi lorsque la censure avec exclusion temporaire est de nouveau appliquée à un Député dans le cours de la même session, l'exclusion s'étend à trente jours de séance.
 
 ## Article 64
 
 Si le Député reparaît dans le Palais législatif avant l'expiration du délai d'exclusion, il est arrêté par l'ordre des Questeurs, conduit dans un local préparé à cet effet et y est retenu pendant un temps qui ne peut excéder trois jours.
 
-S'il reparaît dans la salle des séances, sa présence est constatée par le Bureau, Le Président lève la séance, et, sur son ordre, le Député est arrêté par les soins des Questeurs et retenu comme il est dit au paragraphe précédent.
+S'il reparaît dans la salle des séances, sa présence est constatée par le Bureau, Le Président suspend la séance, et, sur son ordre, le Député est arrêté par les soins des Questeurs et retenu comme il est dit au paragraphe précédent.
 
 ## Article 65
 
@@ -564,7 +582,7 @@ Les affiches sont apposées dans la circonscription par laquelle le Député a �
 
 ## Article 67
 
-Si un délit vient à être commis dans l'enceinte du Palais législatif par un Député, toute délibération est suspendue.
+Si un fait délictueux vient à être commis dans l'enceinte du Palais législatif par un Député, la délibération en cours est suspendue.
 
 Le Président porte le fait à la connaissance de la Chambre, séance tenante.
 
@@ -592,21 +610,21 @@ Nul ne peut obtenir la parole entre les différentes épreuves.
 
 ## Article 71
 
-Le vote au scrutin public est de droit sur les projets de loi établissant ou modifiant les impôts et contributions publics.
+Le vote par scrutin public peut être demandé en toute matière excepté dans les questions de rappel au règlement et dans les cas prévus par les articles 46, 60 et 65.
+
+Il peut être demandé, soit avant l'épreuve commencée, soit après la première épreuve par mains levées, déclarée douteuse.
 
 ## Article 72
 
-Le vote par scrutin public peut être demandé en toute matière excepté dans les questions de rappel au règlement et dans les cas prévus par les articles 46, 60 et 65.
+La demande de scrutin public doit être faite par écrit, signée de vingt Députés au moins, et déposée entre les mains du Président.
 
-Il peut être demandé, soit avant l'épreuve commencée, soit après une première épreuve par mains levées douteuse.
+La demande de scrutin peut être faite oralement par un seul membre après la première épreuve à mains levées si celle-ci est déclarée douteuse.
+
+Les noms des membres qui ont demandé le scrutin et ceux des votants sont insérés à la suite du compte rendu in extenso.
 
 ## Article 73
 
-La demande de scrutin public doit être faite par écrit, signée de vingt membres au moins, et déposée entre les mains du Président.
-
-Elle peut être faite oralement par un seul membre après la première épreuve à mains levées si celle-ci est douteuse.
-
-Les noms des membres qui ont demandé le scrutin et ceux des votants sont insérés à la suite du compte rendu in extenso.
+Le vote par scrutin public est obligatoire sur les projets de loi établissant ou modifiant les impôts et contributions publics.
 
 ## Article 74
 
@@ -626,13 +644,17 @@ La Chambre décide, à mains levées et sans débats, sur la proposition du Pré
 
 ## Article 76
 
-Sur une demande écrite, visant expressément un scrutin déterminé, et signée de cinquante membres dont la présence en séance est constatée par appel nominal, le scrutin public a lieu à la tribune.
+Sur une demande écrite, visant expressément un scrutin déterminé, et signée de cinquante membres dont la présence à la séance est constatée par appel nominal, le scrutin public a lieu à la tribune.
 
-Chaque député remet son bulletin à l'un des Secrétaires, qui le dépose dans une urne automatique placée sur la tribune en enregistrant les suffrages reçus à l'aide d'un numéroteur mécanique.
+Avant l'appel nominal préalable à l'ouverture du scrutin public à la tribune, le Bureau fera connaître si le nombre des présents atteint la majorité absolue du nombre réel des Députés en fonction. Si le Bureau affirme que le quorum est atteint, le scrutin est valable, quel qu soit le nombre des suffrages exprimés. Dans le cas contraire, le scrutin est renvoyé à une séance ultérieure.
+
+Chaque député remet son bulletin à l'un des Secrétaires, qui le dépose dans une urne placée sur la tribune.
 
 Il est procédé à l'émargement des noms des votants au fur et à mesure des votes émis.
 
-Le scrutin restera ouvert pendant une heure.
+Le scrutin reste ouvert pendant une heure.
+
+Si avant l'ouverture du scrutin public à la tribune une demande de renvoi est présentée signée de vingt membres dont la présence est constatée par appel nominal, la Chambre se prononce sur cette demande par scrutin public en la forme prévue à l'article 74.
 
 ## Article 77
 
@@ -646,25 +668,23 @@ Les nominations, soit en assemblée générale, soit dans les bureaux ou dans le
 
 Pour les nominations en assemblée générale, le vote a lieu de la manière suivante :
 
-Une urne automatique enregistrant les suffrages reçus à l'aide d'un numéroteur mécanique est placée dans l'un des salons voisins de la salle des séances, sous la surveillance de l'un des secrétaires assisté de deux des scrutateurs. Chaque membre dépose son bulletin dans l'urne pendant le cours de la séance, qui n'est pas suspendue par le fait de l'opération. Les scrutateurs émargent les noms des votants. Le président indique, après avoir consulté la Chambre, l'heure d'ouverture et de clôture du scrutin. Le dépouillement aura lieu dans la forme ordinaire.
+Une urne est placée dans l'un des salons voisins de la salle des séances, sous la surveillance de l'un des secrétaires assisté de deux des scrutateurs. Chaque membre dépose son bulletin dans l'urne pendant le cours de la séance, qui n'est pas suspendue par le fait de l'opération. Les scrutateurs émargent les noms des votants. Le président indique, après avoir consulté la Chambre, l'heure d'ouverture et la durée du scrutin. Le dépouillement aura lieu dans la forme ordinaire.
 
 ## Article 80
 
 La présence de la majorité absolue du nombre réel des Députés en fonction est nécessaire pour la validité des votes.
 
-Si, au moment du vote, la demande en est faite, le Bureau constate le nombre des membres présents.
+Le vote est valable quel que soit le nombre des votants si le Bureau n'a pas été appelé, avant l'ouverture du scrutin à constater le nombre des présents ou si, ayant été appelé à faire ou ayant fait cette constatation, il a déclaré que la Chambre était en nombre pour voter.
 
-Si le Bureau juge qu'il y a doute sur la présence de la majorité absolue des Députés, il est procédé au scrutin public à la tribune.
-
-Au cas d'impossibilité d'un vote par le défaut de présence de la majorité absolue du nombre légal des députés, un second tour de scrutin sur le même objet est porté à l'ordre du jour de la séance suivante et, à ce second tour, le vote est valable, à la majorité relative, quel que soit le nombre des votants.
-
-Le vote est valable lorsque, dans un scrutin à la tribune, l'absence du quorum provient de l'abstention d'un certain nombre de signataires de la demande de scrutin.
+Au cas d'impossibilité d'un vote par le défaut de présence de la majorité absolue du nombre réel des députés en fonction, le scrutin est reporté à l'ordre du jour de la séance suivante et le vote est alors valable quel que soit le nombre des votants.
 
 ## Article 81
 
 Le résultat des délibérations de la Chambre est proclamé par le Président en ces termes :
 
 « La Chambre a adopté » ou « la Chambre n'a pas adopté. »
+
+La rectification d'un vote n'est admise que dans le mois qui suit ce vote.
 
 # CHAPITRE X DISCUSSION DES PROJETS ET PROPOSITIONS DE LOI. - AMENDEMENTS.
 
@@ -748,7 +768,7 @@ La commission présente sans délai son travail. Lecture en est donnée, et la d
 
 ## Article 91
 
-Après le vote d'une loi, la Chambre, sur la proposition d'un Député, est consultée par le Président sur le point de savoir si la loi votée sera promulguée d'urgence dans les trois jours, aux termes de l'art. 7 de la loi constitutionnelle du 16 juillet 1875.
+Après le vote d'une loi, et si un Député en fait la proposition, la Chambre est consultée par le Président sur le point de savoir si la loi votée sera promulguée d'urgence dans les trois jours, aux termes de l'art. 7 de la loi constitutionnelle du 16 juillet 1875.
 
 ## Article 92
 
@@ -758,35 +778,37 @@ Les propositions rejetées par la Chambre ne peuvent être représentées avant 
 
 Lorsque la Chambre est saisie d'un projet de loi par lequel le Gouvernement, conformément à l'art. 8 de la loi du 16 juillet 1875, lui demande l'approbation d'un traité conclu avec une puissance étrangère, il n'est pas voté sur les articles du traité, et il ne peut être présenté d'amendement à son texte.
 
-Si, dans le cours de la délibération, il y a opposition à quelques-unes des clauses du traité elle se produit sous forme de demande de renvoi à la commission.
+Si, dans le cours d'une délibération, il y a opposition à une ou plusieurs clauses du traité, cette opposition se manifeste sous forme de demande de renvoi à la commission.
 
 Si, après débat, la Chambre prend en considération, elle prononce le renvoi.
 
-La commission fait un rapport d'ensemble, qui doit être imprimé et distribué, sur les différentes clauses contestées et renvoyées à son examen. Elle conclut à l'adoption, au rejet ou à l'ajournement du projet de loi.
+Lorsque le renvoi est prononcé la commission fait un rapport d'ensemble, qui doit être imprimé et distribué, sur la ou les clauses contestées et renvoyées à son examen. Elle conclut à l'adoption, au rejet ou à l'ajournement du projet de loi.
 
 L'ajournement est motivé en ces termes :
 
-« La Chambre, appelant de nouveau l'attention du Gouvernement sur telle ou telle clause du traité (relater en entier les clauses sur lesquelles se fonde l'ajournement) sursoit à donner l'autorisation de ratifier. »
+« La Chambre, appelant de nouveau l'attention du Gouvernement sur telle ou telle clause du traité (relater en entier la ou les clauses sur lesquelles se fonde l'ajournement) sursoit à donner l'autorisation de ratifier. »
 
 # CHAPITRE XI INSCRIPTION A L'ORDRE DU JOUR DES PROJETS ET PROPOSITIONS
 
 ## Article 94
 
-Les présidents des grandes commissions, les présidents de groupes ou, à leur défaut, un membre désigné par le bureau de la commission ou du groupe, les Vice-Présidents de la Chambre sont convoqués par le Président de la Chambre, chaque semaine s'il y a lieu, pour examiner l'état des travaux de l'Assemblée. Leur conférence donne lieu à une proposition motivée concernant l'ordre des travaux de la Chambre et le règlement de l'ordre du jour. Le Gouvernement, spécialement avisé par le Président de la Chambre du jour et de l'heure de la conférence, peut être entendu. La proposition présentée par la conférence est lue en séance par le Président, qui la soumet à l'approbation de la Chambre.
+Les présidents des grandes commissions, les présidents de groupes ou, à leur défaut, un membre désigné par le bureau de la commission ou du groupe, les Vice-Présidents de la Chambre sont convoqués par le Président de la Chambre, chaque semaine s'il y a lieu, pour examiner l'état des travaux de l'Assemblée. Leur conférence donne lieu à une proposition motivée concernant l'ordre des travaux de la Chambre et le règlement de l'ordre du jour. Le Gouvernement, spécialement avisé par le Président de la Chambre du jour et de l'heure de la conférence, peut y assister et donnes son avis. La proposition présentée par la conférence est lue en séance par le Président, qui la soumet à l'approbation de la Chambre. Tout Député peut en demander la modification.
 
-L'ordre du jour réglé par est affiché dans l'enceinte du Palais et publié au Journal officiel. Il ne peut être modifié que par un vote émis soit sur l'initiative du Gouvernement, soit sur une demande signée par cinquante membres dont la présence devra être constatée par un appel nominal. La Chambre se réunit en séance publique les mardi, jeudi et vendredi de chaque semaine.
+L'ordre du jour réglé par la Chambre est affiché dans l'enceinte du Palais et publié au Journal officiel. Il ne peut être ultérieurement modifié que par un vote émis, soit sur l'initiative du Gouvernement, soit sur une demande signée par cinquante membres dont la présence devra être constatée par un appel nominal.
 
-Elle ne pourra décider la tenue des séances supplémentaires qu'à la demande du Président de l'Assemblée, du Gouvernement, de la Conférence des Présidents ou de la commission intéressée.
+## Article 94 bis
+
+La Chambre se réunit en séance publique les mardi, jeudi et vendredi de chaque semaine.
+
+Elle ne pourra décider la tenue de séances supplémentaires qu'à la demande du Président de l'Assemblée, du Gouvernement, de la Conférence des Présidents ou de la commission intéressée.
 
 Lorsqu'il y a lieu à des séances supplémentaires, et sauf circonstances exceptionnelles, elles se tiennent les mardi, jeudi ou vendredi matin.
 
 Le mercredi est réservé au travail des commissions.
 
-La séance peut être suspendue par le Président.
-
 ## Article 95
 
-Sauf dans les cas prévus aux articles 96 et 96 bis, ou à moins de décision contraire de la Chambre, motivée par des circonstances exceptionnelles, la demande de mise à l'ordre du jour d'un projet ou d'une proposition de loi ne peut se produire qu'après le dépôt et la distribution du rapport et, s'il y a lieu, de l'avis. La discussion de ce rapport ne peut s'ouvrir que six jours au moins après sa distribution, sauf pour les rapports du budget qui ne peuvent être discutés que dix jours au moins après leur distribution. Lorsque la commission saisie pour avis ne s'est pas prononcée dans le délai de dix jours après qu'elle a eu connaissance des conclusions de la commission saisie du fond, ou en cas de discussion urgente, la Chambre peut décider la mise à l'ordre du jour sans plus attendre. L'avis peut être donné oralement au cours du débat par un membre de la commission spécialement désigné à cet effet. Lorsque l'examen d'un projet ou proposition de loi est commencé, la suite du débat est inscrite de droit en tête de l'ordre du jour de la séance suivante, sur la demande écrite faite par la commission compétente d'accord avec le Gouvernement.
+Sauf dans les cas prévus aux articles 96 et 96 bis, et sauf décision contraire de la Chambre, motivée par des circonstances exceptionnelles, la demande de mise à l'ordre du jour d'un projet ou d'une proposition de loi ne peut se produire qu'après le dépôt et la distribution du rapport dans son intégralité et, s'il y a lieu, de l'avis, dans les conditions et délais prévus aux articles 28 (§6) et 95 (§3). La discussion de ce rapport ne peut s'ouvrir que six jours au moins après sa distribution, sauf pour les rapports du budget qui ne peuvent être discutés que dix jours au moins après leur distribution. Lorsque la commission saisie pour avis ne s'est pas prononcée dans le délai de dix jours après qu'elle a eu connaissance des conclusions de la commission saisie du fond, ou en cas de discussion urgente, la Chambre peut décider la mise à l'ordre du jour sans plus attendre. L'avis peut être donné oralement au cours du débat par un membre de la commission spécialement désigné à cet effet. Les auteurs d'amendements sont prévenus de la mise à l'ordre du jour des projets et des propositions de loi par le Secrétariat général de la Chambre. Lorsque l'examen d'un projet ou d'une proposition de loi est commencé, la suite du débat est inscrite de droit en tête de l'ordre du jour de la séance suivante, sur la demande écrite faite par la commission compétente d'accord avec le Gouvernement.
 
 ## Article 95 bis
 
@@ -794,17 +816,17 @@ Les projets ou propositions de loi déjà adoptés par la Chambre et modifiés p
 
 ## Article 96
 
-Lorsque le Gouvernement ou l'auteur d'une proposition de loi ou de résolution réclame la discussion immédiate, la commission compétente peut déposer son rapport sur le fond immédiatement après le dépôt et la lecture du projet ou de la proposition.
+Lorsque le Gouvernement ou l'auteur d'une proposition de loi ou de résolution réclame la discussion immédiate, un avis officiel doit être apposé dans l'enceinte du Palais et le débat ne peut commencer qu'une heure après l'affichage. La commission compétente peut déposer son rapport sur le fond immédiatement après le dépôt et la lecture du projet ou de la proposition. Cette disposition n'est pas applicable aux textes précédemment examinés par la Chambre et renvoyés devant elle par le Sénat.
 
 La Chambre peut décider que ce rapport sera lu et discuté immédiatement ou qu'il sera inséré à la suite du compte rendu in extenso et que sa discussion sera portée en tête de l'ordre du jour de la plus prochaine séance.
 
-Si la commission saisie ne conclut pas à la discussion immédiate, elle doit, soit aussitôt après le dépôt de la proposition, soit dans le délai maximum de cinq jours après sa distribution, présenter un rapport sommaire concluant à l'ajournement.
+Dans tqus les cas autres que ceux prévus aux paragraphes premier in fine, et 2, le rapport de la commission compétente devra, soit être inséré au Journal officiel, soit être distribué au plus tard le quatrième jour de séance à compter de la distribution du projet ou de la proposition de loi ou de résolution pour lequel la discussion immédiate est demandée. Le jour de l'insertion au Journal officiel, ou le jour de la distribution si la Chambre tient séance, ou le premier jour de séance qui suivra, la Chambre pourra décider que la discussion aura lieu immédiatement ou qu'elle sera portée en tête de l'ordre du jour de la plus prochaine séance.
 
-Dans les cinq jours qui suivent le dépôt de ce rapport sommaire ou le dernier délai dans lequel il aurait dû être déposé, la discussion immédiate peut être ordonnée par un vote émis sur une demande signée par cinquante membres dont la présence devra être constatée par un appel nominal.
+Dans le cas où la commission compétente n'aurait pas fait insérer au Journal officiel ou fait distribuer le rapport dans le délai fixé par le paragraphe précédent, la discussion immédiate pourra être demandée au plus tard le sixième jour de séance qui suivra l'insertion au Journal officiel ou la distribution du projet ou de la proposition de loi pour lequel la discussion immédiate est demandée, et elle pourra être ordonnée par un vote émis sur une demande signée par cinquante membres dont la présence devra être constatée par un appel nominal.
 
-Le débat engagé sur cette demande de discussion immédiate ne peut porter sur le fond. L'auteur de la proposition, le rapporteur ou le président de la commission et un membre du Gouvernement ont seuls le droit d'être entendus. L'auteur de la demande ne peut parler plus de dix minutes pour justifier sa demande et cinq minutes en cas de réplique. Il peut céder son droit de parole ou de réplique à l'un de ses collègues.
+Le débat engagé sur cette demande de discussion immédiate ne peut porter sur le fond. L'auteur de la proposition, le Rapporteur ou le Président de la commission et le Gouvernement ont seuls le droit d'être entendus. L'auteur de la demande ne peut parler plus de dix minutes pour justifier sa demande et cinq minutes en cas de réplique. Il peut céder son droit de parole ou de réplique à l'un de ses collègues.
 
-Le débat sur la demande de discussion immédiate ne peut venir qu'en fin de séance. Si la discussion immédiate est ordonnée, elle peut avoir lieu séance tenante ou être reportée en tête de l'ordre du jour de la plus prochaine séance.
+Sauf à la demande du Gouvernement, le débat sur la demande de discussion immédiate ne peut venir qu'en fin de séance. Si la discussion immédiate est ordonnée, elle peut avoir lieu séance tenante ou être reportée en tête de l'ordre du jour de la prochaine séance.
 
 ## Article 96 bis
 
@@ -816,13 +838,13 @@ Sauf demande expresse du Gouvernent, aucun projet, aucune proposition
 
 ## Article 97
 
-Tout projet ou proposition de loi régulièrement rapporté est inscrit en tête de l'ordre du jour d'une séance quelconque sous réserve qu'il n'y aura pas débat, lorsque la commission compétente et le Gouvernement en font la demande au Président de la Chambre au moins trois jours de séance avant le jour de l'inscription. Avis de la demande est donné à la Chambre par le Président. Le projet ainsi inscrit est retiré de l'ordre du jour par le Président, si la demande en est faite par trente membres au moins. Cette demande doit être formulée par écrit et indiquer sommairement les motifs invoqués à l'appui du retrait de l'ordre du jour. Elle est publiée, avec les noms des signataires, à la suite du compte rendu in extenso de la séance dans laquelle elle a été déposée.
+Tout projet ou proposition de loi régulièrement rapporté [et en cas de rapport pour avis après l'expiration du délai de dix jours prévu à l'article 28 (§6) et à l'article 95 (§3)] est inscrit en tête de l'ordre du jour d'une séance quelconque sous réserve qu'il n'y aura pas débat, lorsque, le rapport ayant été distribué, la commission compétente et le Gouvernement en font la demande au Président de la Chambre, qui en saisit la Conférence des Présidents, au moins trois jours de séance avant le jour de l'inscription. Avis de la décision est donné à la Chambre par le Président. Le projet ainsi inscrit est retiré de l'ordre du jour par le Président, si la demande en est faite par trente membres au moins. Cette demande doit être formulée par écrit et indiquer sommairement les motifs invoqués à l'appui du retrait de l'ordre du jour. Elle est publiée, avec les noms des signataires, à la suite du compte rendu in extenso de la séance dans laquelle elle a été déposée.
 
 ## Article 98
 
-Si un ou plusieurs députés s'inscrivent contre le projet ou la proposition porté à l'ordre du jour en vertu de l'article 97, ils sont tenus de formuler par écrit les raisons de leur opposition qui sont publiées à la suite du compte rendu in extenso.
+Si un ou plusieurs députés s'inscrivent - ou font opposition en séance - contre le projet ou la proposition porté à l'ordre du jour en vertu de l'article 97, ils sont tenus de formuler immédiatement par écrit les raisons de leur opposition qui sont publiées à la suite du compte rendu in extenso.
 
-La question est, dans ce cas, retirée provisoirement de l'ordre du jour et les oppositions écrites sont transmises à la commission compétente, qui doit entendre leurs auteurs, s'ils le demandent.
+Le projet ou la proposition de loi ou de résolution est, dans ce cas, retirée provisoirement de l'ordre du jour et les oppositions écrites sont transmises à la commission compétente, qui doit entendre leurs auteurs, s'ils le demandent.
 
 Cette commission saisit la Chambre d'un rapport supplémentaire qui doit mentionner explicitement toutes les objections formulées. Trois jours au moins après la distribution de ce rapport supplémentaire, la question peut être inscrite de nouveau à l'ordre du jour dans les conditions prévues à l'article 97.
 
@@ -830,13 +852,13 @@ Si de nouvelles objections sont formulées, il est procédé suivant les prescri
 
 ## Article 99
 
-Si aucune demande régulière de retrait de l'ordre du jour n'est déposée, si aucun membre ne s'est inscrit, si aucune opposition verbale ou écrite n'a été formulée en séance publique ou si la procédure établie à l'article précédent a fonctionné, le Président met successivement aux voix sans débat les différents articles, puis l'ensemble du projet ou de la proposition de loi. Si une opposition se produit en séance, le Président déclare que le projet ou la proposition de loi est provisoirement retiré de l'ordre du jour. L'auteur de l'opposition est tenu d'en formuler immédiatement et par écrit les motifs, qui sont publiés à la suite du compte rendu in extenso de la séance.
+Si aucune demande régulière de retrait de l'ordre du jour n'est déposée, si aucun membre ne s'est inscrit, si aucune opposition verbale ou écrite n'a été formulée en séance publique ou si la procédure établie à l'article précédent a fonctionné, le Président met successivement aux voix sans débat les différents articles, puis l'ensemble du projet ou de la proposition de loi.
 
 # CHAPITRE XII EXAMEN DU BUDGET
 
 ## Article 100
 
-La commission du budget, prévue à l'article 11, est chargée de l'examen des lois des recettes et des dépenses. Sont renvoyés à l'examen de cette commission tous projets de loi portant demande de crédits supplémentaires ou extraordinaires afférents aux exercices courants, clos ou périmés.
+La commission des finances, prévue à l'article 11, est chargée de l'examen des lois des recettes et des dépenses. Sont renvoyés à l'examen de cette commission tous projets de loi portant demande de crédits supplémentaires ou extraordinaires afférents aux exercices courants, clos ou périmés. Avant l'examen de chaque budget particulier par la commission des finances, le rapporteur spécial pourra être convoqué devant la commission compétente afin d'y présenter un exposé oral des dispositions dudit budget ; il devra mentionner dans son rapport les observations présentées par les membres de de cette dernière commission. La convocation de la commission compétente sera faite après entente entre le Président de cette commission et le Rapporteur spécial, de manière que les travaux de la commission des finances ne soient en aucune façon retardés.
 
 ## Article 101
 
@@ -844,11 +866,11 @@ En ce qui touche la loi de finances, la loi relative aux contributions directes,
 
 ## Article 102
 
-Aucune proposition tendant, soit à des augmentation de traitements, d'indemnités ou de pensions, soit à des créations de services, d'emplois, de pensions, ou à leur extension en dehors des limites prévues par les lois en vigueur, ne peut être faite sous forme d'amendement ou d'article additionnel à la loi de finances, à la loi relative aux contributions directes et aux lois portant ouverture ou annulation de crédit. Il ne peut être introduit dans ces projets de loi aucune disposition ne visant pas directement les recettes ou les dépenses. Aucun article additionnel ne peut être présenté à ces projets et les amendements ne sont recevables que s'ils se rapportent directement au texte des articles proposés. Cette disposition n'est pas applicable aux amendements tendant à assurer le contrôle des dépenses publiques ou de nature à réduire les dépenses. Aucun projet de résolution, aucune motion, aucun ordre du jour motivé ne peuvent être déposés au cours de la discussion de ces projets. Aucune interpellation ne peut leur être jointe.
+Aucune proposition tendant, soit à des augmentation ou à des réductions de traitements, d'indemnités ou de pensions, soit à des créations ou à des suppressions de services, d'emplois, de pensions, ou à leur extension en dehors des limites prévues par les lois en vigueur, ne peut être faite sous forme d'amendement ou d'article additionnel à la loi de finances, à la loi relative aux contributions directes et aux lois portant ouverture ou annulation de crédit. Il ne peut être introduit dans ces projets de loi aucune disposition ne visant pas directement les recettes ou les dépenses. Aucun article additionnel ne peut être présenté à ces projets et les amendements ne sont recevables que s'ils se rapportent directement au texte des articles proposés. Cette disposition n'est pas applicable aux amendements tendant à assurer le contrôle des dépenses publiques. Aucun projet de résolution, aucune motion, aucun ordre du jour motivé ne peuvent être déposés au cours de la discussion de ces projets. Aucune interpellation ne peut leur être jointe.
 
 ## Article 103
 
-Les chapitres des différents budgets dont la modification n'est pas demandée soit par le Gouvernement, soit par la commission des finances, soit par un amendement régulièrement déposé, ne peuvent être l'objet que d'un débat sommaire. Chaque orateur ne peut être entendu que pendant un quart d'heure et ne peut parler qu'une fois, sauf exercice du droit de réponse aux Ministres ou aux Rapporteurs. La durée de cette réponse ne pourra excéder quinze minutes.
+Les chapitres des différents budgets dont la modification n'est pas demandée soit par le Gouvernement, soit par la commission des finances, soit par un amendement régulièrement déposé, ne peuvent être l'objet que d'un débat sommaire. Chaque orateur ne peut être entendu que pendant un dix minutes et ne peut parler qu'une fois, sauf exercice du droit de réponse aux Ministres ou aux Rapporteurs. La durée de cette réponse ne pourra, en aucun cas, excéder dix minutes.
 
 # CHAPITRE XIII DES RAPPORTS DE LA CHAMBRE DES DEPUTES AVEC LE SENAT.
 
@@ -896,19 +918,21 @@ Lorsque les propositions de loi ou les projets votés par la Chambre des Déput�
 
 ## Article 111
 
-Tout député qui veut adresse une interpellation à un membre du Gouvernement en remet la demande écrite au Président.
+Tout Député qui veut adresser une interpellation à un membre du Gouvernement en remet la demande écrite au Président.
 
-Cette demande explique sommairement l'objet des interpellations. Le Président en donne lecture à la Chambre.
+Cette demande explique sommairement l'objet de l'interpellation.
 
-Les interpellations de député à député sont interdites.
+Le Président notifie immédiatement, par écrit, cette demande au Gouvernement et en donne lecture à la Chambre le premier jour de séance qui suit la notification.
+
+Les interpellations de Député à Député sont interdites.
 
 ## Article 112
 
-La Chambre, après avoir entendu un des membres du Gouvernement, fixe, sans débats sur le fond, le jour où l'interpellation sera faite.
+La Chambre, après avoir entendu un des membres du Gouvernement, fixe, sans débats sur le fond, le jour où l'interpellation sera discutée.
 
 Cette fixation a lieu de plein droit à la fin de la séance.
 
-Toutefois, sur demande écrite de l'auteur de l'interpellation et communiquée par le Président, la Chambre décide par assis et levé, et sans qu'aucun membre puisse prendre la parole, s'il sera procédé immédiatement à la fixation de la date.
+Toutefois, sur demande écrite de l'orateur, remise en même temps que l'interpellation, le Président, après avoir informé le Gouvernement, donne, sans délai, connaissance de l'interpellation à la Chambre qui décide par assis et levé, et sans qu'aucun membre puisse prendre la parole, s'il sera procédé immédiatement à la fixation de la date.
 
 En aucun cas les explications sur la date ne pourront durer plus de cinq minutes.
 
@@ -948,7 +972,7 @@ Si la résolution de cette commission est rejetée, il est statué sur les ordre
 
 Si l'ordre du jour pur et simple n'est pas adopté et si le renvoi à une commission permanente ou aux Bureaux n'est pas ordonné, conformément à l'article ci-dessus, le Président soumet les ordres du jour motivé au vote de la Chambre.
 
-Il est statué par la Chambre sur les questions de priorité.
+Il est statué par la Chambre sur les questions de priorité. La priorité est de droit pour les demandes de commission d'enquête.
 
 Aucune addition à un ordre du jour ne peut être mise aux voix si elle n'a été déposée et communiquée à la Chambre préalablement au vote de cet ordre du jour.
 
@@ -964,9 +988,11 @@ Tout Député peut poser à un Ministre des questions écrites ou orales.
 
 Les questions écrites, sommairement rédigées, sont remises au Président de la Chambre.
 
-Dans les huit jours qui suivent leur dépôt, elles doivent être imprimées avec les réponses faites par les Ministres.
+Dans les vingt jours qui suivent leur dépôt, elles doivent être imprimées avec les réponses faites par les Ministres.
 
 Les Ministres ont la faculté de déclarer par écrit que l'intérêt public leur interdit de répondre ou, à titre exceptionnel, qu'ils réclament un délai pour rassembler les éléments de leur réponse.
+
+Chaque semaine, le Journal officiel publie la lsite par Ministère des questions auxquelles il n'a pas été répondu dans le délai réglementaire.
 
 ## Article 120
 
@@ -1040,6 +1066,8 @@ Nul député ne peut s'absenter sans un congé de la Chambre.
 
 Le Président peut néanmoins, en cas d'urgence, accorder un congé ; il en rend compte à la Chambre.
 
+Le congé prend fin pour une déclaration personnelle, orale ou écrite du Député.
+
 ## Article 129
 
 Les demandes de congé sont renvoyées à l'examen du Bureau de la Chambre.
@@ -1050,17 +1078,17 @@ En soumettant les demandes de congé à la Chambre, le Président fait connaîtr
 
 ## Article 130
 
-Les services de la Chambre des Députés se divisent en services législatifs et en services administratifs.
+Le Président a, du point de vue législatif, la haute direction et le contrôle de tous les services de la Chambre et des Députés.
 
-Les services législatifs sont : le Secrétariat Général de la Présidence, la Rédaction du procès-verbal et des comptes-rendus analytiques, la Sténographie, et l'Expédition des lois et procès-verbaux.
+Les Questeurs ont, du point de vue administratif, la haute direction et le contrôle des mêmes services.
 
-Les services administratifs sont : le Secrétariat Général de la Questure, les Archives, la Bibliothèque, la Caisse, et les Bâtiments.
+Le Président et les Questeurs habitent le Palais de la Chambre des Députés.
+
+Le Secrétariat général de la Chambre des Députés relève directement du Président et des Questeurs.
 
 ## Article 131
 
-Le Président a la haute direction et le contrôle de tous les services législatifs ; mais les dépenses qui les concernent ne peuvent être engagées sans l'avis préalable des Questeurs.
-
-Les Questeurs ont la direction et le contrôle de tous les services administratifs. Ils habitent le Palais de la Chambre des Députés.
+Les services de la Chambre des Députés sont placés sous les ordres d Secrétariat Général de la Chambre des Députés, assisté du Secrétariat général législatif pour la direction des travaux législatifs et du Secrétaire général administratif pour la direction des travaux administratifs.
 
 ## Article 132
 
@@ -1090,8 +1118,6 @@ Les membres du Bureau ne peuvent faire partie de la commission de comptabilité.
 
 Le Président est chargé de veiller à la sûreté intérieure et extérieure de la Chambre. A cet effet, il fixe l'importance des forces militaires qu'il juge nécessaires ; elles sont placées sous ses ordres.
 
-Le Président habite dans l'intérieur du Palais législatif.
-
 ## Article 135
 
 La police de la Chambre est exercée en son nom par le Président.
@@ -1100,7 +1126,7 @@ Après les élections générales, il est procédé à une attribution provisoir
 
 Dès que les listes électorales des groupes ont été déposées et publiées conformément à l'article 12, les Bureaux des groupes sont convoqués par le Président de la Chambre à l'effet de diviser la salle des séances en autant de secteurs qu'il y a de groupes.
 
-Dans les vingt-quatre heures qui suivent la publication des listes électorales, les membres qui n'appartiennent à aucun groupe doivent faire connaître au Président entre quels groupes ils désirent siéger.
+Dans les vingt-quatre heures qui suivent la publication des listes électorales, les membres qui n'appartiennent à aucun groupe doivent faire connaître au Président entre quels groupes, en allant de gauche à droite, ils désirent siéger.
 
 Le projet de division en secteurs est remis au Président, qui, après avoir averti la Chambre du dépôt, fait procéder à l'affichage.
 
