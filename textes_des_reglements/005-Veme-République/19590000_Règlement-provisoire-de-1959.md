@@ -2,7 +2,7 @@ CHAPITRE PREMIER
 
 GROUPES
 
-## Article 1
+## Article premier.
 
 Les députés peuvent s'organiser en groupes par affinités politiques ; aucun groupe ne peut comprendre moins de 3o membres, non compris les députés apparentés dans les conditions prévues à l'alinéa 3 ci-dessous.
 
@@ -60,7 +60,7 @@ Les commissions permanentes examinent les projets et les propositions qui ne son
 
 ## Article 4
 
-Les groupes régulièrement constitués dans les conditions fixées à l'article 1 disposent, dans chaque commission permanente, d'un nombre de sièges proportionnel à leur importance numérique. Ils font connaître à la Présidence de l'Assemblée les noms des candidats qu'ils proposent. La liste de ces candidats est affichée vingt-quatre heures avant la séance publique où elle sera proclamée, sauf opposition signée par trente députés au moins. Les oppositions ne sont recevables que si elles portent sur le respect de la proportionnalité.
+Les groupes régulièrement constitués dans les conditions fixées à l'article premier disposent, dans chaque commission permanente, d'un nombre de sièges proportionnel à leur importance numérique. Ils font connaître à la Présidence de l'Assemblée les noms des candidats qu'ils proposent. La liste de ces candidats est affichée vingt-quatre heures avant la séance publique où elle sera proclamée, sauf opposition signée par trente députés au moins. Les oppositions ne sont recevables que si elles portent sur le respect de la proportionnalité.
 
 Dans les désignations intervenant avant la mise en application du Règlement définitif, les députés n'appartenant a aucun groupe pourront faire acte de candidature aux sièges restant vacants après application de la procédure prévue à l'alinéa précédent. Les nominations sont faites par l'Assemblée au scrutin majoritaire à deux tours, la majorité relative étant suffisante au troisième tour.
 
@@ -96,7 +96,7 @@ Cette commission sera composée de 3o membres titulaires et de 3o membres suppl�
 
 ## Article 7
 
-Dans les vingt-quatre heures suivant l'adoption du présent règlement provisoire, les groupes politiques et les formations administratives devront se constituer dans les conditions prévues à l'article 1 ci-dessus.
+Dans les vingt-quatre heures suivant l'adoption du présent règlement provisoire, les groupes politiques et les formations administratives devront se constituer dans les conditions prévues à l'article premier ci-dessus.
 
 Dans les trois jours suivant la publication de leur constitution, les listes de candidats aux commissions permanentes et à la commission spéciale du règlement devront être établies dans les conditions fixées par les articles 4, 5 et 6, § III, et remises à la Présidence.
 
@@ -118,7 +118,7 @@ et 1 secrétaire.
 
 Les bureaux des commissions sont élus au scrutin secret par catégorie de fonction.
 
-Si la majorité absolue n'a pas été acquise aux deux 1s tours de scrutin, la majorité relative suffit au troisième tour et, en cas d'égalité de suffrages, le plus âgé est nommé.
+Si la majorité absolue n'a pas été acquise aux deux premiers tours de scrutin, la majorité relative suffit au troisième tour et, en cas d'égalité de suffrages, le plus âgé est nommé.
 
 ## Article 9
 
@@ -138,7 +138,7 @@ Dans le cas où une opposition est formulée, le président consulte l'Assemblé
 
 Si l'Assemblée ne prend pas l'opposition en considération, les listes de candidats présentées sont ratifiées.
 
-Si l'Assemblée prend l'opposition en considération, la liste de candidats frappée d'opposition est annulée et une nouvelle liste doit être établie dans les conditions prévues au 1 alinéa du présent paragraphe.
+Si l'Assemblée prend l'opposition en considération, la liste de candidats frappée d'opposition est annulée et une nouvelle liste doit être établie dans les conditions prévues au premier alinéa du présent paragraphe.
 
 La nouvelle liste est remise au Président qui informe sans délai l'Assemblée de son dépôt et la fait immédiatement afficher.
 
@@ -150,7 +150,7 @@ Si, à l'expiration de ce délai, le nombre des candidats n'est pas supérieur a
 
 Pour ces scrutins, sont distribués par les soins de la Présidence les bulletins portant les noms ou la liste des candidats. Sont valables les suffrages exprimés dans les enveloppes ne contenant pas plus de noms qu'il y a de membres à nommer.
 
-La majorité absolue est requise aux deux 1s tours de scrutin ; la majorité relative suffit au troisième tour et, en cas d'égalité des suffrages, le plus âgé est nommé.
+La majorité absolue est requise aux deux premiers tours de scrutin ; la majorité relative suffit au troisième tour et, en cas d'égalité des suffrages, le plus âgé est nommé.
 
 II. - Lorsqu'en vertu d'un décret ou d'un arrêté ministériel, l'Assemblée doit nommer des membres d'un organisme extraparlementaire, le Président de l'Assemblée transmet la demande de désignation émanant du Gouvernement à la commission compétente. Celle-ci fait part de sa décision au ministère intéressé par l'intermédiaire du Président de l'Assemblée.
 
@@ -206,7 +206,7 @@ Le défaut de dépôt ou de distribution d'un avis ne peut faire obstacle à la 
 
 Les rapporteurs des commissions doivent être désignés et leurs rapports doivent être déposés, imprimés et distribués dans un délai tel que l'Assemblée Nationale soit en mesure de procéder à la discussion des projets et propositions conformément à la Constitution.
 
-Les rapports faits sur des projets de loi soumis en 1 lieu à l'Assemblée Nationale ou sur des textes transmis par le Sénat concluent à l'adoption, au rejet ou à des amendements.
+Les rapports faits sur des projets de loi soumis en premier lieu à l'Assemblée Nationale ou sur des textes transmis par le Sénat concluent à l'adoption, au rejet ou à des amendements.
 
 En annexe des rapports doivent être insérés les amendements soumis à la commission, qu'ils lui aient été transmis par la Présidence de l'Assemblée ou directement présentés par leurs auteurs avant le dépôt du rapport.
 
@@ -268,7 +268,7 @@ Le Bureau de l'Assemblée Nationale saisi par le Président, soit à son initiat
 
 Les projets de loi peuvent être retirés par le Gouvernement à tout moment jusqu'à leur adoption définitive par le Parlement.
 
-L'auteur ou le 1 signataire d'une proposition peut la retirer à tout moment avant son adoption en première lecture. Si le retrait a lieu~ ~en cours de discussion en séance publique et si un autre député la reprend, la discussion continue.
+L'auteur ou le premier signataire d'une proposition peut la retirer à tout moment avant son adoption en première lecture. Si le retrait a lieu~ ~en cours de discussion en séance publique et si un autre député la reprend, la discussion continue.
 
 Les propositions repoussées par l'Assemblée ne peuvent être reproduites avant un délai de trois mois.
 
@@ -404,7 +404,7 @@ Les présidents et les rapporteurs des commissions peuvent se faire assister, lo
 
 Lorqu'au moins deux orateurs d'avis contraire sont intervenus dans la discussion générale, dans la discussion d'un article ou dans des explications de vote, la clôture immaédiate de cette phase de la discussion peut être soit décidée par le Président, soit proposée par un membre de l'Assemblée.
 
-Dans cette dernière hypothèse et lorsqu'il s'agit de la discussion générale, si la parole est demandée contre la clôture, elle ne peut être accordée qu'à un seul orateur, qui ne peut la garder pendant plus de cinq minutes. Le 1 des orateurs demeurant inscrits dans la discussion et, à son défaut, l'un des inscrits dans l'ordre d'inscription, s'il demande la parole contre la clôture, a la priorité; à défaut d'orateurs inscrits, la parole contre la clôture est donnée au député qui l'a demandée le 1.
+Dans cette dernière hypothèse et lorsqu'il s'agit de la discussion générale, si la parole est demandée contre la clôture, elle ne peut être accordée qu'à un seul orateur, qui ne peut la garder pendant plus de cinq minutes. Le premier des orateurs demeurant inscrits dans la discussion et, à son défaut, l'un des inscrits dans l'ordre d'inscription, s'il demande la parole contre la clôture, a la priorité; à défaut d'orateurs inscrits, la parole contre la clôture est donnée au député qui l'a demandée le premier.
 
 Lorsque la clôture est demandée en dehors de la discussion générale, l'Assemblée est appelée à se prononcer sans débat.
 
@@ -544,7 +544,7 @@ Le vote des députés est personnel.
 
 Toutefois, leur droit de vote dans les scrutins publics peut être délégué par eux dans les conditions fixées par l'ordonnance n° 58-1066 du 7 novembre 1958 portant loi organique autorisant exceptionnellement les parlementaires à déléguer leur droit de vote.
 
-La délégation de vote est toujours personnelle, rédigée au nom d'un seul député nommément désigné et ne peut être transférée, même avsc l'accord préalable du délégant, à un autre bénéficiaire. Elle doit être notifiée au Président avant l'ouverture du scrutin ou du 1 des scrutins auxquels elle s'applique.
+La délégation de vote est toujours personnelle, rédigée au nom d'un seul député nommément désigné et ne peut être transférée, même avsc l'accord préalable du délégant, à un autre bénéficiaire. Elle doit être notifiée au Président avant l'ouverture du scrutin ou du premier des scrutins auxquels elle s'applique.
 
 Lorsque la durée de la délégation n'est pas précisée, elle expire de plein droit à l'issue d'un délai de huit jours francs à compter de sa réception.
 
@@ -594,7 +594,7 @@ Il est interdit de déposer plus d'un bulletin dans l'urne pour quelque cause qu
 
 Lorsque tous les votes sont recueillis, le Président prononce la clôture du scrutin. Les urnes sont apportées à la tribune. Le Président proclame le résultat du scrutin dépouillépar les secrétaires.
 
-II. - Pour un scrutin public à la tribune, tous les députés sont appelés nominalement par les huissiers. Sont appelés les 1s ceux dont le nom commence par une lettre préalablement tirée au sort.
+II. - Pour un scrutin public à la tribune, tous les députés sont appelés nominalement par les huissiers. Sont appelés les premiers ceux dont le nom commence par une lettre préalablement tirée au sort.
 
 Chaque député remet son bulletin à l'un des secrétaires qui le dépose dans une urne placée sur la tribune.Il est procédé à l'émargement des noms des votants au fur et à mesure des votes émis.
 
@@ -626,7 +626,7 @@ Le scrutin reste ouvert pendant quarante-cinq minutes.
 
 Les secrétaires font le dépouillement du scrutin et le Président en proclame le résultat.
 
-III. - Pour les nominations personnelles, et sauf stipulations contraire, la majorité absolue est requise aux deux 1s tours de scrutin ; au troisième tour, la majorité relative suffit et, en cas d'égalité des suffrages, le plus âgé est nommé.
+III. - Pour les nominations personnelles, et sauf stipulations contraire, la majorité absolue est requise aux deux premiers tours de scrutin ; au troisième tour, la majorité relative suffit et, en cas d'égalité des suffrages, le plus âgé est nommé.
 
 ## Article 46
 
@@ -676,7 +676,7 @@ Si l'Assemblée Nationale adopte sans modification les propositions de loi adopt
 
 ## Article 50
 
-Lorsque, par application du 1 alinéa de l'article 49 de la Constitution, le Premier Minitre engage la responsabilité du Gouvernement sur son programme ou sur une déclaration de politique générale, il est procédé au débat dans les conditions suivantes.
+Lorsque, par application du premier alinéa de l'article 49 de la Constitution, le Premier Minitre engage la responsabilité du Gouvernement sur son programme ou sur une déclaration de politique générale, il est procédé au débat dans les conditions suivantes.
 
 Après l'audition du Gouvernement, la séance est suspendue.
 
@@ -718,7 +718,7 @@ Seuls les députés favorables à la motion de censure participent au vote en re
 
 Lorsqu'en application au troisième alinéa de l'article 49 de la Constitution, le Premier Ministre engage la responsabilité du Gouvernement sur le vote d'un texte, le débat est immédiatement suspendu durant vingt-quatre heures.
 
-Dans ce délai et par dérogation à la disposition de l'alinéa 1 de l'article précédent, une motion de censure, répondant aux conditions fixées par cet article, peut être déposée. Dans ce cas, le libellé de la motion doit préciser qu'elle est déposée en application de l'article 49 (alinéa 3) de la Constitution.
+Dans ce délai et par dérogation à la disposition de l'alinéa premier de l'article précédent, une motion de censure, répondant aux conditions fixées par cet article, peut être déposée. Dans ce cas, le libellé de la motion doit préciser qu'elle est déposée en application de l'article 49 (alinéa 3) de la Constitution.
 
 L'Assemblée se réunit à l'expiration du délai précité pour prendre acte soit de l'adoption du texte soit du dépôt d'une motion de censure.
 
@@ -844,7 +844,7 @@ Le Président seul rappelle à l'ordre. Est rappelé à l'ordre tout orateur qui
 
 Tout député qui, n'étant pas autorisé à parler, s'est fait rappeler à l'ordre, n'obtient la parole pour se justifier qu'à la fin de la séance, à moins que le Président n'en décide autrement.
 
-Est rappelé à l'ordre avec inscription au procès-verbal tout député qui, dans la même séance, a encouru un 1 rappel à l'ordre.
+Est rappelé à l'ordre avec inscription au procès-verbal tout député qui, dans la même séance, a encouru un premier rappel à l'ordre.
 
 Est également rappelé à l'ordre avec inscription au procès-verbal, tout député qui a adressé à un ou plusieurs de ses collègues des injures, provocations ou menaces.
 
@@ -910,7 +910,7 @@ Si un fait délictueux est commis par un député dans l'enceinte du Palais pend
 
 Séance tenante, le Président porte le fait à la connaissance de l'Assemblée.
 
-Si le fait visé à l'alinéa 1 est commis~ ~pendant une suspension ou après la levée de la séance, le Président porte le fait à la connaissance de l'Assemblée à la reprise de la séance ou au début de la séance suivante.
+Si le fait visé à l'alinéa premier est commis~ ~pendant une suspension ou après la levée de la séance, le Président porte le fait à la connaissance de l'Assemblée à la reprise de la séance ou au début de la séance suivante.
 
 Le député est admis à s'expliquer, s'il le demande. Sur l'ordre du Président, il est tenu de quitter la salle des séances et retenu dans 1e Palais.
 
