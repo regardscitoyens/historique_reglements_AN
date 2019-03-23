@@ -96,7 +96,7 @@ Les membres du Bureau sont élus pour la durée de l'Assemblée.
 
 Les élections ont lieu au scrutin secret à la tribune.
 
-Si la majorité absolue n'a pas été acquise aux deux 1s tours de scrutin, au troisième tour la majorité relative suffit et, en cas d'égalité de suffrages, le plus âgé est nommé.
+Si la majorité absolue n'a pas été acquise aux deux premiers tours de scrutin, au troisième tour la majorité relative suffit et, en cas d'égalité de suffrages, le plus âgé est nommé.
 
 Les Vice-Présidents, les Secrétaires et les Questeurs sont élus au scrutin de liste et par scrutin séparé pour chaque fonction.
 
@@ -244,7 +244,7 @@ Elles sont déposées sur le Bureau de l'Assemblée, renvoyées à la commission
 
 Lorsque, suivant les termes de l'article 4 de la loi constitutionnelle du 2 novembre 1945, le Gouvernement demande une nouvelle délibération, cette délibération est inscrite de droit en tête de l'ordre du jour de la séance suivante.
 
-L'Assemblée peut confirmer son 1 vote sans renvoi à la commission, celle-ci doit faire connaître ses conclusions dans le délai imparti par l'Assemblée, lequel ne peut, en aucun cas, excéder huit jours.
+L'Assemblée peut confirmer son premier vote sans renvoi à la commission, celle-ci doit faire connaître ses conclusions dans le délai imparti par l'Assemblée, lequel ne peut, en aucun cas, excéder huit jours.
 
 ## Article 24
 
@@ -424,7 +424,7 @@ Un député peut toujours obtenir la parole après un orateur du Gouvernement ou
 
 Lorsqu'au moins deux orateurs d'avis contraire ont pris part à une discussion et traité le fond du débat, le Président ou tout membre de l'Assemblée peut proposer la clôture de cette discussion.
 
-Lorsque, dans la discussion générale, la parole est demandée contre la clôture, elle ne peut être accordée qu'à un seul orateur, qui ne peut la garder pendant plus de cinq minutes. Le 1 inscrit et, à son défaut, l'un des inscrits dans l'ordre d'inscription, s'il demande la parole contre la clôture, a la priorité ; à défaut d'orateurs inscrits, la parole contre la clôture est donnée au Député, qui l'a demandée le premier.
+Lorsque, dans la discussion générale, la parole est demandée contre la clôture, elle ne peut être accordée qu'à un seul orateur, qui ne peut la garder pendant plus de cinq minutes. Le premier inscrit et, à son défaut, l'un des inscrits dans l'ordre d'inscription, s'il demande la parole contre la clôture, a la priorité ; à défaut d'orateurs inscrits, la parole contre la clôture est donnée au Député, qui l'a demandée le premier.
 
 En dehors de la discussion générale, l'Assemblée est appelée à se prononcer, sans débat, sur la clôture.
 
@@ -442,7 +442,7 @@ En cas de renvoi à la commission de l'ensemble, l'Assemblée peut fixer la date
 
 ## Article 43
 
-La motion de censure, définie par l'article 1, paragraphe 2, de la loi constitutionnelle du 2 novembre 1945, est remise, signée, au Président, qui la notifie sans délai au Gouvernement. Elle porte obligatoirement l'intitulé « motion de censure ».
+La motion de censure, définie par l'article premier, paragraphe 2, de la loi constitutionnelle du 2 novembre 1945, est remise, signée, au Président, qui la notifie sans délai au Gouvernement. Elle porte obligatoirement l'intitulé « motion de censure ».
 
 Lorsque l'Assemblée est appelée à statuer sur la motion de censure, le vote doit intervenir le troisième jour suivant le dépôt de ladite motion.
 
@@ -520,7 +520,7 @@ Cette délibération a lieu dans les conditions prévues aux alinéas 2 à 7 inc
 
 ## Article 53
 
-Les dispositions des alinéas 1 et 3 de l'article 50 et celles de l'article 51 sont applicables à la discussion des textes législatifs.
+Les dispositions des alinéas premier et 3 de l'article 50 et celles de l'article 51 sont applicables à la discussion des textes législatifs.
 
 # Section C. Discussion immédiate.
 
@@ -606,7 +606,7 @@ Si la réalité de la réduction ou de la suppression de la recette, de l'établ
 
 ## Article 61
 
-Les contre-projets constituent des amendements à l'article 1 du texte auquel ils s'opposent.
+Les contre-projets constituent des amendements à l'article premier du texte auquel ils s'opposent.
 
 L'Assemblée ne peut être consultée que sur leur prise en considération ; si elle est prononcée, le contre-projet est renvoyé à la commission.
 
@@ -624,7 +624,7 @@ Lorsqu'un vote ne peut avoir lieu faute de quorum, le scrutin est reporté à l'
 
 ## Article 63
 
-Sauf dans les cas prévus aux articles 1 et 4 de la loi constitutionnelle du 2 novembre 1945 portant organisation provisoire des pouvoirs publics, et à l'article 43 ci-dessus, les votes de l'Assemblée sont émis à la majorité absolue des suffrages exprimés.
+Sauf dans les cas prévus aux articles premier et 4 de la loi constitutionnelle du 2 novembre 1945 portant organisation provisoire des pouvoirs publics, et à l'article 43 ci-dessus, les votes de l'Assemblée sont émis à la majorité absolue des suffrages exprimés.
 
 ## Article 64
 
@@ -718,7 +718,7 @@ En aucun cas, les rectifications ne peuvent modifier le résultat proclamé en s
 
 Tout Député qui veut interpeller le Gouvernement remet au Président une demande écrite expliquant sommairement l'objet de l'interpellation.
 
-Le Président notifie immédiatement cette demande au Gouvernement et en donne connaissance à l'Assemblée le 1 jour de séance qui suit la notification.
+Le Président notifie immédiatement cette demande au Gouvernement et en donne connaissance à l'Assemblée le premier jour de séance qui suit la notification.
 
 ## Article 75
 
@@ -952,4 +952,4 @@ Il est interdit à tout Député d'exciper ou de laisser user de sa qualité dan
 
 ## Article 101
 
-Les communications et les transmissions des délibérations de l'Assemblée au Gouvernement sont faites par le Président de l'Assemblée au Président du Gouvernement Provisoire de la République française. 
+Les communications et les transmissions des délibérations de l'Assemblée au Gouvernement sont faites par le Président de l'Assemblée au Président du Gouvernement Provisoire de la République française.
