@@ -1,4 +1,4 @@
-# CHAPITRE PREMIER GROUPES
+# CHAPITRE PREMIER GROUPES
 
 ## Article 1
 
@@ -34,13 +34,13 @@ Chaque commission spéciale demeure compétente jusqu'au vote définitif par le 
 
 ## Article 3
 
-L'Assemblée nomme, en séance publique, six commissions permanentes dont la dénomination, la composition et la compétence sont fixées ci-dessous :
+L'Assemblée nomme, en séance publique, six commissions permanentes dont la dénomination, la composition et la compétence sont fixées ci-dessous :
 
-1° commission des affaires culturelles, familiales et sociales (120 membres) :
+1° commission des affaires culturelles, familiales et sociales (120 membres) :
 
 Enseignement, arts et lettres, jeunesse et sports, rayonnement culturel ; population, famille, santé publique ; pensions civiles, militaires et d'invalidité ; travail ; sécurité sociale ; information sous toutes ses formes ;
 
-2° commission des affaires étrangères (60 membres) ;
+2° commission des affaires étrangères (60 membres) ;
 
 3° commission de la défense nationale et des forces armées (90 membres) ;
 
@@ -68,9 +68,9 @@ Un député ne peut faire partie que d'une seule commission permanente.
 
 En cas de vacance, il est pourvu au remplacement selon la procédure prévue à l'article 4 ci-dessus.
 
-Cesse de plein droit d'appartenir aux commissions :
+Cesse de plein droit d'appartenir aux commissions :
 
-1° le député qui n'appartient plus au groupe ou à la formation auquel ou à laquelle il appartenait lors de sa nomination ;
+1° le député qui n'appartient plus au groupe ou à la formation auquel ou à laquelle il appartenait lors de sa nomination ;
 
 2° le député chargé d'une mission temporaire en application de l'article 13 de l'ordonnance du 24 octobre 1958 portant loi organique relative aux conditions d'éligibilité et aux incompatibilités parlementaires.
 
@@ -128,7 +128,7 @@ Les candidatures transmises au Président de l'Assemblée sont publiées au Jour
 
 Au cours de la séance prévue pour la nomination, le Président donne avis de cet affichage à l'Assemblée.
 
-Pendant un délai d'une heure après cet avis, il peut être fait opposition à une liste de candidats ; signée par 30 députés au moins, dont les noms sont publiés au Journal officiel à la suite du compte rendu intégral.
+Pendant un délai d'une heure après cet avis, il peut être fait opposition à une liste de candidats ; signée par 30 députés au moins, dont les noms sont publiés au Journal officiel à la suite du compte rendu intégral.
 
 A l'expiration d'un délai d'une heure et s'il n'y a pas d'opposition, les listes de candidats sont considérées comme ratifiées par l'Assemblée.
 
@@ -148,7 +148,7 @@ Si, à l'expiration de ce délai, le nombre des candidats n'est pas supérieur a
 
 Pour ces scrutins, sont distribués par les soins de la Présidence les bulletins portant les noms ou la liste des candidats. Sont valables les suffrages exprimés dans les enveloppes ne contenant pas plus de noms qu'il y a de membres à nommer.
 
-La majorité absolue est requise aux deux premiers tours de scrutin ; la majorité relative suffit au troisième tour et, en cas d'égalité des suffrages, le plus âgé est nommé.
+La majorité absolue est requise aux deux premiers tours de scrutin ; la majorité relative suffit au troisième tour et, en cas d'égalité des suffrages, le plus âgé est nommé.
 
 II. - Lorsqu'en vertu d'un décret ou d'un arrêté ministériel, l'Assemblée doit nommer des membres d'un organisme extraparlementaire, le Président de l'Assemblée transmet la demande de désignation émanant du Gouvernement à la commission compétente. Celle-ci fait part de sa décision au ministère intéressé par l'intermédiaire du Président de l'Assemblée.
 
@@ -182,7 +182,7 @@ Les ministres ont accès dans les commissions lorsqu'ils le demandent. Le prési
 
 Chaque commission peut demander, par l'entremise du Président de l'Assemblée, l'audition d'un rapporteur du Conseil économique et social. L'auteur d'une proposition ou d'un amendement doit, s'il en fait la demande au président de la commission, être convoqué aux séances de la commission consacrées à l'examen de son texte ; il se retire au moment du vote.
 
-Toute commission peut désigner un ou plusieurs de ses membres à l'effet de participer, avec voix consultative, aux travaux de la commission des finances, de l'économie générale et du plan, pendant l'examen des articles de loi ou des chapitres de crédits ressortissant à sa compétence : ce ou ces délégués doivent être convoqués par la commission des finances, de l'économie générale et du plan.
+Toute commission peut désigner un ou plusieurs de ses membres à l'effet de participer, avec voix consultative, aux travaux de la commission des finances, de l'économie générale et du plan, pendant l'examen des articles de loi ou des chapitres de crédits ressortissant à sa compétence : ce ou ces délégués doivent être convoqués par la commission des finances, de l'économie générale et du plan.
 
 Les rapporteurs spéciaux de la commission des finances, de l'économie générale et du plan doivent être convoqués en vue de participer, avec voix consultative, aux travaux des commissions dont la compétence correspond au budget particulier dont ils ont le rapport.
 
@@ -190,7 +190,7 @@ Les rapporteurs spéciaux de la commission des finances, de l'économie généra
 
 I. — A la diligence du Président de l'Assemblée, les commissions permanentes sont saisies d'initiatives déposées sur le bureau de l'Assemblé qui rentrent dans leur compétence et dont l'examen n'a pas été renvoyé à une commission spéciale.
 
-Dans le cas où une commission permanente se déclare incompétente ou en cas de conflit de compétence entre deux ou plusieurs de ces commissions, le Président, après un débat où sont seuls entendus l'auteur de l'initiative et les présidents des commissions intéressées, propose par priorité à l'Assemblée la création d'une commission spéciale ; si cette proposition est rejetée, le Président soumet à l'Assemblée la question de compétence.
+Dans le cas où une commission permanente se déclare incompétente ou en cas de conflit de compétence entre deux ou plusieurs de ces commissions, le Président, après un débat où sont seuls entendus l'auteur de l'initiative et les présidents des commissions intéressées, propose par priorité à l'Assemblée la création d'une commission spéciale ; si cette proposition est rejetée, le Président soumet à l'Assemblée la question de compétence.
 
 II. - Toute commission permanente qui s'estime compétente pour donner son avis sur une affaire renvoyée à une autre commission, permanente ou spéciale, informe le Président de l'Assemblée de sa demande d'avis qui est communiquée à l'Assemblée pour décision.
 
@@ -348,9 +348,9 @@ L'Assemblée décide ultérieurement de la publication éventuelle du compte ren
 
 ## Article 25
 
-Le Président ouvre la séance, dirige les délibérations, fait observer le règlement et maintient l'ordre ; il peut, à tout moment, suspendre ou lever la séance.
+Le Président ouvre la séance, dirige les délibérations, fait observer le règlement et maintient l'ordre ; il peut, à tout moment, suspendre ou lever la séance.
 
-Les secrétaires surveillent la rédaction du procès-verbal, constatent les votes à mains levée, par assis et levé ou par appel nominal et dépouillent les scrutins ; ils contrôlent les délégations de vote ; la présence d'au moins deux d'entre eux au bureau est obligatoire. A défaut de cette bouble présence, ou en cas de partage égal de leurs avis, le Président décide.
+Les secrétaires surveillent la rédaction du procès-verbal, constatent les votes à mains levée, par assis et levé ou par appel nominal et dépouillent les scrutins ; ils contrôlent les délégations de vote ; la présence d'au moins deux d'entre eux au bureau est obligatoire. A défaut de cette bouble présence, ou en cas de partage égal de leurs avis, le Président décide.
 
 Au début de chaque séance, le Président soumet à l'adoption de l'Assemblée le procès-verbal de la séance précédente ; le procès-verbal de la dernière séance d'une session est soumis à l'approbation de l'Assemblée avant que cette séance soit levée. Les observations sur le procès-verbal ne peuvent excéder cinq minutes.
 
@@ -474,9 +474,9 @@ En séance, il n'est d'amendements que ceux rédigés par écrit, signés par l'
 
 Les amendements doivent être sommairement motivés; ils sont communiqués par la Présidence à la commission saisie au fond, imprimés et distribués; toutefois, le défaut d'impression et de distribution d'un amendement ne peut faire obstacle à sa discussion en séance publique.
 
-Les contre-projets sont interdits ; les amendements ne sont recevables que s'ils portent sur un seul article. Les sous-amendements ne sont recevables que dans la mesure où ils ne contredisent pas le sens de l'amendement. Les sous-amendements ne peuvent être amendés. La recevabilité des amendements au sens du présent alinéa, est appréciée par le Président.
+Les contre-projets sont interdits ; les amendements ne sont recevables que s'ils portent sur un seul article. Les sous-amendements ne sont recevables que dans la mesure où ils ne contredisent pas le sens de l'amendement. Les sous-amendements ne peuvent être amendés. La recevabilité des amendements au sens du présent alinéa, est appréciée par le Président.
 
-Les amendements et les sous-amendements ne sont recevables que s'ils s'appliquent effectivement au texte qu'ils visent ou, s'agissant d'articles additionnels, s'ils sont proposés dans le cadre du projet ou de la proposition ; dans les cas litigieux, la question de leur recevabilité est soumise, avant leur discussion, à la décision de l'Assemblée. Seul l'auteur de l'amendement, un orateur « contre », la commission et le Gouvernement peuvent intervenir.
+Les amendements et les sous-amendements ne sont recevables que s'ils s'appliquent effectivement au texte qu'ils visent ou, s'agissant d'articles additionnels, s'ils sont proposés dans le cadre du projet ou de la proposition ; dans les cas litigieux, la question de leur recevabilité est soumise, avant leur discussion, à la décision de l'Assemblée. Seul l'auteur de l'amendement, un orateur « contre », la commission et le Gouvernement peuvent intervenir.
 
 S'il apparaît évident que l'adoption d'un amendement aurait les conséquences prévues par l'article 40 de la Constitution, le Président en refuse le dépôt. En cas de doute, le Président décide après avoir consulté le président ou le rapporteur général de la commission des finances, de 1'économie générale et du plan ; à défaut d'avis, le Président peut saisir le Bureau de l'Assemblée.
 
@@ -596,7 +596,7 @@ II. - Pour un scrutin public à la tribune, tous les députés sont appelés nom
 
 Chaque député remet son bulletin à l'un des secrétaires qui le dépose dans une urne placée sur la tribune. Il est procédé à l'émargement des noms des votants au fur et à mesure des votes émis.
 
-Le scrutin reste ouvert pendant quarante-cinq minutes ; il est dépouillé par les secrétaires et son résultat est proclamé par le Président.
+Le scrutin reste ouvert pendant quarante-cinq minutes ; il est dépouillé par les secrétaires et son résultat est proclamé par le Président.
 
 ## Article 44
 
@@ -610,7 +610,7 @@ Lorsqu'il y a lieu à pointage d'un scrutin portant sur une demande de suspensio
 
 ## Article 45
 
-Les scrutins secrets pour des nominations personnelles en assemblée générale ont lieu,  soit en séance, soit dans les salles voisines dans les conditions ci-après :
+Les scrutins secrets pour des nominations personnelles en assemblée générale ont lieu,  soit en séance, soit dans les salles voisines dans les conditions ci-après :
 
 I. - Lorsque le scrutin à lieu en séance, il y est procédé dans les conditions prévues à l'article 43, paragraphe II.
 
@@ -760,7 +760,7 @@ La question orale avec débat est appelée par le Président. Son auteur la dév
 
 ## Article 57
 
-Après la clôture de la discussion générale d'une question orale avec débat, il est donné lecture des propositions de résolution consécutives à la question orale qui sont discutées séance tenante sans renvoi à la commission compétente ; s'il n'est pas déposé de proposition de résolution, le Président constate qu'il y a lieu de passer à la suite de l'ordre du jour.
+Après la clôture de la discussion générale d'une question orale avec débat, il est donné lecture des propositions de résolution consécutives à la question orale qui sont discutées séance tenante sans renvoi à la commission compétente ; s'il n'est pas déposé de proposition de résolution, le Président constate qu'il y a lieu de passer à la suite de l'ordre du jour.
 
 Ces propositions de résolution sont remises au Président. Elles sont immédiatement distribuées et le Président en donne lecture, dès la clôture de la discussion générale.
 
@@ -848,7 +848,7 @@ Le rappel à l'ordre avec inscription au procès-verbal comporte de droit la pri
 
 ## Article 64
 
-La censure est prononcée contre tout député :
+La censure est prononcée contre tout député :
 
 1° Qui, après un rappel à l'ordre avec inscription au procès-verbal, n'a pas déféré aux injonctions du Président ;
 

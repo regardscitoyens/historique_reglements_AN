@@ -84,9 +84,9 @@ Cette élection a lieu quand les pouvoirs de la moitié plus un des membres de l
 
 ## Article 10
 
-Le Bureau définitif de l'Assemblée nationale Constituante se compose de :
+Le Bureau définitif de l'Assemblée nationale Constituante se compose de :
 
-1 Président ; 5 Vice-Présidents ; 8 Secrétaires ; 3 Questeurs.
+1 Président ; 5 Vice-Présidents ; 8 Secrétaires ; 3 Questeurs.
 
 Les Vice-Présidents suppléent le Président en cas d'absence. L'ordre de suppléance est établi par le Bureau.
 
@@ -118,7 +118,7 @@ Nul ne peut figurer sur la liste de plusieurs groupes.
 
 ## Article 13
 
-Est interdite la constitution, au sein de l'Assemblée, de groupes dits « de défense d'intérêts particuliers, locaux ou professionnels ».
+Est interdite la constitution, au sein de l'Assemblée, de groupes dits « de défense d'intérêts particuliers, locaux ou professionnels ».
 
 # CHAPITRE VI commissions
 
@@ -144,35 +144,35 @@ L'Assemblée nomme, dans son sein, pour toute sa durée, 17 Comnmissions génér
 
 1° commission des affaires économiques des douanes et conventions commerciales ;
 
-2° commission des affaires étrangères ;
+2° commission des affaires étrangères ;
 
-3° commission de l'agriculture et du ravitaillement ;
+3° commission de l'agriculture et du ravitaillement ;
 
-4° commission de la défense nationale ;
+4° commission de la défense nationale ;
 
 5° commission de l'éduction nationale et des beaux-arts, de la jeunesse, des sports et des loisirs ;
 
-6° commission de l'équipement national et de la production (travaux publics, mines, forces motrices) ;
+6° commission de l'équipement national et de la production (travaux publics, mines, forces motrices) ;
 
-7° commission de la famille, de la population et de la santé publique ;
+7° commission de la famille, de la population et de la santé publique ;
 
-8° commission des finances et du contrôle budgétaire ;
+8° commission des finances et du contrôle budgétaire ;
 
-9° commission de l'intérieur, de l'Algérie et de l'administration générale, départementale et communale) ;
+9° commission de l'intérieur, de l'Algérie et de l'administration générale, départementale et communale) ;
 
-10° commission de la justice et de législation générale ;
+10° commission de la justice et de législation générale ;
 
-11° commission des moyens de communication (chemins de fer, marine marchande et pêches et lignes aériennes) et des postes, télégraphes et téléphones ;
+11° commission des moyens de communication (chemins de fer, marine marchande et pêches et lignes aériennes) et des postes, télégraphes et téléphones ;
 
-12° commission des pensions civiles et militaires et des victimes de la guerre et de la répression ;
+12° commission des pensions civiles et militaires et des victimes de la guerre et de la répression ;
 
-13° commission de la presse, de la radio et du cinéma ;
+13° commission de la presse, de la radio et du cinéma ;
 
-14° commission de la reconstruction et des dommages de guerre ;
+14° commission de la reconstruction et des dommages de guerre ;
 
-15° commission du règlement et des pétitions ;
+15° commission du règlement et des pétitions ;
 
-16° commission des territoires d'outre-mer ;
+16° commission des territoires d'outre-mer ;
 
 17° commission du travail et de la sécurité sociale.
 
@@ -210,9 +210,9 @@ La commission du règlement et des pétitions et la commission de comptabilité 
 
 Dès leur nomination, les commissions, convoquées par le Président de l'Assemblée, nomment leur Bureau en s'efforçant de donner à chacun des groupes une représentation correspondant à son importance numérique.
 
-Le Bureau se compose de :
+Le Bureau se compose de :
 
-1 Président ; 2 Vice-Présidents ; 2 Secrétaires.
+1 Président ; 2 Vice-Présidents ; 2 Secrétaires.
 
 Seules, la commission de la Constitution et la commission des finances nomme un Rapporteur général.
 
@@ -236,7 +236,7 @@ Ils sont renvoyés à la commission compétente ou à une commission spéciale, 
 
 ## Article 22
 
-Les propositions de loi ou de résolution déposées par les Députés sont formulées par écrit et précédées d'un exposé des motifs ; les propositions de loi sont rédigées en articles.
+Les propositions de loi ou de résolution déposées par les Députés sont formulées par écrit et précédées d'un exposé des motifs ; les propositions de loi sont rédigées en articles.
 
 Elles sont déposées sur le Bureau de l'Assemblée, renvoyées à la commission compétente ou à une commission spéciale, imprimées et distribuées.
 
@@ -304,7 +304,7 @@ Le vote par scrutin est de droit, en toutes matières, lorsqu'il est demandé pa
 
 Lorsqu'un vote ne peut avoir lieu faute de quorum, le scrutin a lieu valablement, quel que soit le nombre des membres présents, dans la séance suivante, qui ne peut être tenue moins d'une heure après.
 
-Le lendemain de chaque séance de commission, les noms des membres présents, excusés ou absents par congé, sont insérés au Journal officiel ; le report d'un vote, faute de quorum, y est également mentionné.
+Le lendemain de chaque séance de commission, les noms des membres présents, excusés ou absents par congé, sont insérés au Journal officiel ; le report d'un vote, faute de quorum, y est également mentionné.
 
 L'absence d'un membre, sans motif valable, durant trois séances consécutives, doit être notifiée par le Président de la commission au groupe intéressé, en vue de son remplacement.
 
@@ -318,7 +318,7 @@ Il est publié chaque semaine un Bulletin des commissions dans lequel sont insé
 
 Les Vice-Présidents de l'Assemblée, les Présidents des commissions et les Présidents des groupes d'au moins 14 membres sont convoqués, chaque semaine, s'il y a lieu, par le Président de l'Assemblée, en vue d'examiner l'ordre de ses travaux et d'examiner toutes propositions concernant le règlement de l'ordre du jour.
 
-Le Gouvernement est avisé par le Président du jour et de l'heure de la Conférence ; il peut y déléguer un représentant.
+Le Gouvernement est avisé par le Président du jour et de l'heure de la Conférence ; il peut y déléguer un représentant.
 
 A la fin de la séance suivant la réunion de la Conférence, le Président soumet les propositions de la Conférence à l'approbation de l'Assemblée.
 
@@ -382,7 +382,7 @@ Les Secrétaires surveillent la rédaction du procès-verbal, la présence d'au 
 
 Au début de chaque séance, le Président soumet à l'adoption de l'Assemblée le procès-verbal de la séance précédente.
 
-En cas de rejet du procès-verbal, sa discussion est inscrite en tête de l'ordre du jour de la séance suivante ; dans ce cas, le compte rendu in extenso, signé du Président et contresigné de deux Secrétaire, fait foi pour la validité des textes adoptés au cours de la séance.
+En cas de rejet du procès-verbal, sa discussion est inscrite en tête de l'ordre du jour de la séance suivante ; dans ce cas, le compte rendu in extenso, signé du Président et contresigné de deux Secrétaire, fait foi pour la validité des textes adoptés au cours de la séance.
 
 Après son adoption, le procès-verbal est revêtu de la signature du Président ou du Vice-Président qui a présidé la séance et de celles de deux Secrétaires.
 
@@ -412,7 +412,7 @@ Si l'orateur parle sans avoir obtenu la parole ou s'il prétend la conserver apr
 
 L'orateur doit se renfermer dans la question. S'il s'en écarte, le Président l'y rappelle.
 
-Si l'orateur, rappelé deux fois à la question dans le même discours, continue à s'en écarter, le Président doit consulter l'Assemblée pour savoir si la parole ne sera pas interdite à l'orateur, sur le même sujet, pendant le reste de la séance. La décision est prise, sans débat, à main levée ; en cas de doute, la parole n'est pas interdite a l'orateur.
+Si l'orateur, rappelé deux fois à la question dans le même discours, continue à s'en écarter, le Président doit consulter l'Assemblée pour savoir si la parole ne sera pas interdite à l'orateur, sur le même sujet, pendant le reste de la séance. La décision est prise, sans débat, à main levée ; en cas de doute, la parole n'est pas interdite a l'orateur.
 
 ## Article 40
 
@@ -434,7 +434,7 @@ Dès que la clôture d'une discussion est prononcée, elle a un effet immédiat 
 
 ## Article 42
 
-Lorsqu'il est présenté une motion préjudicielle ou incidente, elle est mise aux voix avant la question principale. Seul l'auteur de la motion et un orateur contre ont la parole ; ils peuvent céder leur droit de parole à un de leurs collègues.
+Lorsqu'il est présenté une motion préjudicielle ou incidente, elle est mise aux voix avant la question principale. Seul l'auteur de la motion et un orateur contre ont la parole ; ils peuvent céder leur droit de parole à un de leurs collègues.
 
 Le renvoi à la commission de l'ensemble d'un projet ou d'une proposition, ou d'un article peut toujours être demandé. Lorsqu'il est demandé ou accepté par la commission, il est de droit.
 
@@ -450,7 +450,7 @@ Le scrutin a lieu à la tribune et la majorité absolue des membres composant l'
 
 ## Article 44
 
-Les demandes touchant à l'ordre du jour, les demandes de priorité ou de rappel au Règlement ont toujours la préférence sur la question principale ; elles en suspendent la discussion. Elles ne peuvent se produire tant que l'orateur n'a pas achevé son discours.
+Les demandes touchant à l'ordre du jour, les demandes de priorité ou de rappel au Règlement ont toujours la préférence sur la question principale ; elles en suspendent la discussion. Elles ne peuvent se produire tant que l'orateur n'a pas achevé son discours.
 
 Dans les questions complexes, la division est de droit lorsqu'elle est demandée. Elle peut être proposée par le Président.
 
@@ -480,7 +480,7 @@ Lorsque la discussion a commencé, la suite du débat est inscrite, de droit, en
 
 ## Article 49
 
-Les projets et propositions d'ordres constitutionnel sont adoptés après délibération en séance publique dans les conditions suivantes :
+Les projets et propositions d'ordres constitutionnel sont adoptés après délibération en séance publique dans les conditions suivantes :
 
 Il est procédé, tout d'abord, à une discussion générale du projet ou de la proposition.
 
@@ -492,7 +492,7 @@ Dans le cas contraire, la discussion continue et elle porte successivement sur c
 
 Après le vote de tous les articles, il est procédé au vote sur l'ensemble.
 
-Il ne peut être présenté de considérations générales sur l'ensemble ; sont seules admises avant le vote d'ensemble, s'il y a scrutin, les explications sommaires n'excédant pas cinq minutes.
+Il ne peut être présenté de considérations générales sur l'ensemble ; sont seules admises avant le vote d'ensemble, s'il y a scrutin, les explications sommaires n'excédant pas cinq minutes.
 
 Le vote sur l'ensemble des projets et propositions d'ordre constitutionnel a lieu au scrutin public à la tribune dans les conditions prévues à l'article 71.
 
@@ -550,7 +550,7 @@ Avant l'examen de chaque budget particulier, le rapporteur spécial de la commis
 
 ## Article 56
 
-Il ne peut être introduit dans les lois de de recettes et de dépenses que des dispositions visant directement les recettes ou les dépenses de l'exercice ; aucune proposition de résolution, aucune interpellation, aucun ordre du jour motivé ne peuvent leur être joints.
+Il ne peut être introduit dans les lois de de recettes et de dépenses que des dispositions visant directement les recettes ou les dépenses de l'exercice ; aucune proposition de résolution, aucune interpellation, aucun ordre du jour motivé ne peuvent leur être joints.
 
 Les amendements relatifs aux états de dépenses ne peuvent porter que sur les chapitres desdits états.
 
@@ -578,7 +578,7 @@ Tout projet d'approbation de traité, qui a été rejeté ou ajourné, peut êtr
 
 ## Article 58
 
-Les amendements, obligatoirement rédigés par écrit, sont déposés par les députés entre les mains du Président ; ils peuvent être sommairement motivés.
+Les amendements, obligatoirement rédigés par écrit, sont déposés par les députés entre les mains du Président ; ils peuvent être sommairement motivés.
 
 Ils doivent préciser l'article de loi ou le chapitre du budget auquel ils se rapportent, et ils ne sont recevables que s'ils sont proposés dans le cadre du projet ou de la proposition et s'ils s'appliquent effectivement à l'article ou au chapitre qu'ils visent.
 
@@ -760,7 +760,7 @@ Les questions doivent être très sommairement rédigées et ne contenir aucune 
 
 ## Article 79
 
-Sur proposition de la Conférence des Présidents, les questions orales sont inscrites, d'office à l'ordre du jour de la séance d'un mardi après-midi ; il ne peut être consacré chaque mois plus de deux séances à cette discussion.
+Sur proposition de la Conférence des Présidents, les questions orales sont inscrites, d'office à l'ordre du jour de la séance d'un mardi après-midi ; il ne peut être consacré chaque mois plus de deux séances à cette discussion.
 
 Ne peuvent être inscrites à l'ordre du jour de cette séance que les questions déposées au plus tard le jeudi précédent.
 
@@ -848,9 +848,9 @@ Les députations de l'Assemblée sont désignées par la voie du sort ; le nombr
 
 ## Article 89
 
-Les peines disciplinaires applicables aux membres de l'Assemblée sont :
+Les peines disciplinaires applicables aux membres de l'Assemblée sont :
 
-- le rappel à l'ordre ; - la censure ; - la censure avec exclusion temporaire.
+- le rappel à l'ordre ; - la censure ; - la censure avec exclusion temporaire.
 
 ## Article 90
 
@@ -864,23 +864,23 @@ Lorsqu'un orateur a été rappelé deux fois à l'ordre dans la même séance, l
 
 ## Article 91
 
-La censure est prononcée contre tout Député :
+La censure est prononcée contre tout Député :
 
-1° Qui, après un rappel à l'ordre, n'a pas déféré aux injonctions du Président ;
+1° Qui, après un rappel à l'ordre, n'a pas déféré aux injonctions du Président ;
 
-2° Qui, dans l'Assemblée, a provoqué une scène tumultueuse ;
+2° Qui, dans l'Assemblée, a provoqué une scène tumultueuse ;
 
 3° Qui a adressé à un ou plusieurs de ses collègues des injures, provocations ou menaces.
 
 ## Article 92
 
-La censure avec exclusion temporaire du Palais de l'Assemblée est prononcée contre tout Député :
+La censure avec exclusion temporaire du Palais de l'Assemblée est prononcée contre tout Député :
 
-1° Qui a résisté à la censure simple ou qui a subi deux fois cette sanction ;
+1° Qui a résisté à la censure simple ou qui a subi deux fois cette sanction ;
 
-2° Qui, en séance publique, a fait appel à la violence ;
+2° Qui, en séance publique, a fait appel à la violence ;
 
-3° Qui s'est rendu coupable d'outrages envers l'Assemblée ou envers son Président ;
+3° Qui s'est rendu coupable d'outrages envers l'Assemblée ou envers son Président ;
 
 4° Qui s'est rendu coupable d'injures, provocations ou menaces envers les membres du Gouvernement ou son Président.
 
