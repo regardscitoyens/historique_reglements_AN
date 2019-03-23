@@ -2,7 +2,7 @@ CHAPITRE PREMIER
 
 GROUPES
 
-## Article premier.
+## Article 1
 
 Les députés peuvent s'organiser en groupes par affinités politiques ; aucun groupe ne peut comprendre moins de 3o membres, non compris les députés apparentés dans les conditions prévues à l'alinéa 3 ci-dessous.
 

@@ -4,7 +4,7 @@ adoptée le 22 novembre 1945.
 
 # CHAPITRE PREMIER Dénomination de l'Assemblée et de ses Membres.
 
-## Article premier.
+## Article 1
 
 L'Assemblée élue le 21 octobre 1945 se dénomme Assemblée Nationale Constituante.
 
