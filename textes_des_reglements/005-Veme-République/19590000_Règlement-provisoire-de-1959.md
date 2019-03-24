@@ -1,6 +1,6 @@
 # CHAPITRE PREMIER GROUPES
 
-## Article 1
+## Article 1er
 
 Les députés peuvent s'organiser en groupes par affinités politiques ; aucun groupe ne peut comprendre moins de 3o membres, non compris les députés apparentés dans les conditions prévues à l'alinéa 3 ci-dessous.
 
@@ -330,7 +330,7 @@ Si, au cours d'un débat organisé, il devient manifeste que les temps de parole
 
 L'Assemblée se réunit chaque semaine en séance publique dans l'après-midi des mardi, mercredi, jeudi et vendredi, sur proposition de la conférence des Présidents.
 
-L'Assemblée peut à tout moment décider que les dispositions de l'alinéa premier sont suspendues.
+L'Assemblée peut à tout moment décider que les dispositions de l'alinéa 1 sont suspendues.
 
 Si l'examen de l'ordre du jour qu'elle établit l'exige, la conférence des Présidents peut proposer à l'Assemblée de tenir d'autres séances, à l'exception des matinées des mardi, mercredi, jeudi et vendredi, réservées aux réunions des commissions.
 
@@ -716,7 +716,7 @@ Seuls les députés favorables à la motion de censure participent au vote en re
 
 Lorsqu'en application au troisième alinéa de l'article 49 de la Constitution, le Premier Ministre engage la responsabilité du Gouvernement sur le vote d'un texte, le débat est immédiatement suspendu durant vingt-quatre heures.
 
-Dans ce délai et par dérogation à la disposition de l'alinéa premier de l'article précédent, une motion de censure, répondant aux conditions fixées par cet article, peut être déposée. Dans ce cas, le libellé de la motion doit préciser qu'elle est déposée en application de l'article 49 (alinéa 3) de la Constitution.
+Dans ce délai et par dérogation à la disposition de l'alinéa 1 de l'article précédent, une motion de censure, répondant aux conditions fixées par cet article, peut être déposée. Dans ce cas, le libellé de la motion doit préciser qu'elle est déposée en application de l'article 49 (alinéa 3) de la Constitution.
 
 L'Assemblée se réunit à l'expiration du délai précité pour prendre acte soit de l'adoption du texte soit du dépôt d'une motion de censure.
 
@@ -906,7 +906,7 @@ Si un fait délictueux est commis par un député dans l'enceinte du Palais pend
 
 Séance tenante, le Président porte le fait à la connaissance de l'Assemblée.
 
-Si le fait visé à l'alinéa premier est commis pendant une suspension ou après la levée de la séance, le Président porte le fait à la connaissance de l'Assemblée à la reprise de la séance ou au début de la séance suivante.
+Si le fait visé à l'alinéa 1 est commis pendant une suspension ou après la levée de la séance, le Président porte le fait à la connaissance de l'Assemblée à la reprise de la séance ou au début de la séance suivante.
 
 Le député est admis à s'expliquer, s'il le demande. Sur l'ordre du Président, il est tenu de quitter la salle des séances et retenu dans 1e Palais.
 
