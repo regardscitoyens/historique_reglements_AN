@@ -706,7 +706,7 @@ Le débat est organisé. S'il y a plusieurs motions, la conférence peut décide
 
 Aucun retrait d'une motion de censure n'est possible après sa mise en discussion. Lorsque la discussion est engagée, elle doit être poursuivie jusqu'au vote.
 
-Après une discussion générale, la parole peut être accordée pour des explications de vote de cinq minutes. Les dispositions relatives à la clôture, prévues aux alinéas 5 et 6 de l'article 5o, sont applicables.
+Après une discussion générale, la parole peut être accordée pour des explications de vote de cinq minutes. Les dispositions relatives à la clôture, prévues aux alinéas 5 et 6 de l'article 50, sont applicables.
 
 Il ne peut être présenté d'amendement à une motion de censure.
 
