@@ -11,4 +11,6 @@ Ce dépot a pour objectif d'utiliser les données numérisées, avec l'aide du L
     rm -rf textes_des_reglements/
     bash bin/generate.sh
 
+## Génération de l'historique sous git
 
+    ./bin/make_git_repo

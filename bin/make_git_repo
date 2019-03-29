@@ -1,0 +1,75 @@
+#!/usr/bin/env python
+"""
+converts the versions into a Git repository
+
+# Git-interaction code inspired by the-law-factory-parser/tlfp/tools/make_git_repos.py
+"""
+
+import os
+import shutil
+import shlex
+from pathlib import Path
+import argparse
+import glob
+
+
+def call(cmd, silent=True):
+    if silent:
+        cmd += '> /dev/null'
+    code = os.system(cmd)
+    if code != 0:
+        raise Exception('"{}"" returned {}'.format(cmd, code))
+
+
+def call_bash(cmd):
+    call("bash -c " + shlex.quote(cmd))
+
+
+def main(args):
+    git_dir = Path(args.dest)
+    text_dest = git_dir / "règlement.md"
+    shutil.rmtree(str(git_dir), ignore_errors=True)
+    os.makedirs(str(git_dir))
+
+    call_bash(
+        "(cd %s;" % git_dir.absolute()
+        + "git init)"
+    )
+
+    versions_path = str(Path(__file__).parent / '..' / 'textes_des_reglements')
+    versions = glob.glob(versions_path + '/**/*.md', recursive=True)
+    for filepath in sorted(versions):
+        filename = Path(filepath).stem
+        with open(filepath) as f:
+            with open(str(text_dest), "w") as dest_f:
+                dest_f.write(f.read())
+
+        author = "Assemblée nationale"
+        author_email = "contact@assemblee-nationale.fr"
+        date, _ = filename.split('_')
+        yyyy, mm, dd = date[:4], date[4:6], date[6:]
+        message = "Version du {}/{}/{}\n\nFichier: {}".format(dd, mm, yyyy, filepath.split('textes_des_reglements/')[1])
+        date = "{}-{}-{}T00:00:00".format(yyyy, mm, dd)
+
+        call_bash(
+            "(cd %s" % git_dir.absolute()
+            + "; git add *;"
+            + "git status;"
+            + "git config --local user.name %s;" % author
+            + "git config --local user.email %s;" % author_email
+            + " git commit --date=format:iso:{} --author={} -m {} --allow-empty )".format(
+                shlex.quote(date),
+                shlex.quote("{} <{}>".format(author, author_email)),
+                shlex.quote(message),
+            )
+        )
+    print('Finished, resulting repository:', git_dir)
+
+
+if __name__ == '__main__':
+    cls = argparse.RawDescriptionHelpFormatter
+    parser = argparse.ArgumentParser(description=__doc__, formatter_class=cls)
+    parser.add_argument('dest', nargs='?', default='git_export', help='Location of the created git repository')
+    args = parser.parse_args()
+
+    main(args)
