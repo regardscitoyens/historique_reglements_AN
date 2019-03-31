@@ -150,7 +150,7 @@ Est interdite la constitution, au sein de l'Assemblée, de groupes dits « de d�
 
 ## Article 14
 
-Au début de chaque législature, l'Assemblée nomme, en séance publique, 19 Commissions générales, de 44 membres chacune, qui prennent les dénominations suivantes :
+Au début de chaque législature, l'Assemblée nomme, en séance publique, 19 Cmnmissions générales, de 44 membres chacune, qui prennent les dénominations suivantes :
 
 1° commission des affaires économiques (douanes et conventions commerciales) ;
 
@@ -176,7 +176,7 @@ Au début de chaque législature, l'Assemblée nomme, en séance publique, 19 Co
 
 12° commission des pensions (pensions civiles et militaires et victimes de la guerre et de l'oppression) ;
 
-13° commission de la presse (radio et cinéma) ;
+13° commission de la presse (radio et cinéma et télévision) ;
 
 14° commission de la production industrielle ;
 
