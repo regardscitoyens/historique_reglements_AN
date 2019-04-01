@@ -14,3 +14,13 @@ Ce dépot a pour objectif d'utiliser les données numérisées, avec l'aide du L
 ## Génération de l'historique sous git
 
     ./bin/make_git_repo
+
+Pour mettre à jour la branche `[historique](https://github.com/regardscitoyens/historique_reglements_AN/commits/historique)`:
+
+    git branch -D historique
+    git remote add export git_export
+    git fetch git_export
+    git checkout export/master
+    git branch historique
+    git push -f origin historique
+
