@@ -810,6 +810,8 @@ Elle ne pourra décider la tenue de séances supplémentaires qu'à la demande d
 
 Lorsqu'il y a lieu à des séances supplémentaires, et sauf circonstances exceptionnelles, elles se tiennent les mardi, jeudi ou vendredi matin.
 
+Toute séance qui se tient ou se prolonge au delà de 21 heures est considérée comme une séance supplémentaire. L'initiative n'en peut être prise que dans les conditions prévues à l'alinéa 2 du présent article.
+
 Le mercredi est réservé au travail des commissions.
 
 ## Article 95
