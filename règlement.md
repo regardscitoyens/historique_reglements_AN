@@ -78,7 +78,7 @@ Le doyen d'âge invite le Président à prendre place immédiatement au fauteuil
 
 ## Article 10
 
-Les autres membres du Bureau sont élus, au début de chaque législature, au cours de la séance qui suit l'élection du Président et renouvelés chaque année, à la séance d'ouverture de la première session ordinaire. Le Président est assisté des six plus jeunes membres de l'Assemblée, qui remplissent les fonctions de secrétaires.
+Les autres membres du Bureau sont élus, au début de chaque législature, au cours de la séance qui suit l'élection du Président et renouvelés chaque année, à la séance d'ouverture de la seconde session ordinaire. Le Président est assisté des six plus jeunes membres de l'Assemblée, qui remplissent les fonctions de secrétaires.
 
 L'élection des vice-présidents, des questeurs et des secrétaires a lieu en s'efforçant de reproduire au sein du Bureau la configuration politique de l'Assemblée.
 
@@ -328,7 +328,7 @@ Agriculture, pèches, commerce, industrie et production de l'énergie, sous tout
 
 Lors la nomination des commissions, les groupes régulièrement constitués dans les conditions fixées à l'article 1 9 disposent, dans chaque commission permanente, d'un nombre de sièges proportionnel à leur importance numérique par rapport à l'effectif maximum de l'ensemble des commissions tel qu'il est prévu à l'article 36.
 
-Les membres des commissions sont nommés par l'Assemblée au début de la législature et, chaque année, à la deuxième séance de la session ordinaire d'octobre, suivant la procédure fixée à l'article 25.
+Les membres des commissions sont nommés par l'Assemblée au début de la législature et, chaque année, à la deuxième séance de la session ordinaire d'avril, suivant la procédure fixée à l'article 25.
 
 Les commissions permanentes peuvent compléter l'effectif maximum prévu à l'article 36 par l'adjonction de membres choisis parmi les députés n'appartenant à aucun groupe, dans la limite d'un par fraction de trente membres de cet effectif.
 
@@ -808,7 +808,7 @@ Les projets de loi, les propositions de loi transmises par le Sénat et les prop
 
 Le dépôt des projets de loi et des propositions transmises par le Sénat est toujours annoncé en séance publique.
 
-Les propositions de loi présentées par les députés sont transmises au Bureau de l'Assemblée ou à certains de ses membres délégués par lui à cet effet lorsque leur irrecevabilité au sens de l'article 40 de la Constitution est évidente, le dépôt en est refusé. Dans les autres cas, le dépôt est annoncé en séance publique.
+Les propositions de loi présentées par les députés sont transmise sau Bureau de l'Assemblée ou à certains de ses membres délégués par lui à cet effet lorsque leur irrecevabilité au sens de l'article 40 de la Constitution est évidente, le dépôt en est refusé. Dans les autres cas, le dépôt est annoncé en séance publique.
 
 ## Article 82
 
@@ -1294,7 +1294,7 @@ Les questions orales doivent être sommairement rédigées et se limiter aux él
 
 Tout député qui désire poser une question orale en remet le texte au Président de l'Assemblée qui le notifie au Gouvernement.
 
-Les questions orales sont publiées, durant les sessions et hors session, au Journal officiel.
+Les questions orales sont publiée, durant les sessions et hors session, au Journal officiel.
 
 Au fur et à mesure de leur dépôt, les questions orales sont inscrites par la Présidence au rôle des questions orales avec débat ou au rôle des questions orales sans débat.
 
