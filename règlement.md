@@ -114,6 +114,10 @@ Ces pièces sont déposées aux archives par les rapporteurs après le vote de l
 
 - Une commission de quinze membres, renouvelée chaque mois dans les bureaux, est chargée de l'examen des projets de lois relatifs à des intérêts communaux et départementaux.
 
+## Article 20 bis
+
+- Une commission de quinze membres, renouvelée chaque année dans les bureaux, est chargée de l'examen des projets de loi affectant des immeubles nationaux aux services publics.
+
 ## Article 21
 
 - Une commission de quinze membres, renouvelée chaque mois dans les bureaux, est chargée de l'examen des pétitions.
