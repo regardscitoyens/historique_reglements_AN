@@ -162,7 +162,7 @@ Au début de chaque législature, l'Assemblée nomme, en séance publique, 19 Co
 
 5° commission de la défense nationale ;
 
-6° commission de l'éduction nationale (beaux-arts, jeunesse, sports et loisirs) ;
+6° commission de l'éducation nationale (beaux-arts, jeunesse, sports et loisirs) ;
 
 7° commission de la famille, de la population et de la santé publique ;
 
@@ -1277,6 +1277,12 @@ Le Député est admis à s'expliquer, s'il le demande. Sur l'ordre du Président
 En cas de résistance du Député ou de tumulte dans l'Assemblée, le Président lève à l'instant la séance.
 
 Le Bureau informe sur-le-champ, le Procureur Général qu'un délit vient d1être commis dans le Palais de l'Assemblée.
+
+## Article 110 bis
+
+Tout membre d'une commission d'enquête qui ne respectera pas les dispositions de l'article 9 de la loi n° 50-10 du 6 janvier 1950 pourra être exclu de la commission par décision de 1'Assemblée, prise sans débat sur le rapport de la commission, après avoir entendu l'intéressé.
+
+L'exclusion prononcéee en application de l'alinéa précédent entraînera pour le Député qui est l'objet d'une telle décision l'incapacité de faire partie, jusqu'à la fin de la législature, de toute commission d'enquête dotée des pouvoirs prévus à l'article 9 de la loi précitée.
 
 # CHAPITRE XX SERVICES ET COMPTABILITÉ DE L'ASSEMBLÉE
 
