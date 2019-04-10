@@ -19,8 +19,12 @@ Pour mettre à jour la branche `[historique](https://github.com/regardscitoyens/
 
     git branch -D historique
     git remote add export git_export
-    git fetch git_export
+    git fetch export
     git checkout export/master
     git branch historique
     git push -f origin historique
 
+Pour mettre à jour une PR basée sur la branche historique:
+
+    git checkout branche-de-la-PR
+    git rebase --onto historique branche-de-la-PR <commit-où-demarre-la-PR>
