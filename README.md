@@ -17,14 +17,24 @@ Ce dépot a pour objectif d'utiliser les données numérisées, avec l'aide du L
 
 Pour mettre à jour la branche `[historique](https://github.com/regardscitoyens/historique_reglements_AN/commits/historique)`:
 
-    git branch -D historique
+    # pour la premiére fois
     git remote add export git_export
+
+    # pour chaque mise à jour
+    ./bin/make_git_repo
     git fetch export
     git checkout export/master
-    git branch historique
-    git push -f origin historique
+    git branch historique-tmp
 
-Pour mettre à jour une PR basée sur la branche historique:
-
+    # pour mettre à jour les PRs
     git checkout branche-de-la-PR
-    git rebase --onto historique branche-de-la-PR <commit-où-demarre-la-PR>
+    git rebase --onto historique-tmp historique
+
+    # et pour finir, renommer la branche de test
+    git branch -D historique
+    git checkout historique-tmp
+    git checkout -b historique
+    git branch -D historique-tmp
+
+    # et pour publier tout cela
+    git push -f origin historique
