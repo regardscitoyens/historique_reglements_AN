@@ -25,6 +25,10 @@ def call_bash(cmd):
     call("bash -c " + shlex.quote(cmd))
 
 
+def get_filename(filepath):
+    return Path(filepath).stem
+
+
 def main(args):
     git_dir = Path(args.dest)
     text_dest = git_dir / "règlement.md"
@@ -38,7 +42,7 @@ def main(args):
 
     versions_path = str(Path(__file__).parent / '..' / 'textes_des_reglements')
     versions = glob.glob(versions_path + '/**/*.md', recursive=True)
-    for filepath in sorted(versions):
+    for filepath in sorted(versions, key=get_filename):
         filename = Path(filepath).stem
         with open(filepath) as f:
             with open(str(text_dest), "w") as dest_f:
