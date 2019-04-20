@@ -4,18 +4,19 @@ Ce dépot a pour objectif d'utiliser les données numérisées, avec l'aide du L
 
 ## Consulter les différentes versions
 
-[Accéder aux différentes versions](textes_des_reglements/)
+- [Accéder aux différentes versions](textes_des_reglements/)
+- [Accéder à ces versions historisées avec Git](https://github.com/regardscitoyens/historique_reglements_AN/commits/historique)
 
 ## Génération du markdown
 
     rm -rf textes_des_reglements/
     bash bin/generate.sh
 
-## Génération de l'historique sous git
+## Génération de l'historique sous Git
 
     ./bin/make_git_repo
 
-Pour mettre à jour la branche `[historique](https://github.com/regardscitoyens/historique_reglements_AN/commits/historique)`:
+Pour mettre à jour la branche *[historique](https://github.com/regardscitoyens/historique_reglements_AN/commits/historique)* de ce projet contenant cet export:
 
     # pour la premiére fois
     git remote add export git_export
